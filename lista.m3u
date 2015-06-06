@@ -241,3 +241,15 @@ rtmp://87.106.219.140/live/myStream_2
 rtmp://87.106.232.7/live/myStream_2
 #EXTINF:-1, 10
 rtmp://87.106.220.67/live/myStream_2
+#EXTINF:-1,CINETOON
+rtmp://50.7.78.138:443/live/live_cinetoon
+#EXTINF:-1,PELIS LATINO
+http://myserverpelis.ddns.net:8080
+#EXTINF:-1,TELEMUNDO NY 
+rtmp://66.55.92.158:1935/app/testups-channel
+#EXTINF:0,MAGAZINE
+rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
+#EXTINF:-1,DISCOVERY
+http://31.220.41.103:80/LiveEdge/DiscoveryenEspanolHD/chunklist_w534126454_b1000000.m3u8?
+#EXTINF:-1,GOLDEN
+http://31.220.40.105:80/LiveEdge/GoldenMPLXLA/chunklist_w1895517821_b1000000.m3u8?token=faef08c5f3c2d06118f08285512340a3
