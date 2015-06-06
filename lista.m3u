@@ -1,102 +1,4 @@
 #EXTM3U
-#EXTINF:0,P-MENTES PELIGROSAS
-https://ia600309.us.archive.org/34/items/b1fb1b3745.360/b1fb1b3745.360.mp4
-#EXTINF:0,P-INTRUSOS
-https://ia600309.us.archive.org/17/items/IntrrStream/INTRRS.mp4
-#EXTINF:0,P-INDESTRUCTIBLES 3
-https://ia600309.us.archive.org/4/items/industructibles/I%C3%91D3TRUC3.mp4
-#EXTINF:0,P-FRANCOTIRADOR
-https://ia600309.us.archive.org/0/items/FRCNTDR/FRCNTDR.mp4
-#EXTINF:0,P-FOCUS
-https://ia600309.us.archive.org/21/items/hemelgelvez4_gmail_FCS/FCS.mp4
-#EXTINF:0,P-RESUCITADOS
-https://ia800309.us.archive.org/21/items/1esucitados./1esucitados..mp4
-#EXTINF:0,P-ROBOCOP
-https://ia601507.us.archive.org/33/items/4obocop./4obocop..mp4
-#EXTINF:0,P-DESTINO JUPITER
-https://ia600309.us.archive.org/17/items/D3T1N0JUT3R/D3T1N0%20JUT3R.mp4
-#EXTINF:0 group-title="Infantil",ALADDIN
-http://www.spruto.tv/get_file/1/38577f19393369cb2c5d785beb3c3ffc/80000/80730/80730.mp4
-
-#EXTINF:0 group-title="Infantil",ALADDIN 2 EL RETORNO DE JAFAR
-http://www.spruto.tv/get_file/5/b66d5c46890169c4100a2d1efdc8c45c/110000/110198/110198.mp4
-
-#EXTINF:0 group-title="Infantil",ALADDIN Y EL REY DE LOS LADRONES
-http://www.spruto.tv/get_file/5/ca110c858858a9f44749dfaac0220c9a/110000/110199/110199.mp4
-
-#EXTINF:0 group-title="Infantil",ALICIA EN EL PAIS DE LAS MARAVILLAS (1951)
-http://www.spruto.tv/get_file/1/6e54e785dcb21b63de42f4928ce68bf5/86000/86137/86137.mp4
-
-#EXTINF:0 group-title="Infantil",ALICIA EN EL PAIS DE LAS MARAVILLAS (2010)
-http://www.spruto.tv/get_file/7/f75b9e1cefffcd3087150b883fac3fc7/76000/76261/76261.mp4
-
-#EXTINF:0 group-title="Infantil",BARBIE SUPER PRINCESA
-http://www.spruto.tv/get_file/2/296ed0c12d8f80128b04d333c08204c8/98000/98420/98420.mp4
-
-#EXTINF:0 group-title="Infantil",ENREDADOS
-http://www.spruto.tv/get_file/1/03259f1f551f0a49262bb7850316fb3f/80000/80737/80737.mp4
-
-#EXTINF:0 group-title="Infantil",FROZEN UNA AVENTURA CONGELADA
-http://www.spruto.tv/get_file/1/bcae57a2defea5dec966b96630b25aee/80000/80731/80731.mp4
-
-#EXTINF:0 group-title="Infantil",LA BELLA Y LA BESTIA
-http://www.spruto.tv/get_file/1/c70f56a357964267dabbc26f0e3ab056/80000/80729/80729.mp4
-
-#EXTINF:0 group-title="Infantil",LA CENICIENTA (1950)
-http://www.spruto.tv/get_file/1/1f40df69b4937859479ea77516275841/80000/80739/80739.mp4
-
-#EXTINF:0 group-title="Infantil",LA CENICIENTA 2 UN SUEÑO HECHO REALIDAD
-http://www.spruto.tv/get_file/5/e385ba2b56ffe07c86d12b21a0ba7075/110000/110193/110193.mp4
-
-#EXTINF:0 group-title="Infantil",LA PRINCESA Y EL SAPO
-http://www.spruto.tv/get_file/1/0ca9aa377fdebc035473d0854dba27bd/80000/80733/80733.mp4
-
-#EXTINF:0 group-title="Infantil",LA SIRENITA
-http://www.spruto.tv/get_file/1/4b064db0eb982aa0bbe454deab684473/80000/80728/80728.mp4
-
-#EXTINF:0 group-title="Infantil",LA SIRENITA 2 REGRESO AL MAR
-http://www.spruto.tv/get_file/5/3285b40f685b8393955c2f6c6c2c3633/110000/110190/110190.mp4
-
-#EXTINF:0 group-title="Infantil",LA SIRENITA LOS COMIENZOS DE ARIEL
-http://www.spruto.tv/get_file/5/a2ce2d450446df3680e88291f5265033/110000/110191/110191.mp4
-
-#EXTINF:0 group-title="Infantil",MULAN
-http://www.spruto.tv/get_file/1/8743a11400fed1059155b246e8c16e80/80000/80735/80735.mp4
-
-#EXTINF:0 group-title="Infantil",MULAN 2
-http://www.spruto.tv/get_file/7/cc0868b3bbd4d8af610469b429a57667/76000/76864/76864.mp4
-
-#EXTINF:0 group-title="Infantil",POCAHONTAS
-http://www.spruto.tv/get_file/1/6cccbcf375881ff2d942fc3383e52cf8/80000/80732/80732.mp4
-
-#EXTINF:0 group-title="Infantil",POCAHONTAS 2
-http://www.spruto.tv/get_file/5/089c5dc4e579784688380d9ce7cbff9a/110000/110200/110200.mp4
-
-#EXTINF:0 group-title="Infantil",VALIENTE
-http://www.spruto.tv/get_file/1/bdbbca9f39a2dc67d1fd3af42a36065b/80000/80734/80734.mp4
-
-#EXTINF:-1,NatGeo Wild HD 720
-http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,NAT GEO WILD
-http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on?monclovacaliente.m3u8
-#EXTINF:-1,Discovery en español
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Discovery en español (Opc.2)
-http://iphone-streaming.ustream.tv/ustreamVideo/17248101/streams/live/playlist.m3u8
-#EXTINF:-1,DISCOVERY (Arg)
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,HISTORY
-http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,Mexico Travel Channel
-http://cdns840stu1010.multistream.net/mtchlive/amlst:live/chunklist_b900000.m3u8
-#EXTINF:-1,Telemundo USA
-rtmp://podi.hopper.pw:443/live/live_telemundo34
-#EXTINF:-1,Hogar TV Colombia
-http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
-#EXTINF:-1,Univision USA
-http://184.154.28.210:1935/univision_attl/univision_attl/playlist.m3u8
-#EXTINF:-1,TVEO Miami USA
-http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1,Azteca 7 Monterrey México
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1,El Trece México
@@ -131,7 +33,6 @@ rtmp://podi.hopper.pw:443/live/live_chespirito_mania
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
 #EXTINF:-1,MILENIO
 http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
-
 #EXTINF:-1,CANAL10 Cancun
 http://www.promovision.mx:1935/live/tvlive2/playlist.m3u8?
 #EXTINF:-1,TV 4 Guanajuato
@@ -210,22 +111,6 @@ rtmp://podi.hopper.pw:443/live/live_unimas12
 http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
 #EXTINF:-1,Naranja Tv
 http://ciez45.live.cloud.influxis.com/ciez45/NaranjaTV/chunklist_w1563927943.m3u8?
-#EXTINF:-1,MEGA KIDS
-rtmp://podi.hopper.pw:443/live/live_mega_kids
-#EXTINF:-1,MEGA SIMPSON
-rtmp://podi.hopper.pw:443/live/live_mega_simpson
-#EXTINF:-1,Disney XD
-http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1,Paka Paka
-http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
-#EXTINF:-1,Anime TV
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8#MegaIPTVArgentina
-#EXTINF:-,Animatoon TV
-rtmp://podi.hopper.pw:443/live/live_animetoontv
-#EXTINF:-1,MegaAnimé TV
-rtmp://podi.hopper.pw:443/live/live_mega_animeshd
-#EXTINF:-1,KW TV México
-http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi
 #EXTINF:-1,Canal 28 Chihuahua México
 http://web.xnet.mx:1935/xnetn/canal282/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1,Quince TV Zacatecas México
@@ -248,6 +133,44 @@ http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3
 rtmp://podi.hopper.pw:443/live/live_alx_nxtv
 #EXTINF:-1,Megavision Canal 21 El Salvador
 http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1,NatGeo Wild HD 720
+http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,NAT GEO WILD
+http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on?monclovacaliente.m3u8
+#EXTINF:-1,Discovery en español
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Discovery en español (Opc.2)
+http://iphone-streaming.ustream.tv/ustreamVideo/17248101/streams/live/playlist.m3u8
+#EXTINF:-1,DISCOVERY (Arg)
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,HISTORY
+http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,Mexico Travel Channel
+http://cdns840stu1010.multistream.net/mtchlive/amlst:live/chunklist_b900000.m3u8
+#EXTINF:-1,Telemundo USA
+rtmp://podi.hopper.pw:443/live/live_telemundo34
+#EXTINF:-1,Hogar TV Colombia
+http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
+#EXTINF:-1,Univision USA
+http://184.154.28.210:1935/univision_attl/univision_attl/playlist.m3u8
+#EXTINF:-1,TVEO Miami USA
+http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1,MEGA KIDS
+rtmp://podi.hopper.pw:443/live/live_mega_kids
+#EXTINF:-1,MEGA SIMPSON
+rtmp://podi.hopper.pw:443/live/live_mega_simpson
+#EXTINF:-1,Disney XD
+http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1,Paka Paka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:-1,Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8#MegaIPTVArgentina
+#EXTINF:-,Animatoon TV
+rtmp://podi.hopper.pw:443/live/live_animetoontv
+#EXTINF:-1,MegaAnimé TV
+rtmp://podi.hopper.pw:443/live/live_mega_animeshd
+#EXTINF:-1,KW TV México
+http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi
 #EXTINF:-1,SPORTSNET
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 #EXTINF:-1,TDN
@@ -538,3 +461,78 @@ http://buecrplb01.cienradios.com.ar/Clasica_32000.aac
 http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Clasica Meditacion
 http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
+#EXTINF:0,P-MENTES PELIGROSAS
+https://ia600309.us.archive.org/34/items/b1fb1b3745.360/b1fb1b3745.360.mp4
+#EXTINF:0,P-INTRUSOS
+https://ia600309.us.archive.org/17/items/IntrrStream/INTRRS.mp4
+#EXTINF:0,P-INDESTRUCTIBLES 3
+https://ia600309.us.archive.org/4/items/industructibles/I%C3%91D3TRUC3.mp4
+#EXTINF:0,P-FRANCOTIRADOR
+https://ia600309.us.archive.org/0/items/FRCNTDR/FRCNTDR.mp4
+#EXTINF:0,P-FOCUS
+https://ia600309.us.archive.org/21/items/hemelgelvez4_gmail_FCS/FCS.mp4
+#EXTINF:0,P-RESUCITADOS
+https://ia800309.us.archive.org/21/items/1esucitados./1esucitados..mp4
+#EXTINF:0,P-ROBOCOP
+https://ia601507.us.archive.org/33/items/4obocop./4obocop..mp4
+#EXTINF:0,P-DESTINO JUPITER
+https://ia600309.us.archive.org/17/items/D3T1N0JUT3R/D3T1N0%20JUT3R.mp4
+#EXTINF:0 group-title="Infantil",ALADDIN
+http://www.spruto.tv/get_file/1/38577f19393369cb2c5d785beb3c3ffc/80000/80730/80730.mp4
+
+#EXTINF:0 group-title="Infantil",ALADDIN 2 EL RETORNO DE JAFAR
+http://www.spruto.tv/get_file/5/b66d5c46890169c4100a2d1efdc8c45c/110000/110198/110198.mp4
+
+#EXTINF:0 group-title="Infantil",ALADDIN Y EL REY DE LOS LADRONES
+http://www.spruto.tv/get_file/5/ca110c858858a9f44749dfaac0220c9a/110000/110199/110199.mp4
+
+#EXTINF:0 group-title="Infantil",ALICIA EN EL PAIS DE LAS MARAVILLAS (1951)
+http://www.spruto.tv/get_file/1/6e54e785dcb21b63de42f4928ce68bf5/86000/86137/86137.mp4
+
+#EXTINF:0 group-title="Infantil",ALICIA EN EL PAIS DE LAS MARAVILLAS (2010)
+http://www.spruto.tv/get_file/7/f75b9e1cefffcd3087150b883fac3fc7/76000/76261/76261.mp4
+
+#EXTINF:0 group-title="Infantil",BARBIE SUPER PRINCESA
+http://www.spruto.tv/get_file/2/296ed0c12d8f80128b04d333c08204c8/98000/98420/98420.mp4
+
+#EXTINF:0 group-title="Infantil",ENREDADOS
+http://www.spruto.tv/get_file/1/03259f1f551f0a49262bb7850316fb3f/80000/80737/80737.mp4
+
+#EXTINF:0 group-title="Infantil",FROZEN UNA AVENTURA CONGELADA
+http://www.spruto.tv/get_file/1/bcae57a2defea5dec966b96630b25aee/80000/80731/80731.mp4
+
+#EXTINF:0 group-title="Infantil",LA BELLA Y LA BESTIA
+http://www.spruto.tv/get_file/1/c70f56a357964267dabbc26f0e3ab056/80000/80729/80729.mp4
+
+#EXTINF:0 group-title="Infantil",LA CENICIENTA (1950)
+http://www.spruto.tv/get_file/1/1f40df69b4937859479ea77516275841/80000/80739/80739.mp4
+
+#EXTINF:0 group-title="Infantil",LA CENICIENTA 2 UN SUEÑO HECHO REALIDAD
+http://www.spruto.tv/get_file/5/e385ba2b56ffe07c86d12b21a0ba7075/110000/110193/110193.mp4
+
+#EXTINF:0 group-title="Infantil",LA PRINCESA Y EL SAPO
+http://www.spruto.tv/get_file/1/0ca9aa377fdebc035473d0854dba27bd/80000/80733/80733.mp4
+
+#EXTINF:0 group-title="Infantil",LA SIRENITA
+http://www.spruto.tv/get_file/1/4b064db0eb982aa0bbe454deab684473/80000/80728/80728.mp4
+
+#EXTINF:0 group-title="Infantil",LA SIRENITA 2 REGRESO AL MAR
+http://www.spruto.tv/get_file/5/3285b40f685b8393955c2f6c6c2c3633/110000/110190/110190.mp4
+
+#EXTINF:0 group-title="Infantil",LA SIRENITA LOS COMIENZOS DE ARIEL
+http://www.spruto.tv/get_file/5/a2ce2d450446df3680e88291f5265033/110000/110191/110191.mp4
+
+#EXTINF:0 group-title="Infantil",MULAN
+http://www.spruto.tv/get_file/1/8743a11400fed1059155b246e8c16e80/80000/80735/80735.mp4
+
+#EXTINF:0 group-title="Infantil",MULAN 2
+http://www.spruto.tv/get_file/7/cc0868b3bbd4d8af610469b429a57667/76000/76864/76864.mp4
+
+#EXTINF:0 group-title="Infantil",POCAHONTAS
+http://www.spruto.tv/get_file/1/6cccbcf375881ff2d942fc3383e52cf8/80000/80732/80732.mp4
+
+#EXTINF:0 group-title="Infantil",POCAHONTAS 2
+http://www.spruto.tv/get_file/5/089c5dc4e579784688380d9ce7cbff9a/110000/110200/110200.mp4
+
+#EXTINF:0 group-title="Infantil",VALIENTE
+http://www.spruto.tv/get_file/1/bdbbca9f39a2dc67d1fd3af42a36065b/80000/80734/80734.mp4
