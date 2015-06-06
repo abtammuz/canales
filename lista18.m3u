@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,PRUEBA
-http://live.mvdigital.net:1935/live01/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,Azteca 7 Monterrey México
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1,El Trece México
