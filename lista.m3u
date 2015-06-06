@@ -239,13 +239,3 @@ rtmp://87.106.219.140/live/myStream_2
 rtmp://87.106.232.7/live/myStream_2
 #EXTINF:-1, 10
 rtmp://87.106.220.67/live/myStream_2
-#EXTINF:-1, Planeta Futbol Español
-rtmp://$OPT:rtmp-raw=rtmp://89.248.169.48/iguide playpath=rpoqefzxodxbouw?49rg14pb24te0a7?qc816ft6nfezu8r?uziiaw1tdy9irg4?0qfh2champz38a7?zvfojee7twj0mqs?rpoqefzxodxbouw?ydv1pqqjiupjmg?gaxc30yqb6euez3?ewpegl393qjjqoq?p7wksud7foc4cqd swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-1 tvg-logo-id="HBO2.png"tvg-logo="HBO2.png",HBO 2
-http://192.99.4.70/hls/HBO2.m3u8
-#EXTINF:-1 tvg-logo-id="HBOS.png"tvg-logo="HBOS.png",HBO SIGNATURE
-http://192.99.4.70/hls/hbo_signature.m3u8
-#EXTINF:-1 tvg-logo-id="HBOFM.png"tvg-logo="HBOFM.png",HBO FAMILY
-http://192.99.4.70/hls/HBO_FAMILY.m3u8
-#EXTINF:-1 tvg-logo-id="HBOPS.png"tvg-logo="HBOPS.png",HBO PLUS
-http://192.99.4.70/hls/HBO_PLUS.m3u8
