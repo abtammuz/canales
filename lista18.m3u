@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1,ESPN
-http://live.mvdigital.net:1935/live13/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,Mundo Fox
-http://66.55.92.79:1935/app/ana69s-channel/ruben.m3u8?
+#EXTINF:-1,PRUEBA
+http://live.mvdigital.net:1935/live01/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,Azteca 7 Monterrey México
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1,El Trece México
@@ -151,6 +149,8 @@ http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
 http://cdns840stu1010.multistream.net/mtchlive/amlst:live/chunklist_b900000.m3u8
 #EXTINF:-1,Telemundo USA
 rtmp://podi.hopper.pw:443/live/live_telemundo34
+#EXTINF:-1,MUNDO FOX
+http://66.55.92.79:1935/app/ana69s-channel/ruben.m3u8?
 #EXTINF:-1,Hogar TV Colombia
 http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
 #EXTINF:-1,Univision USA
