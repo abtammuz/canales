@@ -1,0 +1,1185 @@
+#EXTM3U
+#EXTINF:-1,AZTECA NOTICIAS
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1,AZTECA 13
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:-1,TVMas
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:-1,MEXIQUENSE
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+#EXTINF:-1,MOCHO TV
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+#EXTINF:-1,GALATV Cancun
+http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8?
+#EXTINF:-1,CHESPIRITO
+rtmp://podi.hopper.pw:443/live/live_chespirito_mania
+#EXTINF:-1,ONCE TV
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:-1,MILENIO
+http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
+#EXTINF:-1,CANAL10 Cancun
+http://www.promovision.mx:1935/live/tvlive2/playlist.m3u8?
+#EXTINF:0,TV DF
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:-1,CANAL44 Chihuahua
+http://odna.octoshape.net/p9b7g9i7/cds/smil:canal44/playlist.m3u8
+#EXTINF:-1,Telemadrid
+http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8
+#EXTINF:-1,TELEMAR Campeche
+http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
+#EXTINF:-1,INFO7 Monterrey
+http://38.104.228.230:1938:1935/info7/info7_512/playlist.m3u8?
+#EXTINF:-1,CANAL53 Mexico
+mms://streaming.uanl.mx/canal53bandaancha/
+#EXTINF:-1,EFECTO NOTICIAS
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,UNO TV
+http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8?
+#EXTINF:-1,EURONEWS
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+#EXTINF:-1,AMERICA TV
+rtmp://podi.hopper.pw:443/live/live_elyamato
+#EXTINF:-1,AMERICA TV HD (Per) 
+http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
+#EXTINF:-1, MULTIMEDIOS
+http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=ChelTV_m3u8
+#EXTINF:-1,DW
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/hasbahca.m3u8
+#EXTINF:-1,CDN
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+#EXTINF:4.004,TVN
+http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+#EXTINF:-1,TVN
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1,Cantrece
+rtmp://stream01.cyberfuel.com/SinartCanal13/livestream
+#EXTINF:-1, CBS
+http://brightcove03-f.akamaihd.net/iptv2_1_900@50919?videoId=1370792317001&lineUpId=&pubId=734546207001&playerId=2210144031001&affiliateId=&v=3.4.0&fp=WIN%2016,0,0,305&r=QKDUB&g=VYPYWHJMHSEH
+#EXTINF:-1,OCHO TV (Mex)
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+#EXTINF:-1,UNIMAS
+rtmp://podi.hopper.pw:443/live/live_unimas12
+#EXTINF:-1,MEGA HD (Chi)
+http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
+#EXTINF:-1,Naranja Tv
+http://ciez45.live.cloud.influxis.com/ciez45/NaranjaTV/chunklist_w1563927943.m3u8?
+#EXTINF:-1,MEGA KIDS
+rtmp://podi.hopper.pw:443/live/live_mega_kids
+#EXTINF:-1,MEGA SIMPSON
+rtmp://podi.hopper.pw:443/live/live_mega_simpson
+#EXTINF:-1,Victorias Secret Angels TV 
+http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
+#EXTINF:-1,MIJAS TV
+rtmp://teledifusion.tv/mijastv/mijastvlive
+#EXTINF:-1,DISCOVERY (Arg)
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,UNIVERSAL MOVIES
+rtmp://podi.hopper.pw:443/live/live_universal_movies
+#EXTINF:-1, PELICULAS LATINO
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, SPORTSNET
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF:0,PAC-12Net.(Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8?
+#EXTINF:0,PAC-12Net.(Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8?
+#EXTINF:0,PAC-12Net.(Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8?
+#EXTINF:0,PAC-12Net.(Moutain)
+http://xrxs.net/video/live-p12moun-4728.m3u8?
+#EXTINF:0,PAC-12Net.(Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8?
+#EXTINF:0,PAC-12Net.(Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8?
+#EXTINF:-1,USA-BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Washington)
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:-1,Antena3 Sports
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,Eurosport1 ENG
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1, Eurosport1 France
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:-1,Sevilla TV
+http://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc/stml.m3u8
+#EXTINF:4.004,Sevilla fc
+rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
+#EXTINF:1,MUSIC
+http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:-1,ForMusicWeb
+rtmp://wowza1.top-ix.org/quartaretetv1/formusicweb
+#EXTINF:-1,EXA TV
+http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8
+#EXTINF:1,QUIEROMUSICA
+mms://200.42.92.6:1755/qmusica
+#EXTINF:-1,IBIZA ON TV
+rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
+#EXTINF:-1,MUSIC VEVO1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,music VEVO HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+#EXTINF:-1,MUSIC Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,MUSIC Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1,KISS TV MUSIC
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1,FIRTS MusicHD
+rtmp://109.239.142.62/live/livestream3
+#EXTINF:-1,ROUGE TV
+rtmp://rtmp.infomaniak.ch/livecast/rougetv
+#EXTINF:-1,VIRGIN TV
+http://wow01.105.net/live/virgin1/.m3u8
+#EXTINF:-1,DREAM
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0,FASHION TV
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+#EXTINF:-1,RADIO 105 TV
+http://serv07.vintera.tv:1935/restream/105tv.stream/playlist.m3u8
+#EXTINF:-1,RADIO MONTECARLO
+http://serv07.vintera.tv:1935/restream/rmc.stream/playlist.m3u8
+#EXTINF:-1,TELEFE
+rtmp://podi.hopper.pw:443/live/live_beto_3
+#EXTINF:-1,IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+#EXTINF:-1, CBS
+http://brightcove03-f.akamaihd.net/iptv2_1_900@50919?videoId=1370792317001&lineUpId=&pubId=734546207001&playerId=2210144031001&affiliateId=&v=3.4.0&fp=WIN%2016,0,0,305&r=QKDUB&g=VYPYWHJMHSEH
+#EXTINF:-1,TVN (Chi)
+http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+#EXTINF:-1,ANTENA3 HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,LA SEXTA HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,TELESISTEMA 11 (Dom)
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:-1,TELEFUTURA 23 (Dom)
+http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8
+#EXTINF:-1,EXTREMADURA TV (Esp)
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1,ANDALUCIA TV (Esp)
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1,TELECANAL (Chi)
+http://wow2.cl.digitalproserver.com/tcsc/tcscvivo/tcsc.smil/chunklist_w1420799444_b1248000.m3u8
+#EXTINF:-1,MUSA VISION (Dom)
+rtmp://joelzaiter1.srfms.com:1963/live/musav.sdp
+#EXTINF:4.004,TV UNI
+mms://streaming.uanl.mx/canal53bandaancha/
+#EXTINF:4.004,C5N 
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:4.004,Canal 5 tigre-tv
+http://iphone-streaming.ustream.tv/ustreamVideo/11068260/streams/live/playlist.m3u8
+#EXTINF:4.004,Canal 12
+http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
+#EXTINF:4.004,Canal 13
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+#EXTINF:-1,13TV
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTINF:4.004,Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:4.004,CANAL 26
+rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360
+#EXTINF:4.004,Tv Chile
+http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+#EXTINF:-1,TV Chile 
+http://edge-12-cl.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/master.m3u8
+#EXTINF:4.004,BBTV canal 9
+http://wow2.cl.digitalproserver.com/c9//c9.smil/hasbahca.m3u8
+#EXTINF:4.004,La Red 
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u8
+#EXTINF:4.004,Mega HD
+http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
+#EXTINF:4.004,Valle Television 2
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+#EXTINF:4.004,Hogar util
+http://brightcove03-f.akamaihd.net/HOGARUTIL_1_1100@117573?videoId=2518851062001&lineUpId=&pubId=2385340627001&playerId=2418571368001&affiliateId=&v=3.1.0&fp=WIN%2011,9,904.004,117&r=JRBLZ&g=LBXIUFRGSVGB
+#EXTINF:4.004,Aragon TV Sat
+http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8
+#EXTINF:4.004,24Horas
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,24HORAS
+http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
+#EXTINF:-1,324NOTICIES
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8
+#EXTINF:-1,Spain:IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+#EXTINF:-1,TV Canarias
+http://streamrtvcdrb.mad.idec.net/rtvcnet/rtvcnet.drb.stream/playlist.m3u8
+#EXTINF:-1, TELEAYUDA
+rtmp://87.106.244.74/live/myStream_2
+#EXTINF:-1, TRAVEL TV
+rtmp://87.106.219.140/live/myStream_2
+#EXTINF:-1, NAZARENO.TV
+rtmp://87.106.232.7/live/myStream_2
+#EXTINF:-1, 10
+rtmp://87.106.220.67/live/myStream_2
+#EXTINF:-1,HustlerTV
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:-1,Adult1
+http://wowza1.videos.movile.com:1935/live/adulto_1.smil/livestream.m3u8
+#EXTINF:-1,adult2
+http://wowza1.videos.movile.com:1935/live/adultopremium_1.smil/livestream.m3u8
+#EXTINF:-1,adult3
+http://wowza1.videos.movile.com:8080/live/adulto_1.smil/livestream.m3u8
+#EXTINF:-1,X Jazmintv
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+#EXTINF:-1,Xxx
+http://188.165.220.116:8081/live2/5/playlist.m3u8
+#EXTINF:-1,X1
+http://188.165.220.116:8081/live/30/playlist.m3u8
+#EXTINF:-1,Private
+http://178.33.126.213:1935/leved/privateCom/.m3u8
+#EXTINF:-1,X Satisfaction HD
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
+#EXTINF:-1,X Frenchlover
+http://95.170.186.178:7781/udp/239.255.4.4:1234
+#EXTINF:-1,X Passie
+http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
+#EXTINF:-1,X Wepa
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
+#EXTINF:-1,X Wepa2
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/media-b1100000_2400.m3u8
+#EXTINF:-1,X Asia 1
+http://59.120.43.181:8081
+#EXTINF:-1,X Asia 2
+http://59.120.43.181:8082
+#EXTINF:-1,X Asia 3
+http://59.120.43.181:8083
+#EXTINF:-1,X Asia 4
+http://59.120.43.181:8084
+#EXTINF:-1,X Olala
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+#EXTINF:-1,X Russian Night
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+#EXTINF:0,X ADult TV
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+#EXTINF:-1,X Blue Hustler
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:0,X PLAYBOYTV
+http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
+#EXTINF:-1,X PlayboyTV
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
+#EXTINF:-1,Playboy TV
+http://yacs88.ddns.net:8001/1:0:1:D15C:90C:2:11A0000:0:0:0:
+#EXTINF:-1,XXL
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
+#EXTINF:-1,Sex +18
+mmsh://tv.webmisto.cz:7000
+#EXTINF:-1,Babe_XXX
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+#EXTINF:-1,X Babestation
+http://46.105.116.159:1935/cellcast/encoder22/.m3u8
+#EXTINF:-1,X Babestation Xtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+#EXTINF:-1,X Babestation Blue
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+#EXTINF:-1,X Babestation Live
+http://178.33.126.213:1935/leved/livesexlatinas/.m3u8
+#EXTINF:-1,X Babestation Unleashed2
+http://178.33.126.213:1935/iptv_cellcast_24/livestream_two2/.m3u8
+#EXTINF:-1,X BABES SPORTING
+http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
+#EXTINF:-1,X HOT SHOTS
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+#EXTINF:-1,X Video1
+http://zazax1.ru/videos/baz55.flv
+#EXTINF:-1,X Video2
+http://zazax1.ru/videos/baz4.flv
+#EXTINF:-1,X Video3
+http://zazax1.ru/videos/baz57.flv
+#EXTINF:-1,X Video4
+http://zazax1.ru/videos/muz.flv
+#EXTINF:-1,X Video5
+http://zazax1.ru/videos/baz66.flv
+#EXTINF:-1,X Video6
+http://zazax1.ru/video/lesr.flv
+#EXTINF:-1,X Video7
+http://zazax1.ru/videos/baz65.flv
+#EXTINF:-1,X Video8
+http://zazax1.ru/video/nemnf.flv
+#EXTINF:-1,X Video9
+http://zazax1.ru/videos/011.flv
+#EXTINF:-1,X Video10
+http://zazax1.ru/videos/baz64.flv
+#EXTINF:-1,X Video11
+http://zazax1.ru/video/muz10.flv
+#EXTINF:-1,X Video12
+http://zazax1.ru/videos/muz1.flv
+#EXTINF:-1,X Video13
+http://zazax1.ru/videos/muz3.flv
+#EXTINF:-1,X Video14
+http://zazax1.ru/video/provmc.flv
+#EXTINF:-1,X Video15
+http://zazax1.ru/video/muz3.flv
+#EXTINF:-1,X Video16
+http://zazax1.ru/video/basstr.flv
+#EXTINF:-1,X Video17
+http://zazax1.ru/video/barto.mp4
+#EXTINF:-1,X Video18
+http://zazax1.ru/video/mzclip.mp4
+#EXTINF:-1,X Video19
+http://zazax1.ru/video/masterlatex.mp4
+#EXTINF:-1,X Video20
+http://zazax1.ru/video/Money%20Boy-Stripclub.flv
+#EXTINF:-1,X Video21
+http://zazax1.ru/video/Linkin%20Park%20Uncensored.mp4
+#EXTINF:-1,X Video22
+http://zazax1.ru/video/Junior%20Jack%20-%20Stupidisco.mp4
+#EXTINF:-1,X Video23
+http://zazax1.ru/video/Flawliss%20-%20Ms.%20Apple%20Bottom.flv
+#EXTINF:-1,X Video24
+http://zazax1.ru/video/Fig%20Dish%20-%20When%20shirts%20get%20tight.mp4
+#EXTINF:-1, 5 Vezes Mais Sexo - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/5VezesMaisSexo/Low/5VezesMaisSexo_cena1.mp4
+#EXTINF:-1, 5 Vezes Mais Sexo - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/5VezesMaisSexo/Low/5VezesMaisSexo_cena2.mp4
+#EXTINF:-1, 5 Vezes Mais Sexo - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/5VezesMaisSexo/Low/5VezesMaisSexo_cena3.mp4
+#EXTINF:-1, 5 Vezes Mais Sexo - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/5VezesMaisSexo/Low/5VezesMaisSexo_cena4.mp4
+#EXTINF:-1, 5 Vezes Mais Sexo - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/5VezesMaisSexo/Low/5VezesMaisSexo_cena5.mp4
+#EXTINF:-1, A Gata Endoidou - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AGataEndoidou/Low/AGataEndoidou_cena1.mp4
+#EXTINF:-1, A Gata Endoidou - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AGataEndoidou/Low/AGataEndoidou_cena2.mp4
+#EXTINF:-1, A Gata Endoidou - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AGataEndoidou/Low/AGataEndoidou_cena3.mp4
+#EXTINF:-1, A Gata Endoidou - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AGataEndoidou/Low/AGataEndoidou_cena4.mp4
+#EXTINF:-1, A Gata Endoidou - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AGataEndoidou/Low/AGataEndoidou_cena5.mp4
+#EXTINF:-1, Academia das Maravilhas - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AcademiaDasMaravilhas/Low/AcademiaDasMaravilhas_cena1.mp4
+#EXTINF:-1, Academia das Maravilhas - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AcademiaDasMaravilhas/Low/AcademiaDasMaravilhas_cena2.mp4
+#EXTINF:-1, Academia das Maravilhas - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AcademiaDasMaravilhas/Low/AcademiaDasMaravilhas_cena3.mp4
+#EXTINF:-1, Academia das Maravilhas - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AcademiaDasMaravilhas/Low/AcademiaDasMaravilhas_cena4.mp4
+#EXTINF:-1, Academia das Maravilhas - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AcademiaDasMaravilhas/Low/AcademiaDasMaravilhas_cena5.mp4
+#EXTINF:-1, Agora eu Fiquei Doce - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AgoraEuFiqueiDoce/Low/AgoraEuFiqueiDoce_cena1.mp4
+#EXTINF:-1, Agora eu Fiquei Doce - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AgoraEuFiqueiDoce/Low/AgoraEuFiqueiDoce_cena2.mp4
+#EXTINF:-1, Agora eu Fiquei Doce - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AgoraEuFiqueiDoce/Low/AgoraEuFiqueiDoce_cena3.mp4
+#EXTINF:-1, Agora eu Fiquei Doce - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AgoraEuFiqueiDoce/Low/AgoraEuFiqueiDoce_cena4.mp4
+#EXTINF:-1, Agora eu Fiquei Doce - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AgoraEuFiqueiDoce/Low/AgoraEuFiqueiDoce_cena5.mp4
+#EXTINF:-1, Agora eu Fiquei Doce - Cena 6
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AgoraEuFiqueiDoce/Low/AgoraEuFiqueiDoce_cena6.mp4
+#EXTINF:-1, Amigas da Minha Irmã - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AmigasDaMinhaIrma/Low/AmigasDaMinhaIrma_cena1.mp4
+#EXTINF:-1, Amigas da Minha Irmã - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AmigasDaMinhaIrma/Low/AmigasDaMinhaIrma_cena2.mp4
+#EXTINF:-1, Amigas da Minha Irmã - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AmigasDaMinhaIrma/Low/AmigasDaMinhaIrma_cena3.mp4
+#EXTINF:-1, Amigas da Minha Irmã - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AmigasDaMinhaIrma/Low/AmigasDaMinhaIrma_cena4.mp4
+#EXTINF:-1, Assim Você me Mata - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AssimVoceMeMata/Low/AssimVoceMeMata_cena1.mp4
+#EXTINF:-1, Assim Você me Mata - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AssimVoceMeMata/Low/AssimVoceMeMata_cena2.mp4
+#EXTINF:-1, Assim Você me Mata - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AssimVoceMeMata/Low/AssimVoceMeMata_cena3.mp4
+#EXTINF:-1, Assim Você me Mata - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/AssimVoceMeMata/Low/AssimVoceMeMata_cena4.mp4
+#EXTINF:-1, Babando de Tesão - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/BabandoDeTesao/Low/BabandoDeTesao_cena1.mp4
+#EXTINF:-1, Babando de Tesão - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/BabandoDeTesao/Low/BabandoDeTesao_cena2.mp4
+#EXTINF:-1, Babando de Tesão - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/BabandoDeTesao/Low/BabandoDeTesao_cena3.mp4
+#EXTINF:-1, Babando de Tesão - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/BabandoDeTesao/Low/BabandoDeTesao_cena4.mp4
+#EXTINF:-1, Best New Star - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/BestNewStarlets2013/Low/BestNewStarlets2013_cena1.mp4
+#EXTINF:-1, Best New Star - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/BestNewStarlets2013/Low/BestNewStarlets2013_cena2.mp4
+#EXTINF:-1, Best New Star - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/BestNewStarlets2013/Low/BestNewStarlets2013_cena3.mp4
+#EXTINF:-1, Best New Star - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/BestNewStarlets2013/Low/BestNewStarlets2013_cena4.mp4
+#EXTINF:-1, Best New Star - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/BestNewStarlets2013/Low/BestNewStarlets2013_cena5.mp4
+#EXTINF:-1, Cara de Santa - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/CaraDeSanta/Low/CaraDeSanta_cena1.mp4
+#EXTINF:-1, Cara de Santa - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/CaraDeSanta/Low/CaraDeSanta_cena2.mp4
+#EXTINF:-1, Cara de Santa - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/CaraDeSanta/Low/CaraDeSanta_cena3.mp4
+#EXTINF:-1, Cara de Santa - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/CaraDeSanta/Low/CaraDeSanta_cena4.mp4
+#EXTINF:-1, Carinho das Índias - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/CarinhoDasIndias/Low/CarinhoDasIndias_cena1.mp4
+#EXTINF:-1, Carinho das Índias - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/CarinhoDasIndias/Low/CarinhoDasIndias_cena2.mp4
+#EXTINF:-1, Carinho das Índias - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/CarinhoDasIndias/Low/CarinhoDasIndias_cena3.mp4
+#EXTINF:-1, Carinho das Índias - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/CarinhoDasIndias/Low/CarinhoDasIndias_cena4.mp4
+#EXTINF:-1, Colegiais 2 - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Colegiais2/Low/Colegiais2_cena1.mp4
+#EXTINF:-1, Colegiais 2 - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Colegiais2/Low/Colegiais2_cena2.mp4
+#EXTINF:-1, Colegiais 2 - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Colegiais2/Low/Colegiais2_cena3.mp4
+#EXTINF:-1, Colegiais 2 - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Colegiais2/Low/Colegiais2_cena4.mp4
+#EXTINF:-1, Colegiais 2 - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Colegiais2/Low/Colegiais2_cena5.mp4
+#EXTINF:-1, Delicias Molhadas - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DeliciasMolhadas/Low/DeliciasMolhadas_cena1.mp4
+#EXTINF:-1, Delicias Molhadas - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DeliciasMolhadas/Low/DeliciasMolhadas_cena2.mp4
+#EXTINF:-1, Delicias Molhadas - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DeliciasMolhadas/Low/DeliciasMolhadas_cena3.mp4
+#EXTINF:-1, Delicias Molhadas - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DeliciasMolhadas/Low/DeliciasMolhadas_cena4.mp4
+#EXTINF:-1, Delicias Molhadas - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DeliciasMolhadas/Low/DeliciasMolhadas_cena5.mp4
+#EXTINF:-1, Derretendo de Tesão - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DerretendoDeTesao/Low/DerretendoDeTesao_cena1.mp4
+#EXTINF:-1, Derretendo de Tesão - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DerretendoDeTesao/Low/DerretendoDeTesao_cena2.mp4
+#EXTINF:-1, Derretendo de Tesão - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DerretendoDeTesao/Low/DerretendoDeTesao_cena3.mp4
+#EXTINF:-1, Derretendo de Tesão - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DerretendoDeTesao/Low/DerretendoDeTesao_cena4.mp4
+#EXTINF:-1, Derretendo de Tesão - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DerretendoDeTesao/Low/DerretendoDeTesao_cena5.mp4
+#EXTINF:-1, Derretendo de Tesão 2 - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DerretendoDeTesao2/Low/DerretendoDeTesao2_cena1.mp4
+#EXTINF:-1, Derretendo de Tesão 2 - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DerretendoDeTesao2/Low/DerretendoDeTesao2_cena2.mp4
+#EXTINF:-1, Derretendo de Tesão 2 - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DerretendoDeTesao2/Low/DerretendoDeTesao2_cena3.mp4
+#EXTINF:-1, Derretendo de Tesão 2 - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DerretendoDeTesao2/Low/DerretendoDeTesao2_cena4.mp4
+#EXTINF:-1, Derretendo de Tesão 2 - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/DerretendoDeTesao2/Low/DerretendoDeTesao2_cena5.mp4
+#EXTINF:-1, Entre Bolas e Tacos - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/EntreBolasETacos/Low/EntreBolasETacos_cena1.mp4
+#EXTINF:-1, Entre Bolas e Tacos - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/EntreBolasETacos/Low/EntreBolasETacos_cena2.mp4
+#EXTINF:-1, Entre Bolas e Tacos - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/EntreBolasETacos/Low/EntreBolasETacos_cena3.mp4
+#EXTINF:-1, Entre Bolas e Tacos - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/EntreBolasETacos/Low/EntreBolasETacos_cena4.mp4
+#EXTINF:-1, Entre Bolas e Tacos - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/EntreBolasETacos/Low/EntreBolasETacos_cena5.mp4
+
+#EXTINF:-1, Eu Quero Tchu Eu Quero Dar - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/EuQueroTchuEuQueroDar/Low/EuQueroTchuEuQueroDar_cena1.mp4
+
+#EXTINF:-1, Eu Quero Tchu Eu Quero Dar - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/EuQueroTchuEuQueroDar/Low/EuQueroTchuEuQueroDar_cena2.mp4
+
+#EXTINF:-1, Eu Quero Tchu Eu Quero Dar - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/EuQueroTchuEuQueroDar/Low/EuQueroTchuEuQueroDar_cena3.mp4
+
+#EXTINF:-1, Eu Quero Tchu Eu Quero Dar - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/EuQueroTchuEuQueroDar/Low/EuQueroTchuEuQueroDar_cena4.mp4
+
+#EXTINF:-1, Garota Exportação - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/GarotaExportacao/Low/GarotaExportacao_cena1.mp4
+
+#EXTINF:-1, Garota Exportação - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/GarotaExportacao/Low/GarotaExportacao_cena2.mp4
+
+#EXTINF:-1, Garota Exportação - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/GarotaExportacao/Low/GarotaExportacao_cena3.mp4
+
+#EXTINF:-1, Garota Exportação - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/GarotaExportacao/Low/GarotaExportacao_cena4.mp4
+
+#EXTINF:-1, Garotas da Máfia - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/GarotasDaMafia/Low/GarotasDaMafia_cena1.mp4
+
+#EXTINF:-1, Garotas da Máfia - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/GarotasDaMafia/Low/GarotasDaMafia_cena2.mp4
+
+#EXTINF:-1, Garotas da Máfia - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/GarotasDaMafia/Low/GarotasDaMafia_cena3.mp4
+
+#EXTINF:-1, Garotas da Máfia - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/GarotasDaMafia/Low/GarotasDaMafia_cena4.mp4
+
+#EXTINF:-1, Garotas da Máfia - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/GarotasDaMafia/Low/GarotasDaMafia_cena5.mp4
+
+#EXTINF:-1, Gostosas Depois dos 40 - Cena 1 
+http://cdn2.brasileirinhas.com.br/Filmes_HD/GostosasDepoisDos40/Low/GostosasDepoisDos40_cena1.mp4
+
+#EXTINF:-1, Gostosas Depois dos 40 - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/GostosasDepoisDos40/Low/GostosasDepoisDos40_cena2.mp4
+
+#EXTINF:-1, Gostosas Depois dos 40 - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/GostosasDepoisDos40/Low/GostosasDepoisDos40_cena3.mp4
+
+#EXTINF:-1, Histórias de Verão - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HistoriasDeVerao/Low/HistoriasDeVerao_cena1.mp4
+
+#EXTINF:-1, Histórias de Verão - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HistoriasDeVerao/Low/HistoriasDeVerao_cena2.mp4
+
+#EXTINF:-1, Histórias de Verão - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HistoriasDeVerao/Low/HistoriasDeVerao_cena3.mp4
+
+#EXTINF:-1, Histórias de Verão - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HistoriasDeVerao/Low/HistoriasDeVerao_cena4.mp4
+
+#EXTINF:-1, Histórias de Verão - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HistoriasDeVerao/Low/HistoriasDeVerao_cena5.mp4
+
+#EXTINF:-1, Histórias de Verão - Cena 6
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HistoriasDeVerao/Low/HistoriasDeVerao_cena6.mp4
+
+#EXTINF:-1, Histórias de Verão - Cena 7
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HistoriasDeVerao/Low/HistoriasDeVerao_cena7.mp4
+
+#EXTINF:-1, Hoje Eu Tô no Veneno - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HojeEuToNoVeneno/Low/HojeEuToNoVeneno_cena1.mp4
+
+#EXTINF:-1, Hoje Eu Tô no Veneno - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HojeEuToNoVeneno/Low/HojeEuToNoVeneno_cena2.mp4
+
+#EXTINF:-1, Hoje Eu Tô no Veneno - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HojeEuToNoVeneno/Low/HojeEuToNoVeneno_cena3.mp4
+
+#EXTINF:-1, Hoje Eu Tô no Veneno - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HojeEuToNoVeneno/Low/HojeEuToNoVeneno_cena4.mp4
+
+#EXTINF:-1, Homem não Entra - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HomemNaoEntra8/Low/HomemNaoEntra8_cena1.mp4
+
+#EXTINF:-1, Homem não Entra - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HomemNaoEntra8/Low/HomemNaoEntra8_cena2.mp4
+
+#EXTINF:-1, Homem não Entra - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HomemNaoEntra8/Low/HomemNaoEntra8_cena3.mp4
+
+#EXTINF:-1, Homem não Entra - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HomemNaoEntra8/Low/HomemNaoEntra8_cena4.mp4
+
+#EXTINF:-1, Homem não Entra - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/HomemNaoEntra8/Low/HomemNaoEntra8_cena5.mp4
+
+#EXTINF:-1, Louquinha - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Louquinha/Low/Louquinha_cena1.mp4
+
+#EXTINF:-1, Louquinha - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Louquinha/Low/Louquinha_cena2.mp4
+
+#EXTINF:-1, Louquinha - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Louquinha/Low/Louquinha_cena3.mp4
+
+#EXTINF:-1, Louquinha - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Louquinha/Low/Louquinha_cena4.mp4
+
+#EXTINF:-1, Louquinha - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Louquinha/Low/Louquinha_cena5.mp4
+
+#EXTINF:-1, Maior que Melancia - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MaiorQueMelancia/Low/MaiorQueMelancia_cena1.mp4
+
+#EXTINF:-1, Maior que Melancia - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MaiorQueMelancia/Low/MaiorQueMelancia_cena2.mp4
+
+#EXTINF:-1, Maior que Melancia - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MaiorQueMelancia/Low/MaiorQueMelancia_cena3.mp4
+
+#EXTINF:-1, Maior que Melancia - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MaiorQueMelancia/Low/MaiorQueMelancia_cena4.mp4
+
+#EXTINF:-1, Maior que Melancia - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MaiorQueMelancia/Low/MaiorQueMelancia_cena5.mp4
+
+#EXTINF:-1, Maior que Melancia 2 - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MaiorQueMelancia2/Low/MaiorQueMelancia2_cena1.mp4
+
+#EXTINF:-1, Maior que Melancia 2 - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MaiorQueMelancia2/Low/MaiorQueMelancia2_cena2.mp4
+
+#EXTINF:-1, Maior que Melancia 2 - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MaiorQueMelancia2/Low/MaiorQueMelancia2_cena3.mp4
+
+#EXTINF:-1, Meninas Más - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MeninasMas/Low/MeninasMas_cena1.mp4
+
+#EXTINF:-1, Meninas Más - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MeninasMas/Low/MeninasMas_cena2.mp4
+
+#EXTINF:-1, Meninas Más - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MeninasMas/Low/MeninasMas_cena3.mp4
+
+#EXTINF:-1, Meninas Más - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MeninasMas/Low/MeninasMas_cena4.mp4
+
+#EXTINF:-1, Meninas Más - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MeninasMas/Low/MeninasMas_cena5.mp4
+
+#EXTINF:-1, Molhadas de Prazer - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MolhadasDePrazer/Low/MolhadasDePrazer_cena1.mp4
+
+#EXTINF:-1, Molhadas de Prazer - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MolhadasDePrazer/Low/MolhadasDePrazer_cena2.mp4
+
+#EXTINF:-1, Molhadas de Prazer - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MolhadasDePrazer/Low/MolhadasDePrazer_cena3.mp4
+
+#EXTINF:-1, Molhadas de Prazer - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MolhadasDePrazer/Low/MolhadasDePrazer_cena4.mp4
+
+#EXTINF:-1, Molhadas de Prazer - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/MolhadasDePrazer/Low/MolhadasDePrazer_cena5.mp4
+
+#EXTINF:-1, Não Tem Cara de Atriz Pornô - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NaoTemCaraDeAtrizPorno/Low/NaoTemCaraDeAtrizPorno_cena1.mp4
+
+#EXTINF:-1, Não Tem Cara de Atriz Pornô - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NaoTemCaraDeAtrizPorno/Low/NaoTemCaraDeAtrizPorno_cena2.mp4
+
+#EXTINF:-1, Não Tem Cara de Atriz Pornô - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NaoTemCaraDeAtrizPorno/Low/NaoTemCaraDeAtrizPorno_cena3.mp4
+
+#EXTINF:-1, Não Tem Cara de Atriz Pornô - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NaoTemCaraDeAtrizPorno/Low/NaoTemCaraDeAtrizPorno_cena4.mp4
+
+#EXTINF:-1, Não Tem Cara de Atriz Pornô - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NaoTemCaraDeAtrizPorno/Low/NaoTemCaraDeAtrizPorno_cena5.mp4
+
+#EXTINF:-1, Não Tem Cara de Atriz Pornô - Cena 6
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NaoTemCaraDeAtrizPorno/Low/NaoTemCaraDeAtrizPorno_cena6.mp4
+
+#EXTINF:-1, Não Tem Cara de Atriz Pornô - Cena 7
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NaoTemCaraDeAtrizPorno/Low/NaoTemCaraDeAtrizPorno_cena7.mp4
+
+#EXTINF:-1, Nerdy Girls - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NerdyGirls/Low/NerdyGirls_cena1.mp4
+
+#EXTINF:-1, Nerdy Girls - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NerdyGirls/Low/NerdyGirls_cena2.mp4
+
+#EXTINF:-1, Nerdy Girls - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NerdyGirls/Low/NerdyGirls_cena3.mp4
+
+#EXTINF:-1, Nerdy Girls - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NerdyGirls/Low/NerdyGirls_cena4.mp4
+
+#EXTINF:-1, Nerdy Girls - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NerdyGirls/Low/NerdyGirls_cena5.mp4
+
+#EXTINF:-1, Ninfa da Copa - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NinfaDaCopa/Low/NinfaDaCopa_cena1.mp4
+
+#EXTINF:-1, Ninfa da Copa - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NinfaDaCopa/Low/NinfaDaCopa_cena2.mp4
+
+#EXTINF:-1, Ninfa da Copa - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NinfaDaCopa/Low/NinfaDaCopa_cena3.mp4
+
+#EXTINF:-1, Ninfa da Copa - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/NinfaDaCopa/Low/NinfaDaCopa_cena4.mp4
+
+#EXTINF:-1, O Pecado sem Perdão - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/OPecadoSemPerdao/Low/OPecadoSemPerdao_cena1.mp4
+
+#EXTINF:-1, O Pecado sem Perdão - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/OPecadoSemPerdao/Low/OPecadoSemPerdao_cena2.mp4
+
+#EXTINF:-1, O Pecado sem Perdão - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/OPecadoSemPerdao/Low/OPecadoSemPerdao_cena3.mp4
+
+#EXTINF:-1, Paixão Tropical - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PaixaoTropical/Low/PaixaoTropical_cena1.mp4
+
+#EXTINF:-1, Paixão Tropical - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PaixaoTropical/Low/PaixaoTropical_cena2.mp4
+
+#EXTINF:-1, Paixão Tropical - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PaixaoTropical/Low/PaixaoTropical_cena3.mp4
+
+#EXTINF:-1, Paixão Tropical - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PaixaoTropical/Low/PaixaoTropical_cena4.mp4
+
+#EXTINF:-1, Paixão Tropical - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PaixaoTropical/Low/PaixaoTropical_cena5.mp4
+
+#EXTINF:-1, Paixão Tropical - Cena 6
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PaixaoTropical/Low/PaixaoTropical_cena6.mp4
+
+#EXTINF:-1, Paixão Tropical - Cena 7
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PaixaoTropical/Low/PaixaoTropical_cena7.mp4
+
+#EXTINF:-1, Paraíso das Bundas - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ParaisoDasBundas/Low/ParaisoDasBundas_cena1.mp4
+
+#EXTINF:-1, Paraíso das Bundas - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ParaisoDasBundas/Low/ParaisoDasBundas_cena2.mp4
+
+#EXTINF:-1, Paraíso das Bundas - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ParaisoDasBundas/Low/ParaisoDasBundas_cena3.mp4
+
+#EXTINF:-1, Paraíso das Bundas - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ParaisoDasBundas/Low/ParaisoDasBundas_cena4.mp4
+
+#EXTINF:-1, Pecado Final - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PecadoFinal/Low/PecadoFinal_cena1.mp4
+
+#EXTINF:-1, Pecado Final - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PecadoFinal/Low/PecadoFinal_cena2.mp4
+
+#EXTINF:-1, Pecado Final - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PecadoFinal/Low/PecadoFinal_cena3.mp4
+
+#EXTINF:-1, Pegando as Tops - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PegandoAsTops/Low/PegandoAsTops_cena1.mp4
+
+#EXTINF:-1, Pegando as Tops - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PegandoAsTops/Low/PegandoAsTops_cena2.mp4
+
+#EXTINF:-1, Pegando as Tops - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PegandoAsTops/Low/PegandoAsTops_cena3.mp4
+
+#EXTINF:-1, Pegando as Tops - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PegandoAsTops/Low/PegandoAsTops_cena4.mp4
+
+#EXTINF:-1, Performers of The Year - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PerformersOfTheYear2013/Low/PerformersOfTheYear2013_cena1.mp4
+
+#EXTINF:-1, Performers of The Year - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PerformersOfTheYear2013/Low/PerformersOfTheYear2013_cena2.mp4
+
+#EXTINF:-1, Performers of The Year - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PerformersOfTheYear2013/Low/PerformersOfTheYear2013_cena3.mp4
+
+#EXTINF:-1, Performers of The Year - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PerformersOfTheYear2013/Low/PerformersOfTheYear2013_cena4.mp4
+
+#EXTINF:-1, Performers of The Year - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PerformersOfTheYear2013/Low/PerformersOfTheYear2013_cena5.mp4
+
+#EXTINF:-1, Performers of The Year - Cena 6
+http://cdn2.brasileirinhas.com.br/Filmes_HD/PerformersOfTheYear2013/Low/PerformersOfTheYear2013_cena6.mp4
+
+#EXTINF:-1, Poderosas - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Poderosas/Low/Poderosas_cena1.mp4
+
+#EXTINF:-1, Poderosas - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Poderosas/Low/Poderosas_cena2.mp4
+
+#EXTINF:-1, Poderosas - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Poderosas/Low/Poderosas_cena3.mp4
+
+#EXTINF:-1, Poderosas - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Poderosas/Low/Poderosas_cena4.mp4
+
+#EXTINF:-1, Redondinho de 4 - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/RedondinhoDe4/Low/RedondinhoDe4_cena1.mp4
+
+#EXTINF:-1, Redondinho de 4 - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/RedondinhoDe4/Low/RedondinhoDe4_cena2.mp4
+
+#EXTINF:-1, Redondinho de 4 - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/RedondinhoDe4/Low/RedondinhoDe4_cena3.mp4
+
+#EXTINF:-1, Redondinho de 4 - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/RedondinhoDe4/Low/RedondinhoDe4_cena4.mp4
+
+#EXTINF:-1, Redondinho de 4 - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/RedondinhoDe4/Low/RedondinhoDe4_cena5.mp4
+
+#EXTINF:-1, Salada de Frutas - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SaladaDeFrutas/Low/SaladaDeFrutas_cena1.mp4
+
+#EXTINF:-1, Salada de Frutas - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SaladaDeFrutas/Low/SaladaDeFrutas_cena2.mp4
+
+#EXTINF:-1, Salada de Frutas - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SaladaDeFrutas/Low/SaladaDeFrutas_cena3.mp4
+
+#EXTINF:-1, Salada de Frutas - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SaladaDeFrutas/Low/SaladaDeFrutas_cena4.mp4
+
+#EXTINF:-1, Salada de Frutas - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SaladaDeFrutas/Low/SaladaDeFrutas_cena5.mp4
+
+#EXTINF:-1, Salada de Frutas - Cena 6
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SaladaDeFrutas/Low/SaladaDeFrutas_cena6.mp4
+
+#EXTINF:-1, Sedução - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Seducao/Low/Seducao_cena1.mp4
+
+#EXTINF:-1, Sedução - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Seducao/Low/Seducao_cena2.mp4
+
+#EXTINF:-1, Sedução - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Seducao/Low/Seducao_cena3.mp4
+
+#EXTINF:-1, Sedução - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Seducao/Low/Seducao_cena4.mp4
+
+#EXTINF:-1, Sedução - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Seducao/Low/Seducao_cena5.mp4
+
+#EXTINF:-1, Sem Conversa - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SemConversa/Low/SemConversa_cena1.mp4
+
+#EXTINF:-1, Sem Conversa - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SemConversa/Low/SemConversa_cena2.mp4
+
+#EXTINF:-1, Sem Conversa - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SemConversa/Low/SemConversa_cena3.mp4
+
+#EXTINF:-1, Sem Conversa - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SemConversa/Low/SemConversa_cena4.mp4
+
+#EXTINF:-1, Sexo Interativo - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoInterativo/Low/SexoInterativo_cena1.mp4
+
+#EXTINF:-1, Sexo Interativo - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoInterativo/Low/SexoInterativo_cena2.mp4
+
+#EXTINF:-1, Sexo Interativo - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoInterativo/Low/SexoInterativo_cena3.mp4
+
+#EXTINF:-1, Sexo Interativo - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoInterativo/Low/SexoInterativo_cena4.mp4
+
+#EXTINF:-1, Sexo Interativo - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoInterativo/Low/SexoInterativo_cena5.mp4
+
+#EXTINF:-1, Sexo Interativo - Cena 6
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoInterativo/Low/SexoInterativo_cena6.mp4
+
+#EXTINF:-1, Sexo Interativo - Cena 7
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoInterativo/Low/SexoInterativo_cena7.mp4
+
+#EXTINF:-1, Sexo Interativo - Cena 8
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoInterativo/Low/SexoInterativo_cena8.mp4
+
+#EXTINF:-1, Sexo Interativo - Cena 9
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoInterativo/Low/SexoInterativo_cena9.mp4
+
+#EXTINF:-1, Sexo Sol e Areia - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoSolEAreia/Low/SexoSolEAreia_cena1.mp4
+
+#EXTINF:-1, Sexo Sol e Areia - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoSolEAreia/Low/SexoSolEAreia_cena2.mp4
+
+#EXTINF:-1, Sexo Sol e Areia - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoSolEAreia/Low/SexoSolEAreia_cena3.mp4
+
+#EXTINF:-1, Sexo Sol e Areia - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoSolEAreia/Low/SexoSolEAreia_cena4.mp4
+
+#EXTINF:-1, Sexo Sol e Areia - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SexoSolEAreia/Low/SexoSolEAreia_cena5.mp4
+
+#EXTINF:-1, Show de Bundas - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas/Low/ShowDeBundas_cena1.mp4
+
+#EXTINF:-1, Show de Bundas - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas/Low/ShowDeBundas_cena2.mp4
+
+#EXTINF:-1, Show de Bundas - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas/Low/ShowDeBundas_cena3.mp4
+
+#EXTINF:-1, Show de Bundas - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas/Low/ShowDeBundas_cena4.mp4
+
+#EXTINF:-1, Show de Bundas - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas/Low/ShowDeBundas_cena5.mp4
+
+#EXTINF:-1, Show de Bundas 2 - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas2/Low/ShowDeBundas2_cena1.mp4
+
+#EXTINF:-1, Show de Bundas 2 - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas2/Low/ShowDeBundas2_cena2.mp4
+
+#EXTINF:-1, Show de Bundas 2 - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas2/Low/ShowDeBundas2_cena3.mp4
+
+#EXTINF:-1, Show de Bundas 2 - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas2/Low/ShowDeBundas2_cena4.mp4
+
+#EXTINF:-1, Show de Bundas 2 - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas2/Low/ShowDeBundas2_cena5.mp4
+
+#EXTINF:-1, Show de Bundas 3 - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas3/Low/ShowDeBundas3_cena1.mp4
+
+#EXTINF:-1, Show de Bundas 3 - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas3/Low/ShowDeBundas3_cena2.mp4
+
+#EXTINF:-1, Show de Bundas 3 - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas3/Low/ShowDeBundas3_cena3.mp4
+
+#EXTINF:-1, Show de Bundas 3 - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas3/Low/ShowDeBundas3_cena4.mp4
+
+#EXTINF:-1, Show de Bundas 4 - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas4/Low/ShowDeBundas4_cena1.mp4
+
+#EXTINF:-1, Show de Bundas 4 - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas4/Low/ShowDeBundas4_cena2.mp4
+
+#EXTINF:-1, Show de Bundas 4 - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas4/Low/ShowDeBundas4_cena3.mp4
+
+#EXTINF:-1, Show de Bundas 4 - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas4/Low/ShowDeBundas4_cena4.mp4
+
+#EXTINF:-1, Show de Bundas 5 - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas5/Low/ShowDeBundas5_cena1.mp4
+
+#EXTINF:-1, Show de Bundas 5 - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas5/Low/ShowDeBundas5_cena2.mp4
+
+#EXTINF:-1, Show de Bundas 5 - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas5/Low/ShowDeBundas5_cena3.mp4
+
+#EXTINF:-1, Show de Bundas 5 - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ShowDeBundas5/Low/ShowDeBundas5_cena4.mp4
+
+#EXTINF:-1, Sogrão Caprichou - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SograoCaprichou/Low/SograoCaprichou_cena1.mp4
+
+#EXTINF:-1, Sogrão Caprichou - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SograoCaprichou/Low/SograoCaprichou_cena2.mp4
+
+#EXTINF:-1, Sogrão Caprichou - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SograoCaprichou/Low/SograoCaprichou_cena3.mp4
+
+#EXTINF:-1, Sogrão Caprichou - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SograoCaprichou/Low/SograoCaprichou_cena4.mp4
+
+#EXTINF:-1, Sogrão Caprichou - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SograoCaprichou/Low/SograoCaprichou_cena5.mp4
+
+#EXTINF:-1, Stars - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SuperStars/Low/SuperStars_cena2.mp4
+
+#EXTINF:-1, Stars - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SuperStars/Low/SuperStars_cena3.mp4
+
+#EXTINF:-1, Stars - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SuperStars/Low/SuperStars_cena4.mp4
+
+#EXTINF:-1, Stars - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/SuperStars/Low/SuperStars_cena5.mp4
+
+#EXTINF:-1, Taras de um Fotógrafo - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TarasDeUmFotografo/Low/TarasDeUmFotografo_cena1.mp4
+
+#EXTINF:-1, Taras de um Fotógrafo - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TarasDeUmFotografo/Low/TarasDeUmFotografo_cena2.mp4
+
+#EXTINF:-1, Taras de um Fotógrafo - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TarasDeUmFotografo/Low/TarasDeUmFotografo_cena3.mp4
+
+#EXTINF:-1, Taras de um Fotógrafo - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TarasDeUmFotografo/Low/TarasDeUmFotografo_cena4.mp4
+
+#EXTINF:-1, Tô Facinho - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ToFacinho/Low/ToFacinho_cena1.mp4
+
+#EXTINF:-1, Tô Facinho - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ToFacinho/Low/ToFacinho_cena2.mp4
+
+#EXTINF:-1, Tô Facinho - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ToFacinho/Low/ToFacinho_cena3.mp4
+
+#EXTINF:-1, Tô Facinho - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ToFacinho/Low/ToFacinho_cena4.mp4
+
+#EXTINF:-1, Tô Facinho - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/ToFacinho/Low/ToFacinho_cena5.mp4
+
+#EXTINF:-1, Todas a Bordo - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TodasABordo/Low/TodasABordo_cena1.mp4
+
+#EXTINF:-1, Todas a Bordo - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TodasABordo/Low/TodasABordo_cena2.mp4
+
+#EXTINF:-1, Todas a Bordo - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TodasABordo/Low/TodasABordo_cena3.mp4
+
+#EXTINF:-1, Todas a Bordo - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TodasABordo/Low/TodasABordo_cena4.mp4
+
+#EXTINF:-1, Todas a Bordo - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TodasABordo/Low/TodasABordo_cena5.mp4
+
+#EXTINF:-1, Todas a Bordo - Cena 6
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TodasABordo/Low/TodasABordo_cena6.mp4
+
+#EXTINF:-1, Tomando no Cú - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TomandoNoCu2/Low/TomandoNoCu2_cena1.mp4
+
+#EXTINF:-1, Tomando no Cú - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TomandoNoCu2/Low/TomandoNoCu2_cena2.mp4
+
+#EXTINF:-1, Tomando no Cú - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TomandoNoCu2/Low/TomandoNoCu2_cena3.mp4
+
+#EXTINF:-1, Tomando no Cú - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TomandoNoCu2/Low/TomandoNoCu2_cena4.mp4
+
+#EXTINF:-1, Transando Gostoso - Cena 1 
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TransandoGostoso/Low/TransandoGostoso_cena1.mp4
+
+#EXTINF:-1, Transando Gostoso - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TransandoGostoso/Low/TransandoGostoso_cena2.mp4
+
+#EXTINF:-1, Transando Gostoso - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TransandoGostoso/Low/TransandoGostoso_cena3.mp4
+
+#EXTINF:-1, Transando Gostoso - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/TransandoGostoso/Low/TransandoGostoso_cena4.mp4
+
+#EXTINF:-1, Turbinadas - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Turbinadas/Low/Turbinadas_cena1.mp4
+
+#EXTINF:-1, Turbinadas - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Turbinadas/Low/Turbinadas_cena2.mp4
+
+#EXTINF:-1, Turbinadas - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Turbinadas/Low/Turbinadas_cena3.mp4
+
+#EXTINF:-1, Turbinadas - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Turbinadas/Low/Turbinadas_cena4.mp4
+
+#EXTINF:-1, Turbinadas - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/Turbinadas/Low/Turbinadas_cena5.mp4
+
+#EXTINF:-1, Ultrasuruba - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/UltraSuruba/Low/UltraSuruba_cena1.mp4
+
+#EXTINF:-1, Ultrasuruba - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/UltraSuruba/Low/UltraSuruba_cena2.mp4
+
+#EXTINF:-1, Ultrasuruba - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/UltraSuruba/Low/UltraSuruba_cena3.mp4
+
+#EXTINF:-1, Ultrasuruba - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/UltraSuruba/Low/UltraSuruba_cena4.mp4
+
+#EXTINF:-1, Vem Com Tudo - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VemComTudo2/Low/VemComTudo2_cena1.mp4
+
+#EXTINF:-1, Vem Com Tudo - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VemComTudo2/Low/VemComTudo2_cena2.mp4
+
+#EXTINF:-1, Vem Com Tudo - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VemComTudo2/Low/VemComTudo2_cena3.mp4
+
+#EXTINF:-1, Vem Com Tudo - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VemComTudo2/Low/VemComTudo2_cena4.mp4
+
+#EXTINF:-1, Vem Com Tudo - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VemComTudo2/Low/VemComTudo2_cena5.mp4
+
+#EXTINF:-1, Vizinhas Gostosas - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VizinhasGostosas3/Low/VizinhasGostosas3_cena1.mp4
+
+#EXTINF:-1, Vizinhas Gostosas - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VizinhasGostosas3/Low/VizinhasGostosas3_cena2.mp4
+
+#EXTINF:-1, Vizinhas Gostosas - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VizinhasGostosas3/Low/VizinhasGostosas3_cena3.mp4
+
+#EXTINF:-1, Vizinhas Gostosas - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VizinhasGostosas3/Low/VizinhasGostosas3_cena4.mp4
+
+#EXTINF:-1, Vizinhas Gostosas - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VizinhasGostosas3/Low/VizinhasGostosas3_cena5.mp4
+
+#EXTINF:-1,Você Quer - Cena 1
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VoceQuer/Low/VoceQuer_cena1.mp4
+
+#EXTINF:-1,Você Quer - Cena 2
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VoceQuer/Low/VoceQuer_cena2.mp4
+
+#EXTINF:-1,Você Quer - Cena 3
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VoceQuer/Low/VoceQuer_cena3.mp4
+
+#EXTINF:-1,Você Quer - Cena 4
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VoceQuer/Low/VoceQuer_cena4.mp4
+
+#EXTINF:-1,Você Quer - Cena 5
+http://cdn2.brasileirinhas.com.br/Filmes_HD/VoceQuer/Low/VoceQuer_cena5.mp4
+
+#EXTINF:-1, Adult 4K: VOD1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+#EXTINF:-1,VID
+http://videos-porno8.petardashd.com/archivos3/hd/hd-169784-9ddd444.mp4
+#EXTINF:-1,VID
+http://www.pornoid.com/get_file/1/97d87ea457fd5fe1344898ca9f39e656/11000/11231/11231.mp4
+#EXTINF:-1,VID
+http://videos-porno5.petardashd.com/archivos3/hd/hd-169871-9830686.mp4
+#EXTINF:-1,VID
+http://videos-porno5.petardashd.com/archivos3/hd/hd-171599-0327123.mp4
+#EXTINF:-1,VID
+http://videos-porno2.petardashd.com/archivos3/hd/hd-169902-98710ed.mp4
+#EXTINF:-1,VID
+http://videos-porno1.petardashd.com/archivos3/hd/hd-169826-9ef34cc.mp4
+#EXTINF:-1,VID
+http://videos-porno5.petardashd.com/archivos3/hd/hd-167129-cb87d4c.mp4
+#EXTINF:-1,VID
+http://videos-porno1.petardashd.com/archivos3/hd/hd-167337-ca5a5f9.mp4
+#EXTINF:-1,VID
+http://videos-porno5.petardashd.com/archivos3/hd/hd-166446-cac0bc8.mp4
+#EXTINF:-1,VID
+http://videos-porno5.petardashd.com/archivos3/hd/hd-168818-cb39265.mp4
+#EXTINF:-1,VID
+http://videos-porno1.petardashd.com/archivos3/hd/hd-171174-25eabfb.mp4
+#EXTINF:-1,VID
+http://videos-porno5.petardashd.com/archivos3/hd/hd-167704-cb3bbf3.mp4
+#EXTINF:-1,VID
+http://videos-porno5.petardashd.com/archivos3/hd/hd-166393-c7b993b.mp4
+#EXTINF:-1,VID
+http://videos-porno2.petardashd.com/archivos3/hd/hd-167775-c7bfee1.mp4
+#EXTINF:-1,VID
+http://videos-porno2.petardashd.com/archivos3/hd/hd-171326-20b3d23.mp4
+#EXTINF:-1,VID
+http://videos-porno2.petardashd.com/archivos3/hd/hd-167362-c7c997c.mp4
+#EXTINF:-1,VID
+http://videos-porno8.petardashd.com/archivos3/hd/hd-167593-cb7cb5e.mp4
+#EXTINF:-1,VID
+http://videos-porno2.petardashd.com/archivos3/hd/hd-171088-269e957.mp4
+
+
+
+
+
