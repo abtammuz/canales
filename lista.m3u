@@ -239,67 +239,49 @@ rtmp://87.106.219.140/live/myStream_2
 rtmp://87.106.232.7/live/myStream_2
 #EXTINF:-1, 10
 rtmp://87.106.220.67/live/myStream_2
-#EXTINF:-1, Sky sports 4
-http://185.56.30.127:8082/TV4130
-#EXTINF:-1, Sky Movies Premiere
-http://185.56.30.127:8082/TV4251
-#EXTINF:-1, Sky Movies Premiere+
-http://185.56.30.127:8082/TV4252
-#EXTINF:-1, Sky Sky Movies Select
-http://185.56.30.127:8082/TV4254
-#EXTINF:-1, Sky Movies Action & Adventure
-http://185.56.30.127:8082/TV4245
-#EXTINF:-1, Sky Movies Comedy
-http://185.56.30.127:8082/TV4246
-#EXTINF:-1, Sky Movies Disney
-http://185.56.30.127:8082/TV4247
-#EXTINF:-1, Sky Movies Family
-http://185.56.30.127:8082/TV4248
 #EXTINF:-1,FOX SPORT ARG
 http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
-#EXTINF:Nickelodeon
+#EXTINF:-1,Nickelodeon
 http://B29273.cdn.telefonica.com/29273/NICK_SUB-audio_esp%3D49600-video%3D500000.m3u8
-#EXTINF:Disney Junior
+#EXTINF:-1,Disney Junior
 http://B29285.cdn.telefonica.com/29285/DSNJR_SUB-audio_esp%3D49600-video%3D500000.m3u8
-#EXTINF:40TV
+#EXTINF:-1,40TV
 http://B31312.cdn.telefonica.com/31312/40TV_SUB-audio_esp%3D49600-video%3D500000.m3u8
-#EXTINF:Disney
+#EXTINF:-1,Disney
 http://B31309.cdn.telefonica.com/31309/DSNYXD_SUB-audio_esp%3D49600-video%3D500000.m3u8
-#EXTINF:Canal Cocina
+#EXTINF:-1,Canal Cocina
 http://B31305.cdn.telefonica.com/31305/COCINA_SUB-audio_esp%3D49600-video%3D500000.m3u8
-#EXTINF:24 Horas
+#EXTINF:-1,24 Horas
 http://B31301.cdn.telefonica.com/31301/24HORAS_SUB-audio_esp%3D49600-video%3D500000.m3u8
-#EXTINF:Invitado
+#EXTINF:-1,Invitado
 http://B29291.cdn.telefonica.com/29291/INVITADO_SUB-audio_esp%3D49600-video%3D500000.m3u8
-#EXTINF:Fox
+#EXTINF:-1,Fox
 http://B29269.cdn.telefonica.com/29269/FOX_SUB-audio_esp%3D49600-video%3D500000.m3u8
-#EXTINF:AXN
+#EXTINF:-1,AXN
 http://B29278.cdn.telefonica.com/29278/AXN_SUB-audio_esp%3D49600-video%3D500000.m3u8
-#EXTINF:Calle 13
+#EXTINF:-1,Calle 13
 http://B29270.cdn.telefonica.com/29270/CLL13_SUB-audio_esp%3D49600-video%3D500000.m3u8
-#EXTINF:TNT
+#EXTINF:-1,TNT
 http://B29280.cdn.telefonica.com/29280/TNT_SUB-audio_esp%3D49600-video%3D500000.m3u8
-#EXTINF:Fox Life
+#EXTINF:-1,Fox Life
 http://B31317.cdn.telefonica.com/31317/FOXCRIME_SUB-audio_esp%3D49600-video%3D500000.m3u8
-#EXTINF:Cosmopolitan
+#EXTINF:-1,Cosmopolitan
 http://B29283.cdn.telefonica.com/29283/CSMO_SUB-audio_esp%3D49600-video%3D500000.m3u8
-#EXTINF:AXN White
+#EXTINF:-1,AXN White
 http://B31316.cdn.telefonica.com/31316/AXNWHITE_SUB-audio_esp%3D49600-video%3D500000.m3u8
-#EXTINF:Paramount Comedy
+#EXTINF:-1,Paramount Comedy
 http://B29281.cdn.telefonica.com/29281/PCMDY_SUB-audio_esp%3D49600-video%3D500000.m3u8
-#EXTINF:SYFY
+#EXTINF:-1,SYFY
 http://B31311.cdn.telefonica.com/31311/SYFY_SUB-audio_esp%3D49600-video%3D500000.m3u8
-#EXTINF:TCM
+#EXTINF:-1,TCM
 http://B31310.cdn.telefonica.com/31310/TCM_SUB-audio_esp%3D49600-video%3D500000.m3u8
-#EXTINF:Canal+ Liga
+#EXTINF:-1,Canal+ Liga
 http://b29276.1.cdn.telefonica.com/-29276/CPLUSLG_SUB-audio_Esp%3D49600-video%3D500000.m3u8
-#EXTINF:Movistar Futbol
+#EXTINF:-1,Movistar Futbol
 http://B32861.cdn.telefonica.com/32861/MOVFUTBOL_SUB-audio_esp%3D49600-video%3D500000.m3u8
-#EXTINF:Canal+ Champions
+#EXTINF:-1,Canal+ Champions
 http://B29275.cdn.telefonica.com/29275/CPLUSCHP_SUB-audio_esp%3D49600-video%3D500000.m3u8
-#EXTINF:National Geographic
+#EXTINF:-1,National Geographic
 http://B29287.cdn.telefonica.com/29287/NTLG_SUB-audio_esp%3D49600-video%3D500000.m3u8
-#EXTINF:National Geographic Wild
+#EXTINF:-1,National Geographic Wild
 http://B31307.cdn.telefonica.com/31307/NATGEOWILD_SUB-audio_esp%3D49600-video%3D500000.m3u8
-#EXTINF:-1,CNN ESPAÑOL
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/CNNEspanol150_audio.m3u8
