@@ -289,9 +289,9 @@ rtmp://wowza1.top-ix.org/quartaretetv1/formusicweb
 mms://200.42.92.6:1755/qmusica
 #EXTINF:-1,IBIZA ON TV
 rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
-#EXTINF:-1,MUSIC VEVO1 HD
+#EXTINF:-1,MUSIC VEVO
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1,music VEVO HD
+#EXTINF:-1,music VEVO opc 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
 #EXTINF:-1,MUSIC Vevo2 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
