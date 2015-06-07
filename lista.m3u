@@ -1,4 +1,15 @@
 #EXTM3U
+#EXTINF:-1,Nick
+http://gdl-cdsse-01.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/NICKHD.m3u8
+
+#EXTINF:-1,Nick HD
+http://gdl-cdsse-01.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/NICKHD4500.m3u8
+
+#EXTINF:-1,Telehit HD
+http://gdl-cdsse-01.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/THITHD.m3u8
+
+#EXTINF:-1,Telehit
+http://gdl-cdsse-01.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/THITHD4500.m3u8 
 #EXTINF:-1,Azteca 7 Monterrey México
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1,El Trece México
