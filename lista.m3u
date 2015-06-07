@@ -1,17 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Nick
-http://gdl-cdsse-01.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/NICKHD.m3u8
-
-#EXTINF:-1,Nick HD
-http://gdl-cdsse-01.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/NICKHD4500.m3u8
-
-#EXTINF:-1,Telehit HD
-http://gdl-cdsse-01.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/THITHD.m3u8
-
-#EXTINF:-1,Telehit
-http://gdl-cdsse-01.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/THITHD4500.m3u8 
-#EXTINF:-1,Azteca 7 Monterrey México
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1,El Trece México
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
 #EXTINF:-1,AZTECA 13
@@ -168,10 +155,6 @@ http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
 http://184.154.28.210:1935/univision_attl/univision_attl/playlist.m3u8
 #EXTINF:-1,TVEO Miami USA
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1,MEGA KIDS
-rtmp://podi.hopper.pw:443/live/live_mega_kids
-#EXTINF:-1,MEGA SIMPSON
-rtmp://podi.hopper.pw:443/live/live_mega_simpson
 #EXTINF:-1,Disney XD
 http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1,Paka Paka
@@ -198,8 +181,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8#MegaIPTVArg
 http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8#MegaIPTVArgentina
 #EXTINF:-1,BEIN SPORTS USA
 http://ak-bein-us-en-stream.fubo.tv/UT-Origin/ngrp:BeInSports_EN_all/chunklist_b1628000.m3u8#MegaIPTVArgentina
-#EXTINF:-1,BEIN Sports 1
-http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1,BEIN Sports 2
 http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1,TyC Sports
