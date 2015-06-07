@@ -25,8 +25,6 @@ rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
 #EXTINF:-1,GALATV Cancun
 http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8?
-#EXTINF:-1,CHESPIRITO
-rtmp://podi.hopper.pw:443/live/live_chespirito_mania
 #EXTINF:-1,ONCE TV
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
 #EXTINF:-1,MILENIO
@@ -123,12 +121,8 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/playlist.m3u8#MegaIPTVArgenti
 http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8?MegaIPTVArgentina
 #EXTINF:-1,MIJAS TV
 rtmp://teledifusion.tv/mijastv/mijastvlive
-#EXTINF:-1,UNIVERSAL MOVIES
-rtmp://podi.hopper.pw:443/live/live_universal_movies
 #EXTINF:-1,PELICULAS LATINO
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,ALX/nx TV
-rtmp://podi.hopper.pw:443/live/live_alx_nxtv
 #EXTINF:-1,Megavision Canal 21 El Salvador
 http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1,NatGeo Wild HD 720
@@ -171,8 +165,6 @@ http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 #EXTINF:-1,TDN
 http://167.114.33.68:7273/transco74/869-UDEP/playlist.m3u8
-#EXTINF:-1,ESPN
-http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,CDN SportsMax
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1,Real Madrid TV
@@ -181,8 +173,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8#MegaIPTVArg
 http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8#MegaIPTVArgentina
 #EXTINF:-1,BEIN SPORTS USA
 http://ak-bein-us-en-stream.fubo.tv/UT-Origin/ngrp:BeInSports_EN_all/chunklist_b1628000.m3u8#MegaIPTVArgentina
-#EXTINF:-1,BEIN Sports 2
-http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1,TyC Sports
 rtmp://podi.hopper.pw:443/live/live_afatv1
 #EXTINF:0,PAC-12Net.(Arizona)
