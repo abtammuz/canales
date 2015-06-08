@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,A
+http://www.spruto.tv/get_file/5/b109a1ceb8b8eaa7e1cee0517fb85cdf/115000/115109/115109.mp4
 #EXTINF:4.004 group-title="C-Alta",Canal Total 
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT00NTkmbj0yJnJvd3M9NDAmc2Vzc2lvbj1lYmtoOG5mZTlzYnpsemombGFuPTI=&f=.m3u8
 #EXTINF:-1,El Trece México
