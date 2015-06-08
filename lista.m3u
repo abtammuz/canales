@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,canal 5
+rtmp://95.211.184.231/live
+
 #EXTINF:-1,El Trece México
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
 #EXTINF:-1,AZTECA 13
