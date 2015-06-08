@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,can5
-http://95.211.184.231/live/playlist.m3u8
+http://iphone-streaming.ustream.tv/uhls/20424061/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1,El Trece México
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
