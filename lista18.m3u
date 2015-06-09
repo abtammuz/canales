@@ -11,6 +11,8 @@ http://iphone-streaming.ustream.tv/uhls/20663014/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,TELEMUNDO
 http://iphone-streaming.ustream.tv/uhls/20655302/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,EXA TV
+http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Azteca 7 Monterrey México
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1,El Trece México
