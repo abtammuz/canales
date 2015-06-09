@@ -3,6 +3,10 @@
 http://iphone-streaming.ustream.tv/uhls/20424061/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,TyC DEPORTES
 http://iphone-streaming.ustream.tv/uhls/20703657/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,UNIVISION
+http://iphone-streaming.ustream.tv/uhls/11872210/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,FUTFEMENIL
+http://iphone-streaming.ustream.tv/uhls/20663014/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1,El Trece México
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
