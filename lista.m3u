@@ -1,10 +1,7 @@
 #EXTM3U
 #EXTINF:-1,ESPN
 http://iphone-streaming.ustream.tv/uhls/20424061/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,TyC DEPORTES
-http://iphone-streaming.ustream.tv/uhls/20703657/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,FUTFEMENIL
-http://iphone-streaming.ustream.tv/uhls/11872210/streams/live/iphone/playlist.m3u8
+
 #EXTINF:-1,UNIVISION
 http://iphone-streaming.ustream.tv/uhls/20663014/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,RT ESPAÑOL
@@ -13,8 +10,7 @@ http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u
 http://iphone-streaming.ustream.tv/uhls/20655302/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,EXA TV
 http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,tnT
-http://iphone-streaming.ustream.tv/uhls/69020/streams/live/iphone/playlist.m3u8
+
  
  
 #EXTINF:-1,El Trece México
