@@ -10,9 +10,10 @@ http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u
 http://iphone-streaming.ustream.tv/uhls/20655302/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,EXA TV
 http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8
-
+#EXTINF:-1,ENSENADA TV
+http://iphone-streaming.ustream.tv/uhls/19318505/streams/live/iphone/playlist.m3u8
  
- 
+ 19318505
 #EXTINF:-1,El Trece México
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
 #EXTINF:-1,AZTECA 13
