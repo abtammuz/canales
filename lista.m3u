@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,espn
+#EXTINF:-1,ESPN
 http://iphone-streaming.ustream.tv/uhls/20424061/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,TyC DEPORTES
 http://iphone-streaming.ustream.tv/uhls/20703657/streams/live/iphone/playlist.m3u8
@@ -11,6 +11,9 @@ http://iphone-streaming.ustream.tv/uhls/20663014/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,TELEMUNDO
 http://iphone-streaming.ustream.tv/uhls/20655302/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,EXA TV
+http://iphone-streaming.ustream.tv/uhls/175543/streams/live/iphone/playlist.m3u8
+ 
 #EXTINF:-1,El Trece México
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
 #EXTINF:-1,AZTECA 13
