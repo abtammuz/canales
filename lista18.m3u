@@ -552,8 +552,7 @@ http://www.spruto.tv/get_file/2/6ca2d685d9bad2c5c1f4d73f5037ba4d/102000/102949/1
 
 
 
-#EXTINF:-1,HustlerTV
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+
 #EXTINF:-1,Adult1
 http://wowza1.videos.movile.com:1935/live/adulto_1.smil/livestream.m3u8
 #EXTINF:-1,adult2
@@ -594,11 +593,11 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
 http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
 #EXTINF:-1,X Blue Hustler
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
-#EXTINF:0,X PLAYBOYTV
+#EXTINF:0,X PLAYBOYTV 
 http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
-#EXTINF:-1,X PlayboyTV
+#EXTINF:-1,X PlayboyTV OPC2
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
-#EXTINF:-1,Playboy TV
+#EXTINF:-1,Playboy TV OPC3
 http://yacs88.ddns.net:8001/1:0:1:D15C:90C:2:11A0000:0:0:0:
 #EXTINF:-1,XXL
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
