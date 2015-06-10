@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,HBO
+http://45.55.247.223:8080/h905d/index.m3u8
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="hbo2.png" group-title="Cine y Series",HBO2 Latino
+http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720
+#EXTINF:1,PLANETA FUTBOL
+http://108.168.206.90:1935/cdnsm/cdnsm/enlacesiptv.m3u8
 #EXTINF:-1,ESPN
 http://iphone-streaming.ustream.tv/uhls/20424061/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,NBC DEPORTES
@@ -15,10 +21,79 @@ http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/19318505/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,RAW
 http://iphone-streaming.ustream.tv/uhls/11261871/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,History SD
+http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,NatGeo Wild HD 720
+http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,NAT GEO WILD
+http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on?monclovacaliente.m3u8
+#EXTINF:-1,Discovery
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Discovery (Opc.2)
+http://iphone-streaming.ustream.tv/ustreamVideo/17248101/streams/live/playlist.m3u8
+#EXTINF:-1,Telemundo OPC 2
+rtmp://podi.hopper.pw:443/live/live_telemundo34
+#EXTINF:1,ANIME TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:-1,MUNDO FOX
+http://66.55.92.79:1935/app/ana69s-channel/ruben.m3u8?
+#EXTINF:-1,SPORTSNET
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF:-1,TDN
+http://167.114.33.68:7273/transco74/869-UDEP/playlist.m3u8
+#EXTINF:-1,CDN SportsMax
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8#MegaIPTVArgentina
+#EXTINF:-1,BEIN SPORTS
+http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8#MegaIPTVArgentina
+#EXTINF:-1,BEIN SPORTS USA
+http://ak-bein-us-en-stream.fubo.tv/UT-Origin/ngrp:BeInSports_EN_all/chunklist_b1628000.m3u8#MegaIPTVArgentina
+#EXTINF:-1,TyC Sports
+rtmp://podi.hopper.pw:443/live/live_afatv1
+#EXTINF:0,PAC-12Net.(Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8?
+#EXTINF:0,PAC-12Net.(Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8?
+#EXTINF:0,PAC-12Net.(Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8?
+#EXTINF:0,PAC-12Net.(Moutain)
+http://xrxs.net/video/live-p12moun-4728.m3u8?
+#EXTINF:0,PAC-12Net.(Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8?
+#EXTINF:0,PAC-12Net.(Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8?
+#EXTINF:-1,USA-BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Washington)
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:-1,Antena3 Sports
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,Eurosport1 ENG
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1, Eurosport1 France
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:-1,FOX SPORT ARG
+http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,Gol TV USA
+http://ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/chunklist_b1596000.m3u8#MegaIPTVArgentina
+#EXTINF:-1,Sevilla TV
+http://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc/stml.m3u8
+#EXTINF:4.004,Sevilla OPC 2
+rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
+#EXTINF:-1,Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,TN
+rtsp://stream.tn.com.ar/live/tnhd1
 
 
-#EXTINF:-1,Azteca 7 Monterrey México
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+ 
 #EXTINF:-1,El Trece México
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
 #EXTINF:-1,AZTECA 13
@@ -33,8 +108,18 @@ http://tvaz-pd.kaltura.com.edgesuite.net/p/461031/sp/46103100/serveFlavor/entryI
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1,FORO TV
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8#MegaIPTVArgentina
+#EXTINF:-1 ,Once TV
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1,GALATV Cancun
+http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8?
 #EXTINF:-1,ONCE TV
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:-1,MILENIO
+http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
+#EXTINF:-1,PELICULAS LATINO
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Megavision Canal 21 El Salvador
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1,Nuestra Visión Canal 5 México
 rtmp://159.16.243.10/live/canal5/canal5
 #EXTINF:-1,TVMas
@@ -43,12 +128,6 @@ rtmp://50.7.98.234/rtv/videortv
 rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
 #EXTINF:-1,MOCHO TV
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
-#EXTINF:-1,GALATV Cancun
-http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8?
-#EXTINF:-1,CHESPIRITO
-rtmp://podi.hopper.pw:443/live/live_chespirito_mania
-#EXTINF:-1,MILENIO
-http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
 #EXTINF:-1,CANAL10 Cancun
 http://www.promovision.mx:1935/live/tvlive2/playlist.m3u8?
 #EXTINF:-1,TV 4 Guanajuato
@@ -141,110 +220,27 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/playlist.m3u8#MegaIPTVArgenti
 http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8?MegaIPTVArgentina
 #EXTINF:-1,MIJAS TV
 rtmp://teledifusion.tv/mijastv/mijastvlive
-#EXTINF:-1,UNIVERSAL MOVIES
-rtmp://podi.hopper.pw:443/live/live_universal_movies
-#EXTINF:-1,PELICULAS LATINO
-http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,ALX/nx TV
-rtmp://podi.hopper.pw:443/live/live_alx_nxtv
-#EXTINF:-1,Megavision Canal 21 El Salvador
-http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1,NatGeo Wild HD 720
-http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,NAT GEO WILD
-http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on?monclovacaliente.m3u8
-#EXTINF:-1,Discovery en español
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Discovery en español (Opc.2)
-http://iphone-streaming.ustream.tv/ustreamVideo/17248101/streams/live/playlist.m3u8
-#EXTINF:-1,DISCOVERY (Arg)
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,HISTORY
-http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,Mexico Travel Channel
 http://cdns840stu1010.multistream.net/mtchlive/amlst:live/chunklist_b900000.m3u8
-#EXTINF:-1,Telemundo USA
-rtmp://podi.hopper.pw:443/live/live_telemundo34
-#EXTINF:-1,MUNDO FOX
-http://66.55.92.79:1935/app/ana69s-channel/ruben.m3u8?
+
 #EXTINF:-1,Hogar TV Colombia
 http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
 #EXTINF:-1,Univision USA
 http://184.154.28.210:1935/univision_attl/univision_attl/playlist.m3u8
 #EXTINF:-1,TVEO Miami USA
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1,MEGA KIDS
-rtmp://podi.hopper.pw:443/live/live_mega_kids
-#EXTINF:-1,MEGA SIMPSON
-rtmp://podi.hopper.pw:443/live/live_mega_simpson
 #EXTINF:-1,Disney XD
 http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1,Paka Paka
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
-#EXTINF:-1,Anime TV
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8#MegaIPTVArgentina
+
 #EXTINF:-,Animatoon TV
 rtmp://podi.hopper.pw:443/live/live_animetoontv
 #EXTINF:-1,MegaAnimé TV
 rtmp://podi.hopper.pw:443/live/live_mega_animeshd
 #EXTINF:-1,KW TV México
 http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi
-#EXTINF:-1,SPORTSNET
-http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
-#EXTINF:-1,TDN
-http://167.114.33.68:7273/transco74/869-UDEP/playlist.m3u8
-#EXTINF:-1,ESPN
-http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,CDN SportsMax
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:-1,Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8#MegaIPTVArgentina
-#EXTINF:-1,BEIN SPORTS
-http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8#MegaIPTVArgentina
-#EXTINF:-1,BEIN SPORTS USA
-http://ak-bein-us-en-stream.fubo.tv/UT-Origin/ngrp:BeInSports_EN_all/chunklist_b1628000.m3u8#MegaIPTVArgentina
-#EXTINF:-1,BEIN Sports 1
-http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1,BEIN Sports 2
-http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1,TyC Sports
-rtmp://podi.hopper.pw:443/live/live_afatv1
-#EXTINF:0,PAC-12Net.(Arizona)
-http://xrxs.net/video/live-p12ariz-4728.m3u8?
-#EXTINF:0,PAC-12Net.(Bay Area)
-http://xrxs.net/video/live-p12baya-4728.m3u8?
-#EXTINF:0,PAC-12Net.(Los Angeles)
-http://xrxs.net/video/live-p12losa-4728.m3u8?
-#EXTINF:0,PAC-12Net.(Moutain)
-http://xrxs.net/video/live-p12moun-4728.m3u8?
-#EXTINF:0,PAC-12Net.(Oregon)
-http://xrxs.net/video/live-p12oreg-4728.m3u8?
-#EXTINF:0,PAC-12Net.(Washington)
-http://xrxs.net/video/live-p12wash-4728.m3u8?
-#EXTINF:-1,USA-BASKET UNI.(Arizona)
-http://xrxs.net/video/live-p12ariz-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
-http://xrxs.net/video/live-p12losa-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Moutain)
-http://xrxs.net/video/live-p12moun-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Oregon)
-http://xrxs.net/video/live-p12oreg-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Washington)
-http://xrxs.net/video/live-p12wash-2328.m3u8
-#EXTINF:-1,Antena3 Sports
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-#EXTINF:-1,Eurosport1 ENG
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:-1, Eurosport1 France
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-#EXTINF:-1,FOX SPORT ARG
-http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,Gol TV USA
-http://ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/chunklist_b1596000.m3u8#MegaIPTVArgentina
-#EXTINF:-1,Sevilla TV
-http://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc/stml.m3u8
-#EXTINF:4.004,Sevilla fc
-rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
+
 #EXTINF:-1,TVN (Chi)
 http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
 #EXTINF:-1,ANTENA3 HD
@@ -323,9 +319,9 @@ rtmp://wowza1.top-ix.org/quartaretetv1/formusicweb
 mms://200.42.92.6:1755/qmusica
 #EXTINF:-1,IBIZA ON TV
 rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
-#EXTINF:-1,MUSIC VEVO1 HD
+#EXTINF:-1,MUSIC VEVO
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1,music VEVO HD
+#EXTINF:-1,music VEVO opc 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
 #EXTINF:-1,MUSIC Vevo2 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
@@ -554,7 +550,14 @@ http://www.spruto.tv/get_file/5/089c5dc4e579784688380d9ce7cbff9a/110000/110200/1
 
 #EXTINF:0 group-title="Infantil",VALIENTE
 http://www.spruto.tv/get_file/1/bdbbca9f39a2dc67d1fd3af42a36065b/80000/80734/80734.mp4
-#EXTINF:-1,HustlerTV
+
+#EXTINF:-1,APOCALIPSIS EN LOS ANGELES
+http://www.spruto.tv/get_file/5/0eb819a9120b4cd7aa96e871c2807acf/109000/109075/109075.mp4
+
+#EXTINF:-1,HEROE DE CENTRO COMERCIAL
+http://www.spruto.tv/get_file/2/d75649d825bf5f0ad32dcdf4fb3561bf/106000/106278/106278.mp4
+#EXTINF:-1,16 DESEOS
+http://www.spruto.tv/get_file/2/6ca2d685d9bad2c5c1f4d73f5037ba4d/102000/102949/102949.mp4#EXTINF:-1,HustlerTV
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
 #EXTINF:-1,Adult1
 http://wowza1.videos.movile.com:1935/live/adulto_1.smil/livestream.m3u8
