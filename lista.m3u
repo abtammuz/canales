@@ -7,233 +7,6 @@ http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739
 http://108.168.206.90:1935/cdnsm/cdnsm/enlacesiptv.m3u8
 
 
-#EXTINF:-1,CANAL DE LAS ESTRELLAS
-http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?
-#EXTINF:-1,FORO TV
-http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?
-#EXTINF:-1,CANAL 5
-http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?
-#EXTINF:-1,CANAL ONCE
-http://200.76.77.237/LIVE/H01/CANAL111/PROFILE03.m3u8?
-#EXTINF:-1,EL TRECE
-http://200.76.77.237/LIVE/H01/CANAL113/PROFILE03.m3u8?
-#EXTINF:-1,AZTECA NOTICIAS
-http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?
-#EXTINF:-1,AZTECA 7
-http://200.76.77.237/LIVE/H01/CANAL17/PROFILE03.m3u8?
-#EXTINF:-1,AZTECA 7
-http://200.76.77.237/LIVE/H01/CANAL107/PROFILE03.m3u8?
-#EXTINF:-1,PROYECTO 40 HD
-http://200.76.77.237/LIVE/H01/CANAL140/PROFILE03.m3u8?
-#EXTINF:-1,Teleformula
-http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?
-#EXTINF:-1,CANAL 6 GUADALAJARA (Mex)
-rtmp://200.52.193.57:1935/live/unique/live_2650
-#EXTINF:-1,MEXIQUENSE (Mex)
-rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
-#EXTINF:-1,MAGAZINE (Arg)
-rtmp://stream.mgzn.tv/live/mgzntv/mgzntv playpath=mgzntv swfUrl=http://www.mgzn.tv/sites/all/themes/magazine/images/player.swf live=1 pageUrl=http://www.mgzn.tv/vivo
-#EXTINF:-1,INGENIO TV (Mex)
-http://cdn.xsn.com.mx/Segments/HLS_TS/rtmplive/live/canal30dgtv.mp4.m3u8
-#EXTINF:-1,HISPAN TV (Esp)
-http://ptv-hls.streaming.overon.es/channel04/livehigh.m3u8
-#EXTINF:-1,ONCE TV (Mex)
-http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
-#EXTINF:-1,OCHO TV (Mex)
-http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
-#EXTINF:-1, SONY
-http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?
-#EXTINF:-1, WARNER HD
-http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
-#EXTINF:-1, UNIVERSAL HD
-http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
-#EXTINF:-1, FX HD
-http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?
-#EXTINF:-1, A AND E
-http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?
-#EXTINF:-1, AXN HD
-http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
-#EXTINF:-1, COMEDY CENTRAL
-http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?
-#EXTINF:-1, BBC
-http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
-#EXTINF:-1, E
-http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
-#EXTINF:-1, UNIVERSAL
-http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?
-#EXTINF:-1, SYFY
-http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?
-#EXTINF:-1, FX
-http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?
-#EXTINF:-1, INF
-http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?
-#EXTINF:-1, GOURMET
-http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?
-#EXTINF:-1, GLITZ
-http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?
-#EXTINF:-1, DISTRITO COMEDIA
-http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?
-#EXTINF:-1, TBS
-http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?
-#EXTINF:-1, CASA
-http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8?
-#EXTINF:-1, TELENOVELAS
-http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?
-#EXTINF:-1, CBEEBIES
-http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?
-#EXTINF:-1, DISCOVERY KIDS
-http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
-#EXTINF:-1, DISNEY JR
-http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
-#EXTINF:-1, NICK JR
-http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
-#EXTINF:-1, DISNEY CHANNEL
-http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
-#EXTINF:-1, DISNEY XD
-http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
-#EXTINF:-1, NICK HD
-http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
-#EXTINF:-1, NICK
-http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?
-#EXTINF:-1, CARTOON NETWORK
-http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
-#EXTINF:-1, BOOMERANG
-http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
-#EXTINF:-1, TOONCAST
-http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
-#EXTINF:-1, TIIN
-http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?
-#EXTINF:-1, DISCOVERY
-http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?
-#EXTINF:-1, DISCOVERY HD
-http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
-#EXTINF:-1, HISTORY
-http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?
-#EXTINF:-1, NAT GEO WILD
-http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?
-#EXTINF:-1, NAT GEO
-http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
-#EXTINF:-1, TLC
-http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?
-#EXTINF:-1, TLC HD
-http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
-#EXTINF:-1, INFINITO
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=158&lan=2&rows=40&f=.m3u8
-#EXTINF:-1, ANIMAL PLANET
-http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
-#EXTINF:-1, TURBO
-http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?
-#EXTINF:-1, D SCI
-http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?
-#EXTINF:-1, D. CIVILIZATION
-http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?
-#EXTINF:-1, WOBI
-http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?
-#EXTINF:-1, PROYECTO 40
-http://200.76.77.237/LIVE/H01/CANAL40/PROFILE03.m3u8?
-#EXTINF:-1, FOX
-http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?
-#EXTINF:-1, FOX
-http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?
-#EXTINF:-1, FOX LIFE
-http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?
-#EXTINF:-1, FOX 1 HD
-http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
-#EXTINF:-1, FOX ACTION HD
-http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
-#EXTINF:-1, FOX MOVIES HD
-http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
-#EXTINF:-1, FOX FAMILY
-http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
-#EXTINF:-1, FOX CLASSICS
-http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
-#EXTINF:-1, FOX CINEMA
-http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
-#EXTINF:-1, CINECANAL +
-http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?
-#EXTINF:-1, TNT HD
-http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?
-#EXTINF:-1, GOLDEN EDGE
-http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?
-#EXTINF:-1, GOLDEN HD
-http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?
-#EXTINF:-1, FILM ZONE HD
-http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
-#EXTINF:-1, DE PELICULA HD
-http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?
-#EXTINF:-1, AMC
-http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8?
-#EXTINF:-1, AMC
-http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?
-#EXTINF:-1, SPACE HD
-http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?
-#EXTINF:-1, CINECANAL
-http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?
-#EXTINF:-1, TNT
-http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?
-#EXTINF:-1, STUDIO UNIVERSAL
-http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?
-#EXTINF:-1, TCM
-http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?
-#EXTINF:-1, ESPN HD
-http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
-#EXTINF:-1, FOX SPORTS
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
-#EXTINF:-1, FOX SPORTS 2
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
-#EXTINF:-1, ESPN
-http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
-#EXTINF:-1, ESPN2
-http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
-#EXTINF:-1, MIMUSICA
-http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
-#EXTINF:-1, ME SUENA
-http://uneapple-i.akamaihd.net/hls/live/205017/grupoune_st8@205017/st8_index.m3u8
-#EXTINF:-1, MTV LIVE
-http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
-#EXTINF:-1, TELEHIT
-http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?
-#EXTINF:-1, VH1
-http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
-#EXTINF:-1, MTV
-http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
-#EXTINF:-1, BANDAMAX
-http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?
-#EXTINF:-1,Cantinazo TV
-http://uneapple-i.akamaihd.net/hls/live/206419/grupoune_st18@206419/st18_index.m3u8
-#EXTINF:-1,EXA TV
-http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,MIMUSICA HD (Latino)
-http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
-#EXTINF:-1, TRENDY
-http://uneapple-i.akamaihd.net/hls/live/205019/grupoune_st10@205019/st10_index.m3u8
-#EXTINF:-1,Gotica MUSIC
-rtmp://149.11.34.6:1935/live/gotica.stream 
-#EXTINF:-1,TRENDY MUSICA
-http://uneapple-i.akamaihd.net/hls/live/205019/grupoune_st10@205019/st10_index.m3u8 
-#EXTINF:-1,MesuenaTV1 MUSIC
-http://uneapple-i.akamaihd.net/hls/live/205017/grupoune_st8@205017/st8_index.m3u8 
-#EXTINF:-1,MeSuenaTV2 MUSIC
-http://uneapple-i.akamaihd.net/hls/live/215944/grupoune_st33@215944/st33_index.m3u8 
-#EXTINF:-1,MIMUSICA HD
-http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
-#EXTINF:-1,MUSIC VEVO1 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1,music VEVO HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
-#EXTINF:-1,MUSIC Vevo2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1,MUSIC Vevo3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:-1,KISS TV MUSIC
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1,First MusicHD
-rtmp://109.239.142.62/live/livestream3
-
-
-
-
-
 #EXTINF:-1,ESPN
 http://iphone-streaming.ustream.tv/uhls/20424061/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,NBC DEPORTES
@@ -246,6 +19,79 @@ http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u
 http://iphone-streaming.ustream.tv/uhls/20655302/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,EXA TV
 http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,MUSIC VEVO1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,music VEVO HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+#EXTINF:-1,MUSIC Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,MUSIC Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1,KISS TV MUSIC
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1,First MusicHD
+rtmp://109.239.142.62/live/livestream3
+#EXTINF:1,MUSIC
+http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:-1,FOR MUSIC WEB
+rtmp://wowza1.top-ix.org/quartaretetv1/formusicweb
+#EXTINF:1,QUIEROMUSICA
+mms://200.42.92.6:1755/qmusica
+#EXTINF:-1,IBIZA ON TV
+rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
+#EXTINF:-1, CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
+#EXTINF:-1,ROUGE TV
+rtmp://rtmp.infomaniak.ch/livecast/rougetv
+#EXTINF:-1,VIRGIN TV
+http://wow01.105.net/live/virgin1/.m3u8
+#EXTINF:-1,DREAM
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0,FASHION TV
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+#EXTINF:-1,RADIO 105 TV
+http://serv07.vintera.tv:1935/restream/105tv.stream/playlist.m3u8
+#EXTINF:-1,RADIO MONTECARLO
+http://serv07.vintera.tv:1935/restream/rmc.stream/playlist.m3u8
+#EXTINF:-1,PLANETA POP
+http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+#EXTINF:-1,NOW MUSIC
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,M6 MUSIC
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+#EXTINF:-1,TUBA TV
+rtmp://fms.gazeta.pl/aglive/tuba_tv
+#EXTINF:-1,A-One
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?=-1
+#EXTINF:-1,AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,Electrosound TVHD
+rtmp://www.electrosound.tv:1935/public/stream
+#EXTINF:-1,Gold TV
+http://87.248.160.8/edge/smil:goldtv/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1,Amazing
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+#EXTINF:-1,Music Box UA
+rtmp://212.26.132.86/live/mb_ua
+#EXTINF:-1,HardLife
+http://rtk1.peers.tv/streaming/hardlife_tv/126/tvrec/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1,Global Star TV
+http://msk2.peers.tv/streaming/globalstartv/126/tvrec/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1,Si TV
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1,Melody Channel
+rtmp://186.155.200.118:1935/live/MelodyChannel
+#EXTINF:-1,Televitrola
+rtmp://186.155.200.118:1935/live/Televitrola
+#EXTINF:-1,Mi Gente TV
+http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u8
+
+
+
 #EXTINF:-1,ENSENADA TV
 http://iphone-streaming.ustream.tv/uhls/19318505/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,RAW
@@ -264,6 +110,12 @@ http://iphone-streaming.ustream.tv/ustreamVideo/17248101/streams/live/playlist.m
 rtmp://podi.hopper.pw:443/live/live_telemundo34
 #EXTINF:1,ANIME TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:-1,Disney XD arg
+http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1,Paka Paka arg
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:-1,KW TV México
+http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi
 #EXTINF:-1,MUNDO FOX
 http://66.55.92.79:1935/app/ana69s-channel/ruben.m3u8?
 #EXTINF:-1,SPORTSNET
@@ -320,7 +172,12 @@ rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,TN
 rtsp://stream.tn.com.ar/live/tnhd1
-
+#EXTINF:-1,Victorias Secret Angels TV 
+http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
+#EXTINF:-1 tvg-name=MiamiTVHD" tvg-logo="miamitv.png" group-title="Variedades - Latinos",Miami TV HD 720 USA
+rtmp://74.208.69.207/live/miamitvhd
+#EXTINF:-1,TVEO Miami USA
+http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
  
 #EXTINF:-1,El Trece México
@@ -451,25 +308,8 @@ http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8?MegaIPTVArg
 rtmp://teledifusion.tv/mijastv/mijastvlive
 #EXTINF:-1,Mexico Travel Channel
 http://cdns840stu1010.multistream.net/mtchlive/amlst:live/chunklist_b900000.m3u8
-
 #EXTINF:-1,Hogar TV Colombia
 http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
-#EXTINF:-1,Univision USA
-http://184.154.28.210:1935/univision_attl/univision_attl/playlist.m3u8
-#EXTINF:-1,TVEO Miami USA
-http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1,Disney XD
-http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1,Paka Paka
-http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
-
-#EXTINF:-,Animatoon TV
-rtmp://podi.hopper.pw:443/live/live_animetoontv
-#EXTINF:-1,MegaAnimé TV
-rtmp://podi.hopper.pw:443/live/live_mega_animeshd
-#EXTINF:-1,KW TV México
-http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi
-
 #EXTINF:-1,TVN (Chi)
 http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
 #EXTINF:-1,ANTENA3 HD
@@ -536,86 +376,8 @@ rtmp://87.106.219.140/live/myStream_2
 rtmp://87.106.232.7/live/myStream_2
 #EXTINF:-1, 10
 rtmp://87.106.220.67/live/myStream_2
-#EXTINF:-1,Victorias Secret Angels TV 
-http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
-#EXTINF:-1 tvg-name=MiamiTVHD" tvg-logo="miamitv.png" group-title="Variedades - Latinos",Miami TV HD 720 USA
-rtmp://74.208.69.207/live/miamitvhd
-#EXTINF:1,MUSIC
-http://www.djing.com/tv/hothothot.m3u8
-#EXTINF:-1,FOR MUSIC WEB
-rtmp://wowza1.top-ix.org/quartaretetv1/formusicweb
-#EXTINF:1,QUIEROMUSICA
-mms://200.42.92.6:1755/qmusica
-#EXTINF:-1,IBIZA ON TV
-rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
-#EXTINF:-1,MUSIC VEVO
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1,music VEVO opc 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
-#EXTINF:-1,MUSIC Vevo2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1,MUSIC Vevo3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:-1,KISS TV MUSIC
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1,FIRTS MusicHD
-rtmp://109.239.142.62/live/livestream3
-#EXTINF:-1,SMASH HITS
-http://llnw.live.simplestream.com/coder9/coder.channels.channel2/hls/3/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1, CAPITAL TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,HEART TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
-#EXTINF:-1,ROUGE TV
-rtmp://rtmp.infomaniak.ch/livecast/rougetv
-#EXTINF:-1,VIRGIN TV
-http://wow01.105.net/live/virgin1/.m3u8
-#EXTINF:-1,DREAM
-http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:0,FASHION TV
-http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
-#EXTINF:-1,RADIO 105 TV
-http://serv07.vintera.tv:1935/restream/105tv.stream/playlist.m3u8
-#EXTINF:-1,RADIO MONTECARLO
-http://serv07.vintera.tv:1935/restream/rmc.stream/playlist.m3u8
-#EXTINF:-1,PLANETA POP
-http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1,TELEFE
-rtmp://podi.hopper.pw:443/live/live_beto_3
-#EXTINF:-1,IB3
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
-#EXTINF:-1,NOW MUSIC
-http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1,M6 MUSIC
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-#EXTINF:-1,TUBA TV
-rtmp://fms.gazeta.pl/aglive/tuba_tv
-#EXTINF:-1,A-One
-http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?=-1
-#EXTINF:-1,AKA
-http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1,Electrosound TVHD
-rtmp://www.electrosound.tv:1935/public/stream
-#EXTINF:-1,Gold TV
-http://87.248.160.8/edge/smil:goldtv/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1,Amazing
-http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
-#EXTINF:-1,Music Box UA
-rtmp://212.26.132.86/live/mb_ua
-#EXTINF:-1,HardLife
-http://rtk1.peers.tv/streaming/hardlife_tv/126/tvrec/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1,Global Star TV
-http://msk2.peers.tv/streaming/globalstartv/126/tvrec/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1,Si TV
-http://hd.worldkast.com:1935/8436/8436/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1,Vivra
-http://iphone-streaming.ustream.tv/ustreamVideo/10002020/streams/live/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1,Melody Channel
-rtmp://186.155.200.118:1935/live/MelodyChannel
-#EXTINF:-1,Televitrola
-rtmp://186.155.200.118:1935/live/Televitrola
-#EXTINF:-1,Mi Gente TV
-http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Radio 50's
 http://buecrplb01.cienradios.com.ar/50_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Radio 60's
@@ -787,4 +549,3 @@ http://www.spruto.tv/get_file/5/0eb819a9120b4cd7aa96e871c2807acf/109000/109075/1
 http://www.spruto.tv/get_file/2/d75649d825bf5f0ad32dcdf4fb3561bf/106000/106278/106278.mp4
 #EXTINF:-1,16 DESEOS
 http://www.spruto.tv/get_file/2/6ca2d685d9bad2c5c1f4d73f5037ba4d/102000/102949/102949.mp4
-
