@@ -1,5 +1,5 @@
 #EXTM3U
-EXTINF:-1,HBO
+#EXTINF:-1,HBO
 http://45.55.247.223:8080/h905d/index.m3u8
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="hbo2.png" group-title="Cine y Series",HBO2 Latino
 http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720
