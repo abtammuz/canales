@@ -28,11 +28,12 @@ http://tinyurl.com/na54far
 #EXTINF:-1,Fox Family
 http://tinyurl.com/pcop7o9
 
+
 #EXTINF:-1,ENSENADA TV
 http://iphone-streaming.ustream.tv/uhls/19318505/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,RAW
 http://iphone-streaming.ustream.tv/uhls/11261871/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,History SD
+#EXTINF:-1,History
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,NatGeo Wild HD 720
 http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on
@@ -48,6 +49,8 @@ rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chdisco
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:-1,Disney XD 
 http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 ,Ta Te Ti
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Paka Paka arg
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 #EXTINF:-1,KW TV México
@@ -558,3 +561,64 @@ http://www.spruto.tv/get_file/5/0eb819a9120b4cd7aa96e871c2807acf/109000/109075/1
 http://www.spruto.tv/get_file/2/d75649d825bf5f0ad32dcdf4fb3561bf/106000/106278/106278.mp4
 #EXTINF:-1,16 DESEOS
 http://www.spruto.tv/get_file/2/6ca2d685d9bad2c5c1f4d73f5037ba4d/102000/102949/102949.mp4
+
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="Oblivion.jpg" ,OBLIVION
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!169&authkey=!ALlQcEBQSgTfj30&ithint=file%2cmkv
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="exmachina1.png" ,EX-MACHINA
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!176&authkey=!AIRwBJU0o_MhpvQ&ithint=file%2cmkv
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="bienbenidosalayer.jpg" ,BIENVENIDOS AL AYER
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!174&authkey=!AKAn1h6osTFl6bo&ithint=file%2cmkv
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="nochemuseo3.jpg" ,UNA NOCHE EN EL MUSEO 3
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!173&authkey=!AMX3kSBcw9Z8bLU&ithint=file%2cmkv
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="mortdecai.jpg" ,MORTDECAI
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!170&authkey=!APC7EGmdKSrx4y0&ithint=file%2cmkv
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="rkk.jpg" ,RUROUNI KENSHIN THE LEGEND ENDS
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!168&authkey=!APhOt9MDkETcs_Q&ithint=video%2cavi
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="lapiramide.jpg" ,LA PIRAMIDE
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!166&authkey=!ABOyn1AqFuEwlAU&ithint=file%2cmkv
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="pinguinospapa.jpg" ,LOS PINGUINOS DE PAPA
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!165&authkey=!ALtS6Q01iJDCmic&ithint=video%2cavi
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="focus.jpg" ,FOCUS 2015
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!164&authkey=!APSbsEce74WgNUI&ithint=file%2cmkv
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="escobarmovie.jpg" ,ESCOBAR PARAISO PERDIDO
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!163&authkey=!AC5OXxOqfIxDgEI&ithint=video%2cavi
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="av2noches.jpg" ,AVENTURA DE DOS NOCHES
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!162&authkey=!AGLx4bo2_juhVak&ithint=video%2cavi
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="SH2.jpg" ,SHERLOCK HOLMES: JUEGO DE SOMBRAS
+https://onedrive.live.com/download.aspx?resid=ddd89122e94140c5!227&authkey=!AIilksgTxykonvY&ithint=file%2cmkv
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="malefica.jpg" ,MALEFICA
+https://onedrive.live.com/download.aspx?resid=ddd89122e94140c5!223&authkey=!AK_xPvm1-tWDv5k&ithint=file%2cmkv
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="rp6.jpg" ,RAPIDO Y FURIOSO 6
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!140&authkey=!AEQRR6DGLgqf4eI&ithint=video%2cavi
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="rp5.jpg" ,RAPIDO Y FURIOSO 5
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!139&authkey=!ALRsDwdtDd3WuT0&ithint=video%2cavi
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="rp4.jpg" ,RAPIDO Y FURIOSO 4
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!138&authkey=!AEEStnEowGFLEUY&ithint=video%2cavi
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="rp3.jpg" ,RAPIDO Y FURIOSO 3
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!137&authkey=!APVeVaQtsJlH58U&ithint=video%2cavi
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="rp2.jpg" ,RAPIDO Y FURIOSO 
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!136&authkey=!AFpA8UCewIxKB44&ithint=video%2cavi
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="rp1.jpg" ,RAPIDO Y FURIOSO 1
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!135&authkey=!AEPEVsCxHYrJuJk&ithint=video%2cavi
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="francotirador.jpg" ,FRANCOTIRADOR 2014
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!133&authkey=!AI8AZ4SBKHms-AY&ithint=video%2cmp4
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="cercanaobsesion.jpg",CERCANA OBSESION
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!115&authkey=!AFcURIAaITWRrGI&ithint=video%2cavi
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="intrusos.jpg",INTRUSOS 
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!113&authkey=!AJmQ6ABSiAnTNVk&ithint=video%2cavi
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="alquilerdepadrinos.jpg" ,ALQUILER DE PADRINOS
+https://onedrive.live.com/download.aspx?resid=9caf247c0ad78cb5!73727&authkey=!AMUxFf8m6pkCPnA&ithint=file%2cmkv
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="grey.jpg" ,50 SOMBRAS DE GRAY
+https://onedrive.live.com/download.aspx?resid=9caf247c0ad78cb5!73652&authkey=!AOOliN6j1rYX-Ec&ithint=file%2cmkv
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="elseptimohijo.jpg" ,EL SEPTIMO HIJO
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!116&authkey=!AALBgGqd1MyixpE&ithint=file%2cmkv
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="elmarino4.jpg" ,EL MARINO 4
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!114&authkey=!ANn_mNMIQUNHBaA&ithint=file%2cmkv
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="interestelar.jpg" ,INTERESTELAR 2015
+https://onedrive.live.com/download.aspx?resid=bbc1d5e9f7f2ac26!108&authkey=!AOH1NR5IV8rGDSA&ithint=file%2cmkv
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="taken3.jpg" ,]BUSQUEDA IMPLACABLE 3
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!131&authkey=!AJZfzHpXQB2Md50&ithint=file%2cmkv
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="taken2.jpg" ,BUSQUEDA IMPLACABLE 2
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!132&authkey=!AAUCbt9O9zS0hUg&ithint=file%2cmkv
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="taken1.jpg" ,BUSQUEDA IMPLACABLE 1
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!134&authkey=!ABSd0nYndLF1SFA&ithint=file%2cmkv
