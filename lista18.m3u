@@ -5,6 +5,12 @@ http://45.55.247.223:8080/h905d/index.m3u8
 http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720
 #EXTINF:1,PLANETA FUTBOL
 http://108.168.206.90:1935/cdnsm/cdnsm/enlacesiptv.m3u8
+#EXTINF:1,cartoon
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:1,hboPLUS
+http://31.220.40.108/LiveEdge/HBOPlusLASD/playlist.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
+#EXTINF:1,HBO FAMILY
+http://31.220.40.108/LiveEdge/HBOFamilyLASD/playlist.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
 
 
 #EXTINF:-1,SOUTH PARK
@@ -201,6 +207,8 @@ http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
 http://tvaz-pd.kaltura.com.edgesuite.net/p/461031/sp/46103100/serveFlavor/entryId/0_08wdjxfl/v/1/flavorId/0_8j06e5nk/forceproxy/true/name/a.mp4
 #EXTINF:-1,CANAL DE LAS ESTRELLAS
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+#EXTINF:-1,CANAL DE LAS ESTRELLAS opc2
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
 #EXTINF:-1,FORO TV
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8#MegaIPTVArgentina
 #EXTINF:-1 ,Once TV
