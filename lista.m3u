@@ -7,12 +7,9 @@ http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739
 http://108.168.206.90:1935/cdnsm/cdnsm/enlacesiptv.m3u8
 
 
-#EXTINF:-1,SOUTH PARK
-http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3u8
+
 #EXTINF:-1,ESPN
 http://iphone-streaming.ustream.tv/uhls/20424061/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,NBC DEPORTES
-http://iphone-streaming.ustream.tv/uhls/11872210/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,UNIVISION
 http://iphone-streaming.ustream.tv/uhls/20663014/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,RT ESPAÑOL
@@ -31,8 +28,6 @@ http://tinyurl.com/pcop7o9
 
 #EXTINF:-1,ENSENADA TV
 http://iphone-streaming.ustream.tv/uhls/19318505/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,RAW
-http://iphone-streaming.ustream.tv/uhls/11261871/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,History
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,NatGeo Wild HD 720
@@ -43,7 +38,7 @@ http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&r
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Discovery (Opc.2)
 http://iphone-streaming.ustream.tv/ustreamVideo/17248101/streams/live/playlist.m3u8
-#EXTINF:-1,Latino – Discovery MAX
+#EXTINF:-1,Discovery MAX
 rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chdiscoverymax/2012/07/12/5faca113-13c2-4c8e-9d63-531036f3b107
 #EXTINF:1,ANIME TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
