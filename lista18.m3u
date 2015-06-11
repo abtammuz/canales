@@ -19,10 +19,6 @@ http://iphone-streaming.ustream.tv/uhls/20663014/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,TELEMUNDO
 http://iphone-streaming.ustream.tv/uhls/20713532/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,RITMO LATINO
-http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,EXA TV
-http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,MUSIC VEVO1 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 #EXTINF:-1,music VEVO HD
@@ -112,8 +108,6 @@ http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/ustreamVideo/17248101/streams/live/playlist.m3u8
 #EXTINF:-1,Latino – Discovery MAX
 rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chdiscoverymax/2012/07/12/5faca113-13c2-4c8e-9d63-531036f3b107
-#EXTINF:-1,Telemundo OPC 2
-rtmp://podi.hopper.pw:443/live/live_telemundo34
 #EXTINF:1,ANIME TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:-1,Disney XD arg
