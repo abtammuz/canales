@@ -19,79 +19,14 @@ http://iphone-streaming.ustream.tv/uhls/20663014/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,TELEMUNDO
 http://iphone-streaming.ustream.tv/uhls/20713532/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1,MUSIC VEVO1 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1,music VEVO HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
-#EXTINF:-1,MUSIC Vevo2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1,MUSIC Vevo3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:-1,KISS TV MUSIC
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1,First MusicHD
-rtmp://109.239.142.62/live/livestream3
-#EXTINF:1,MUSIC
-http://www.djing.com/tv/hothothot.m3u8
-#EXTINF:-1,FOR MUSIC WEB
-rtmp://wowza1.top-ix.org/quartaretetv1/formusicweb
-#EXTINF:1,QUIEROMUSICA
-mms://200.42.92.6:1755/qmusica
-#EXTINF:-1,IBIZA ON TV
-rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
-#EXTINF:-1, CAPITAL TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,HEART TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
-#EXTINF:-1,ROUGE TV
-rtmp://rtmp.infomaniak.ch/livecast/rougetv
-#EXTINF:-1,VIRGIN TV
-http://wow01.105.net/live/virgin1/.m3u8
-#EXTINF:-1,DREAM
-http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:0,FASHION TV
-http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
-#EXTINF:-1,RADIO 105 TV
-http://serv07.vintera.tv:1935/restream/105tv.stream/playlist.m3u8
-#EXTINF:-1,RADIO MONTECARLO
-http://serv07.vintera.tv:1935/restream/rmc.stream/playlist.m3u8
-#EXTINF:-1,PLANETA POP
-http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1,IB3
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
-#EXTINF:-1,NOW MUSIC
-http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1,M6 MUSIC
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-#EXTINF:-1,TUBA TV
-rtmp://fms.gazeta.pl/aglive/tuba_tv
-#EXTINF:-1,A-One
-http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?=-1
-#EXTINF:-1,AKA
-http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1,Electrosound TVHD
-rtmp://www.electrosound.tv:1935/public/stream
-#EXTINF:-1,Gold TV
-http://87.248.160.8/edge/smil:goldtv/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1,Amazing
-http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
-#EXTINF:-1,Music Box UA
-rtmp://212.26.132.86/live/mb_ua
-#EXTINF:-1,HardLife
-http://rtk1.peers.tv/streaming/hardlife_tv/126/tvrec/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1,Global Star TV
-http://msk2.peers.tv/streaming/globalstartv/126/tvrec/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1,Si TV
-http://hd.worldkast.com:1935/8436/8436/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1,Melody Channel
-rtmp://186.155.200.118:1935/live/MelodyChannel
-#EXTINF:-1,Televitrola
-rtmp://186.155.200.118:1935/live/Televitrola
-#EXTINF:-1,Mi Gente TV
-http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u8
-
-
+#EXTINF:-1,FOX
+http://tinyurl.com/nqdkajf
+#EXTINF:-1,FOX opc2
+http://tinyurl.com/ojvo8xk
+#EXTINF:-1,FOX CLASSICS
+http://tinyurl.com/na54far
+#EXTINF:-1,Fox Family
+http://tinyurl.com/pcop7o9
 
 #EXTINF:-1,ENSENADA TV
 http://iphone-streaming.ustream.tv/uhls/19318505/streams/live/iphone/playlist.m3u8
@@ -180,7 +115,80 @@ rtmp://74.208.69.207/live/miamitvhd
 #EXTINF:-1,TVEO Miami USA
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
- 
+#EXTINF:-1,MUSIC VEVO1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,music VEVO HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+#EXTINF:-1,MUSIC Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,MUSIC Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1,KISS TV MUSIC
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1,First MusicHD
+rtmp://109.239.142.62/live/livestream3
+#EXTINF:1,MUSIC
+http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:-1,FOR MUSIC WEB
+rtmp://wowza1.top-ix.org/quartaretetv1/formusicweb
+#EXTINF:1,QUIEROMUSICA
+mms://200.42.92.6:1755/qmusica
+#EXTINF:-1,IBIZA ON TV
+rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
+#EXTINF:-1, CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
+#EXTINF:-1,ROUGE TV
+rtmp://rtmp.infomaniak.ch/livecast/rougetv
+#EXTINF:-1,VIRGIN TV
+http://wow01.105.net/live/virgin1/.m3u8
+#EXTINF:-1,DREAM
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0,FASHION TV
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+#EXTINF:-1,RADIO 105 TV
+http://serv07.vintera.tv:1935/restream/105tv.stream/playlist.m3u8
+#EXTINF:-1,RADIO MONTECARLO
+http://serv07.vintera.tv:1935/restream/rmc.stream/playlist.m3u8
+#EXTINF:-1,PLANETA POP
+http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+#EXTINF:-1,NOW MUSIC
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,M6 MUSIC
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+#EXTINF:-1,TUBA TV
+rtmp://fms.gazeta.pl/aglive/tuba_tv
+#EXTINF:-1,A-One
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?=-1
+#EXTINF:-1,AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,Electrosound TVHD
+rtmp://www.electrosound.tv:1935/public/stream
+#EXTINF:-1,Gold TV
+http://87.248.160.8/edge/smil:goldtv/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1,Amazing
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+#EXTINF:-1,Music Box UA
+rtmp://212.26.132.86/live/mb_ua
+#EXTINF:-1,HardLife
+http://rtk1.peers.tv/streaming/hardlife_tv/126/tvrec/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1,Global Star TV
+http://msk2.peers.tv/streaming/globalstartv/126/tvrec/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1,Si TV
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1,Melody Channel
+rtmp://186.155.200.118:1935/live/MelodyChannel
+#EXTINF:-1,Televitrola
+rtmp://186.155.200.118:1935/live/Televitrola
+#EXTINF:-1,Mi Gente TV
+http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u8
+
+
+
+
 #EXTINF:-1,El Trece México
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
 #EXTINF:-1,AZTECA 13
