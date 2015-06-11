@@ -7,6 +7,8 @@ http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739
 http://108.168.206.90:1935/cdnsm/cdnsm/enlacesiptv.m3u8
 
 
+#EXTINF:-1,SOUTH PARK
+http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,ESPN
 http://iphone-streaming.ustream.tv/uhls/20424061/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,NBC DEPORTES
@@ -16,7 +18,9 @@ http://iphone-streaming.ustream.tv/uhls/20663014/streams/live/iphone/playlist.m3
 #EXTINF:-1,RT ESPAÑOL
 http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,TELEMUNDO
-http://iphone-streaming.ustream.tv/uhls/20655302/streams/live/iphone/playlist.m3u8
+http://iphone-streaming.ustream.tv/uhls/20713532/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,RITMO LATINO
+http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,EXA TV
 http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,MUSIC VEVO1 HD
@@ -106,6 +110,8 @@ http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&r
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Discovery (Opc.2)
 http://iphone-streaming.ustream.tv/ustreamVideo/17248101/streams/live/playlist.m3u8
+#EXTINF:-1,Latino – Discovery MAX
+rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chdiscoverymax/2012/07/12/5faca113-13c2-4c8e-9d63-531036f3b107
 #EXTINF:-1,Telemundo OPC 2
 rtmp://podi.hopper.pw:443/live/live_telemundo34
 #EXTINF:1,ANIME TV
