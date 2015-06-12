@@ -589,3 +589,7 @@ http://www.spruto.tv/get_file/5/b6cb2e3540e1f274c334f36ae1e35810/116000/116354/1
 http://www.spruto.tv/get_file/5/782ea5b59943d4f6c605899d58294e05/115000/115514/115514.mp4
 #EXTINF:-1,X-MEN 2
 http://www.spruto.tv/get_file/2/662a0f8847ad56f80b2422064f6e4534/105000/105714/105714.mp4
+#EXTINF:-1,PINGUINOS 2015
+http://cdn60.my.mail.ru/hv/52472591.mp4?sign=863a2ea15812e8ea85c8814f31159cc9c8d7a190&slave[]=s%3Ahttp%3A%2F%2F127.0.0.1%3A5010%2F52472591-hv.mp4&p=f&expire_at=1434142800&touch=1420264361&region=67&exists=1
+#EXTINF:-1,PINGUINOS 2015 2
+http://cdn64.my.mail.ru/v/52847351.mp4?sign=86c6c4751590d1a7bc59a116e91fec8ed4400e67&slave[]=s%3Ahttp%3A%2F%2F127.0.0.1%3A5010%2F52847351-v.mp4&p=f&expire_at=1434139200&touch=1422675119&region=67&exists=1
