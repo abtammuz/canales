@@ -1227,16 +1227,13 @@ http://www.spruto.tv/get_file/2/662a0f8847ad56f80b2422064f6e4534/105000/105714/1
 
 
 
-#EXTINF:-1, Korea m3u8 Ask TV
-http://edge2.everyon.tv/etv2/phd1005/BratuMarian.m3u8
-#EXTINF:-1, Korea m3u8 Livething Premium
+
+#EXTINF:-1, Kore Livething Premium
 http://edge2.everyon.tv/etv2/phd1006/BratuMarian.m3u8
-#EXTINF:-1, Korea m3u8 Okadai
+#EXTINF:-1, Korea Okadai
 http://edge2.everyon.tv/etv2/pld1003/BratuMarian.m3u8
-#EXTINF:-1, Korea m3u8 Okadai HD
+#EXTINF:-1, Korea Okadai HD
 http://edge2.everyon.tv/etv2/phd1003/BratuMarian.m3u8
-#EXTINF:-1, Korea m3u8 Paradise TV
-http://edge2.everyon.tv/etv2/pld1008/BratuMarian.m3u8
 #EXTINF:-1, Korea:韩国phd1008
 rtmp://edge2.everyon.tv/etv2/phd1008
 #EXTINF:-1, Korea:韩国phd499
@@ -1273,7 +1270,7 @@ rtmp://edge2.everyon.tv/etv2sb/phd992
 rtmp://edge2.everyon.tv/etv2sb/phd993
 #EXTINF:-1, HQ Amateurs
 http://galsflv.videosz.com//mom-and-the-pop_5/videosz-mom-and-the-pop-53.flv
-#EXTINF:-1, Bella Luz rtsp
+#EXTINF:-1,Bella Luz
 rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
 #EXTINF:-1,Adult1
 http://wowza1.videos.movile.com:1935/live/adulto_1.smil/livestream.m3u8
