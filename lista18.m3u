@@ -677,14 +677,8 @@ http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&reba
 http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi
 #EXTINF:-1,MUNDO FOX
 http://66.55.92.79:1935/app/ana69s-channel/ruben.m3u8?
-#EXTINF:-1,CNN Español
-http://myinfadroid.tk/live/yClA9PUFzX/OyZ6kChl8J/102.m3u8
-#EXTINF:-1 tvg-id="Telemundo" tvg-logo="telemundo.png" group-title="Variedades - Latinos",Telemundo 34 USA
+#EXTINF:-1 tvg-id="Telemundo" tvg-logo="telemundo.png" group-title="Variedades - Latinos",TELEMUNDO USA
 rtmp://199.168.116.19/app/chivass_69s-channel
-
-#EXTINF:-1 tvg-id="CNN en Español" tvg-name="CNN en Español" tvg-logo="cnn en espanol.png" group-title="Noticias",CNN en español
-http://187.247.255.139/Apple/CNNEspanol1200.m3u8
-
 #EXTINF:-1,SPORTSNET
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 #EXTINF:-1,CDN SportsMax
