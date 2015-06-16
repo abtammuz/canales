@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,ESPN DEPORTES
-http://iphone-streaming.ustream.tv/uhls/20192751/streams/live/iphone/playlist.m3u8
+http://iphone-streaming.ustream.tv/uhls/20307814/streams/live/iphone/playlist.m3u8
 #EXTINF:1,PLANETA FUTBOL
 http://108.168.206.90:1935/cdnsm/cdnsm/enlacesiptv.m3u8
 #EXTINF:-1,UNIVISION
@@ -32,8 +32,6 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacal
 http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1 ,Ta Te Ti
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Paka Paka arg
-http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 #EXTINF:-1,KW TV México
 http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi
 #EXTINF:-1,MUNDO FOX
@@ -44,10 +42,6 @@ http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8#MegaIPTVArgentina
-#EXTINF:-1,BEIN SPORTS
-http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8#MegaIPTVArgentina
-#EXTINF:-1,BEIN SPORTS USA
-http://ak-bein-us-en-stream.fubo.tv/UT-Origin/ngrp:BeInSports_EN_all/chunklist_b1628000.m3u8#MegaIPTVArgentina
 #EXTINF:-1,TyC Sports
 rtmp://podi.hopper.pw:443/live/live_afatv1
 #EXTINF:0,PAC-12Net.(Arizona)
@@ -591,12 +585,6 @@ http://www.spruto.tv/get_file/5/b6cb2e3540e1f274c334f36ae1e35810/116000/116354/1
 http://www.spruto.tv/get_file/5/782ea5b59943d4f6c605899d58294e05/115000/115514/115514.mp4
 #EXTINF:-1,X-MEN 2
 http://www.spruto.tv/get_file/2/662a0f8847ad56f80b2422064f6e4534/105000/105714/105714.mp4
-#EXTINF:-1,DEAD SPACE
-http://cs510415v4.vk.me/u145536490/videos/d0d6e044f2.360.mp4?extra=x3puuvfBVhDncWs26V6KR7au4_GtWUMfbq_Fh4g5nqoHKCQ8MFI3MN-tqoEUp-WrNna7ndPHwG33I_tdfn0cJPS8YwG54w8WjQ
-#EXTINF:-1,CAPITAN AMERICA
-http://cs9-15v4.vk.me/p10/bb902c4f8278.360.mp4?extra=U3VwykEdsNaY2xSEt3v6hsLtGf40fJ8ZXRjjlvDugbpNZf6jovC49EmpTq9ViaWLhxmL3YJC8hUkbFVZ9mTgm5R2x6TASkB27g
-#EXTINF:-1,CHAPPIE
-http://cs634705v4.vk.me/0/u261870732/videos/46b4f917fa.360.mp4?extra=3SiUCo_k90NMOepIadh_fAuNLnnlnhzC7AkUJ2D-BJZYCDM0rE1l9omoPJ1wqAJ6-GBEMCepRHC9DtA8IgSezF6gLNuu1QXPUQ
 
 
 
