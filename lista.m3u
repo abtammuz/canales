@@ -5,6 +5,8 @@ http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOTcmb
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT04NSZsYW49MiZyb3dzPTIwJnNlc3Npb249NnN4YXA1OWFicnhobGl6&f=.m3u8
 #EXTINF:-1, ANIMAL PLANET
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTZzeGFwNTlhYnJ4aGxpeg==&f=.m3u8
+#EXTINF:-1,A
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yNjImbGFuPTImcm93cz05OSZzZXNzaW9uPTZzeGFwNTlhYnJ4aGxpeiZsYW49Mg%3D%3D&f=.m3u8
 
 #EXTINF:-1,ESPN DEPORTES
 http://iphone-streaming.ustream.tv/uhls/20307814/streams/live/iphone/playlist.m3u8
