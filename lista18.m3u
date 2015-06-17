@@ -651,6 +651,8 @@ http://iphone-streaming.ustream.tv/uhls/20307814/streams/live/iphone/playlist.m3
 http://108.168.206.90:1935/cdnsm/cdnsm/enlacesiptv.m3u8
 #EXTINF:-1,UNIVISION
 http://iphone-streaming.ustream.tv/uhls/20663014/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,TELEMUNDO USA
+rtmp://199.168.116.19/app/chivass_69s-channel
 #EXTINF:-1,RT ESPAÑOL
 http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,ENSENADA TV
@@ -677,8 +679,6 @@ http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&reba
 http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi
 #EXTINF:-1,MUNDO FOX
 http://66.55.92.79:1935/app/ana69s-channel/ruben.m3u8?
-#EXTINF:-1 tvg-id="Telemundo" tvg-logo="telemundo.png" group-title="Variedades - Latinos",TELEMUNDO USA
-rtmp://199.168.116.19/app/chivass_69s-channel
 #EXTINF:-1,SPORTSNET
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 #EXTINF:-1,CDN SportsMax
@@ -1233,7 +1233,8 @@ http://www.spruto.tv/get_file/7/0eaa75a746e22a3f89fed8269a68bedb/78000/78196/781
 
 
 
-
+#EXTINF:0,PlayBoy TvChat
+http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w95313209.m3u8
 #EXTINF:-1, Kore Livething Premium
 http://edge2.everyon.tv/etv2/phd1006/BratuMarian.m3u8
 #EXTINF:-1, Korea Okadai
