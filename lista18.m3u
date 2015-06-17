@@ -646,14 +646,6 @@ rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
 http://wowza1.videos.movile.com:1935/live/adulto_1.smil/livestream.m3u8
 #EXTINF:-1,adult2
 http://wowza1.videos.movile.com:1935/live/adultopremium_1.smil/livestream.m3u8
-#EXTINF:-1,adult3
-http://wowza1.videos.movile.com:8080/live/adulto_1.smil/livestream.m3u8
-#EXTINF:-1,X Wepa
-http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
-#EXTINF:-1,X Wepa2
-http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/media-b1100000_2400.m3u8
-#EXTINF:0,X ADult TV
-http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
 #EXTINF:-1,X Jazmintv
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
 #EXTINF:-1,Xxx
