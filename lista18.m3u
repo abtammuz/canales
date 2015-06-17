@@ -1,6 +1,6 @@
 #EXTM3U
 group,NUEVOS
-#EXTINF:-1,HBO2
+#EXTINF:-1 group-title="NUEVOS" parent-code="1234",HBO2
 http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720
 #EXTINF:-1,UNIVISION
 http://iphone-streaming.ustream.tv/uhls/20663014/streams/live/iphone/playlist.m3u8
@@ -36,8 +36,11 @@ http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&reba
 http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi
 #EXTINF:-1,MUNDO FOX
 http://66.55.92.79:1935/app/ana69s-channel/ruben.m3u8?
+
+
+
 GROUP,DEPORTES
-#EXTINF:-1,RT ESPAÑOL
+#EXTINF:-1 group-title="DEPORTES" parent-code="1234",RT ESPAÑOL
 http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,ESPN DEPORTES
 http://iphone-streaming.ustream.tv/uhls/20286578/streams/live/iphone/playlist.m3u8
@@ -168,7 +171,7 @@ rtmp://186.155.200.118:1935/live/Televitrola
 http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u8
 
 GROUP,NACIONALES
-#EXTINF:-1,El Trece México
+#EXTINF:-1 group-title="NACIONALES" parent-code="1234",CANAL 13
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
 #EXTINF:-1,AZTECA 13
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
@@ -457,7 +460,7 @@ http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
 
 
 GROUP,PELICULAS
-#EXTINF:0,P-MENTES PELIGROSAS
+#EXTINF:-1 group-title="PELICULAS" parent-code="1234",P-MENTES PELIGROSAS
 https://ia600309.us.archive.org/34/items/b1fb1b3745.360/b1fb1b3745.360.mp4
 #EXTINF:0,P-INTRUSOS
 https://ia600309.us.archive.org/17/items/IntrrStream/INTRRS.mp4
