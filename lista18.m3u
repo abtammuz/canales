@@ -38,7 +38,7 @@ http://66.55.92.79:1935/app/ana69s-channel/ruben.m3u8?
 
 
 
-#EXTINF:-1 group-title="DEPORTES" parent-code="1234",RT ESPAÑOL
+#EXTINF:-1 group-title="DEPORTES",RT ESPAÑOL
 http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,ESPN DEPORTES
 http://iphone-streaming.ustream.tv/uhls/20286578/streams/live/iphone/playlist.m3u8
@@ -468,21 +468,21 @@ http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
 http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
 
 
-#EXTINF:-1 group-title="PELICULAS",P-MENTES PELIGROSAS
+#EXTINF:-0 group-title="PELICULAS",MENTES PELIGROSAS
 https://ia600309.us.archive.org/34/items/b1fb1b3745.360/b1fb1b3745.360.mp4
-#EXTINF:0,P-INTRUSOS
+#EXTINF:0,INTRUSOS
 https://ia600309.us.archive.org/17/items/IntrrStream/INTRRS.mp4
-#EXTINF:0,P-INDESTRUCTIBLES 3
+#EXTINF:0,INDESTRUCTIBLES 3
 https://ia600309.us.archive.org/4/items/industructibles/I%C3%91D3TRUC3.mp4
-#EXTINF:0,P-FRANCOTIRADOR
+#EXTINF:0,FRANCOTIRADOR
 https://ia600309.us.archive.org/0/items/FRCNTDR/FRCNTDR.mp4
-#EXTINF:0,P-FOCUS
+#EXTINF:0,FOCUS
 https://ia600309.us.archive.org/21/items/hemelgelvez4_gmail_FCS/FCS.mp4
-#EXTINF:0,P-RESUCITADOS
+#EXTINF:0,RESUCITADOS
 https://ia800309.us.archive.org/21/items/1esucitados./1esucitados..mp4
-#EXTINF:0,P-ROBOCOP
+#EXTINF:0,ROBOCOP
 https://ia601507.us.archive.org/33/items/4obocop./4obocop..mp4
-#EXTINF:0,P-DESTINO JUPITER
+#EXTINF:0,DESTINO JUPITER
 https://ia600309.us.archive.org/17/items/D3T1N0JUT3R/D3T1N0%20JUT3R.mp4
 #EXTINF:0,ALADDIN
 http://www.spruto.tv/get_file/1/38577f19393369cb2c5d785beb3c3ffc/80000/80730/80730.mp4
@@ -607,7 +607,7 @@ http://www.spruto.tv/get_file/7/0eaa75a746e22a3f89fed8269a68bedb/78000/78196/781
 
 
 
-#EXTINF:-1 group-title="ADULTOS" parent-code="1234",1PlayBoy TvChat
+#EXTINF:-1 group-title="ADULTOS" parent-code="1234",PlayBoy TvChat
 http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w95313209.m3u8
 #EXTINF:-1 group-title="ADULTOS" parent-code="1234",Kore Livething Premium
 http://edge2.everyon.tv/etv2/phd1006/BratuMarian.m3u8
@@ -1615,7 +1615,4 @@ http://videos-porno2.petardashd.com/archivos3/hd/hd-167362-c7c997c.mp4
 http://videos-porno8.petardashd.com/archivos3/hd/hd-167593-cb7cb5e.mp4
 #EXTINF:-1,VID
 http://videos-porno2.petardashd.com/archivos3/hd/hd-171088-269e957.mp4
-
-
-
 
