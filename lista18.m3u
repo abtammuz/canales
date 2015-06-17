@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="NUEVOS" parent-code="1234",HBO2
+#EXTINF:-1 group-title="NUEVOS",HBO2
 http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720
 #EXTINF:-1,UNIVISION
 http://iphone-streaming.ustream.tv/uhls/20663014/streams/live/iphone/playlist.m3u8
@@ -92,14 +92,18 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebas
 rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:-1,Victorias Secret Angels TV 
 http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
-#EXTINF:-1 tvg-name=MiamiTVHD" tvg-logo="miamitv.png" group-title="Variedades - Latinos",Miami TV HD 720 USA
+#EXTINF:-1,Miami TV HD 720 USA
 rtmp://74.208.69.207/live/miamitvhd
 #EXTINF:-1,TVEO Miami USA
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
 
 
-#EXTINF:-1 group-title="MUSICA" parent-code="1234",MUSIC VEVO1 HD
+
+
+
+
+#EXTINF:-1 group-title="MUSICA",MUSIC VEVO1 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 #EXTINF:-1,music VEVO HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
@@ -172,7 +176,9 @@ http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m
 
 
 
-#EXTINF:-1 group-title="NACIONALES" parent-code="1234",CANAL 13
+
+
+#EXTINF:-1 group-title="NACIONALES",CANAL 13
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
 #EXTINF:-1,AZTECA 13
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
@@ -370,6 +376,8 @@ rtmp://87.106.232.7/live/myStream_2
 rtmp://87.106.220.67/live/myStream_2
 
 
+
+
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Radio 50's
 http://buecrplb01.cienradios.com.ar/50_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Radio 60's
@@ -460,7 +468,7 @@ http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
 http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
 
 
-#EXTINF:-1 group-title="PELICULAS" parent-code="1234",P-MENTES PELIGROSAS
+#EXTINF:-1 group-title="PELICULAS",P-MENTES PELIGROSAS
 https://ia600309.us.archive.org/34/items/b1fb1b3745.360/b1fb1b3745.360.mp4
 #EXTINF:0,P-INTRUSOS
 https://ia600309.us.archive.org/17/items/IntrrStream/INTRRS.mp4
