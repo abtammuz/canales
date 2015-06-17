@@ -1,5 +1,4 @@
 #EXTM3U
-group,NUEVOS
 #EXTINF:-1 group-title="NUEVOS" parent-code="1234",HBO2
 http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720
 #EXTINF:-1,UNIVISION
@@ -39,7 +38,6 @@ http://66.55.92.79:1935/app/ana69s-channel/ruben.m3u8?
 
 
 
-GROUP,DEPORTES
 #EXTINF:-1 group-title="DEPORTES" parent-code="1234",RT ESPAÑOL
 http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,ESPN DEPORTES
@@ -98,8 +96,10 @@ http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet
 rtmp://74.208.69.207/live/miamitvhd
 #EXTINF:-1,TVEO Miami USA
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-group,MUSICA
-#EXTINF:-1,MUSIC VEVO1 HD
+
+
+
+#EXTINF:-1 group-title="MUSICA" parent-code="1234",MUSIC VEVO1 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 #EXTINF:-1,music VEVO HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
@@ -170,7 +170,8 @@ rtmp://186.155.200.118:1935/live/Televitrola
 #EXTINF:-1,Mi Gente TV
 http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u8
 
-GROUP,NACIONALES
+
+
 #EXTINF:-1 group-title="NACIONALES" parent-code="1234",CANAL 13
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
 #EXTINF:-1,AZTECA 13
@@ -459,7 +460,6 @@ http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
 http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
 
 
-GROUP,PELICULAS
 #EXTINF:-1 group-title="PELICULAS" parent-code="1234",P-MENTES PELIGROSAS
 https://ia600309.us.archive.org/34/items/b1fb1b3745.360/b1fb1b3745.360.mp4
 #EXTINF:0,P-INTRUSOS
@@ -599,7 +599,6 @@ http://www.spruto.tv/get_file/7/0eaa75a746e22a3f89fed8269a68bedb/78000/78196/781
 
 
 
-GROUP,ADULTOS
 #EXTINF:-1 group-title="ADULTOS" parent-code="1234",1PlayBoy TvChat
 http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w95313209.m3u8
 #EXTINF:-1 group-title="ADULTOS" parent-code="1234",Kore Livething Premium
