@@ -596,11 +596,11 @@ http://www.spruto.tv/get_file/7/0eaa75a746e22a3f89fed8269a68bedb/78000/78196/781
 
 
 
-#EXTINF:0,PlayBoy TvChat
+#EXTINF:-1 PARENT-CODE="1234",PlayBoy TvChat
 http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w95313209.m3u8
-#EXTINF:-1, Kore Livething Premium
+#EXTINF:-1 PARENT-CODE="1234", Kore Livething Premium
 http://edge2.everyon.tv/etv2/phd1006/BratuMarian.m3u8
-#EXTINF:-1, Korea Okadai
+#EXTINF:-1 PARENT-CODE="1234", Korea Okadai
 http://edge2.everyon.tv/etv2/pld1003/BratuMarian.m3u8
 #EXTINF:-1, Korea Okadai HD
 http://edge2.everyon.tv/etv2/phd1003/BratuMarian.m3u8
