@@ -2,9 +2,7 @@
 #EXTINF:-1,HBO2
 http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720
 #EXTINF:-1,ESPN DEPORTES
-http://iphone-streaming.ustream.tv/uhls/20286578/streams/live/iphone/playlist.m3u8
-#EXTINF:1,PLANETA FUTBOL
-http://108.168.206.90:1935/cdnsm/cdnsm/enlacesiptv.m3u8
+http://iphone-streaming.ustream.tv/uhls/20378344/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,UNIVISION
 http://iphone-streaming.ustream.tv/uhls/20663014/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo" tvg-logo="telemundo.png" group-title="Variedades - Latinos",TELEMUNDO USA
@@ -29,8 +27,6 @@ http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&r
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Discovery (Opc.2)
 http://iphone-streaming.ustream.tv/ustreamVideo/17248101/streams/live/playlist.m3u8
-#EXTINF:-1,Discovery MAX
-rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chdiscoverymax/2012/07/12/5faca113-13c2-4c8e-9d63-531036f3b107
 #EXTINF:1,ANIME TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:-1,BOOMERANG 
