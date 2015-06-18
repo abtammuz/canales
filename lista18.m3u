@@ -23,8 +23,6 @@ http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&r
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Discovery (Opc.2)
 http://iphone-streaming.ustream.tv/ustreamVideo/17248101/streams/live/playlist.m3u8
-#EXTINF:-1,Latino – Discovery MAX
-rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chdiscoverymax/2012/07/12/5faca113-13c2-4c8e-9d63-531036f3b107
 #EXTINF:1,ANIME TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:-1,BOOMERANG 
@@ -41,7 +39,7 @@ http://66.55.92.79:1935/app/ana69s-channel/ruben.m3u8?
 #EXTINF:-1 group-title="DEPORTES",RT ESPAÑOL
 http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,ESPN DEPORTES
-http://iphone-streaming.ustream.tv/uhls/20286578/streams/live/iphone/playlist.m3u8
+http://iphone-streaming.ustream.tv/uhls/20378344/streams/live/iphone/playlist.m3u8
 #EXTINF:1,PLANETA FUTBOL
 http://108.168.206.90:1935/cdnsm/cdnsm/enlacesiptv.m3u8
 #EXTINF:-1,SPORTSNET
