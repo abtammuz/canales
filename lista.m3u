@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:0,Fox Sports
-http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
-
-#EXTINF:0,Fox Sports 1
-http://198.27.94.105/hls/fox1.m3u8
-
-#EXTINF:0,Fox Sports 2
-http://198.27.94.105/hls/fox2.m3u8
 #EXTINF:-1,HBO2
 http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720
 #EXTINF:-1,ESPN DEPORTES
