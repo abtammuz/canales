@@ -4,7 +4,7 @@ http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739
 #EXTINF:-1,UNIVISION
 http://iphone-streaming.ustream.tv/uhls/20663014/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,TELEMUNDO USA
-rtmp://199.168.116.19/app/chivass_69s-channel
+http://iphone-streaming.ustream.tv/uhls/20550945/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,TV
 http://iphone-streaming.ustream.tv/uhls/18376856/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,CANAL 20
