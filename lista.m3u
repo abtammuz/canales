@@ -5,8 +5,8 @@ http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739
 http://iphone-streaming.ustream.tv/uhls/20476779/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,UNIVISION
 http://iphone-streaming.ustream.tv/uhls/20663014/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemundo" tvg-logo="telemundo.png" group-title="Variedades - Latinos",TELEMUNDO USA
-rtmp://199.168.116.19/app/chivass_69s-channel
+#EXTINF:-1,TELEMUNDO USA
+http://iphone-streaming.ustream.tv/uhls/20550945/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,RT ESPAÑOL
 http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,ENSENADA TV
