@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="NUEVOS",HBO2
 http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720
+#EXTINF:-1,HBOW.mx,HBO
+http://45.55.247.223:8080/h905d/index.m3u8
+#EXTINF:-1,HBO2.mx,HBO2
+http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720%0Aext,---
+#EXTINF:-1, HBO HD
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
 #EXTINF:-1,UNIVISION
 http://iphone-streaming.ustream.tv/uhls/20663014/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,TELEMUNDO USA
