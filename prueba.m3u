@@ -1,54 +1,4 @@
 #EXTM3U
-#EXTINF:-1,SONY HD
-http://stuped.oneplay.tv/reproducir/90.m3u8
-#EXTINF:-1,CINECANAL PLUS HD
-http://stuped.oneplay.tv/reproducir/310.m3u8
-#EXTINF:-1,MTV LIVE HD
-http://stuped.oneplay.tv/reproducir/430.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://stuped.oneplay.tv/reproducir/394.m3u8
-#EXTINF:-1,UNIVERSAL HD
-http://stuped.oneplay.tv/reproducir/98.m3u8
-#EXTINF:-1,FX HD
-http://stuped.oneplay.tv/reproducir/102.m3u8
-#EXTINF:-1,A&E HD
-http://stuped.oneplay.tv/reproducir/106.m3u8
-#EXTINF:-1,AXN HD
-http://stuped.oneplay.tv/reproducir/110.m3u8
-#EXTINF:-1,Comedy Central HD
-http://stuped.oneplay.tv/reproducir/118.m3u8
-#EXTINF:-1,NICK HD
-http://stuped.oneplay.tv/reproducir/214.m3u8
-#EXTINF:-1,Fox Movies HD
-http://stuped.oneplay.tv/reproducir/306.m3u8
-#EXTINF:-1,MGM HD
-http://stuped.oneplay.tv/reproducir/330.m3u8
-#EXTINF:-1,TNT HD
-http://stuped.oneplay.tv/reproducir/314.m3u8
-#EXTINF:-1,ESPN HD
-http://stuped.oneplay.tv/reproducir/390.m3u8
-#EXTINF:-1,TruTV HD
-http://stuped.oneplay.tv/reproducir/114.m3u8
-#EXTINF:-1,History Channel HD
-http://stuped.oneplay.tv/reproducir/246.m3u8
-#EXTINF:-1,VH1 HD
-http://stuped.oneplay.tv/reproducir/438.m3u8
-#EXTINF:-1,The Film Zone HD
-http://stuped.oneplay.tv/reproducir/322.m3u8
-#EXTINF:-1,Fox Action HD
-http://stuped.oneplay.tv/reproducir/302.m3u8
-#EXTINF:-1,Fox 1 HD
-http://stuped.oneplay.tv/reproducir/298.m3u8
-#EXTINF:-1,Fox Sport 2 HD
-http://stuped.oneplay.tv/reproducir/401.m3u8
-#EXTINF:-1,Fox Sport HD
-http://stuped.oneplay.tv/reproducir/398.m3u8
-#EXTINF:-1,Waner Channel HD
-http://stuped.oneplay.tv/reproducir/94.m3u8 
-#EXTINF:-1,Space HD
-http://stuped.oneplay.tv/reproducir/334.m3u8
-#EXTINF:-1,FOX HD
-http://stuped.oneplay.tv/reproducir/86.m3u8
 #EXTINF:-1,TLC
 http://stuped.oneplay.tv/reproducir/290.m3u8
 #EXTINF:-1,LifeTime
@@ -189,4 +139,54 @@ http://stuped.oneplay.tv/reproducir/90.m3u8
 http://stuped.oneplay.tv/reproducir/352.m3u8
 #EXTINF:-1,Fox 1
 http://stuped.oneplay.tv/reproducir/300.m3u8
+#EXTINF:-1,SONY HD
+http://stuped.oneplay.tv/reproducir/90.m3u8
+#EXTINF:-1,CINECANAL PLUS HD
+http://stuped.oneplay.tv/reproducir/310.m3u8
+#EXTINF:-1,MTV LIVE HD
+http://stuped.oneplay.tv/reproducir/430.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://stuped.oneplay.tv/reproducir/394.m3u8
+#EXTINF:-1,UNIVERSAL HD
+http://stuped.oneplay.tv/reproducir/98.m3u8
+#EXTINF:-1,FX HD
+http://stuped.oneplay.tv/reproducir/102.m3u8
+#EXTINF:-1,A&E HD
+http://stuped.oneplay.tv/reproducir/106.m3u8
+#EXTINF:-1,AXN HD
+http://stuped.oneplay.tv/reproducir/110.m3u8
+#EXTINF:-1,Comedy Central HD
+http://stuped.oneplay.tv/reproducir/118.m3u8
+#EXTINF:-1,NICK HD
+http://stuped.oneplay.tv/reproducir/214.m3u8
+#EXTINF:-1,Fox Movies HD
+http://stuped.oneplay.tv/reproducir/306.m3u8
+#EXTINF:-1,MGM HD
+http://stuped.oneplay.tv/reproducir/330.m3u8
+#EXTINF:-1,TNT HD
+http://stuped.oneplay.tv/reproducir/314.m3u8
+#EXTINF:-1,ESPN HD
+http://stuped.oneplay.tv/reproducir/390.m3u8
+#EXTINF:-1,TruTV HD
+http://stuped.oneplay.tv/reproducir/114.m3u8
+#EXTINF:-1,History Channel HD
+http://stuped.oneplay.tv/reproducir/246.m3u8
+#EXTINF:-1,VH1 HD
+http://stuped.oneplay.tv/reproducir/438.m3u8
+#EXTINF:-1,The Film Zone HD
+http://stuped.oneplay.tv/reproducir/322.m3u8
+#EXTINF:-1,Fox Action HD
+http://stuped.oneplay.tv/reproducir/302.m3u8
+#EXTINF:-1,Fox 1 HD
+http://stuped.oneplay.tv/reproducir/298.m3u8
+#EXTINF:-1,Fox Sport 2 HD
+http://stuped.oneplay.tv/reproducir/401.m3u8
+#EXTINF:-1,Fox Sport HD
+http://stuped.oneplay.tv/reproducir/398.m3u8
+#EXTINF:-1,Waner Channel HD
+http://stuped.oneplay.tv/reproducir/94.m3u8 
+#EXTINF:-1,Space HD
+http://stuped.oneplay.tv/reproducir/334.m3u8
+#EXTINF:-1,FOX HD
+http://stuped.oneplay.tv/reproducir/86.m3u8
 
