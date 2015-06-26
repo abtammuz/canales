@@ -1,24 +1,18 @@
 #EXTM3U
-#EXTINF:-1 group-title="NUEVOS",HBO2
-http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720
+#EXTINF:-1,ESPN DEPORTES
+http://iphone-streaming.ustream.tv/uhls/20474058/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,UNIVISION
 http://iphone-streaming.ustream.tv/uhls/20663014/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,TELEMUNDO USA
-http://iphone-streaming.ustream.tv/uhls/20550945/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,TV
-http://iphone-streaming.ustream.tv/uhls/18376856/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,RT ESPAÑOL
+http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,ENSENADA TV
+http://iphone-streaming.ustream.tv/uhls/19318505/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,CANAL 20
 http://iphone-streaming.ustream.tv/uhls/13425182/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,YES TV
 http://iphone-streaming.ustream.tv/uhls/18663997/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,ENSENADA TV
-http://iphone-streaming.ustream.tv/uhls/19318505/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,History
-http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,NatGeo Wild HD 720
-http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,NAT GEO WILD
-http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on?monclovacaliente.m3u8
+#EXTINF:-1,TV
+http://iphone-streaming.ustream.tv/uhls/18376856/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Discovery
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Discovery (Opc.2)
@@ -31,15 +25,6 @@ http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArge
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,KW TV México
 http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi
-#EXTINF:-1,MUNDO FOX
-http://66.55.92.79:1935/app/ana69s-channel/ruben.m3u8?
-
-
-
-#EXTINF:-1 group-title="DEPORTES",RT ESPAÑOL
-http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,ESPN DEPORTES
-http://iphone-streaming.ustream.tv/uhls/20476779/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,SPORTSNET
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 #EXTINF:-1,CDN SportsMax
@@ -88,18 +73,12 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebas
 rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:-1,Victorias Secret Angels TV 
 http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
-#EXTINF:-1,Miami TV HD 720 USA
+#EXTINF:-1 tvg-name=MiamiTVHD" tvg-logo="miamitv.png" group-title="Variedades - Latinos",Miami TV HD 720 USA
 rtmp://74.208.69.207/live/miamitvhd
 #EXTINF:-1,TVEO Miami USA
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
-
-
-
-
-
-
-#EXTINF:-1 group-title="MUSICA",MUSIC VEVO1 HD
+#EXTINF:-1,MUSIC VEVO1 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 #EXTINF:-1,music VEVO HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
@@ -173,8 +152,7 @@ http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m
 
 
 
-
-#EXTINF:-1 group-title="NACIONALES",CANAL 13
+#EXTINF:-1,El Trece México
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
 #EXTINF:-1,AZTECA 13
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
@@ -372,8 +350,6 @@ rtmp://87.106.232.7/live/myStream_2
 rtmp://87.106.220.67/live/myStream_2
 
 
-
-
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Radio 50's
 http://buecrplb01.cienradios.com.ar/50_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Radio 60's
@@ -463,79 +439,80 @@ http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Clasica Meditacion
 http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
 
-
-#EXTINF:-0 group-title="PELICULAS",MENTES PELIGROSAS
+#EXTINF:0,P-MENTES PELIGROSAS
 https://ia600309.us.archive.org/34/items/b1fb1b3745.360/b1fb1b3745.360.mp4
-#EXTINF:0,INTRUSOS
+#EXTINF:0,P-INTRUSOS
 https://ia600309.us.archive.org/17/items/IntrrStream/INTRRS.mp4
-#EXTINF:0,INDESTRUCTIBLES 3
+#EXTINF:0,P-INDESTRUCTIBLES 3
 https://ia600309.us.archive.org/4/items/industructibles/I%C3%91D3TRUC3.mp4
-#EXTINF:0,FRANCOTIRADOR
+#EXTINF:0,P-FRANCOTIRADOR
 https://ia600309.us.archive.org/0/items/FRCNTDR/FRCNTDR.mp4
-#EXTINF:0,FOCUS
+#EXTINF:0,P-FOCUS
 https://ia600309.us.archive.org/21/items/hemelgelvez4_gmail_FCS/FCS.mp4
-#EXTINF:0,RESUCITADOS
+#EXTINF:0,P-RESUCITADOS
 https://ia800309.us.archive.org/21/items/1esucitados./1esucitados..mp4
-#EXTINF:0,ROBOCOP
+#EXTINF:0,P-ROBOCOP
 https://ia601507.us.archive.org/33/items/4obocop./4obocop..mp4
-#EXTINF:0,DESTINO JUPITER
+#EXTINF:0,P-DESTINO JUPITER
 https://ia600309.us.archive.org/17/items/D3T1N0JUT3R/D3T1N0%20JUT3R.mp4
-#EXTINF:0,ALADDIN
+#EXTINF:0 group-title="Infantil",ALADDIN
 http://www.spruto.tv/get_file/1/38577f19393369cb2c5d785beb3c3ffc/80000/80730/80730.mp4
-#EXTINF:0,ALADDIN 2 EL RETORNO DE JAFAR
+
+#EXTINF:0 group-title="Infantil",ALADDIN 2 EL RETORNO DE JAFAR
 http://www.spruto.tv/get_file/5/b66d5c46890169c4100a2d1efdc8c45c/110000/110198/110198.mp4
-#EXTINF:0,ALADDIN Y EL REY DE LOS LADRONES
+
+#EXTINF:0 group-title="Infantil",ALADDIN Y EL REY DE LOS LADRONES
 http://www.spruto.tv/get_file/5/ca110c858858a9f44749dfaac0220c9a/110000/110199/110199.mp4
 
-#EXTINF:0,ALICIA EN EL PAIS DE LAS MARAVILLAS (1951)
+#EXTINF:0 group-title="Infantil",ALICIA EN EL PAIS DE LAS MARAVILLAS (1951)
 http://www.spruto.tv/get_file/1/6e54e785dcb21b63de42f4928ce68bf5/86000/86137/86137.mp4
 
-#EXTINF:0,ALICIA EN EL PAIS DE LAS MARAVILLAS (2010)
+#EXTINF:0 group-title="Infantil",ALICIA EN EL PAIS DE LAS MARAVILLAS (2010)
 http://www.spruto.tv/get_file/7/f75b9e1cefffcd3087150b883fac3fc7/76000/76261/76261.mp4
 
-#EXTINF:0,BARBIE SUPER PRINCESA
+#EXTINF:0 group-title="Infantil",BARBIE SUPER PRINCESA
 http://www.spruto.tv/get_file/2/296ed0c12d8f80128b04d333c08204c8/98000/98420/98420.mp4
 
-#EXTINF:0,ENREDADOS
+#EXTINF:0 group-title="Infantil",ENREDADOS
 http://www.spruto.tv/get_file/1/03259f1f551f0a49262bb7850316fb3f/80000/80737/80737.mp4
 
-#EXTINF:0,FROZEN UNA AVENTURA CONGELADA
+#EXTINF:0 group-title="Infantil",FROZEN UNA AVENTURA CONGELADA
 http://www.spruto.tv/get_file/1/bcae57a2defea5dec966b96630b25aee/80000/80731/80731.mp4
 
-#EXTINF:0,LA BELLA Y LA BESTIA
+#EXTINF:0 group-title="Infantil",LA BELLA Y LA BESTIA
 http://www.spruto.tv/get_file/1/c70f56a357964267dabbc26f0e3ab056/80000/80729/80729.mp4
 
-#EXTINF:0,LA CENICIENTA (1950)
+#EXTINF:0 group-title="Infantil",LA CENICIENTA (1950)
 http://www.spruto.tv/get_file/1/1f40df69b4937859479ea77516275841/80000/80739/80739.mp4
 
-#EXTINF:0,LA CENICIENTA 2 UN SUEÑO HECHO REALIDAD
+#EXTINF:0 group-title="Infantil",LA CENICIENTA 2 UN SUEÑO HECHO REALIDAD
 http://www.spruto.tv/get_file/5/e385ba2b56ffe07c86d12b21a0ba7075/110000/110193/110193.mp4
 
-#EXTINF:0,LA PRINCESA Y EL SAPO
+#EXTINF:0 group-title="Infantil",LA PRINCESA Y EL SAPO
 http://www.spruto.tv/get_file/1/0ca9aa377fdebc035473d0854dba27bd/80000/80733/80733.mp4
 
-#EXTINF:0,LA SIRENITA
+#EXTINF:0 group-title="Infantil",LA SIRENITA
 http://www.spruto.tv/get_file/1/4b064db0eb982aa0bbe454deab684473/80000/80728/80728.mp4
 
-#EXTINF:,LA SIRENITA 2 REGRESO AL MAR
+#EXTINF:0 group-title="Infantil",LA SIRENITA 2 REGRESO AL MAR
 http://www.spruto.tv/get_file/5/3285b40f685b8393955c2f6c6c2c3633/110000/110190/110190.mp4
 
-#EXTINF:0,LA SIRENITA LOS COMIENZOS DE ARIEL
+#EXTINF:0 group-title="Infantil",LA SIRENITA LOS COMIENZOS DE ARIEL
 http://www.spruto.tv/get_file/5/a2ce2d450446df3680e88291f5265033/110000/110191/110191.mp4
 
-#EXTINF:,MULAN
+#EXTINF:0 group-title="Infantil",MULAN
 http://www.spruto.tv/get_file/1/8743a11400fed1059155b246e8c16e80/80000/80735/80735.mp4
 
-#EXTINF:0,MULAN 2
+#EXTINF:0 group-title="Infantil",MULAN 2
 http://www.spruto.tv/get_file/7/cc0868b3bbd4d8af610469b429a57667/76000/76864/76864.mp4
 
-#EXTINF:0,POCAHONTAS
+#EXTINF:0 group-title="Infantil",POCAHONTAS
 http://www.spruto.tv/get_file/1/6cccbcf375881ff2d942fc3383e52cf8/80000/80732/80732.mp4
 
-#EXTINF:0,POCAHONTAS 2
+#EXTINF:0 group-title="Infantil",POCAHONTAS 2
 http://www.spruto.tv/get_file/5/089c5dc4e579784688380d9ce7cbff9a/110000/110200/110200.mp4
 
-#EXTINF:0,VALIENTE
+#EXTINF:0 group-title="Infantil",VALIENTE
 http://www.spruto.tv/get_file/1/bdbbca9f39a2dc67d1fd3af42a36065b/80000/80734/80734.mp4
 
 #EXTINF:-1,APOCALIPSIS EN LOS ANGELES
@@ -546,33 +523,33 @@ http://www.spruto.tv/get_file/2/d75649d825bf5f0ad32dcdf4fb3561bf/106000/106278/1
 #EXTINF:-1,16 DESEOS
 http://www.spruto.tv/get_file/2/6ca2d685d9bad2c5c1f4d73f5037ba4d/102000/102949/102949.mp4
 
-#EXTINF:-1,OBLIVION
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="Oblivion.jpg" ,OBLIVION
 https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!169&authkey=!ALlQcEBQSgTfj30&ithint=file%2cmkv
-#EXTINF:-1,EX-MACHINA
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="exmachina1.png" ,EX-MACHINA
 https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!176&authkey=!AIRwBJU0o_MhpvQ&ithint=file%2cmkv
-#EXTINF:-1,BIENVENIDOS AL AYER
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="bienbenidosalayer.jpg" ,BIENVENIDOS AL AYER
 https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!174&authkey=!AKAn1h6osTFl6bo&ithint=file%2cmkv
-#EXTINF:-1,UNA NOCHE EN EL MUSEO 3
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="nochemuseo3.jpg" ,UNA NOCHE EN EL MUSEO 3
 https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!173&authkey=!AMX3kSBcw9Z8bLU&ithint=file%2cmkv
-#EXTINF:-1,MORTDECAI
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="mortdecai.jpg" ,MORTDECAI
 https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!170&authkey=!APC7EGmdKSrx4y0&ithint=file%2cmkv
-#EXTINF:-1,RUROUNI KENSHIN THE LEGEND ENDS HD
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="rkk.jpg" ,RUROUNI KENSHIN THE LEGEND ENDS HD
 https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!168&authkey=!APhOt9MDkETcs_Q&ithint=video%2cavi
-#EXTINF:-1,LA PIRAMIDE
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="lapiramide.jpg" ,LA PIRAMIDE
 https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!166&authkey=!ABOyn1AqFuEwlAU&ithint=file%2cmkv
-#EXTINF:-1,LOS PINGUINOS DE PAPA
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="pinguinospapa.jpg" ,LOS PINGUINOS DE PAPA
 https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!165&authkey=!ALtS6Q01iJDCmic&ithint=video%2cavi
-#EXTINF:-1,FOCUS 2015
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="focus.jpg" ,FOCUS 2015
 https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!164&authkey=!APSbsEce74WgNUI&ithint=file%2cmkv
-#EXTINF:-1,ESCOBAR PARAISO PERDIDO
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="escobarmovie.jpg" ,ESCOBAR PARAISO PERDIDO
 https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!163&authkey=!AC5OXxOqfIxDgEI&ithint=video%2cavi
-#EXTINF:-1,AVENTURA DE DOS NOCHES
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="av2noches.jpg" ,AVENTURA DE DOS NOCHES
 https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!162&authkey=!AGLx4bo2_juhVak&ithint=video%2cavi
-#EXTINF:-1,MALEFICA
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="malefica.jpg" ,MALEFICA
 https://onedrive.live.com/download.aspx?resid=ddd89122e94140c5!223&authkey=!AK_xPvm1-tWDv5k&ithint=file%2cmkv
-#EXTINF:-1,ALQUILER DE PADRINOS
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="alquilerdepadrinos.jpg" ,ALQUILER DE PADRINOS
 https://onedrive.live.com/download.aspx?resid=9caf247c0ad78cb5!73727&authkey=!AMUxFf8m6pkCPnA&ithint=file%2cmkv
-#EXTINF:-1,50 SOMBRAS DE GRAY
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="grey.jpg" ,50 SOMBRAS DE GRAY
 https://onedrive.live.com/download.aspx?resid=9caf247c0ad78cb5!73652&authkey=!AOOliN6j1rYX-Ec&ithint=file%2cmkv
 #EXTINF:-1,AMERICAN PIE 2
 http://www.spruto.tv/get_file/5/17c92456a3dd4ff4412579e9fd62468f/109000/109915/109915.mp4
@@ -646,7 +623,6 @@ http://www.spruto.tv/get_file/2/dc6c926a402161a14544bc453a82c6f0/95000/95189/951
 http://www.spruto.tv/get_file/2/68342a693b386c6dc3fe48f0d2b6ee6a/88000/88972/88972.mp4
 #EXTINF:-1 group-title="Peliculas en Español Latino",MIL PALABRAS
 http://www.spruto.tv/get_file/1/9423b9ab396003b187bfe797cf0fa1ee/88000/88598/88598.mp4
-
 
 
 
