@@ -2,11 +2,9 @@
 #EXTINF:-1,HBO2
 http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720
 #EXTINF:-1,ESPN DEPORTES
-http://iphone-streaming.ustream.tv/uhls/20476779/streams/live/iphone/playlist.m3u8
+http://iphone-streaming.ustream.tv/uhls/20474058/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,UNIVISION
 http://iphone-streaming.ustream.tv/uhls/20663014/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,TELEMUNDO USA
-http://iphone-streaming.ustream.tv/uhls/20550945/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,RT ESPAÑOL
 http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,ENSENADA TV
@@ -17,10 +15,8 @@ http://iphone-streaming.ustream.tv/uhls/13425182/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/18663997/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,TV
 http://iphone-streaming.ustream.tv/uhls/18376856/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,History
-http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,NatGeo Wild HD 720
-http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,History1
+http://live.mvdigital.net:8080/live10/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,NAT GEO WILD
 http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on?monclovacaliente.m3u8
 #EXTINF:-1,Discovery
@@ -35,8 +31,6 @@ http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArge
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,KW TV México
 http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi
-#EXTINF:-1,MUNDO FOX
-http://66.55.92.79:1935/app/ana69s-channel/ruben.m3u8?
 #EXTINF:-1,SPORTSNET
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 #EXTINF:-1,CDN SportsMax
