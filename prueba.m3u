@@ -1,4 +1,63 @@
 #EXTM3U
+#EXTINF:-1,Telemundo Ch 39 Dallas USA
+rtmp://167.114.159.155/app/chivasss69s-channel
+#EXTINF:-1,Univision HD
+rtmp://199.168.116.16:1935/app/extremouns-channel
+#EXTINF:-1 tvg-id="Univision" tvg-logo="univision.png" group-title="Variedades - Latinos",Univision opcion 2
+http://184.154.28.210:1935/univision_attl/univision_attl/playlist.m3u8
+#EXTINF:-1 group-title="C-Alta",Ultra Television
+http://74.63.97.188:1935/ultra2/videoultra2/chunklist_w115092550.m3u8
+#EXTINF:-1 group-title="C-Alta",Telemundo
+http://66.55.92.79:1935/app/chivasss69s-channel/.m3u8
+#EXTINF:-1 group-title="C-Alta",CNN EspaÑol
+http://187.247.255.139/Apple/CNNEspanol.m3u8
+#EXTINF:-1 group-title="C-Alta",NOSE
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="C-Alta",Exa tv
+http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="C-Alta",GolTV HD
+http://tvguia.ga@ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/tvguia.ga.m3u8
+#EXTINF:-1 group-title="C-Alta",TVC DEPORTES
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TVCDeportes2500.m3u8
+#EXTINF:-1 group-title="C-Alta",CDN
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+#EXTINF:-1 group-title="C-Alta",HBO
+http://45.55.247.223:8080/h905d/index.m3u8
+#EXTINF:-1 group-title="C-Alta",HBO2
+http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720%0Aext,---
+#EXTINF:-1 group-title="C-Alta",HBO HD
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+#EXTINF:-1 group-title="C-Alta",CLUB LAND
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1 group-title="C-Alta",ULTRA TV
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
+#EXTINF:-1 group-title="C-Alta",Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 group-title="C-Alta",TELEFUTURO
+http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8
+#EXTINF:-1 group-title="C-Baja",Telemundo
+http://66.55.92.79:1935/app/chivasss69s-channel/.m3u8
+#EXTINF:-1 group-title="C-Baja",HBO
+http://45.55.247.223:8080/h905d/index.m3u8
+#EXTINF:-1 group-title="C-Baja",HBO2
+http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720%0Aext,---
+#EXTINF:-1 group-title="C-Baja",HBO HD
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+#EXTINF:-1 group-title="C-Baja",CLUB LAND
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1 group-title="C-Baja",ULTRA TV
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
+#EXTINF:-1 group-title="C-Baja",EP
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/hasbahca.m3u8
+#EXTINF:-1 group-title="C-Baja",TELEFUTURO
+http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1,NFLNetwork
 http://oneplay.tv/darkuzdev/?ch=NFLNetworkUS
 #EXTINF:-1,EstrellasMX
