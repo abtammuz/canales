@@ -1,5 +1,244 @@
+group,Colombia
+ext,Canal Caracol HD,http://caracoltvlivehds-lh.akamaihd.net/i/emision_1@126280/index_300_av-b.m3u8
+ext,RCN HD,http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
+ext,RCN Novelas,http://oneplay.tv/darkuzdev/?ch=RCNnovelasLA
+ext,Caracol Internacional,http://oneplay.tv/darkuzdev/?ch=CaracolIntSD
+ext,Canal Uno,http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8
+ext,Canal Capital,http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
+Canal13.ar,Canal 13,http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
+ext,Señal Institucional,http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8
+ext,Señal Colombia,http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/playlist_b500000.m3u8?
+ext,Canal Anti Estres,http://uneapple-i.akamaihd.net/hls/live/206413/grupoune_st12@206413/st12_index.m3u8
+ext,TeleCaribe,http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+ext,Hogar Tv,http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8
+ext,Trendy,http://uneapple-i.akamaihd.net/hls/live/205019/grupoune_st10@205019/st10_index.m3u8
+ext,TelePacifico,http://iphone-streaming.ustream.tv/ustreamVideo/12380713/streams/live/playlist.m3u8#megaIPTVArgentina
+ext,TeleAntioquia,http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8
+discov_sci,TeleCafe,http://uneapple-i.akamaihd.net/hls/live/206417/grupoune_st16@206417/st16_index.m3u8
+ext,TeleAgro,http://uneapple-i.akamaihd.net/hls/live/205015/grupoune_st6@205015/st6_index.m3u8
+
+group,Mexico y USA
+Telemundo.mx,Telemundo,http://oneplay.tv/darkuzdev/?ch=TelemundoSD
+UnivisionEast.us,Univision,http://oneplay.tv/darkuzdev/?ch=UnivisionEastUS
+UniMas.us,Unimas,http://oneplay.tv/darkuzdev/?ch=UniMasUS
+GalaTV.mx,Gala Tv,http://oneplay.tv/darkuzdev/?ch=GalaTVLA
+CanalEstrellas.es,Canal de las Estrellas,http://oneplay.tv/darkuzdev/?ch=EstrellasLA
+AZCorazon.cl,Azteca Mundo,http://oneplay.tv/darkuzdev/?ch=AzMundoLA
+Pasiones.us,Pasiones,http://oneplay.tv/darkuzdev/?ch=PasionesSD
+tlnovelas.mx,Telenovelas,http://oneplay.tv/darkuzdev/?ch=TlnovelasLA
+ext,VMas+TV,http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8
+
+group,Deportes
+ext,Canal Azteca,http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
+ESPN.mx,ESPN,http://oneplay.tv/darkuzdev/?ch=ESPNLA
+ESPN2.mx,ESPN 2,http://oneplay.tv/darkuzdev/?ch=ESPN2LASD
+ESPN3.mx,ESPN 3,http://oneplay.tv/darkuzdev/?ch=ESPN3LASD
+ESPN.uk,ESPN USA,http://80.80.160.168/live/6/live.m3u8
+FoxSports.mx,Fox Sports,http://oneplay.tv/darkuzdev/?ch=FoxSportsLA
+FoxSports2.mx,Fox Sports 2,http://oneplay.tv/darkuzdev/?ch=FoxSports2SD
+FoxSports3.mx,Fox Sports 3,http://oneplay.tv/darkuzdev/?ch=FoxSports3SD
+ext,Bein Sports ñ,http://oneplay.tv/darkuzdev/?ch=BeinSportsLA
+ext,Sport Tv Americas,http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+ext,Planeta Futbol,http://oneplay.tv/darkuzdev/?ch=PlanetaFutbolLA
+ext,Planeta Futbol Ingles,http://oneplay.tv/darkuzdev/?ch=PlanetaFutbolEnglish
+TDN.mx,TDN,http://oneplay.tv/darkuzdev/?ch=TDNMXLA
+ext,Univision Deportes,http://oneplay.tv/darkuzdev/?ch=UnivisionEastUS
+ext,UFC Network,http://oneplay.tv/darkuzdev/?ch=UFCNetworkLA
+NFLNetwork.mx,NFL Network,http://oneplay.tv/darkuzdev/?ch=NFLNetworkUS
+ext,CDN Sport Max,http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+RaiSport1.it,Rai Sport 1,mmsh://212.162.68.163:80/raisport+
+RaiSport2.it,Rai Sport 2,mmsh://212.162.68.163:80/raisport2
+
+group,Informativos
+cnn,CNN,http://oneplay.tv/darkuzdev/?ch=CNNLASD
+NTN24.us,NTN24,http://oneplay.tv/darkuzdev/?ch=NTN24LA
+ext,Canal El Tiempo,http://uneapple-i.akamaihd.net/hls/live/207648/grupoune_st29@207648/st29_index.m3u8
+ext,CableNoticias,http://uneapple-i.akamaihd.net/hls/live/205016/grupoune_st7@205016/st7_index.m3u8
+ext,DW Latinoamerica,http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+ext,TV5 Monde AL,http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m3u8
+TVE.mx,TVE,http://oneplay.tv/darkuzdev/?ch=TVELASD
+Telesur.sp,TeleSur,http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
+ext,CB24,http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8?//cn24
+ext,RT en Español,http://odna.octoshape.net/f3f5m2v4/cds/ch2_320p/chunklist.m3u8
+TodoNoticias.ar,Todo Noticias,rtsp://stream.tn.com.ar/live/tnhd1
+
+group,Infantiles
+BABYFIRST.sp,Baby First Tv,http://oneplay.tv/darkuzdev/?ch=BabyFirstLA
+baby-tv,Baby Tv,http://oneplay.tv/darkuzdev/?ch=BabyTVLASD
+Boomerang.mx,Boomerang,http://oneplay.tv/darkuzdev/?ch=BoomerangLA
+DiscoveryKids.mx,DISCOVERY KIDS,http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
+CBeebies.mx,CBEEBIES,http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?
+DisneyJr.mx,DISNEY JR,http://oneplay.tv/darkuzdev/?ch=DisneyJrLASD
+DisneyChannel.mx,DISNEY CHANNEL,http://oneplay.tv/darkuzdev/?ch=DisneyChannelNorteHD
+NickJr.mx,NICK JR,http://oneplay.tv/darkuzdev/?ch=NickJrLASD
+DisneyXD.mx,DISNEY XD,http://oneplay.tv/darkuzdev/?ch=DisneyXDSD
+nickelod,NICK,http://oneplay.tv/darkuzdev/?ch=NickelodeonLA
+CartoonNetwork.mx,CARTOON NETWORK,http://oneplay.tv/darkuzdev/?ch=CartoonNetworkLASD
+Tooncast.mx,TOONCAST,http://oneplay.tv/darkuzdev/?ch=TooncastSD
+ext,TATETI,http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
+
+group,Variedades y Culturales
+History.uk,HISTORY,http://oneplay.tv/darkuzdev/?ch=HistoryLA
+History2.cl,HISTORY 2,http://oneplay.tv/darkuzdev/?ch=H2LASD
+DiscoveryChannel.mx,Discovery,http://oneplay.tv/darkuzdev/?ch=DiscoveryChLA
+DiscoveryTheatreHD.ar,Discovery Theater,http://oneplay.tv/darkuzdev/?ch=DiscoveryenEspanolHD
+discov_world,Discovery World,http://oneplay.tv/darkuzdev/?ch=DiscoveryWorldLA
+ext,Discovery Home & Heal,http://oneplay.tv/darkuzdev/?ch=DiscoveryHomeHealthLAHD
+NatGeo.mx,NatGeo,http://oneplay.tv/darkuzdev/?ch=NatGeoLASD
+NatGeoWild.mx,NatGeo Wild,http://oneplay.tv/darkuzdev/?ch=NatGeoWildLAHD
+AnimalPlanet.mx,Animal Planet,http://oneplay.tv/darkuzdev/?ch=AnimalPlanetLASD
+ElGourmet.mx,El Gourmet,http://oneplay.tv/darkuzdev/?ch=ElgourmetLA
+TLC.mx,TLC,http://oneplay.tv/darkuzdev/?ch=TLCLASD
+CasaClub.mx,Casa Club,http://oneplay.tv/darkuzdev/?ch=CasaClubLA
+TBS.mx,TBS,http://oneplay.tv/darkuzdev/?ch=TBSLASD
+Glitz.mx,Glitz,http://oneplay.tv/darkuzdev/?ch=GlitzLA
+FoxLife.mx,Fox Life,http://oneplay.tv/darkuzdev/?ch=FoxLifeSD
+Lifetime.br,Life Time,http://oneplay.tv/darkuzdev/?ch=LifetimeLASD
+ext,Film & Art,http://oneplay.tv/darkuzdev/?ch=FilmArtsLA
+MundoFox.mx,Mundo Fox,http://oneplay.tv/darkuzdev/?ch=MundoFoxSD
+
+group,Series
+FX.mx,FX,http://oneplay.tv/darkuzdev/?ch=FXLASD
+fox-hd,Fox HD,http://oneplay.tv/darkuzdev/?ch=FOXHDLA
+TNTSeries.cl,TNT Series,http://oneplay.tv/darkuzdev/?ch=infinitoSD
+UniversalChannel.mx,Universal Channel,http://oneplay.tv/darkuzdev/?ch=UniversalLASD
+AXN.mx,AXN,http://oneplay.tv/darkuzdev/?ch=AXNLA
+Sony.mx,Sony,http://oneplay.tv/darkuzdev/?ch=SonyLA
+WarnerHD.mx,WARNER HD,http://oneplay.tv/darkuzdev/?ch=WarnerLA
+SyFy.mx,SyFy,http://oneplay.tv/darkuzdev/?ch=SyFyLASD
+TruTVHD.mx,True Tv HD,http://oneplay.tv/darkuzdev/?ch=TruTVSD
+AyE.mx,A&E,http://oneplay.tv/darkuzdev/?ch=AELatinoamericaHD
+inv-discovery,InvestigationDiscovery,http://oneplay.tv/darkuzdev/?ch=InvDiscoverySD
+TBS.mx,TBS,http://oneplay.tv/darkuzdev/?ch=TBSLASD
+etv.gr,E!,http://oneplay.tv/darkuzdev/?ch=EentertaimentSD
+ext,Euro Channel,http://oneplay.tv/darkuzdev/?ch=EurochannelLA
+DistritoComedia.mx,Distrito Comedia,http://oneplay.tv/darkuzdev/?ch=DistritoComediaLA
+ext,Comedia Central,http://oneplay.tv/darkuzdev/?ch=ComedyCentralLA
+
+group,Peliculas
+CineLatino.mx,Cine Latino,http://oneplay.tv/darkuzdev/?ch=CineLatinoSD
+Fox1Este.ar,FOX 1 Este,http://oneplay.tv/darkuzdev/?ch=FOX1LASD
+Fox1Oeste.ar,FOX 1 Oeste,http://oneplay.tv/darkuzdev/?ch=FOX1LASD
+FoxFamilyW.mx,FOX Family,http://oneplay.tv/darkuzdev/?ch=FOXFamilyLASD
+FoxComedy.ar,FOX Comedy,http://oneplay.tv/darkuzdev/?ch=FOXComedyLASD
+FoxCinema.mx,FOX Cinema,http://oneplay.tv/darkuzdev/?ch=FoxCinemaSD
+FoxActionHD.mx,FOX Action Este,http://oneplay.tv/darkuzdev/?ch=FOXACTIONLASD
+FoxAction.cl,FOX Action Oeste,http://oneplay.tv/darkuzdev/?ch=FOXActionOesteLASD
+FOXmovies.sl,FOX Movies,http://oneplay.tv/darkuzdev/?ch=FOXMoviesLASD
+FoxClassics.mx,FOX Classics,http://oneplay.tv/darkuzdev/?ch=FOXClassicsLASD
+HBOAdria.sl,HBO,http://oneplay.tv/darkuzdev/?ch=HBOLASD
+HBO2.mx,HBO 2,http://oneplay.tv/darkuzdev/?ch=HBO2SD
+HBOPlusEste.ar,HBO Plus Este,http://oneplay.tv/darkuzdev/?ch=HBOPlusLASD
+HBOPlusOeste.ar,HBO Plus Oeste,http://oneplay.tv/darkuzdev/?ch=HBOPus2LASD
+HBOSignature.mx,HBO Signature,http://oneplay.tv/darkuzdev/?ch=HBOSignatureLASD
+Hbofamily.br,HBO Family,http://oneplay.tv/darkuzdev/?ch=HBOFamilyLASD
+Maxup.br,Max Up,http://oneplay.tv/darkuzdev/?ch=MaxUPSD
+MaxPrimeEste.ar,Max Prime Este,http://oneplay.tv/darkuzdev/?ch=MaxPrimeLASD
+MaxPrimeOeste.ar,Max Prime Oeste,http://oneplay.tv/darkuzdev/?ch=MaxPrime2LASD
+MAX.mx,Max,http://oneplay.tv/darkuzdev/?ch=MaxLASD
+ext,Golden Premier 1,http://oneplay.tv/darkuzdev/?ch=GoldenPremier1LA
+ext,Golden Premier 2,http://oneplay.tv/darkuzdev/?ch=GoldenPremiere2LA
+CinecanalW.mx,CINECANAL,http://oneplay.tv/darkuzdev/?ch=CineCanalLA
+Isat.mx,I Sat,http://oneplay.tv/darkuzdev/?ch=ISATLA
+Multipremier.mx,Multipremier,http://oneplay.tv/darkuzdev/?ch=MultiPremierLA
+TNT.mx,TNT,http://oneplay.tv/darkuzdev/?ch=TNTAmericaLatinaHD
+Golden.mx,GOLDEN,http://oneplay.tv/darkuzdev/?ch=GoldenHD
+GoldenEdge.mx,GOLDEN EDGE,http://oneplay.tv/darkuzdev/?ch=GoldenEdgeLA
+paramount,Paramount Channel,http://oneplay.tv/darkuzdev/?ch=ParamountChannelLatinAmericaHD
+SundanceChannel.gr,Sundance Channel,http://oneplay.tv/darkuzdev/?ch=SundanceLA
+TheFilmZoneHD.mx,FILM ZONE,http://oneplay.tv/darkuzdev/?ch=FilmZoneLASD
+AMC.mx,AMC,http://oneplay.tv/darkuzdev/?ch=AMCLASD
+SpaceHD.mx,SPACE HD,http://oneplay.tv/darkuzdev/?ch=SpaceLA
+CinecanalW.mx,CINECANAL,http://oneplay.tv/darkuzdev/?ch=CineCanalLA
+ext,CINE MAX,http://oneplay.tv/darkuzdev/?ch=CinemaxLASD
+AMC.mx,AMC,http://oneplay.tv/darkuzdev/?ch=AMCLASD
+StudioUniversal.mx,STUDIO UNIVERSAL,http://oneplay.tv/darkuzdev/?ch=StudioUniversalSD
+TCM.mx,TCM,http://oneplay.tv/darkuzdev/?ch=TCMSD
+Europa.mx,Europa Europa,http://oneplay.tv/darkuzdev/?ch=EuropaEuropaLA
+
+group,Musicales
+MTV.mx,MTV,http://oneplay.tv/darkuzdev/?ch=MTVLA
+MTVHits.ar,MTV Hits,http://oneplay.tv/darkuzdev/?ch=MTVHitsLA
+zvezda,Dance,mmsh://194.88.200.11:80/dance?MSWMExt=.asf
+vh-1-classic,VH1 Classic,http://oneplay.tv/darkuzdev/?ch=VH1ClassicLASD
+1hdru,1HD,rtmp://109.239.142.62:1935/live/livestream3?1HD
+HTV.mx,HTV,http://oneplay.tv/darkuzdev/?ch=HTVSD
+Bandamax.mx,Bandamax,http://oneplay.tv/darkuzdev/?ch=BandamaxLA
+ext,EXA,http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8
+ext,Cantinazo TV,http://uneapple-i.akamaihd.net/hls/live/206419/grupoune_st18@206419/st18_index.m3u8
+ext,Tigo Music,http://uneapple-i.akamaihd.net/hls/live/215955/grupoune_st44@215955/st44_index.m3u8
+
+group,Del Mundo
+TVGlobo.mx,Tv Globo,http://oneplay.tv/darkuzdev/?ch=TVGloboLA
+ext,Telecentro 13,http://oneplay.tv/darkuzdev/?ch=Telecentro13LA
+ext,Libertad Digital,http://149.11.34.6:1935/live/ldtv.stream/playlist.m3u8?
+ext,Canela Ecuador,http://38.96.148.216:1935/live/canelatv/playlist.m3u8
+ext,TELECADENA,http://162.212.176.83:8080/telecadena.stream.m3u8
+ext,Globo Tv,http://162.212.176.83:8080/globotv.m3u8
+ext,TELEANTILLAS,http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+ext,ColorVision,http://ss7.domint.net:2048/cvis_str/color/playlist.m3u8
+ext,CDN Canal 37,http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+ext,Canal Antigua Guatemala,http://iphone-streaming.ustream.tv/ustreamVideo/1435410/streams/live/playlist.m3u8?
+ext,ANTENA 3 España,http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+ext,La Sexta España,http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+ext,Telesistema,http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+ext,AYSEN TV,http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/hasbahca.m3u8
+ext,UCV,http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8
+ext,Canal 4 RD,rtmp://216.24.196.40:1935/live/canal4
+TVN.pl,TVN,http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+stb,MEGA HD,http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
+Canal13.ar,CANAL 13,http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+ext,BIO TV CONCEPCION,http://wow2.cl.digitalproserver.com/c9//c9.smil/hasbahca.m3u8
+ext,Genteve Salvador,http://cdns840stu1010.multistream.net/genteve.c29.svlive/amlst:live/huraivza_b750000.m3u8#MegaIPTVArgentina
+ext,Telecadena Honduras,http://162.212.176.83:8080/telecadena.stream.m3u8
+ext,Teleceiba Honduras,http://162.212.176.83:8080/teleceiba.m3u8
+ext,TEN Honduras,rtmp://hd.worldkast.com:1935/8378/_definst_/mp4:83781
+ext,Canal 13 Nicaragua,rtmp://173.236.71.62:1935/hondured/hrtv.sdp
+ext,Telemetro Panama,http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
+ext,Telearagua Venezuela,http://edge.wms28.lorini.net/telearagua/telearagua1/playlist.m3u8
+ext,VIVE Venezuela,mmsh://difusion.cantv.net/vhost-covetel_live?MSWMExt=.asf
+TVN.cl,TVN Chile,http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+ext,GUATEVISION TV,rtmp://bravo967.sysvirtuales.com:1935/live/stream1.sdp
+ext,Colosal TV,rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
+ext,Panamericana,http://m.iblups.com:1935/lives/ptv1/playlist.m3u8
+ext,TV MACAS,rtsp://enhd.co:1935/9208/9208
+ext,RBC Peru,http://184.154.28.210:1935/rbcsatelital/rbcsatelital/playlist.m3u8
+ext,Frecuencia Latina,rtmp://flatina1livefs.fplive.net:1935/flatina1live-live/stream1
+ext,Antena Latina 7,http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+ext,Tele Aruba,rtmp://201.229.0.51:1935/livepkgr/livestream1
+TelefeHD.ar,TELEFE HD,http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8
+ext,America TV,http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-b.m3u8?sd=10
+
+group,Religiosos
+ext,Tele Amiga,http://cdns840stu1010.multistream.net/teleamigalive/amlst:live/master.m3u8
+AlfaTV.ba,Alfa TV,rtmp://streamer1.streamhost.org:1935/salive/GMIalfam
+ext,Enlace Juvenil EJTV,http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+Enlace.us,Enlace,http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8
+Cbn.br,CBN,http://brightcove03-f.akamaihd.net/iptv2_1_900@50919?videoId=1370792317001&lineUpId=&pubId=734546207001&playerId=2210144031001&affiliateId=&v=3.4.0&fp=WIN%2016,0,0,305&r=QKDUB&g=VYPYWHJMHSEH
+ext,Tele Vid,http://livestream-f.akamaihd.net/5864544_2511887_7e63f0d8_1_678@146034?v=3.6.0&fp=WIN%2017,0,0,169&r=BBDNG&g=ZOVNOWMCPRUE
+EWTN.uk,EWTN,rtmp://ewtn.mpl.miisolutions.net:1935/ewtn-live-4/_definst_<playpath>mp4:900.mp4
+ext,ESNE Canal Catolico,http://198.154.228.82:1935/live/esnetv/playlist.m3u8
+ext,CTNi Cristiano,http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+ext,TV Ca 39,rtmp://streamserver3.us:1935/tvcaelsalvador/live
+ext,El Camino,rtmp://cdn.siscompnetwork.com:1935/live/elcaminotv.sdp
+
+
+group,Arrechocitos XXX
+playboy,PLAYBOY,http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
+xxl,XXL,http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
+ext,Brasilerinhas,http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+ext,Sexy Latinas,http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8
+ext,Jasmin TV,http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+ext,O La la,http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+Private.br,PRIVATE,http://185.38.12.20:8088/private/
+ext,Passiexxx,http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
+ext,Rusia Nigth,http://185.38.12.20:8088/rusnoch/
+ext,Bella Club Luz +16 ADULT,rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
+
+
+
+
 group,NUEVOS
-HBO2.pl,HBO2,http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720
 UnivisionEast.us,UNIVISION,http://iphone-streaming.ustream.tv/uhls/20663014/streams/live/iphone/playlist.m3u8
 ext,TELEMUNDO USA,rtmp://199.168.116.19:1935/app/chivass_69s-channel
 sport1_rus,TV,http://iphone-streaming.ustream.tv/uhls/18376856/streams/live/iphone/playlist.m3u8
@@ -232,7 +471,7 @@ ext,Clasica,http://buecrplb01.cienradios.com.ar/Clasica_32000.aac
 ext,Clasica Cine,http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
 ext,Clasica Meditacion,http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
 
-group,PELICULAS
+group,CINEPELICULAS
 avi,MENTES PELIGROSAS,https://ia600309.us.archive.org/34/items/b1fb1b3745.360/b1fb1b3745.360.mp4
 avi,INTRUSOS,https://ia600309.us.archive.org/17/items/IntrrStream/INTRRS.mp4
 avi,INDESTRUCTIBLES 3,https://ia600309.us.archive.org/4/items/industructibles/I%C3%91D3TRUC3.mp4
