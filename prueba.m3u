@@ -1,63 +1,8 @@
 #EXTM3U
-#EXTINF:-1,Telemundo Ch 39 Dallas USA
-rtmp://167.114.159.155/app/chivasss69s-channel
-#EXTINF:-1,Univision HD
-rtmp://199.168.116.16:1935/app/extremouns-channel
-#EXTINF:-1 tvg-id="Univision" tvg-logo="univision.png" group-title="Variedades - Latinos",Univision opcion 2
-http://184.154.28.210:1935/univision_attl/univision_attl/playlist.m3u8
-#EXTINF:-1 group-title="C-Alta",Ultra Television
-http://74.63.97.188:1935/ultra2/videoultra2/chunklist_w115092550.m3u8
-#EXTINF:-1 group-title="C-Alta",Telemundo
-http://66.55.92.79:1935/app/chivasss69s-channel/.m3u8
-#EXTINF:-1 group-title="C-Alta",CNN EspaÑol
-http://187.247.255.139/Apple/CNNEspanol.m3u8
-#EXTINF:-1 group-title="C-Alta",NOSE
-http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="C-Alta",Exa tv
-http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="C-Alta",GolTV HD
-http://tvguia.ga@ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/tvguia.ga.m3u8
-#EXTINF:-1 group-title="C-Alta",TVC DEPORTES
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TVCDeportes2500.m3u8
-#EXTINF:-1 group-title="C-Alta",CDN
-http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
-#EXTINF:-1 group-title="C-Alta",HBO
-http://45.55.247.223:8080/h905d/index.m3u8
-#EXTINF:-1 group-title="C-Alta",HBO2
-http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720%0Aext,---
-#EXTINF:-1 group-title="C-Alta",HBO HD
-http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
-#EXTINF:-1 group-title="C-Alta",CLUB LAND
-http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1 group-title="C-Alta",ULTRA TV
+#EXTINF:-1,ULTRA TV
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
-#EXTINF:-1 group-title="C-Alta",Telemax
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1 group-title="C-Alta",TELEFUTURO
+#EXTINF:-1,TELEFUTURO
 http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8
-#EXTINF:-1 group-title="C-Baja",Telemundo
-http://66.55.92.79:1935/app/chivasss69s-channel/.m3u8
-#EXTINF:-1 group-title="C-Baja",HBO
-http://45.55.247.223:8080/h905d/index.m3u8
-#EXTINF:-1 group-title="C-Baja",HBO2
-http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720%0Aext,---
-#EXTINF:-1 group-title="C-Baja",HBO HD
-http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
-#EXTINF:-1 group-title="C-Baja",CLUB LAND
-http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1 group-title="C-Baja",ULTRA TV
-http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
-#EXTINF:-1 group-title="C-Baja",EP
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/hasbahca.m3u8
-#EXTINF:-1 group-title="C-Baja",TELEFUTURO
-http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8
-
-
-
-
-
-
-
 #EXTINF:-1,NFLNetwork
 http://oneplay.tv/darkuzdev/?ch=NFLNetworkUS
 #EXTINF:-1,EstrellasMX
@@ -80,7 +25,7 @@ http://oneplay.tv/darkuzdev/?ch=TMNDO
 http://oneplay.tv/darkuzdev/?ch=TelemundoSD
 #EXTINF:-1,RCNNovelas 
 http://oneplay.tv/darkuzdev/?ch=RCNnovelasLA
-#EXTINF:-1,TlnovelasAmerica 
+#EXTINF:-1,Tlnovelas
 http://oneplay.tv/darkuzdev/?ch=TlnovelasLA
 #EXTINF:-1,TeleCentro 
 http://oneplay.tv/darkuzdev/?ch=Telecentro13LA 
@@ -88,39 +33,39 @@ http://oneplay.tv/darkuzdev/?ch=Telecentro13LA
 http://oneplay.tv/darkuzdev/?ch=CaracolIntSD
 #EXTINF:-1,TVGloboInternacional 
 http://oneplay.tv/darkuzdev/?ch=TVGloboLA
-#EXTINF:-1,DiscoveryenEspañol 
+#EXTINF:-1,Discovery
 http://oneplay.tv/darkuzdev/?ch=DiscoveryChLA
 #EXTINF:-1,DiscoveryTheater 
 http://oneplay.tv/darkuzdev/?ch=DiscoveryenEspanolHD
 #EXTINF:-1,DiscoveryWorld 
 http://oneplay.tv/darkuzdev/?ch=DiscoveryWorldLA
-#EXTINF:-1,DiscoveryHomeHealthLatinoamerica 
+#EXTINF:-1,DiscoveryHomeHealth
 http://oneplay.tv/darkuzdev/?ch=DiscoveryHomeHealthLAHD
-#EXTINF:-1,H2Latinoamerica 
+#EXTINF:-1,H2 
 http://oneplay.tv/darkuzdev/?ch=H2LASD
-#EXTINF:-1,HistoryenEspañol 
+#EXTINF:-1,History 
 http://oneplay.tv/darkuzdev/?ch=HistoryLA
-#EXTINF:-1,NationalGeographicLatinoamerica 
+#EXTINF:-1,NationalGeographic 
 http://oneplay.tv/darkuzdev/?ch=NatGeoLASD
-#EXTINF:-1,NatGeoWildLatinoAmerica 
+#EXTINF:-1,NatGeoWild
 http://oneplay.tv/darkuzdev/?ch=NatGeoWildLAHD
-#EXTINF:-1,AnimalPlanetLatinoamerica 
+#EXTINF:-1,AnimalPlaneT 
 http://oneplay.tv/darkuzdev/?ch=AnimalPlanetLASD 
-#EXTINF:-1,ESPNLatinoamerica 
+#EXTINF:-1,ESPN 
 http://oneplay.tv/darkuzdev/?ch=ESPNLA 
-#EXTINF:-1,ESPN2Latinoamerica 
+#EXTINF:-1,ESPN2 
 http://oneplay.tv/darkuzdev/?ch=ESPN2LASD
-#EXTINF:-1,ESPN3Latinoamerica 
+#EXTINF:-1,ESPN3 
 http://oneplay.tv/darkuzdev/?ch=ESPN3LASD
-#EXTINF:-1,FoxSportsLatinoamerica 
+#EXTINF:-1,FoxSports 
 http://oneplay.tv/darkuzdev/?ch=FoxSportsLA
-#EXTINF:-1,FoxSports2Latinoamerica 
+#EXTINF:-1,FoxSports2 
 http://oneplay.tv/darkuzdev/?ch=FoxSports2SD
-#EXTINF:-1,FoxSports3Latinoamerica 
+#EXTINF:-1,FoxSports3
 http://oneplay.tv/darkuzdev/?ch=FoxSports3SD
-#EXTINF:-1,BeinSportsenEspañol 
+#EXTINF:-1,BeinSports
 http://oneplay.tv/darkuzdev/?ch=BeinSportsLA
-#EXTINF:-1,UFCNetworkLatinoamerica 
+#EXTINF:-1,UFCNetwork 
 http://oneplay.tv/darkuzdev/?ch=UFCNetworkLA 
 #EXTINF:-1,PlanetaFutbol 
 http://oneplay.tv/darkuzdev/?ch=PlanetaFutbolLA
@@ -130,75 +75,75 @@ http://oneplay.tv/darkuzdev/?ch=PlanetaFutbolEnglish
 http://oneplay.tv/darkuzdev/?ch=TDNMXLA
 #EXTINF:-1,UnivisionTDN 
 http://oneplay.tv/darkuzdev/?ch=UnivisionEastUS
-#EXTINF:-1,DisneyChannelNorte 
+#EXTINF:-1,DisneyChannel
 http://oneplay.tv/darkuzdev/?ch=DisneyChannelNorteHD
-#EXTINF:-1,DisneyXDNorte 
+#EXTINF:-1,DisneyXD 
 http://oneplay.tv/darkuzdev/?ch=DisneyXDSD
-#EXTINF:-1,DisneyJuniorNorte 
+#EXTINF:-1,DisneyJunioR 
 http://oneplay.tv/darkuzdev/?ch=DisneyJrLASD
-#EXTINF:-1,NickelodeonLatinoamerica 
+#EXTINF:-1,Nickelodeon 
 http://oneplay.tv/darkuzdev/?ch=NickelodeonLA 
-#EXTINF:-1,NickJrLatinoamerica 
+#EXTINF:-1,NickJr
 http://oneplay.tv/darkuzdev/?ch=NickJrLASD
-#EXTINF:-1,DiscoveryKidsAmericaLatina 
+#EXTINF:-1,DiscoveryKids 
 http://oneplay.tv/darkuzdev/?ch=DiscoveryKidsSD 
-#EXTINF:-1,CartoonNetworkLatinoamerica 
+#EXTINF:-1,CartoonNetwork 
 http://oneplay.tv/darkuzdev/?ch=CartoonNetworkLASD 
-#EXTINF:-1,BoomerangLatinoamerica 
+#EXTINF:-1,Boomerang 
 http://oneplay.tv/darkuzdev/?ch=BoomerangLA
 #EXTINF:-1,Tooncast 
 http://oneplay.tv/darkuzdev/?ch=TooncastSD
-#EXTINF:-1,BabyFirstTVLatinoamerica 
+#EXTINF:-1,BabyFirstTV
 http://oneplay.tv/darkuzdev/?ch=BabyFirstLA
-#EXTINF:-1,BabyTVLatinoamerica 
+#EXTINF:-1,BabyTV 
 http://oneplay.tv/darkuzdev/?ch=BabyTVLASD
 #EXTINF:-1,CanalSony 
 http://oneplay.tv/darkuzdev/?ch=SonyLA 
-#EXTINF:-1,BBCEntertainmentLatinoamerica 
+#EXTINF:-1,BBCEntertainment 
 http://oneplay.tv/darkuzdev/?ch=BBCEntLA
 #EXTINF:-1,Unicable 
 http://oneplay.tv/darkuzdev/?ch=UnicableLA 
-#EXTINF:-1,WarnerChannelLatinoamerica 
+#EXTINF:-1,WarnerChanneL
 http://oneplay.tv/darkuzdev/?ch=WarnerLA
-#EXTINF:-1,ELatinoamerica 
+#EXTINF:-1,E
 http://oneplay.tv/darkuzdev/?ch=EentertaimentSD
-#EXTINF:-1,FXLatino 
+#EXTINF:-1,FX 
 http://oneplay.tv/darkuzdev/?ch=FXLASD
-#EXTINF:-1,UniversalChannelAmericaLatina 
+#EXTINF:-1,UniversalChannel 
 http://oneplay.tv/darkuzdev/?ch=UniversalLASD
-#EXTINF:-1,FoxLatinoamerica 
+#EXTINF:-1,Fox 
 http://oneplay.tv/darkuzdev/?ch=FOXHDLA
-#EXTINF:-1,SyfyLatinoamerica 
+#EXTINF:-1,Syfy 
 http://oneplay.tv/darkuzdev/?ch=SyFyLASD
-#EXTINF:-1,AyELatinoamerica 
+#EXTINF:-1,AyE 
 http://oneplay.tv/darkuzdev/?ch=AELatinoamericaHD
-#EXTINF:-1,InvestigationDiscoveryLatinoamerica 
+#EXTINF:-1,InvestigationDiscovery 
 http://oneplay.tv/darkuzdev/?ch=InvDiscoverySD
-#EXTINF:-1,TLCLatinoamerica 
+#EXTINF:-1,TLC 
 http://oneplay.tv/darkuzdev/?ch=TLCLASD
-#EXTINF:-1,AXNLatinoamerica 
+#EXTINF:-1,AXN 
 http://oneplay.tv/darkuzdev/?ch=AXNLA
 #EXTINF:-1,Eurochannel 
 http://oneplay.tv/darkuzdev/?ch=EurochannelLA
 #EXTINF:-1,MundoFox 
 http://oneplay.tv/darkuzdev/?ch=MundoFoxSD
-#EXTINF:-1,TNTSeriesLatinoamerica 
+#EXTINF:-1,TNTSeries 
 http://oneplay.tv/darkuzdev/?ch=infinitoSD
 #EXTINF:-1,Elgourmet 
 http://oneplay.tv/darkuzdev/?ch=ElgourmetLA
 #EXTINF:-1,CasaClubTV 
 http://oneplay.tv/darkuzdev/?ch=CasaClubLA 
-#EXTINF:-1,TBSAmericaLatina 
+#EXTINF:-1,TBS
 http://oneplay.tv/darkuzdev/?ch=TBSLASD
-#EXTINF:-1,GlitzLatinoamerica 
+#EXTINF:-1,Glitz
 http://oneplay.tv/darkuzdev/?ch=GlitzLA
 #EXTINF:-1,FOXLife 
 http://oneplay.tv/darkuzdev/?ch=FoxLifeSD 
 #EXTINF:-1,DistritoComedia 
 http://oneplay.tv/darkuzdev/?ch=DistritoComediaLA 
-#EXTINF:-1,ComedyCentralLatinoamerica 
+#EXTINF:-1,ComedyCentral 
 http://oneplay.tv/darkuzdev/?ch=ComedyCentralLA
-#EXTINF:-1,TruTVAmericaLatina 
+#EXTINF:-1,TruTV 
 http://oneplay.tv/darkuzdev/?ch=TruTVSD 
 #EXTINF:-1,EfektoTV 
 http://oneplay.tv/darkuzdev/?ch=EfektoTVLA
@@ -212,13 +157,13 @@ http://oneplay.tv/darkuzdev/?ch=CNNLASD
 http://oneplay.tv/darkuzdev/?ch=ElFinancieroBLA 
 #EXTINF:-1,NTN24 
 http://oneplay.tv/darkuzdev/?ch=NTN24LA
-#EXTINF:-1,MTVLatinoamerica 
+#EXTINF:-1,MTV 
 http://oneplay.tv/darkuzdev/?ch=MTVLA
-#EXTINF:-1,MTVHitsLatinoamerica 
+#EXTINF:-1,MTVHits 
 http://oneplay.tv/darkuzdev/?ch=MTVHitsLA 
 #EXTINF:-1,VH1ClassicEurope 
 http://oneplay.tv/darkuzdev/?ch=VH1ClassicLASD 
-#EXTINF:-1,VH1LatinoNorte 
+#EXTINF:-1,VH1 
 http://oneplay.tv/darkuzdev/?ch=VH1LatinoSD
 #EXTINF:-1,KMusic 
 http://oneplay.tv/darkuzdev/?ch=KMusicLA
@@ -242,80 +187,80 @@ http://oneplay.tv/darkuzdev/?ch=GoldenHD
 http://oneplay.tv/darkuzdev/?ch=GoldenEdgeLA
 #EXTINF:-1,GoldenMultiplex 
 http://oneplay.tv/darkuzdev/?ch=GoldenMPLXLA
-#EXTINF:-1,ParamountChannelLatinoamerica 
+#EXTINF:-1,ParamountChannel
 http://oneplay.tv/darkuzdev/?ch=ParamountChannelLatinAmericaHD
-#EXTINF:-1,SundanceChannelLatinoamerica 
+#EXTINF:-1,SundanceChannel
 http://oneplay.tv/darkuzdev/?ch=SundanceLA
-#EXTINF:-1,TNTAmericaLatina 
+#EXTINF:-1,TNT 
 http://oneplay.tv/darkuzdev/?ch=TNTAmericaLatinaHD
-#EXTINF:-1,CineCanal 
+#EXTINF:-1,CINECANAL 
 http://oneplay.tv/darkuzdev/?ch=CineCanalLA
-#EXTINF:-1,CinemaxLatinoamerica 
+#EXTINF:-1,CINEMAX 
 http://oneplay.tv/darkuzdev/?ch=CinemaxLASD
 #EXTINF:-1,SPACE 
 http://oneplay.tv/darkuzdev/?ch=SpaceLA
 #EXTINF:-1,AMC 
 http://oneplay.tv/darkuzdev/?ch=AMCLASD
-#EXTINF:-1,StudioUniversal 
+#EXTINF:-1,STUDIOUNIVERSAL 
 http://oneplay.tv/darkuzdev/?ch=StudioUniversalSD
-#EXTINF:-1,TCMAmericaLatina 
+#EXTINF:-1,TCM 
 http://oneplay.tv/darkuzdev/?ch=TCMSD
-#EXTINF:-1,ISat 
+#EXTINF:-1,ISAT 
 http://oneplay.tv/darkuzdev/?ch=ISATLA
-#EXTINF:-1,EuropaEuropa 
+#EXTINF:-1,EUROPAEUROPA 
 http://oneplay.tv/darkuzdev/?ch=EuropaEuropaLA 
-#EXTINF:-1,FilmArtsLatinoamerica 
+#EXTINF:-1,FILMARTS 
 http://oneplay.tv/darkuzdev/?ch=FilmArtsLA
-#EXTINF:-1,FilmZone 
+#EXTINF:-1,FILMZONE 
 http://oneplay.tv/darkuzdev/?ch=FilmZoneLASD 
-#EXTINF:-1,Fox1Este 
+#EXTINF:-1,FOX1ESTE 
 http://oneplay.tv/darkuzdev/?ch=FOX1LASD
-#EXTINF:-1,Fox1Oeste 
+#EXTINF:-1,FOX1OESTE 
 http://oneplay.tv/darkuzdev/?ch=FOX1OesteLASD
-#EXTINF:-1,FoxFamily 
+#EXTINF:-1,FOXFAMILY 
 http://oneplay.tv/darkuzdev/?ch=FOXFamilyLASD 
-#EXTINF:-1,FoxComedy 
+#EXTINF:-1,FOXCOMEDY 
 http://oneplay.tv/darkuzdev/?ch=FOXComedyLASD 
-#EXTINF:-1,FoxCinema 
+#EXTINF:-1,FOXCINEMA
 http://oneplay.tv/darkuzdev/?ch=FoxCinemaSD 
-#EXTINF:-1,FoxActionEste 
+#EXTINF:-1,FOXACTIONESTE 
 http://oneplay.tv/darkuzdev/?ch=FOXACTIONLASD
-#EXTINF:-1,FoxActionOeste 
+#EXTINF:-1,FOXACTIONOESTE 
 http://oneplay.tv/darkuzdev/?ch=FOXActionOesteLASD
-#EXTINF:-1,FoxMoviesLatinoamerica 
+#EXTINF:-1,FOXMOVIES
 http://oneplay.tv/darkuzdev/?ch=FOXMoviesLASD 
-#EXTINF:-1,FoxClassicsLatinoamerica 
+#EXTINF:-1,FOXCLASSICS 
 http://oneplay.tv/darkuzdev/?ch=FOXClassicsLASD
-#EXTINF:-1,HBOLatinoamerica 
+#EXTINF:-1,HBO 
 http://oneplay.tv/darkuzdev/?ch=HBOLASD 
-#EXTINF:-1,HBO2Latinoamerica 
+#EXTINF:-1,HBO2 
 http://oneplay.tv/darkuzdev/?ch=HBO2SD 
-#EXTINF:-1,HBOPlusEste 
+#EXTINF:-1,HBOPLUSESTE 
 http://oneplay.tv/darkuzdev/?ch=HBOPlusLASD 
-#EXTINF:-1,HBOPlusOeste 
+#EXTINF:-1,HBOPLUSOESTE 
 http://oneplay.tv/darkuzdev/?ch=HBOPus2LASD
-#EXTINF:-1,HBOFamilyLatinoamerica 
+#EXTINF:-1,HBOFAMILY 
 http://oneplay.tv/darkuzdev/?ch=HBOFamilyLASD 
-#EXTINF:-1,HBOSignatureLatinoamerica 
+#EXTINF:-1,HBOSIGNATURE 
 http://oneplay.tv/darkuzdev/?ch=HBOSignatureLASD
-#EXTINF:-1,MaxUPLatinoamerica 
+#EXTINF:-1,MAXUP
 http://oneplay.tv/darkuzdev/?ch=MaxUPSD 
-#EXTINF:-1,MaxPrimeEste 
+#EXTINF:-1,MAXPRIMEESTE 
 http://oneplay.tv/darkuzdev/?ch=MaxPrimeLASD 
-#EXTINF:-1,MaxPrimeOeste 
+#EXTINF:-1,MAXPRIMEOESTE 
 http://oneplay.tv/darkuzdev/?ch=MaxPrime2LASD 
 #EXTINF:-1,MAX 
 http://oneplay.tv/darkuzdev/?ch=MaxLASD
-#EXTINF:-1,GoldenPremier1 
+#EXTINF:-1,GOLDENPREMIER1 
 http://oneplay.tv/darkuzdev/?ch=GoldenPremier1LA 
-#EXTINF:-1,GoldenPremier2 
+#EXTINF:-1,GOLDENPREMIER2 
 http://oneplay.tv/darkuzdev/?ch=GoldenPremiere2LA
 
 
 
 
 
-#EXTINF:-1,TLC+++
+#EXTINF:-1,tlc
 http://stuped.oneplay.tv/reproducir/290.m3u8
 #EXTINF:-1,LifeTime
 http://stuped.oneplay.tv/reproducir/276.m3u8
