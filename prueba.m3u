@@ -1,23 +1,27 @@
 #EXTM3U
 
 #EXTINF:-1,BABYFIRTS1
-http://lb.iptvserver.tv:8080/redirect/LiveEdge/BabyFirstLA/playlist.m3u8?token=b7c11181928360b586c83aea2e94e49a
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/BabyFirstLA/playlist.m3u8?token=524c69c198a52484e70fc068b0bcf788
 #EXTINF:-1,BABYFIRST2
-http://31.220.40.117:80/LiveEdge/BabyFirstLA/playlist.m3u8?token=b7c11181928360b586c83aea2e94e49a
+http://31.220.40.115:80/LiveEdge/BabyFirstLA/playlist.m3u8?token=524c69c198a52484e70fc068b0bcf788
 #EXTINF:-1,BABYFIRST3
-http://31.220.40.117/LiveEdge/BabyFirstLA/playlist.m3u8?token=b7c11181928360b586c83aea2e94e49a
+http://31.220.40.115/LiveEdge/BabyFirstLA/playlist.m3u8?token=524c69c198a52484e70fc068b0bcf788
 #EXTINF:-1,H&H1
-http://lb.iptvserver.tv:8080/redirect/LiveEdge/DiscoveryHomeHealthLAHD/playlist.m3u8?token=eb04dd3767fcd9c49fe9b9c50d605164
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/DiscoveryHomeHealthLAHD/playlist.m3u8?token=75b52823cd3214d6a0b5b076b8a3a994
 #EXTINF:-1,H&H2
-http://31.220.40.116:80/LiveEdge/DiscoveryHomeHealthLAHD/playlist.m3u8?token=eb04dd3767fcd9c49fe9b9c50d605164
+http://31.220.40.116:80/LiveEdge/DiscoveryHomeHealthLAHD/playlist.m3u8?token=75b52823cd3214d6a0b5b076b8a3a994
 #EXTINF:-1,H&H3
-http://31.220.40.116/LiveEdge/DiscoveryHomeHealthLAHD/playlist.m3u8?token=eb04dd3767fcd9c49fe9b9c50d605164
+http://31.220.40.116/LiveEdge/DiscoveryHomeHealthLAHD/playlist.m3u8?token=75b52823cd3214d6a0b5b076b8a3a994
 #EXTINF:-1,ID1
 http://lb.iptvserver.tv:8080/redirect/LiveEdge/InvDiscoverySD/playlist.m3u8?token=2eae4c2e02dae2c3cda2a05e22d2c0cd
 #EXTINF:-1,ID2
 http://31.220.41.111:80/LiveEdge/InvDiscoverySD/playlist.m3u8?token=2eae4c2e02dae2c3cda2a05e22d2c0cd
 #EXTINF:-1,ID3
 http://31.220.41.111/LiveEdge/InvDiscoverySD/playlist.m3u8?token=2eae4c2e02dae2c3cda2a05e22d2c0cd
+
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/InvDiscoverySD/playlist.m3u8?token=126b16ae8775322321b7663af70a29b6
+http://31.220.41.111:80/LiveEdge/InvDiscoverySD/playlist.m3u8?token=126b16ae8775322321b7663af70a29b6
+http://31.220.41.111/LiveEdge/InvDiscoverySD/playlist.m3u8?token=126b16ae8775322321b7663af70a29b6
 
 
 #EXTINF:-1 group-title="Colombia",ULTRA TV
