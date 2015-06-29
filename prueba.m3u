@@ -1,9 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1,I
-http://oneplay.tv/darkuzdev/
-#EXTINF:0,ID
-http://oneplay.tv/embed/?i=46&n=ID+-+investigation+Discovery
+#EXTINF:-1,1
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/BabyFirstLA/playlist.m3u8?token=b7c11181928360b586c83aea2e94e49a
+#EXTINF:-1,2
+http://31.220.40.117:80/LiveEdge/BabyFirstLA/playlist.m3u8?token=b7c11181928360b586c83aea2e94e49a
+#EXTINF:-1,3
+http://31.220.40.117/LiveEdge/BabyFirstLA/playlist.m3u8?token=b7c11181928360b586c83aea2e94e49a
 
 #EXTINF:-1 group-title="Colombia",ULTRA TV
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
