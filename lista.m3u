@@ -1,7 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="Colombia",ULTRA TV
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
-#EXTINF:-1 group-title="Colombia",TELEFUTURO
+#EXTINF:-1, ULTRA TV OPC2
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
+#EXTINF:0,BEIN SPORT
+http://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5/playlist.m3u8?wowzasessionid=1420168629
+#EXTINF:0,TaTeTi NIÑOS
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+
+#EXTINF:-1,TELEFUTURO
 http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8
 #EXTINF:-1,CANAL TUNUYAN
 http://iphone-streaming.ustream.tv/uhls/19310821/streams/live/iphone/playlist.m3u8
