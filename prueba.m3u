@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0,D
+#EXTINF:0,ID
 http://oneplay.tv/darkuzdev/?i=46&n
 
 #EXTINF:-1 group-title="Colombia",ULTRA TV
