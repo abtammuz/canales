@@ -246,8 +246,6 @@ http://www.deadlyblogger.com/NewRelease/turbo.mp4
 #EXTINF:-1,WeӲe The Millers (FILM)
 http://www.deadlyblogger.com/NewRelease/millers.mp4
 
-#EXTINF:-1,[COLOR yellow]»»-----------------------------««[/COLOR]
-
 #EXTINF:-1,Zis Boom Bah (1941)
 http://archive.org/download/zis_boom_bah/zis_boom_bah.mp4
 #EXTINF:-1,Zouzou AKA Zou Zou (1934)
@@ -313,10 +311,7 @@ mms://72.13.93.186/lawandorder
 #EXTINF:-1,mms tv detectives
 mms://72.13.93.186/tvdetectives
 
-#EXTINF:-1,[COLOR yellow]---VOD ENG ---[/COLOR]
-http://0.0.0.0:1234
 
-http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
 #EXTINF:-1,22 Jump Street
 http://www.deadlyblogger.com/NewRelease/22jump.mp4
 #EXTINF:-1,3 Days To Kill
@@ -420,9 +415,6 @@ http://www.deadlyblogger.com/NewRelease/millers.mp4
 #EXTINF:-1,X-Men Days Of Future Past
 http://www.deadlyblogger.com/NewRelease/xmenfuture.mp4
 
-
-#EXTINF:-1,[COLOR yellow]--- Old Movies ---[/COLOR]
-http://0.0.0.0:1234
 
 #EXTINF:-1,20,000 Leagues Under The Sea 1916 - 01:38:42
 http://archive.org/download/20000LeaguesUndertheSea/20000_Leagues_Under_the_Sea_512kb.mp4
