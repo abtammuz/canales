@@ -1,9 +1,7 @@
 #EXTM3U
 
-#EXTINF:0,investigacion d
-http://oneplay.tv/applicationlive/reproducir/154.m3u8
-#EXTINF:0,ID 
-http://live.oneplay.tv/applicationlive/reproducir/154.m3u8
+#EXTINF:0,id
+http://oneplay.tv/darkuzdev/?ch=46&n=ID+-+investigation+Discovery
 
 #EXTINF:-1 group-title="Colombia",ULTRA TV
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
