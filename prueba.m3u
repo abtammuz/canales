@@ -1,49 +1,8 @@
 #EXTM3U
-#EXTINF:-1,HBO PLUS
-http://shidurlive.com/embed/tutvhboplus|http://tutvgratis.tv
-#EXTINF:-1,HBO
-http://shidurlive.com/embed/tutvahbdos|http://tutvgratis.tv
 #EXTINF:-1,South Park
 http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Los simpsons TV
-http://shidurlive.com/embed/tutvsimsons|http://tutvgratis.tv/
 #EXTINF:-1,Telemundo
 http://iphone-streaming.ustream.tv/uhls/20487775/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,HBO 2
-http://shidurlive.com/embed/tutvhbodos|http://tutvgratis.tv
-#EXTINF:-1,Dragon Ball Z
-http://shidurlive.com/embed/tutvdbzfree|http://tutvgratis.tv
-#EXTINF:-1,Cine Latino
-http://shidurlive.com/embed/tutvcinela|http://tutvgratis.tv
-#EXTINF:-1,TVC Deportes
-http://shidurlive.com/embed/tvcdep|http://tutvgratis.tv
-#EXTINF:-1,ESPN +
-rtmp://178.162.202.6/live playpath=espnmas2031?id=230405 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=1 pageUrl=http://www.mipsplayer.com/embedplayer/espnmas2031/1/600/385 tcomm=gaolVanusPobeleVoKosata;TRUE conn=S:OK
-#EXTINF:-1,CMD
-http://live.mvdigital.net:1935/live5/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,DeporTV
-rtmp://edge02.dcarsat.com.ar/DXTV/DXTV/
-#EXTINF:-1,Planeta Futbol
-http://shidurlive.com/embed/tutvplanetf|htp://tutvgratis.tv/
-#EXTINF:-1,GolTV
-http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b1096000.m3u8
-#EXTINF:-1,Fox Sports 3
-rtmp://95.211.184.231/live playpath=fox32031?id=230409 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=1 pageUrl=http://www.mipsplayer.com/embedplayer/fox32031/1/600/385 tcomm=gaolVanusPobeleVoKosata;TRUE conn=S:OK
-#EXTINF:-1,Claro Sports
-http://ooyalahd2-f.akamaihd.net/i/csports01_delivery@42896/index_1692_av-p.m3u8
-#EXTINF:-1,WWE
-rtmp://46.165.220.232/live playpath=wwe2031?id=230418 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=1 pageUrl=http://www.mipsplayer.com/embedplayer/wwe2031/1/600/385 tcomm=gaolVanusPobeleVoKosata;TRUE conn=S:OK
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="Colombia",ULTRA TV
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
