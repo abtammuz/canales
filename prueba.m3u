@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1,ANIMAL PLANET
-http://oneplay.tv/applicationlive/reproducir/262.m3u8
+#EXTINF:-1,ANIMALPLANET
+http://live.oneplay.tv/applicationlive/reproducir/262.m3u8
 #EXTINF:-1,H&H 
-http://oneplay.tv/applicationlive/reproducir/265.m3u8
+http://live.oneplay.tv/applicationlive/reproducir/265.m3u8
 #EXTINF:-1,ID
-http://oneplay.tv/applicationlive/reproducir/154.m3u8
+http://live.oneplay.tv/applicationlive/reproducir/154.m3u8
 #EXTINF:-1,CANAL5 
-http://oneplay.tv/embed/embed.php?s=http://oneplay.tv/applicationlive/reproducir/52.m3u8
+http://live.oneplay.tv/applicationlive/reproducir/52.m3u8
 
 
 #EXTINF:-1 group-title="Colombia",ULTRA TV
