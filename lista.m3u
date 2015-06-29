@@ -7,7 +7,10 @@ http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchanne
 http://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5/playlist.m3u8?wowzasessionid=1420168629
 #EXTINF:0,TaTeTi NIÑOS
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
-
+#EXTINF:-1,South Park
+http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Telemundo
+http://iphone-streaming.ustream.tv/uhls/20487775/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,TELEFUTURO
 http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8
 #EXTINF:-1,CANAL TUNUYAN
@@ -447,6 +450,288 @@ http://buecrplb01.cienradios.com.ar/Clasica_32000.aac
 http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Clasica Meditacion
 http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
+
+#EXTINF:-1,THE SIMPSONS CAP1
+https://youpeliculas.box.com/shared/static/h1ks4cezg5pkpfojfodk.mp4
+#EXTINF:-1,THE SIMPSONS CAP2
+https://youpeliculas.box.com/shared/static/7ylnmpmdbh7dfbiofsk0.mp4
+#EXTINF:-1,THE SIMPSONS CAP3
+https://youpeliculas.box.com/shared/static/gtq87oyok6qoa2hh3mpp.mp4
+#EXTINF:-1,THE SIMPSONS CAP4
+https://youpeliculas.box.com/shared/static/80ic50ms5aj9har1qlthpi3s0a5alw8q.mp4
+#EXTINF:-1,THE SIMPSONS CAP5
+https://youpeliculas.box.com/shared/static/9d0na57i5whdbwobesosarv3sv8ywhqi.mp4
+#EXTINF:-1,THE SIMPSONS CAP6
+https://youpeliculas.box.com/shared/static/bbprqwfkzni62rbiajczsyj4rlcxsyut.mp4
+#EXTINF:-1,CAP7
+https://youpeliculas.box.com/shared/static/ebvf99yghy7dzwuvbdnu.mp4
+#EXTINF:-1,CAP8
+https://youpeliculas.box.com/shared/static/02unzde7d3ljr4idhfhd.mp4
+#EXTINF:-1,CAP9
+https://youpeliculas.box.com/shared/static/7namk41rge9nmlxv4oct.mp4
+#EXTINF:-1,CAP10
+https://youpeliculas.box.com/shared/static/few43s7xlaxg47qkwpp6.mp4
+#EXTINF:-1,CAP11
+https://youpeliculas.box.com/shared/static/buelxtymuxypyfp36pk2.mp4
+#EXTINF:-1, CAP12
+https://youpeliculas.box.com/shared/static/bc5z6kdbiwn8a8hsa5ik.mp4
+#EXTINF:-1, CAP13
+https://youpeliculas.box.com/shared/static/7t6tpdb42em3dzpytkue.mp4
+#EXTINF:-1, CAP14
+https://youpeliculas.box.com/shared/static/umtj85zdwnnivh01si12.mp4
+#EXTINF:-1, CAP15
+https://youpeliculas.box.com/shared/static/atlflgjm2tja9082po5g.mp4
+#EXTINF:-1, CAP16
+https://youpeliculas.box.com/shared/static/h3kq7izzyr4ff8srgvaj.mp4
+#EXTINF:-1, CAP17
+https://youpeliculas.box.com/shared/static/6dvqvhu666yqt63vsqqd.mp4
+#EXTINF:-1, CAP18
+https://youpeliculas.box.com/shared/static/logzkbc36p6kht1vj341.mp4
+#EXTINF:-1, CAP19
+https://youpeliculas.box.com/shared/static/c6w174ywovs61i0legtf.mp4
+#EXTINF:-1, CAP20
+https://youpeliculas.box.com/shared/static/en7yd3fis453t43fauhr.mp4
+#EXTINF:-1, CAP21
+https://youpeliculas.box.com/shared/static/jltr9svimib5thgjdvgu.mp4
+#EXTINF:-1, CAP22
+https://youpeliculas.box.com/shared/static/aqyodd6kbcmzqszn7wcoeb9jd9yezkp1.mkv
+#EXTINF:-1, CAP23
+https://youpeliculas.box.com/shared/static/bu96482tom31lfiyypmxfts7bje4iiai.mkv
+#EXTINF:-1, CAP24
+https://youpeliculas.box.com/shared/static/ver8dm9guu0ezt9552xqeb2fn65ia5zg.flv
+#EXTINF:-1, CAP25
+https://youpeliculas.box.com/shared/static/355hor0d1zr7ejafdp0oxfcrh4g233xq.flv
+#EXTINF:-1, CAP26
+https://youpeliculas.box.com/shared/static/qg0asq8u7hufta8pgr7rt1tyg0yp1mtq.flv
+#EXTINF:-1, CAP27
+https://youpeliculas.box.com/shared/static/45o3m5vo9d0u1apxvw318gw50uvol8n3.flv
+#EXTINF:-1, CAP28
+https://youpeliculas.box.com/shared/static/pyhocfuksq73cyy66x38f0upsuip0zgu.flv
+#EXTINF:-1, CAP29
+https://youpeliculas.box.com/shared/static/peupz8dfenj8bbkghjgtzc3sp25xw7fj.flv
+#EXTINF:-1, CAP30
+https://youpeliculas.box.com/shared/static/63gg91kzj8pefrhxiwaluw53jp7gbzrf.flv
+#EXTINF:-1, CAP31
+https://youpeliculas.box.com/shared/static/s30rt3rcnnqlaoiyte57t3x87l6ktpfl.flv
+#EXTINF:-1, CAP32
+https://youpeliculas.box.com/shared/static/r0fztm52c9smsfpa4jcrojked8x6m31a.flv
+#EXTINF:-1, CAP33
+https://youpeliculas.box.com/shared/static/3udo2pnouc4gf2vrphej6i0rrytsx5g1.flv
+#EXTINF:-1, CAP34
+https://youpeliculas.box.com/shared/static/55nes7garakihrehbcmx6t4ayqv2hgk3.flv
+#EXTINF:-1, CAP35
+https://youpeliculas.box.com/shared/static/pnf1yu24axlwygl6rntyzih7w5dik3ar.flv
+#EXTINF:-1, CAP36
+https://youpeliculas.box.com/shared/static/fni3kod6tvun6w5n5xucp6lg4h3zew3h.flv
+#EXTINF:-1, CAP37
+https://youpeliculas.box.com/shared/static/h7k0peeui4vt1ar8qqrc16urr1j6ep6d.flv
+#EXTINF:-1, CAP38
+https://youpeliculas.box.com/shared/static/79a2nnpn5wvuziggo456lf6qghys8z84.flv
+#EXTINF:-1, CAP39
+https://youpeliculas.box.com/shared/static/nj9obigisyby7a8dbf6brmhapgop2rb5.flv
+#EXTINF:-1, CAP40
+https://youpeliculas.box.com/shared/static/u2ztmxvcjwpgjie82sfo5molo985510i.flv
+#EXTINF:-1, CAP41
+https://youpeliculas.box.com/shared/static/vt6q0nh69q40vvk4h5as9myogwpxqnzv.flv
+#EXTINF:-1, CAP42
+https://youpeliculas.box.com/shared/static/dtlz8pz9vmgybet8l82ysbajiv8qh9z2.flv
+#EXTINF:-1, CAP43
+https://youpeliculas.box.com/shared/static/nxjsg0ghmv5hkkfw2o8p6focv4hgvyeq.flv
+#EXTINF:-1, CAP44
+https://youpeliculas.box.com/shared/static/1cdi39wodbynyzlxw3jpra15sm8rd4tl.flv
+#EXTINF:-1, CAP45
+https://youpeliculas.box.com/shared/static/ihmjtna5ppatbbu6u3mviov39mmycvt9.flv
+#EXTINF:-1, CAP46
+https://youpeliculas.box.com/shared/static/j70bknjurpgrwikxkvp4vadrtwh3r7aj.flv
+#EXTINF:-1, CAP47
+https://youpeliculas.box.com/shared/static/vkz9c1yai7t01gmu69y36bbziz8ruuwb.flv
+#EXTINF:-1, CAP48
+https://youpeliculas.box.com/shared/static/7j2enhgb8b2nc3pt38yi9surha9z10aq.flv
+#EXTINF:-1, CAP49
+https://youpeliculas.box.com/shared/static/2r2akdvjywqr3etv4awuwsge12z1rziz.flv
+#EXTINF:-1, CAP50
+https://youpeliculas.box.com/shared/static/ipg8j8j7o0gnbbe6dszvorhx1ha31ojz.flv
+#EXTINF:-1, CAP51
+https://youpeliculas.box.com/shared/static/v86nrcida81kinph2jrra7s7prf0lfag.flv
+#EXTINF:-1, CAP52
+https://youpeliculas.box.com/shared/static/cvharuok56b0vd912iyky9gox2g2ovnj.flv
+#EXTINF:-1, CAP53
+https://youpeliculas.box.com/shared/static/xtwggqbw06f7jtlky05hdehuh65lh0ly.flv
+#EXTINF:-1, CAP54
+https://youpeliculas.box.com/shared/static/oi9y9l4nodlng5ewnhycw8ua1m9dic96.flv
+#EXTINF:-1, CAP55
+https://youpeliculas.box.com/shared/static/1ydx5p6rpfejtjorof21bh2r0ze3vech.flv
+#EXTINF:-1, CAP56
+https://youpeliculas.box.com/shared/static/zsywh4e93ctj1qhz0feui79sdg7op9nj.flv
+#EXTINF:-1, CAP57
+https://youpeliculas.box.com/shared/static/ne04zw39jadt5drgtn237cl3yx6whhc8.flv
+#EXTINF:-1, CAP58
+https://youpeliculas.box.com/shared/static/i65tqu8js9tl7bd1kmy72s5o20ca1s8h.flv
+#EXTINF:-1, CAP59
+https://youpeliculas.box.com/shared/static/n05o3b10ppvqx4rftydwnm4itg2wopjm.flv
+#EXTINF:-1, CAP60
+https://youpeliculas.box.com/shared/static/qwuakul6kr29ap14ksfijkwao1gj7pnf.flv
+#EXTINF:-1, CAP61
+https://youpeliculas.box.com/shared/static/kzmwnjksl12hijdbad669ubuucv1z1wp.flv
+#EXTINF:-1, CAP62
+https://youpeliculas.box.com/shared/static/oxsl2xx3ue32xlk3hs50impn6wkph3mf.flv
+#EXTINF:-1, CAP63
+https://youpeliculas.box.com/shared/static/qp91ou16wgmievrknvrxnpqjbp8j3sp9.flv
+#EXTINF:-1, CAP64
+https://youpeliculas.box.com/shared/static/yzlli5swlq9938lcd9vej4bp789ja3ub.flv
+#EXTINF:-1, CAP65
+https://youpeliculas.box.com/shared/static/ncgjig7nn5s5wj8mhu7fmc8qcwi64h1v.flv
+#EXTINF:-1, CAP66
+https://youpeliculas.box.com/shared/static/9yzg3daqg90uks77i1wg4r4nh9d6b064.mkv
+#EXTINF:-1, CAP67
+https://youpeliculas.box.com/shared/static/utmfxgo6wvcm8dzdv5pvoueiwpwt7dz8.flv
+#EXTINF:-1, CAP68
+https://youpeliculas.box.com/shared/static/a9gp9x7qlytjdj2xxpkvbcd9813o0r10.flv
+#EXTINF:-1, CAP69
+https://youpeliculas.box.com/shared/static/dyqiinyozgfm7hj7u25r9n64d8devpjp.flv
+#EXTINF:-1, CAP70
+https://youpeliculas.box.com/shared/static/9uhev42gk27m9q5nvptphu2h9c44oivi.flv
+#EXTINF:-1, CAP71
+https://youpeliculas.box.com/shared/static/usbp0tzfm8n00uc1thzgcauocwn2dx71.flv
+#EXTINF:-1, CAP72
+https://youpeliculas.box.com/shared/static/wb7xhydfxuxze7uni5izuklmsalqj9c4.flv
+#EXTINF:-1, CAP73
+https://youpeliculas.box.com/shared/static/w6zoulil88ho57bi45ikmkihqf2zpuf9.flv
+#EXTINF:-1, CAP74
+https://youpeliculas.box.com/shared/static/p6tzsnal5zd2yuntjxnriuxpajldh6c5.flv
+#EXTINF:-1, CAP75
+https://youpeliculas.box.com/shared/static/zlkoje94ezovpyzd5ihvv7d0rmrrw0w1.flv
+#EXTINF:-1, CAP76
+https://youpeliculas.box.com/shared/static/vhr46veodzehkxvytgfbuuarg9cqgrz5.flv
+#EXTINF:-1, CAP77
+https://youpeliculas.box.com/shared/static/13fw52dsnuo7eosapjrgfa2l6mqga3a5.flv
+#EXTINF:-1, CAP78
+https://youpeliculas.box.com/shared/static/cyiupfbxnidrxuv2i4586rmflpa3xdnl.flv
+#EXTINF:-1, CAP79
+https://youpeliculas.box.com/shared/static/2rorknb2yuurjoie1u9wr3k9rli55uks.flv
+#EXTINF:-1, CAP80
+https://youpeliculas.box.com/shared/static/s13lxljb04dltevld0fr0v8rwpz7afgq.flv
+#EXTINF:-1, CAP81
+https://youpeliculas.box.com/shared/static/cqpnu6u8e1c9v8dvtc3sk85ityxmvkk0.flv
+#EXTINF:-1, CAP82
+https://youpeliculas.box.com/shared/static/bkltpwje24wqgh83m4zved16t5czpxhy.flv
+#EXTINF:-1, CAP83
+https://youpeliculas.box.com/shared/static/vefh2mn75hi6cjun58ix3e3ak9o09gt9.flv
+#EXTINF:-1, CAP84
+https://youpeliculas.box.com/shared/static/9xenp3c5w8q8l7vq29t5vwxlrw9cmbj4.flv
+#EXTINF:-1, CAP85
+https://youpeliculas.box.com/shared/static/c12kzh9n21olhtun2sujdaextkxgv9xa.flv
+#EXTINF:-1, CAP86
+https://youpeliculas.box.com/shared/static/iqo2zz646dvmmlpjilvryu56s3vsfktl.flv
+#EXTINF:-1, CAP87
+https://youpeliculas.box.com/shared/static/ffmovbft3xanrolmsgjzxb8qgt1d3kmf.mkv
+#EXTINF:-1, CAP88
+https://youpeliculas.box.com/shared/static/oterm8q9b3t6zqyz24iiw6vu7ysqx6fc.flv
+#EXTINF:-1, CAP89
+https://youpeliculas.box.com/shared/static/3qauawdjdww53bcehjr5jkasiw0mskxd.flv
+#EXTINF:-1, CAP90
+https://youpeliculas.box.com/shared/static/zasdz7309rb68623rh2xhziokvm28u0x.flv
+#EXTINF:-1, CAP91
+https://youpeliculas.box.com/shared/static/2a471sptym5uhh6aw3ikekckjnjelife.flv
+#EXTINF:-1, CAP92
+https://youpeliculas.box.com/shared/static/zndo8ly56h4jt4375sbtd1om8pjx4pbc.flv
+#EXTINF:-1, CAP93
+https://youpeliculas.box.com/shared/static/xlifj44drzlq0v5zn07bxjore9s4d2di.flv
+#EXTINF:-1, CAP94
+https://youpeliculas.box.com/shared/static/e1fj2fwtb53p6lixvl3bvx3qvwoqs2gu.flv
+#EXTINF:-1, CAP95
+https://youpeliculas.box.com/shared/static/w3ir3m9jd6nyli5lsq60a1gegzr7sr89.flv
+#EXTINF:-1, CAP96
+https://youpeliculas.box.com/shared/static/bn6dblagpximn6r0k8fo404izzfl19yz.flv
+#EXTINF:-1, CAP97
+https://youpeliculas.box.com/shared/static/djdn2n37bn7vtsvz0ltj49a6xxae1bl0.flv
+#EXTINF:-1, CAP98
+https://youpeliculas.box.com/shared/static/15r3jj1dom4j8mwwo4u5pf6obnajodmc.flv
+#EXTINF:-1, CAP99
+https://youpeliculas.box.com/shared/static/2uxr7fxl8cpjxgyat52hvlztjzrtiyzm.flv
+#EXTINF:-1, CAP100
+https://youpeliculas.box.com/shared/static/gud9audtavugt4e7gsrwfjh7ywqdl1kc.flv
+#EXTINF:-1, CAP101
+https://youpeliculas.box.com/shared/static/6guw4bz4z5m8t4ayz1evzbsgrmh9gc5b.flv
+#EXTINF:-1, CAP102
+https://youpeliculas.box.com/shared/static/vsk64vap38ml8unpkm0rz24p6vob85o2.flv
+#EXTINF:-1, CAP103
+https://youpeliculas.box.com/shared/static/0mtnjl2alasdurk4kq1j0qhe2z6wnwd9.flv
+#EXTINF:-1, CAP104
+https://youpeliculas.box.com/shared/static/to9scctngn0516rk0iahzk0d5kab4v2x.flv
+#EXTINF:-1, CAP105
+https://youpeliculas.box.com/shared/static/wdkfcv3irls2dnvvq19kna2ed09316o0.flv
+#EXTINF:-1, CAP106
+https://youpeliculas.box.com/shared/static/stgji776e9y2lxe5965jewjp0gualch9.flv
+#EXTINF:-1, CAP107
+https://youpeliculas.box.com/shared/static/klcyuoqpc74lxmk8as2x0ea2y7ozzeu7.flv
+#EXTINF:-1, CAP108
+https://youpeliculas.box.com/shared/static/o515vk9jgpb7cgw6cx15wdi8nwn2yuxm.flv
+#EXTINF:-1, CAP109
+https://youpeliculas.box.com/shared/static/l5sj494rr6ldsrrkods0tc3rxd0ycbwg.mkv
+#EXTINF:-1, CAP110
+https://youpeliculas.box.com/shared/static/z839x0lyxbjkn0fcetgv4mi16v6g2mle.flv
+#EXTINF:-1, CAP111
+https://youpeliculas.box.com/shared/static/ygnw2ag8q8izfxb0jpjtu57krj6h43c2.flv
+#EXTINF:-1, CAP112
+https://youpeliculas.box.com/shared/static/czwdpwpc7kum59w7qfeln4863vuvxsz7.flv
+#EXTINF:-1, CAP113
+https://youpeliculas.box.com/shared/static/rwzvc7elq2eakxxsyrxfy7nj9iq19qda.flv
+#EXTINF:-1, CAP114
+https://youpeliculas.box.com/shared/static/bitinynrfy3uakhbru6nr1b303dc37he.flv
+#EXTINF:-1, CAP115
+https://youpeliculas.box.com/shared/static/x5ctkvusse2869piiqob4fz5zij6tzas.flv
+#EXTINF:-1, CAP116
+https://youpeliculas.box.com/shared/static/cx32vwxzau2l03gkmivn2pymb06v3hor.flv
+#EXTINF:-1, CAP117
+https://youpeliculas.box.com/shared/static/k6ng1snijy3a3rvirgfpt9vnjpzszot4.flv
+#EXTINF:-1, CAP118
+https://youpeliculas.box.com/shared/static/ae5dbxttw8l7omkqn9lewkg6jiasf31i.flv
+#EXTINF:-1, CAP119
+https://youpeliculas.box.com/shared/static/y151c4tlg5q036oj0vcebiil4c7dx7us.flv
+#EXTINF:-1, CAP120
+https://youpeliculas.box.com/shared/static/c9awm9j9v21p1av77k19sqh0gb0x56vo.flv
+#EXTINF:-1, CAP121
+https://youpeliculas.box.com/shared/static/kc04i48e1qhgksvqs9hb9x1sc9lmzsit.flv
+#EXTINF:-1, CAP122
+https://youpeliculas.box.com/shared/static/kys74hmi5aosi1ptaz15zo97n890io4g.flv
+#EXTINF:-1, CAP123
+https://youpeliculas.box.com/shared/static/mumsv604cj5jbkypfohclsvf98ilbgv4.flv
+#EXTINF:-1, CAP124
+https://youpeliculas.box.com/shared/static/rds726nqm3ktkehldvue6907pdy5p20x.flv
+#EXTINF:-1, CAP125
+https://youpeliculas.box.com/shared/static/wvp10pov00u807dkkuwzc6chhju8w0xp.flv
+#EXTINF:-1, CAP126
+https://youpeliculas.box.com/shared/static/eitvc5s4qq5urmwun2882x5ajhh3ewpy.flv
+#EXTINF:-1, CAP127
+https://youpeliculas.box.com/shared/static/rig7hjvxqbq2oc99qcycs8407om4s1i6.flv
+#EXTINF:-1, CAP128
+https://youpeliculas.box.com/shared/static/uhdh5pec190wol0ugb9u4xf9sa1k3mgz.mkv
+#EXTINF:-1, CAP129
+https://youpeliculas.box.com/shared/static/b1purh41iuan4u3jzk7gqivjsjh9nlsw.flv
+#EXTINF:-1, CAP130
+https://youpeliculas.box.com/shared/static/66vyq2gnk5xliqorvygdoqzcs09iv4pw.flv
+#EXTINF:-1, CAP131
+https://youpeliculas.box.com/shared/static/rn1ujixpgpzxdft7g7o8je4lvppmxsi9.flv
+#EXTINF:-1, CAP132
+https://youpeliculas.box.com/shared/static/uwt67362vtblhfu90h0j57yawfbzfif0.flv
+#EXTINF:-1, CAP133
+https://youpeliculas.box.com/shared/static/kbd6jvt3pbsh8f2mqsmgr6ddeyf8l992.flv
+#EXTINF:-1, CAP134
+https://youpeliculas.box.com/shared/static/vm4s7csqdid2sjgqqkz57mu4i2dw1fgv.flv
+#EXTINF:-1, CAP135
+https://youpeliculas.box.com/shared/static/jg18g44jegdc2v0l65zr7usf6wua383c.flv
+#EXTINF:-1, CAP136
+https://youpeliculas.box.com/shared/static/z1smvkyz8kfegelos8danjjlqiwtgfbz.flv
+#EXTINF:-1, CAP137
+https://youpeliculas.box.com/shared/static/gorlmhef3agtf8mmhusp3ei576h6wqco.flv
+#EXTINF:-1, CAP138
+https://youpeliculas.box.com/shared/static/6a7ihfq6xkmrmi7qe3s8zbyupkdqldl6.flv
+#EXTINF:-1, CAP139
+https://youpeliculas.box.com/shared/static/e1fj2fwtb53p6lixvl3bvx3qvwoqs2gu.flv
+
+
+
 
 #EXTINF:0,P-MENTES PELIGROSAS
 https://ia600309.us.archive.org/34/items/b1fb1b3745.360/b1fb1b3745.360.mp4
