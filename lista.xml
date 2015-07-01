@@ -1,698 +1,368 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
 <channel>
-	<title><![CDATA[-1 group-title="Colombia"Canal Caracol HD]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://caracoltvlivehds-lh.akamaihd.net/i/emision_1@126280/index_300_av-b.m3u8]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Colombia"RCN Novelas]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=RCNnovelasLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Colombia"Caracol Internacional]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=CaracolIntSD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Colombia"Canal Uno]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Colombia"Canal Capital]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Mexico y USA"Telemundo]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=TelemundoSD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Mexico y USA"Univision]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=UnivisionEastUS]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Mexico y USA"Unimas]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=UniMasUS]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Mexico y USA"Gala Tv]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=GalaTVLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Mexico y USA"Canal de las Estrellas]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=EstrellasLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Deportes"Canal Azteca]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Mexico y USA"Azteca Mundo]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=AzMundoLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Mexico y USA"Pasiones]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=PasionesSD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Mexico y USA"Telenovelas]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=TlnovelasLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Mexico y USA"VMas+TV]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Informativos"CNN]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=CNNLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Informativos"NTN24]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=NTN24LA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Informativos"TVE]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=TVELASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Informativos"RT en Español]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://odna.octoshape.net/f3f5m2v4/cds/ch2_320p/chunklist.m3u8]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Infantiles"Baby First Tv]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=BabyFirstLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Infantiles"Baby Tv]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=BabyTVLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Infantiles"Boomerang]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=BoomerangLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Infantiles"DISNEY JR]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=DisneyJrLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Infantiles"DISNEY CHANNEL]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=DisneyChannelNorteHD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Infantiles"NICK JR]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=NickJrLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Infantiles"DISNEY XD]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=DisneyXDSD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Infantiles"NICK]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=NickelodeonLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Infantiles"CARTOON NETWORK]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=CartoonNetworkLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Infantiles"TOONCAST]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=TooncastSD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Variedades y Culturales"HISTORY]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=HistoryLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Variedades y Culturales"HISTORY 2]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=H2LASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Variedades y Culturales"Discovery]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=DiscoveryChLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Variedades y Culturales"Discovery Theater]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=DiscoveryenEspanolHD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Variedades y Culturales"Discovery World]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=DiscoveryWorldLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Variedades y Culturales"Discovery Home & Healt]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=DiscoveryHomeHealthLAHD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Variedades y Culturales"NatGeo]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=NatGeoLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Variedades y Culturales"NatGeo Wild]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=NatGeoWildLAHD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Variedades y Culturales"Animal Planet]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=AnimalPlanetLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Variedades y Culturales"El Gourmet]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=ElgourmetLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Variedades y Culturales"TLC]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=TLCLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Variedades y Culturales"Casa Club]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=CasaClubLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Variedades y Culturales"TBS]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=TBSLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Variedades y Culturales"Glitz]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=GlitzLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Variedades y Culturales"Fox Life]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FoxLifeSD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Variedades y Culturales"Life Time]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=LifetimeLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Variedades y Culturales"Film & Art]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FilmArtsLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Series"FX]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FXLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Series"Fox HD]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FOXHDLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Series"TNT Series]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=infinitoSD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Variedades y Culturales"Mundo Fox]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=MundoFoxSD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Series"Universal Channel]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=UniversalLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Series"AXN]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=AXNLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Series"Sony]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=SonyLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Series"WARNER HD]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=WarnerLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Series"SyFy]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=SyFyLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Series"True Tv HD]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=TruTVSD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Series"A&E]]></title>
+	<title><![CDATA[A&E (Ciencia y Cultura)]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
 	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=AELatinoamericaHD]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Series"InvestigationDiscovery]]></title>
+	<title><![CDATA[Animal Planet (Ciencia y Cultura)]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=AnimalPlanetLASD]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Discovery Channel (Ciencia y Cultura)]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=DiscoveryChLA]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Discovery Theater (Ciencia y Cultura)]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=DiscoveryenEspanolHD]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Discovery World (Ciencia y Cultura)]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=DiscoveryWorldLA]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[El Gourmet (Ciencia y Cultura)]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=ElgourmetLA]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[History (Ciencia y Cultura)]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=HistoryLA]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[History 2 (Ciencia y Cultura)]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=H2LASD]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Investigation Discovery (Ciencia y Cultura)]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
 	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=InvDiscoverySD]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Series"TBS]]></title>
+	<title><![CDATA[NAT GEO (Ciencia y Cultura)]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=TBSLASD]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=NatGeoLASD]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Series"E!]]></title>
+	<title><![CDATA[Nat Geo Wild (Ciencia y Cultura)]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=EentertaimentSD]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=NatGeoWildLAHD]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Series"Euro Channel]]></title>
+	<title><![CDATA[TLC (Ciencia y Cultura)]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=EurochannelLA]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=TLCLASD]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Series"Distrito Comedia]]></title>
+	<title><![CDATA[TruTV (Ciencia y Cultura)]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=DistritoComediaLA]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=TruTVSD]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Series"Comedia Central]]></title>
+	<title><![CDATA[Boomerang (Infantiles )]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=ComedyCentralLA]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=BoomerangLA]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Peliculas"Cine Latino]]></title>
+	<title><![CDATA[Cartoon Network (Infantiles )]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=CineLatinoSD]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=CartoonNetworkLASD]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Peliculas"FOX 1 Este]]></title>
+	<title><![CDATA[Discovery Kids (Infantiles )]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FOX1LASD]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=DiscoveryKidsSD]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Peliculas"FOX 1 Oeste]]></title>
+	<title><![CDATA[Disney Channel (Infantiles )]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FOX1LASD]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=DisneyChannelNorteHD]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Peliculas"FOX Family]]></title>
+	<title><![CDATA[Disney Junior (Infantiles )]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FOXFamilyLASD]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=DisneyJrLASD]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Peliculas"FOX Comedy]]></title>
+	<title><![CDATA[Disney XD (Infantiles )]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FOXComedyLASD]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=DisneyXDSD]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Peliculas"FOX Cinema]]></title>
+	<title><![CDATA[Nick Jr. (Infantiles )]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FoxCinemaSD]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=NickJrLASD]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Peliculas"FOX Action Este]]></title>
+	<title><![CDATA[Nickelodeon (Infantiles )]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FOXACTIONLASD]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=NickelodeonLA]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Peliculas"FOX Action Oeste]]></title>
+	<title><![CDATA[Tooncast (Infantiles )]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FOXActionOesteLASD]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=TooncastSD]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Peliculas"FOX Movies]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FOXMoviesLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"FOX Classics]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FOXClassicsLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"HBO]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=HBOLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"HBO 2]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=HBO2SD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"HBO Plus Este]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=HBOPlusLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"HBO Plus Oeste]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=HBOPus2LASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"HBO Signature]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=HBOSignatureLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"HBO Family]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=HBOFamilyLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"Max Up]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=MaxUPSD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"Max Prime Este]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=MaxPrimeLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"Max Prime Oeste]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=MaxPrime2LASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"Max]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=MaxLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"Golden Premier 1]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=GoldenPremier1LA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"Golden Premier 2]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=GoldenPremiere2LA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"CINECANAL]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=CineCanalLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"I Sat]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=ISATLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"Multipremier]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=MultiPremierLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"TNT]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=TNTAmericaLatinaHD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"GOLDEN]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=GoldenHD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"GOLDEN EDGE]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=GoldenEdgeLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"Paramount Channel]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=ParamountChannelLatinAmericaHD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"Sundance Channel]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=SundanceLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"FILM ZONE]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FilmZoneLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"AMC]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=AMCLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"SPACE HD]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=SpaceLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"CINECANAL]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=CineCanalLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"CINE MAX]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=CinemaxLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"AMC]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=AMCLASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"STUDIO UNIVERSAL]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=StudioUniversalSD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"TCM]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=TCMSD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Peliculas"Europa Europa]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=EuropaEuropaLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Deportes"ESPN]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=ESPNLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Deportes"ESPN 2]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=ESPN2LASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Deportes"ESPN 3]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=ESPN3LASD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Deportes"ESPN USA]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://80.80.160.168/live/6/live.m3u8]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Deportes"Fox Sports]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FoxSportsLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Deportes"Fox Sports 2]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FoxSports2SD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Deportes"Fox Sports 3]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FoxSports3SD]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Deportes"Bein Sports ñ]]></title>
+	<title><![CDATA[Bein Sports (Deportes)]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
 	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=BeinSportsLA]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Deportes"Planeta Futbol]]></title>
+	<title><![CDATA[Espn (Deportes)]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=ESPNLA]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[ESPN 2 (Deportes)]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=ESPN2LASD]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[ESPN 3 (Deportes)]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=ESPN3LASD]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Fox Sports (Deportes)]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FoxSportsLA]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Fox Sports 2 (Deportes)]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FoxSports2SD]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Fox Sports 3 (Deportes)]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FoxSports3SD]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Planeta Futbol (Deportes)]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
 	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=PlanetaFutbolLA]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Deportes"Planeta Futbol Ingles]]></title>
+	<title><![CDATA[Planeta Futbol English (Deportes)]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
 	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=PlanetaFutbolEnglish]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Deportes"TDN]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=TDNMXLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Deportes"Univision Deportes]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=UnivisionEastUS]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Deportes"UFC Network]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=UFCNetworkLA]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Deportes"NFL Network]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=NFLNetworkUS]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Deportes"CDN Sport Max]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Deportes"Rai Sport 1]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[mmsh://212.162.68.163:80/raisport+]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Deportes"Rai Sport 2]]></title>
-	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[mmsh://212.162.68.163:80/raisport2]]></stream_url>
-</channel>
-<channel>
-	<title><![CDATA[-1 group-title="Musicales"MTV]]></title>
+	<title><![CDATA[MTV (Musica)]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
 	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=MTVLA]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Musicales"MTV Hits]]></title>
+	<title><![CDATA[MTV Hits (Musica)]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
 	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=MTVHitsLA]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Musicales"Dance]]></title>
+	<title><![CDATA[VH1 (Musica)]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[mmsh://194.88.200.11:80/dance?MSWMExt=.asf]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=VH1LatinoSD]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Musicales"VH1 Classic]]></title>
+	<title><![CDATA[VH1 Classics (Musica)]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
 	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=VH1ClassicLASD]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Musicales"1HD]]></title>
+	<title><![CDATA[AMC (Cine & Series)]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[rtmp://109.239.142.62/live/livestream3?1HD]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=AMCLASD]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Musicales"HTV]]></title>
+	<title><![CDATA[AXN (Cine & Series)]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=HTVSD]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=AXNLA]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Musicales"Bandamax]]></title>
+	<title><![CDATA[Cinecanal (Cine & Series)]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=BandamaxLA]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=CineCanalLA]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Del Mundo"Tv Globo]]></title>
+	<title><![CDATA[Cinemax (Cine & Series)]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=TVGloboLA]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=CinemaxLASD]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Del Mundo"Telecentro 13]]></title>
+	<title><![CDATA[Comedy Central (Cine & Series)]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=Telecentro13LA]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=ComedyCentralLA]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Religiosos"Tele Amiga]]></title>
+	<title><![CDATA[E! Entertainment (Cine & Series)]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://cdns840stu1010.multistream.net/teleamigalive/amlst:live/master.m3u8]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=EentertaimentSD]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Religiosos"Alfa TV]]></title>
+	<title><![CDATA[FOX (Cine & Series)]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[rtmp://streamer1.streamhost.org/salive/GMIalfam]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FOXLA ]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Religiosos"Enlace Juvenil EJTV]]></title>
+	<title><![CDATA[Fox 1 (Cine & Series) ]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FOX1LASD ]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Religiosos"Enlace]]></title>
+	<title><![CDATA[Fox Action (Cine & Series) ]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FOXACTIONLASD ]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Religiosos"CBN]]></title>
+	<title><![CDATA[Fox Cinema (Cine & Series) ]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://brightcove03-f.akamaihd.net/iptv2_1_900@50919?videoId=1370792317001&lineUpId=&pubId=734546207001&playerId=2210144031001&affiliateId=&v=3.4.0&fp=WIN%201305&r=QKDUB&g=VYPYWHJMHSEH]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FoxCinemaSD ]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Religiosos" Tele Vid]]></title>
+	<title><![CDATA[Fox Classics (Cine & Series) ]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://livestream-f.akamaihd.net/5864544_2511887_7e63f0d8_1_678@146034?v=3.6.0&fp=WIN%201169&r=BBDNG&g=ZOVNOWMCPRUE]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FOXClassicsLASD ]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Religiosos"EWTN]]></title>
+	<title><![CDATA[Fox Comedy (Cine & Series) ]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[rtmp://ewtn.mpl.miisolutions.net:1935/ewtn-live-4/_definst_<playpath>mp4:900.mp4]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FOXComedyLASD ]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Religiosos"ESNE Canal Catolico]]></title>
+	<title><![CDATA[Fox Family (Cine & Series) ]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://198.154.228.82:1935/live/esnetv/playlist.m3u8]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FOXFamilyLASD ]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Religiosos"CTNi Cristiano]]></title>
+	<title><![CDATA[Fox Life (Cine & Series) ]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FoxLifeSD ]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Religiosos"TV Ca 39]]></title>
+	<title><![CDATA[Fox Movies (Cine & Series) ]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[rtmp://streamserver3.us/tvcaelsalvador/live]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FOXMoviesLASD ]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[-1 group-title="Religiosos"El Camino]]></title>
+	<title><![CDATA[FX (Cine & Series) ]]></title>
 	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
-	<stream_url><![CDATA[rtmp://cdn.siscompnetwork.com/live/elcaminotv.sdp]]></stream_url>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FXLASD ]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Glitz (Cine & Series) ]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=GlitzLA ]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[HBO (Cine & Series) ]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=HBOLASD ]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[HBO 2 (Cine & Series) ]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=HBO2SD ]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[HBO Family (Cine & Series) ]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=HBOFamilyLASD ]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[HBO PLUS (Cine & Series) ]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=HBOPus2LASD ]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[HBO Signature (Cine & Series) ]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=HBOSignatureLASD ]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Max Prime (Cine & Series) ]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=MaxPrime2LASD ]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[MundoFox (Cine & Series) ]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=MundoFoxSD ]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Paramount Channel (Cine & Series) ]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=ParamountChannelLatinAmericaHD ]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Sony (Cine & Series) ]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=SonyLA ]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Studio Universal (Cine & Series) ]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=StudioUniversalSD ]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Syfy (Cine & Series) ]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=SyFyLASD ]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[TBS (Cine & Series) ]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=TBSLASD ]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[TCM (Cine & Series) ]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=TCMSD ]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Telemundo (Cine & Series) ]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=835-TMNDO ]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[test (Cine & Series) ]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://www.krakeen.com/reproducir/test_365.m3u8 ]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[The Film Zone (Cine & Series) ]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=FilmZoneLASD ]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[TNT (Cine & Series) ]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=TNTAmericaLatinaHD ]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[TNT Serie (Cine & Series) ]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=infinitoSD ]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[UNIMAS (Cine & Series) ]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=UniMasUS ]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Universal Channel (Alterno) (Cine & Series) ]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=UniversalLASD ]]></stream_url>
+</channel>
+<channel>
+	<title><![CDATA[Warner Bros (Cine & Series) ]]></title>
+	<description><![CDATA[<img src="http://axenttv.ru/favicon.ico">КиноЗал POSLE]]></description>
+	<stream_url><![CDATA[http://oneplay.tv/darkuzdev/?ch=WarnerLA]]></stream_url>
 </channel>
 </items>
