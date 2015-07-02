@@ -86,32 +86,32 @@ http://80.80.160.168/live/8/live.m3u8
 #EXTINF:0,Discovery Sc. HD
 http://80.80.160.168/live/9/live.m3u8
 
-#EXTINF:0,1
-http://80.80.160.168/live/39/live.m3u8
-#EXTINF:0,2
-http://80.80.160.168/live/40/live.m3u8
+#EXTINF:0,1M
+http://80.80.160.168/live/250/live.m3u8
+#EXTINF:0,2M
+http://80.80.160.168/live/310/live.m3u8
 #EXTINF:0,3
-http://80.80.160.168/live/110/live.m3u8
+http://80.80.160.168/live/420/live.m3u8
 #EXTINF:0,4
-http://80.80.160.168/live/111/live.m3u8
+http://80.80.160.168/live/505/live.m3u8
 #EXTINF:0,5
-http://80.80.160.168/live/51/live.m3u8
+http://80.80.160.168/live/320/live.m3u8
 #EXTINF:0,6
-http://80.80.160.168/live/52/live.m3u8
+http://80.80.160.168/live/520/live.m3u8
 #EXTINF:0,7
-http://80.80.160.168/live/53/live.m3u8
+http://80.80.160.168/live/610/live.m3u8
 #EXTINF:0,8
-http://80.80.160.168/live/65/live.m3u8
+http://80.80.160.168/live/435/live.m3u8
 #EXTINF:0,9
-http://80.80.160.168/live/66/live.m3u8
+http://80.80.160.168/live/280/live.m3u8
 #EXTINF:0,10
-http://80.80.160.168/live/75/live.m3u8
+http://80.80.160.168/live/720/live.m3u8
 #EXTINF:0,11
-http://80.80.160.168/live/72/live.m3u8
+http://80.80.160.168/live/735/live.m3u8
 #EXTINF:0,12
-http://80.80.160.168/live/109/live.m3u8
+http://80.80.160.168/live/800/live.m3u8
 #EXTINF:0,13
-http://80.80.160.168/live/74/live.m3u8
+http://80.80.160.168/live/650/live.m3u8
 
 #EXTINF:-1,NAT GEO EN
 
