@@ -1,10 +1,1378 @@
 #EXTM3U
-#EXTINF:-1,cbebies
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/200.m3u8$OPT:http-user-agent=Lavf/55.19.104
-#EXTINF:-1, space
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/336.m3u8$OPT:http-user-agent=Lavf/55.19.104
-#EXTINF:-1,106
-http://live.oneplay.tv/reproducir/106.m3u8$OPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,liga 34
+rtmp://149.11.34.6/live/stagetv.stream
+#EXTINF:-1, PAKA PAKA
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:-1, DISCOVERY
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, BOXNATION
+http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8
+#EXTINF:-1, AMERICA SPORTS
+http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, LRL456 ORBE 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:-1, ANTENA NEGRA TV
+http://servicioamerica.net:1935/8680/8680/playlist.m3u8
+#EXTINF:-1, CONSTRUIR
+#EXTINF:-1,ABC Family
+http://93.174.95.125:1935/edge/_definst_/vx63a0c7mxk2jt8/playlist.m3u8?wowzasessionid=1419880244
+
+#EXTINF:-1,AMC
+http://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183
+
+#EXTINF:-1,beIN Sport (Spanish)
+http://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5/playlist.m3u8?wowzasessionid=1420168629
+
+#EXTINF:-1,beIN Sport (USA)
+http://93.174.95.125:1935/edge/_definst_/dhpj1xgov72x4br/manifest.m3u8?wowzasessionid=1426958694
+
+#EXTINF:-1,BET
+http://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl/playlist.m3u8?wowzasessionid=1419880467
+
+#EXTINF:-1,Bravo
+http://93.174.95.125:1935/edge/_definst_/uw433ikqnrj501l/playlist.m3u8?wowzasessionid=1419872183
+
+#EXTINF:-1,Cartoon Network
+http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
+
+#EXTINF:-1,CBS HD (WHIO 7)
+http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
+
+#EXTINF:-1,CNN USA HD
+http://93.174.95.125:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421
+
+#EXTINF:-1,CNN USA SD
+http://93.174.95.125:1935/edge/_definst_/1z3ps9vxnknuskb/playlist.m3u8?wowzasessionid=1419872183
+
+#EXTINF:-1,Crime & Investigation
+http://pdd2.loginto.me:443/cdn78/tot_ci_360p/playlist.m3u8
+
+#EXTINF:-1,CW 44 HD
+http://93.174.95.125:1935/edge/_definst_/fvksu1sp51ijtyd/playlist.m3u8?wowzasessionid=1419879994
+
+#EXTINF:-1,CW 44 SD
+http://93.174.95.125:1935/edge/_definst_/qvvkvojlano9hnj/playlist.m3u8?wowzasessionid=1419903868
+
+#EXTINF:-1,Discovery Channel HD
+http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
+
+#EXTINF:-1,Disney Channel
+
+http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
+
+#EXTINF:-1,ESPN HD
+
+http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
+
+#EXTINF:-1,ESPN SD
+
+http://93.174.95.125:1935/edge/_definst_/erooxo5dcvk05zk/chunklist.m3u8?wowzasessionid=1426891013
+
+#EXTINF:-1,ESPN 2 HD
+
+http://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
+
+#EXTINF:-1,ESPN 2 SD
+
+http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722
+
+#EXTINF:-1,Food Network
+
+http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022
+
+#EXTINF:-1,FOX 45 HD
+
+http://93.174.95.125:1935/edge/_definst_/yuu6p5oaa1x4a1p/playlist.m3u8?wowzasessionid=1419906680
+
+#EXTINF:-1,FOX 45 SD
+
+http://93.174.95.125:1935/edge/_definst_/q49uyvij145wcky/playlist.m3u8?wowzasessionid=1419873438
+
+#EXTINF:-1,FOX News HD
+
+http://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821
+
+#EXTINF:-1,FOX News SD
+
+http://93.174.95.125:1935/edge/_definst_/w0mr10getvsikam/playlist.m3u8?wowzasessionid=1419873587
+
+#EXTINF:-1,Golf Channel HD
+
+http://93.174.95.125:1935/edge/_definst_/ts6w24dx29tcwi4/playlist.m3u8?wowzasessionid=1420169504
+
+#EXTINF:-1,Hallmark HD
+
+http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
+
+#EXTINF:-1,HBO HD
+
+http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
+
+#EXTINF:-1,HBO SD
+
+http://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1419907309
+
+#EXTINF:-1,HGTV
+
+http://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602
+
+#EXTINF:-1,History Channel (Europe)
+
+http://93.174.95.125:1935/edge/_definst_/logojbjhar79pc8/manifest.m3u8?wowzasessionid=1426231700
+
+#EXTINF:-1,History Channel (USA)
+
+http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
+
+#EXTINF:-1,I.D.
+
+http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729
+
+#EXTINF:-1,Lifetime HD
+
+http://93.174.95.125:1935/edge/_definst_/7b2gr554gyyth8e/playlist.m3u8?wowzasessionid=1419879018
+
+#EXTINF:-1,MSNBC SD
+
+http://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712
+
+#EXTINF:-1,MTV
+
+http://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062
+
+#EXTINF:-1,Nat GEO HD
+
+http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
+
+#EXTINF:-1,Nat GEO SD
+
+http://93.174.95.125:1935/edge/_definst_/b8bav5ayzso8m8q/playlist.m3u8?wowzasessionid=1420170282
+
+#EXTINF:-1,NBC HD
+
+http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103
+
+#EXTINF:-1,NBC SD
+
+http://93.174.95.125:1935/edge/_definst_/s5whw37nl7weedp/playlist.m3u8?wowzasessionid=1420124473
+
+#EXTINF:-1,NBC Sports Network HD
+
+http://93.174.95.125:1935/edge/_definst_/0fm1lstybe4a0j4/playlist.m3u8?wowzasessionid=1419879018
+
+#EXTINF:-1,NBC Sports Network SD
+
+http://93.174.95.125:1935/edge/_definst_/2qmiwfydbj6yu89/playlist.m3u8?wowzasessionid=1419879018
+
+#EXTINF:-1,Nickelodeon HD
+
+http://93.174.95.125:1935/edge/_definst_/q2hs5fqm8b039y0/playlist.m3u8?wowzasessionid=1420170368
+
+#EXTINF:-1,Nickelodeon SD
+
+http://93.174.95.125:1935/edge/_definst_/64jaber5pjqj2cr/playlist.m3u8?wowzasessionid=1434627898
+
+#EXTINF:-1,OWN
+
+http://93.174.95.125:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658
+
+#EXTINF:-1,Oxygen
+
+http://93.174.95.125:1935/edge/_definst_/zmt2swezlswh9nz/playlist.m3u8?wowzasessionid=1419872183
+
+#EXTINF:-1,Science
+
+http://93.174.95.125:1935/edge/_definst_/00t250wv1d4ltib/playlist.m3u8?wowzasessionid=1420170626
+
+#EXTINF:-1,Showtime HD
+
+http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
+
+#EXTINF:-1,Showtime SD
+
+http://93.174.95.125:1935/edge/_definst_/s53jbkmyldngbks/playlist.m3u8?wowzasessionid=1419873587
+
+#EXTINF:-1,Spike
+
+http://93.174.95.125:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529
+
+#EXTINF:-1,SyFy HD
+
+http://93.174.95.125:1935/edge/_definst_/x7uii7mll2b7lh4/playlist.m3u8?wowzasessionid=1419878403
+
+#EXTINF:-1,SyFy SD
+
+http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
+
+#EXTINF:-1,tbs
+
+http://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319
+
+#EXTINF:-1,TLC
+
+http://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck/chunklist.m3u8?wowzasessionid=1419907929
+
+#EXTINF:-1,TNT HD
+
+http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
+
+#EXTINF:-1,TNT SD
+
+http://93.174.95.125:1935/edge/_definst_/6q4jlbqwvxuingo/chunklist.m3u8?wowzasessionid=1419943929
+
+#EXTINF:-1,Travel Channel HD
+
+http://93.174.95.125:1935/edge/_definst_/4aiufk0o430qt0d/playlist.m3u8?wowzasessionid=1419877887
+
+#EXTINF:-1,Travel Channel SD
+
+http://93.174.95.125:1935/edge/_definst_/1fvuok2ny4jtmgq/chunklist.m3u8?wowzasessionid=1419913887
+
+#EXTINF:-1,TruTV
+
+http://93.174.95.125:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?wowzasessionid=1420124955
+
+#EXTINF:-1,TV Land
+
+http://93.174.95.125:1935/edge/_definst_/7yxirr4046nk5ca/playlist.m3u8?wowzasessionid=1419908401
+
+#EXTINF:-1,Univision
+
+http://93.174.95.125:1935/edge/_definst_/obzq3ltrjoaxglf/manifest.m3u8?wowzasessionid=1419908048
+
+#EXTINF:-1,USA Network
+
+http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
+
+#EXTINF:-1,VH-1
+
+http://93.174.95.125:1935/edge/_definst_/oeiigxxv1gbeqq9/manifest.m3u8?wowzasessionid=1420170560
+
+#EXTINF:-1,Cartoon Network
+
+http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
+
+#EXTINF:-1,CARTOON NETWORK US
+
+http://hls.svc.moyo.tv/hls/CH_CARTOON/variant.m3u8?version=2
+
+#EXTINF:-1,NICKELODEON
+
+http://hls.novotelecom.ru/streaming/nickelodeon/tvrec/playlist.m3u8
+
+#EXTINF:0,Animal Planet
+
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:0,TLC
+
+http://80.80.160.168/live/2/live.m3u8
+
+#EXTINF:0,Travel Ch.
+
+http://80.80.160.168/live/3/live.m3u8
+
+#EXTINF:0,Planet Green
+
+http://80.80.160.168/live/4/live.m3u8
+
+#EXTINF:0,ID
+
+http://80.80.160.168/live/5/live.m3u8
+
+#EXTINF:0,ESPN HD
+
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:0,SHO HD
+
+http://80.80.160.168/live/7/live.m3u8
+
+#EXTINF:0,Discovery Ch. HD
+
+http://80.80.160.168/live/8/live.m3u8
+
+#EXTINF:0,Discovery Sc. HD
+
+http://80.80.160.168/live/9/live.m3u8
+
+#EXTINF:-1,NAT GEO EN
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_NATGEO/variant.m3u8?b?b*t$
+
+#EXTINF:-1 tvg-id=”Telecadena 7/4″ tvg-logo=”telecadena.png” group-title=”Canales Locales Latinos”,Telecadena 7/4 Honduras
+
+http://162.212.176.83:8080/telecadena.stream.m3u8#MegaIPTVArgentina
+
+#EXTINF:-1 tvg-id=”Canal 6 Honduras” tvg-logo=”canal6hn.png” group-title=”Canales Locales Latinos”,Canal 6 Honduras
+
+http://162.212.176.83:8080/canal6.stream.m3u8#MegaIPTVArgentina
+
+#EXTINF:-1 tvg-id=”Teleceiba” tvg-logo=”teleceiba.png” group-title=”Canales Locales Latinos”,TeleceibaHonduras
+
+http://162.212.176.83:8080/teleceiba.m3u8#MegaIPTVArgentina
+
+#EXTINF:-1 tvg-id=”TEN” tvg-logo=”ten.png” group-title=”Canales Locales Latinos”,TEN Canal 10 HD 720 Honduras
+
+rtmp://hd.worldkast.com:1935/8378/_definst_/mp4:83781
+
+#EXTINF:-1 tvg-id=”TEN” tvg-logo=”ten.png” group-title=”Canales Locales Latinos”,TEN Canal 10 Honduras
+
+http://hd.worldkast.com/8378/smil:8378.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id=”Hondured” tvg-logo=”hondured.png” group-title=”Canales Locales Latinos”,Hondured Canal 13 Honduras
+
+rtmp://173.236.71.62/hondured/hrtv.sdp
+
+#EXTINF:-1 tvg-id=”HCH” tvg-logo=”HCH.png” group-title=”Canales Locales Latinos”,HCH Honduras
+
+http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
+
+#EXTINF:-1 tvg-id=”Teleprogreso” tvg-logo=”teleprogreso.png” group-title=”Canales Locales Latinos”,Teleprogreso Honduras
+
+http://162.212.176.83:8080/teleprogreso.m3u8
+
+#EXTINF:-1 tvg-id=”AztecaHN” tvg-logo=”aztecahn.png” group-title=”Canales Locales Latinos”,Azteca Honduras
+
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+
+#EXTINF:-1,Canales Nuevos
+
+http://tutorialesiptv.blogspot.com.es/
+
+#EXTINF:-1,ABC NEWS
+
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:-1,AMERICA TV
+
+http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
+
+#EXTINF:-1,AZTECA 13
+
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+
+#EXTINF:-1,AZTECA DEPORTES
+
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
+
+#EXTINF:-1,CANAL 13 HD ARG
+
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+
+#EXTINF:-1,PLANETA FUTBOL
+
+http://108.168.206.90:1935/cdnsm/cdnsm/enlacesiptv.m3u8
+
+#EXTINF:-1,CNBC
+
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
+
+#EXTINF:-1,CNN
+
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8?Vd?u#bt!25
+
+#EXTINF:-1,CNN EN
+
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+
+#EXTINF:-1,DEPORTV
+
+rtmp://edge02.dcarsat.com.ar/DXTV/DXTV/
+
+#EXTINF:-1,JBN HONDURAS
+
+rtsp://control.worldkast.com/8506/8506
+
+#EXTINF:-1,Canales Nuevos
+
+http://tutorialesiptv.blogspot.com.es/
+
+#EXTINF:-1,EBENEZER HONDURAS
+
+http://hds4.worldkast.com/ebenezertv2/ngrp:ebenezertv2_all/playlist.m3u8
+
+#EXTINF:-1,TBN
+
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+
+#EXTINF:-1,Enlace TV
+
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8
+
+#EXTINF:-1,Enlace Juvenil
+
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+
+#EXTINF:-1,Juce TV
+
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
+
+#EXTINF:-1,GOLTV AMERICA
+
+http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b1096000.m3u8
+
+#EXTINF:-1,Mundo Fox
+
+http://66.55.92.79:1935/app/ana69s-channel/ruben.m3u8 ?
+
+#EXTINF:-1,Teleprogreso
+
+http://162.212.176.83:8080/teleprogreso.m3u8 ?
+
+#EXTINF:-1,1HD
+
+rtmp://109.239.142.62/live/livestream3
+http://iphone-streaming.ustream.tv/uhls/9143107/streams/live/iphone/playlist.m3u8
+
+
+
+#EXTINF:-1,Az Noticias 320x180
+http://live.tutvgratis.tv/ch/1.m3u8
+
+#EXTINF:-1,Az Noticias 480x270
+http://live.tutvgratis.tv/ch/2.m3u8
+
+#EXTINF:-1,Az Noticias 640x360
+http://live.tutvgratis.tv/ch/3.m3u8
+
+#EXTINF:-1,Az Noticias 1440x1080
+http://live.tutvgratis.tv/ch/4.m3u8
+
+#EXTINF:-1,Azteca 7 320x180
+http://live.tutvgratis.tv/ch/5.m3u8
+
+#EXTINF:-1,Azteca 7 480x270
+http://live.tutvgratis.tv/ch/6.m3u8
+
+#EXTINF:-1,Azteca 7 640x360
+http://live.tutvgratis.tv/ch/7.m3u8
+
+#EXTINF:-1,Azteca 7 1440x1080
+http://live.tutvgratis.tv/ch/8.m3u8
+
+#EXTINF:-1,Azteca 13 640x360
+http://live.tutvgratis.tv/ch/9.m3u8
+
+#EXTINF:-1,Azteca 13 1920x1080
+http://live.tutvgratis.tv/ch/10.m3u8
+#EXTINF:-1,Azteca 13 320x180
+http://live.tutvgratis.tv/ch/11.m3u8
+
+#EXTINF:-1,Azteca 13 480x270
+http://live.tutvgratis.tv/ch/12.m3u8
+
+#EXTINF:-1,Azteca 7 640x360
+http://live.tutvgratis.tv/ch/13.m3u8
+
+#EXTINF:-1,Azteca 7 1920x1080
+http://live.tutvgratis.tv/ch/14.m3u8
+
+#EXTINF:-1,Azteca 7 320x180
+http://live.tutvgratis.tv/ch/15.m3u8
+
+#EXTINF:-1,Azteca 7 480x270
+http://live.tutvgratis.tv/ch/16.m3u8
+
+#EXTINF:-1,Azteca 13 640x360
+http://live.tutvgratis.tv/ch/17.m3u8
+
+#EXTINF:-1,Azteca 13 1920x1080
+http://live.tutvgratis.tv/ch/18.m3u8
+
+#EXTINF:-1,Azteca 13 320x180
+http://live.tutvgratis.tv/ch/19.m3u8
+
+#EXTINF:-1,Azteca 13 480x270
+http://live.tutvgratis.tv/ch/20.m3u8
+#EXTINF:-1,Proyecto 40 640x360
+http://live.tutvgratis.tv/ch/21.m3u8
+
+#EXTINF:-1,Proyecto 40 1440x1080
+http://live.tutvgratis.tv/ch/22.m3u8
+
+#EXTINF:-1,Proyecto 40 320x180
+http://live.tutvgratis.tv/ch/23.m3u8
+
+#EXTINF:-1,Proyecto 40 480x270
+http://live.tutvgratis.tv/ch/24.m3u8
+
+
+#EXTINF:-1,Canal de las Estrellas 640x360
+http://live.tutvgratis.tv/ch/33.m3u8
+
+#EXTINF:-1,Canal de las Estrellas 1920x1080
+http://live.tutvgratis.tv/ch/34.m3u8
+
+#EXTINF:-1,Canal de las Estrellas 320x180
+http://live.tutvgratis.tv/ch/35.m3u8
+
+#EXTINF:-1,Canal de las Estrellas 480x270
+http://live.tutvgratis.tv/ch/36.m3u8
+
+#EXTINF:-1,Canal 5 640x360
+http://live.tutvgratis.tv/ch/37.m3u8
+
+#EXTINF:-1,Canal 5 1920x1080
+http://live.tutvgratis.tv/ch/38.m3u8
+
+#EXTINF:-1,Canal 5 320x180
+http://live.tutvgratis.tv/ch/39.m3u8
+
+#EXTINF:-1,Canal 5 480x270
+http://live.tutvgratis.tv/ch/40.m3u8
+#EXTINF:-1,Canal de las Estrellas 640x360
+http://live.tutvgratis.tv/ch/41.m3u8
+
+#EXTINF:-1,Canal de las Estrellas 1920x1080
+http://live.tutvgratis.tv/ch/42.m3u8
+
+#EXTINF:-1,Canal de las Estrellas 320x180
+http://live.tutvgratis.tv/ch/43.m3u8
+
+#EXTINF:-1,Canal de las Estrellas 480x270
+http://live.tutvgratis.tv/ch/44.m3u8
+
+#EXTINF:-1,Foro TV 640x360
+http://live.tutvgratis.tv/ch/45.m3u8
+
+#EXTINF:-1,Foro TV 1440x1080
+http://live.tutvgratis.tv/ch/46.m3u8
+
+#EXTINF:-1,Foro TV 320x180
+http://live.tutvgratis.tv/ch/47.m3u8
+
+#EXTINF:-1,Foro TV 480x270
+http://live.tutvgratis.tv/ch/48.m3u8
+
+#EXTINF:-1,Canal 5 640x360
+http://live.tutvgratis.tv/ch/49.m3u8
+
+#EXTINF:-1,Canal 5 1920x1080
+http://live.tutvgratis.tv/ch/50.m3u8
+#EXTINF:-1,Canal 5 320x180
+http://live.tutvgratis.tv/ch/51.m3u8
+
+#EXTINF:-1,Canal 5 480x270
+http://live.tutvgratis.tv/ch/52.m3u8
+
+#EXTINF:-1,Azteca 7 640x360
+http://live.tutvgratis.tv/ch/53.m3u8
+
+#EXTINF:-1,Azteca 7 1920x1080
+http://live.tutvgratis.tv/ch/54.m3u8
+
+#EXTINF:-1,Azteca 7 320x180
+http://live.tutvgratis.tv/ch/55.m3u8
+
+#EXTINF:-1,Azteca 7 480x270
+http://live.tutvgratis.tv/ch/56.m3u8
+
+#EXTINF:-1,Gala TV 640x360
+http://live.tutvgratis.tv/ch/57.m3u8
+
+#EXTINF:-1,Gala TV 1920x1080
+http://live.tutvgratis.tv/ch/58.m3u8
+
+#EXTINF:-1,Gala TV 320x180
+http://live.tutvgratis.tv/ch/59.m3u8
+
+#EXTINF:-1,Gala TV 480x270
+http://live.tutvgratis.tv/ch/60.m3u8
+#EXTINF:-1,Canal Once 640x360
+http://live.tutvgratis.tv/ch/61.m3u8
+
+#EXTINF:-1,Canal Once 1920x1080
+http://live.tutvgratis.tv/ch/62.m3u8
+
+#EXTINF:-1,Canal Once 320x180
+http://live.tutvgratis.tv/ch/63.m3u8
+
+#EXTINF:-1,Canal Once 480x270
+http://live.tutvgratis.tv/ch/64.m3u8
+
+#EXTINF:-1,Azteca 13 640x360
+http://live.tutvgratis.tv/ch/65.m3u8
+
+#EXTINF:-1,Azteca 13 1920x1080
+http://live.tutvgratis.tv/ch/66.m3u8
+
+#EXTINF:-1,Azteca 13 320x180
+http://live.tutvgratis.tv/ch/67.m3u8
+
+#EXTINF:-1,Azteca 13 480x270
+http://live.tutvgratis.tv/ch/68.m3u8
+
+#EXTINF:-1,Proyecto 40 640x360
+http://live.tutvgratis.tv/ch/69.m3u8
+
+#EXTINF:-1,Proyecto 40 1440x1080
+http://live.tutvgratis.tv/ch/70.m3u8
+#EXTINF:-1,Proyecto 40 320x180
+http://live.tutvgratis.tv/ch/71.m3u8
+
+#EXTINF:-1,Proyecto 40 480x270
+http://live.tutvgratis.tv/ch/72.m3u8
+
+#EXTINF:-1,Cadena Tres 480x270
+http://live.tutvgratis.tv/ch/73.m3u8
+
+#EXTINF:-1,Cadena Tres 720x480
+http://live.tutvgratis.tv/ch/74.m3u8
+
+#EXTINF:-1,Cadena Tres 160x90
+http://live.tutvgratis.tv/ch/75.m3u8
+
+#EXTINF:-1,Cadena Tres 320x176
+http://live.tutvgratis.tv/ch/76.m3u8
+
+#EXTINF:-1,Teleformula 480x270
+http://live.tutvgratis.tv/ch/81.m3u8
+
+#EXTINF:-1,Teleformula 528x480
+http://live.tutvgratis.tv/ch/82.m3u8
+
+#EXTINF:-1,Teleformula 160x90
+http://live.tutvgratis.tv/ch/83.m3u8
+
+#EXTINF:-1,Teleformula 320x180
+http://live.tutvgratis.tv/ch/84.m3u8
+
+#EXTINF:-1 tvg-logo="http://v2.imgs24.com/images/2014/04/25/space-jam-el-juego-del-siglo-subtitulada-poster-en-alta-resolucion-hd-michael-jordan-wayne-knight-theresa-randle.jpg",Space Jam
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!172&authkey=!ALwfkhEcPvGjZTQ&ithint=video%2cavi
+#EXTINF:-1 tvg-logo="http://v2.imgs24.com/images/2014/03/20/Spirit_el_corcel_indomable_1.jpg",Spirit el Corcel Indomable
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!171&authkey=!AGVf06svhNn4DUQ&ithint=video%2cmp4
+
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Residen Evil 1
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2471&authkey=!AA6_Gh9CINjEGHs&ithint=video%2cavi
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Residen Evil 2
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2469&authkey=!AGEpv10Z_Kf1xGs&ithint=video%2cavi
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Residen Evil 3
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2470&authkey=!AEjxcwyCTScdP_o&ithint=video%2cavi
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Residen Evil 4
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2473&authkey=!AL1n5u_I-p7HZso&ithint=video%2cavi
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Residen Evil 5
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2472&authkey=!AGOn3CxSyzVzVhQ&ithint=video%2cavi
+
+
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Insidious III SUB
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2456&authkey=!AOfQI5_MphM29IU&ithint=file%2cavi
+
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Gnomeo y Julieta
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2452&authkey=!AGD6usYO1JLtj0I&ithint=video%2cavi
+
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Guardianes de la galaxia Sub y 3D
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2455&authkey=!ACj3KPjTneKwMnY&ithint=file%2cmkv
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Exodus, Dioses y reyes 3D y SUB
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2457&authkey=!AESp6JPfrT7R7CY&ithint=file%2cmkv
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Infernal
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2451&authkey=!AIepExCIehamN4A&ithint=video%2cmp4
+
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,El experimento de la OUIJA 2 sub
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2450&authkey=!AF7G4ZbSdU3D420&ithint=video%2cmp4
+
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,RIO
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2453&authkey=!ABX5m3WtMJFOV5k&ithint=video%2cavi
+
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,The Gambler SUBTITULADA
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2454&authkey=!AE2KTz2rJDp70tA&ithint=file%2cmkv
+
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,San Andres
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2447&authkey=!AMJkVqQNejwk2wc&ithint=video%2cMP4
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Survivor
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2449&authkey=!AD1O3Od95uKTY-w&ithint=file%2cmkv
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,We are still Here
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2448&authkey=!APjzTu7GtTz6lsU&ithint=file%2cmkv
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,INSIDIOUS III
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1152&authkey=!ADWSZBzoNvD1Ok0&ithint=video%2cmp4
+
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Family GUY Dark Side
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1150&authkey=!AP8h1GW7neSkc2Q&ithint=video%2cmp4
+
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Family GUY It's A trap
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1151&authkey=!ACXdFBCTumogwco&ithint=video%2cmp4
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Family GUY BLUE Harvest
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1149&authkey=!AFRQNr0T6vifCkk&ithint=video%2cmp4
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,TITANIC 
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1148&authkey=!AJ-o1Hy47aeMgZk&ithint=video%2cmp4
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,El conjuro dual
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1147&authkey=!ADRe_Le39Oru38w&ithint=video%2cmp4
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Kingsman servicio secreto SUBTITULADA
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1146&authkey=!AFOPyF0qG4FaEGU&ithint=video%2cmp4
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Avenger 2 Subtitulada
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1143&authkey=!AMboOQkcc6UMhIM&ithint=file%2cmkv
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Austin Power 1
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1142&authkey=!AJtosBGUIqMvVBo&ithint=video%2cmp4
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Austin Power 2
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1145&authkey=!ABNcPVtgsvDWSss&ithint=video%2cmp4
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Austin Power 3
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1144&authkey=!ACsWdU4LIGicVuk&ithint=video%2cmp4
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Transcendence
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1141&authkey=!AIxkpPC-qxPB_iU&ithint=video%2cmp4
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Y tu mamÃ¡ tambien
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1140&authkey=!AFLfHAcql40Y_NU&ithint=video%2cmp4
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Hannibal 3x01
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1153&authkey=!ACIYAywZ1EYWrys&ithint=video%2cmp4
+
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Vatican Exorcism
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1138&authkey=!AGScB_k-LZwxqf8&ithint=video%2cmp4
+#EXTINF:-1 group-title="PPV", Big Hero
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!109&authkey=!AMqpe0rh98jqOEg&ithint=file%2cmkv
+#EXTINF:-1 group-title="PPV" tvg-logo="rp6.jpg" ,RAPIDO Y FURIOSO 6
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!140&authkey=!AEQRR6DGLgqf4eI&ithint=video%2cavi
+
+#EXTINF:-1 group-title="PPV" tvg-logo="rp5.jpg" ,RAPIDO Y FURIOSO 5
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!139&authkey=!ALRsDwdtDd3WuT0&ithint=video%2cavi
+
+#EXTINF:-1 group-title="PPV" tvg-logo="rp4.jpg" ,RAPIDO Y FURIOSO 4
+
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!138&authkey=!AEEStnEowGFLEUY&ithint=video%2cavi
+
+#EXTINF:-1 group-title="PPV" tvg-logo="rp4.jpg" ,RAPIDO Y FURIOSO 4
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!137&authkey=!APVeVaQtsJlH58U&ithint=video%2cavi
+
+#EXTINF:-1 group-title="PPV" tvg-logo="rp2.jpg" ,RAPIDO Y FURIOSO 2
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!136&authkey=!AFpA8UCewIxKB44&ithint=video%2cavi
+
+#EXTINF:-1 group-title="PPV" tvg-logo="rp1.jpg" ,RAPIDO Y FURIOSO 1
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!135&authkey=!AEPEVsCxHYrJuJk&ithint=video%2cavi
+
+#EXTINF:-1 group-title="PPV" tvg-logo="francotirador.jpg" ,FRANCOTIRADOR 2014
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!133&authkey=!AI8AZ4SBKHms-AY&ithint=video%2cmp4
+
+#EXTINF:-1 group-title="PPV" tvg-logo="cercanaobsesion.jpg",CERCANA OBSESION 
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!115&authkey=!AFcURIAaITWRrGI&ithint=video%2cavi
+
+#EXTINF:-1 group-title="PPV" tvg-logo="intrusos.jpg",INTRUSOS 
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!113&authkey=!AJmQ6ABSiAnTNVk&ithint=video%2cavi
+
+
+#EXTINF:-1 group-title="PPV" tvg-logo="elmarino4.jpg" ,EL MARINO 4 
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!114&authkey=!ANn_mNMIQUNHBaA&ithint=file%2cmkv
+
+#EXTINF:-1 group-title="PPV" tvg-logo="taken3.jpg" ,BUSQUEDA IMPLACABLE 3
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!131&authkey=!AJZfzHpXQB2Md50&ithint=file%2cmkv
+
+#EXTINF:-1 group-title="PPV" tvg-logo="taken2.jpg" ,BUSQUEDA IMPLACABLE 2
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!132&authkey=!AAUCbt9O9zS0hUg&ithint=file%2cmkv
+
+#EXTINF:-1 group-title="PPV" tvg-logo="taken1.jpg" ,BUSQUEDA IMPLACABLE 1
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!134&authkey=!ABSd0nYndLF1SFA&ithint=file%2cmkv
+
+#EXTINF:-1 group-title="PPV", Chappie
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!110&authkey=!AI4IxN6Veg0qj6Y&ithint=video%2cavi
+
+#EXTINF:-1 group-title="PPV", Apartamento 5
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!111&authkey=!AL7faVmgfFj5a3I&ithint=file%2cmkv
+
+#EXTINF:-1 group-title="PPV", Negocios Fuera de Control
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!115&authkey=!AP9bcrKZxPVw2fY&ithint=file%2cmkv
+
+#EXTINF:-1 group-title="PPV", Ascenso Jupiter
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!122&authkey=!ADatNr4gK3KHMg4&ithint=folder%2c
+
+#EXTINF:-1 group-title="PPV", Maggie
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!112&authkey=!AC0BynVM7paxBho&ithint=file%2cmkv
+
+#EXTINF:-1 group-title="PPV", Batman Unlimited
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!113&authkey=!AO4i3mg9iXl-z60&ithint=file%2cmkv
+
+#EXTINF:-1 group-title="PPV", ExMachina
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!126&authkey=!AAy49ZyUCDGALww&ithint=file%2cmkv
+
+#EXTINF:-1 group-title="PPV", Kingsman El Servicio Secreto
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!124&authkey=!APq3k4QCY3V5c_c&ithint=file%2cmkv
+
+#EXTINF:-1 group-title="PPV", Survivor
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!123&authkey=!AIh3uMzT2Cogm-s&ithint=file%2cmkv
+
+#EXTINF:-1 group-title="PPV", Efecto Lazarus
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!118&authkey=!APjWt4h55rnsKGo&ithint=file%2cmkv
+
+#EXTINF:-1 group-title="PPV", BOB Sponja
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!117&authkey=!ACcfX6oU4SyF3A0&ithint=file%2cmkv
+
+#EXTINF:-1 group-title="PPV", Chappie
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!116&authkey=!AGNiGJN43n1fVkI&ithint=file%2cmkv
+
+#EXTINF:-1 group-title="PPV", Negocios con Resaca
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!132&authkey=!AFUzdJiyFOH89A4&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 1
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!117&authkey=!AKJJTtp6gyuu47E&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 2
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!115&authkey=!ALpY1sFnKCgIXxI&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 3
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!116&authkey=!ADuvU9u2Y99KCgE&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 4
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!118&authkey=!AH5VdocrSTagFT0&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 5
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!119&authkey=!AAlZW5fXG3foZiQ&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 6
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!120&authkey=!APjilfuyHG8gGxc&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 1[/COLOR]
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!121&authkey=!ACLENxswssHMucE&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 2
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!122&authkey=!AKQUnWWQMjUo17g&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 3
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!123&authkey=!AAWlsvmlPawtXOI&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 4
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!124&authkey=!AAtV8MqnU7HJVJ0&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 5
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!125&authkey=!AO-ummJXH10Ypfk&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 6
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!126&authkey=!AJGEq4fu-Q4FBbg&ithint=file%2cmkv
+#EXTINF:-1,La Casa de Mickey Mouse - El Hipo de Donald
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!128&authkey=!AJfbU0a13Q6qpLU&ithint=video%2cavi
+#EXTINF:-1,La Casa de Mickey Mouse - El Bubu De Oro
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!129&authkey=!AF5w5ZCOJUyQrVg&ithint=video%2cavi
+#EXTINF:-1,La Casa de Mickey Mouse - Goofy Desaparece
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!130&authkey=!AOV0BSQ6siY21UU&ithint=video%2cavi
+#EXTINF:-1,La Casa de Mickey Mouse - Mickey va a pescar
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!132&authkey=!AMVGI149DRYjzXE&ithint=video%2cavi
+#EXTINF:-1,La Casa de Mickey Mouse - La Minnie Durmiente
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!131&authkey=!AJoLzKTEKTfGEVU&ithint=video%2cavi
+#EXTINF:-1 tvg-logo="http://www.yaske.to/upload/images/5f9b3a428a7e046ae3d44bd037560994.jpg",LOS JUEGOS DEL HAMBRE SINSAJO PARTE 1
+http://www.spruto.tv/get_file/2/d60293a7e0b2a63ee276877578a81c6a/100000/100906/100906.mp4
+
+#EXTINF:-1 tvg-logo="http://aquipelis.net/wp-content/uploads/2014/07/el-amanecer-del-planeta-de-los-simios-160x230.jpg",EL AMANECER DEL PLANETA DE LOS SIMIOS
+http://www.spruto.tv/get_file/1/1b8634191d3bf7b4722550f8f1ee8d71/88000/88461/88461.mp4
+#EXTINF:-1 tvg-logo="http://aquipelis.net/wp-content/uploads/2014/05/Fifty_Shades_of_Grey_new-160x230.jpg",50 SOMBRAS DE GREY
+http://www.spruto.tv/get_file/5/7b9a4a16ab85a676db01d48268cdb3ff/110000/110845/110845.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-6aZujWdgisg/VBiiAraxWjI/AAAAAAAAt_4/MRkE2j2m0ag/s275/en-el-bosque.jpg",En El Bosque (into the woods)
+http://www.spruto.tv/get_file/2/6bb416dfe3a1c559930905f48c528ba9/104000/104812/104812.mp4
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-uabaUCgwaRQ/VNEVPzRBBdI/AAAAAAAAAro/9dCPZ6i3ImQ/s175/whiplash.jpg",WHIPLASH
+http://www.spruto.tv/get_file/2/16128b39ee17c57b4586edf1557cfe8c/103000/103899/103899.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/--4K-yWmRRiY/VBMkzkiG9WI/AAAAAAAAB8M/tQhQkV9Rx_s/s175/ted-2.jpg", TED
+http://www.spruto.tv/get_file/1/26abd89519052ceb87fa5578107dab0e/86000/86752/86752.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-QrywPBmZDmI/VQ0QHERbY4I/AAAAAAAABtY/jZKqMHuSUhc/s175/la-dictadura-perfecta.jpg",LA DICTADURA PERFECTA
+http://www.spruto.tv/get_file/2/588e561ff46cf4866914b732c8ad294b/105000/105729/105729.mp4
+#EXTINF: 0, TEMPTATION +18
+http://46.47.13.200:1234/udp/224.244.244.97:19993
+#EXTINF: 0, Nightclub +18
+http://46.47.13.200:1234/udp/224.244.244.199:19993
+#EXTINF: 0, Russian Night +18
+http://46.47.13.200:1234/udp/224.244.244.200:19993
+
+#EXTINF:-1, Adult Premium 2
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/media-b1100000_2400.m3u8
+#EXTINF:-1, ADULTO 1 XXX
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+#EXTINF:-1, ASIA 8081
+http://59.120.43.181:8081
+
+#EXTINF:-1, ASIA 8083
+http://59.120.43.181:8083
+#EXTINF:-1, ASIA 8084
+http://59.120.43.181:8084
+
+
+
+#EXTINF:-1, BabeStation Unleashed 1
+http://46.105.116.159:1935/iptv_cellcast_24/livestream_three2/.m3u8
+#EXTINF:-1, BabeStation Unleashed 2
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+#EXTINF:-1, BabeStation Xtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+#EXTINF:-1, Bella Luz rtsp
+rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
+
+#EXTINF:-1, Blue Hustler
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:-1, CS Sex +18 ADULT mmsh
+mmsh://tv.webmisto.cz:7000
+#EXTINF:-1, DLDVS 1
+http://208.122.3.2:9000
+#EXTINF:-1, DLDVS 2
+http://208.122.3.2:8700
+#EXTINF:-1, HQ Amateurs
+http://galsflv.videosz.com//mom-and-the-pop_5/videosz-mom-and-the-pop-53.flv
+
+#EXTINF:-1, Jazmin Channel HD 720
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:-1, Korea m3u8 Ask TV
+http://edge2.everyon.tv/etv2/phd1005/BratuMarian.m3u8
+#EXTINF:-1, Korea m3u8 Livething Premium
+http://edge2.everyon.tv/etv2/phd1006/BratuMarian.m3u8
+#EXTINF:-1, Korea m3u8 Okadai
+http://edge2.everyon.tv/etv2/pld1003/BratuMarian.m3u8
+#EXTINF:-1, Korea m3u8 Okadai HD
+http://edge2.everyon.tv/etv2/phd1003/BratuMarian.m3u8
+#EXTINF:-1, Korea m3u8 Paradise TV
+http://edge2.everyon.tv/etv2/pld1008/BratuMarian.m3u8
+#EXTINF:-1, Korea rtmp Ask TV
+rtmp://edge2.everyon.tv/etv2/phd1005
+#EXTINF:-1, Korea rtmp Livething Premium
+rtmp://edge2.everyon.tv/etv2/phd1006
+#EXTINF:-1, Korea rtmp Okadai
+rtmp://edge2.everyon.tv/etv2/pld1003
+#EXTINF:-1, Korea rtmp Okadai HD
+rtmp://edge2.everyon.tv/etv2/phd1003
+#EXTINF:-1, Korea rtmp Paradise TV
+rtmp://edge2.everyon.tv/etv2/pld1008
+#EXTINF:-1, Korea:韩国phd1008
+rtmp://edge2.everyon.tv/etv2/phd1008
+#EXTINF:-1, Korea:韩国phd499
+rtmp://edge2.everyon.tv/etv2sb/phd499
+#EXTINF:-1, Korea:韩国phd501
+rtmp://edge2.everyon.tv/etv2sb/phd501
+#EXTINF:-1, Korea:韩国phd511
+rtmp://edge2.everyon.tv/etv2sb/phd511
+#EXTINF:-1, Korea:韩国phd59
+rtmp://edge2.everyon.tv/etv2sb/phd59
+#EXTINF:-1, Korea:韩国phd60
+rtmp://edge2.everyon.tv/etv2sb/phd60
+#EXTINF:-1, Korea:韩国phd61
+rtmp://edge2.everyon.tv/etv2sb/phd61
+#EXTINF:-1, Korea:韩国phd62
+rtmp://edge2.everyon.tv/etv2sb/phd62
+#EXTINF:-1, Korea:韩国phd63
+rtmp://edge2.everyon.tv/etv2sb/phd63
+#EXTINF:-1, Korea:韩国phd64
+rtmp://edge2.everyon.tv/etv2sb/phd64
+#EXTINF:-1, Korea:韩国phd769
+rtmp://edge2.everyon.tv/etv2sb/phd769
+#EXTINF:-1, Korea:韩国phd771
+rtmp://edge2.everyon.tv/etv2sb/phd771
+#EXTINF:-1, Korea:韩国phd772
+rtmp://edge2.everyon.tv/etv2sb/phd772
+#EXTINF:-1, Korea:韩国phd968
+rtmp://edge2.everyon.tv/etv2sb/phd968
+#EXTINF:-1, Korea:韩国phd991
+rtmp://edge2.everyon.tv/etv2sb/phd991
+#EXTINF:-1, Korea:韩国phd992
+rtmp://edge2.everyon.tv/etv2sb/phd992
+#EXTINF:-1, Korea:韩国phd993
+rtmp://edge2.everyon.tv/etv2sb/phd993
+#EXTINF:-1, LiveSex Latinas
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+#EXTINF:-1, Olalá
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+#EXTINF:-1, Passiexxx
+http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
+#EXTINF:-1, Playboy TV
+http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
+#EXTINF:-1, PowerGirls
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+#EXTINF:-1, PT HOT+18
+http://myplace.dnsalias.com:6262/live/pt/gratis/24.ts
+#EXTINF:-1, PT PLAYBOY
+http://myplace.dnsalias.com:6262/live/pt/gratis/25.ts
+#EXTINF:-1, RUS PRIVATE
+http://185.38.12.20:8088/private/
+#EXTINF:-1, Russian Night
+http://185.38.12.20:8088/rusnoch/
+#EXTINF:-1, Russian Night
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+#EXTINF:-1, Super One
+http://best-shqip-iptv.blogdns.com/stream/hustlertv/ferid-012-2015/2003palas1502
+#EXTINF:-1, TOP PREMIUM XXX
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+#EXTINF:-1, XXX 1
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1,Passiexxx
+http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
+
+
+
+#EXTINF:-1,Jazmin Channel HD 720
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+
+#EXTINF:-1, Русская ночь
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+
+
+#EXTINF:0, BLUE HUSTLER
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+
+#EXTINF:0, Asia XXX1
+
+http://59.120.43.181:8081
+
+#EXTINF:0, Asia XXX2
+
+http://59.120.43.181:8082
+
+#EXTINF:0, Asia XXX3
+
+http://59.120.43.181:8083
+
+#EXTINF:0, Asia XXX4
+
+http://59.120.43.181:8084
+
+
+#EXTINF:-1,Babestation2 
+http://publish.thewebstream.co:1935/cellcast/encoder72/playlist.m3u8
+#EXTINF:-1,Babestation3 
+http://publish.thewebstream.co:1935/cellcast/encoder31/playlist.m3u8
+
+#EXTINF:-1,Babestation5 
+http://publish.thewebstream.co:1935/cellcast/nakedchat2/chunklist.m3u8
+#EXTINF:-1,Babestation6 
+http://publish.thewebstream.co:1935/cellcast/nakedchat/chunklist.m3u8
+
+#EXTINF:-1,Babestation8 
+http://publish.thewebstream.co:1935/cellcast/encoder22/playlist.m3u8
+#EXTINF:-1,Babestation9 
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+#EXTINF:-1,Babestation10 
+http://178.33.126.213:1935/iptv_cellcast_24/livestream_two2/chunklist.m3u8
+
+#EXTINF:-1,Babestation13 
+http://178.33.229.131:1935/thaichat/mpegts3.stream/chunklist.m3u8
+
+#EXTINF:-1,XXL Porn TV
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2 
+
+
+
+
+#EXTINF:-1,Jasmin
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+
+#EXTINF:-1,SATISFACTION HD
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
+
+#EXTINF:-1,Passiexxx
+http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
+
+#EXTINF:-1,Wepa
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
+
+#EXTINF:-1,Wepa 2
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/media-b1100000_2400.m3u8
+
+#EXTINF:-1, XXX Asia 1
+http://59.120.43.181:8081
+
+
+#EXTINF:-1,XXX Asia 3
+http://59.120.43.181:8083
+
+#EXTINF:-1,XXX Asia 4
+http://59.120.43.181:8084
+
+
+#EXTINF:-1, Olala
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+ 
+#EXTINF:-1, Russian Night
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+
+#EXTINF:0,ADULT TV 1
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+ 
+#EXTINF:-1, Blue Hustler
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+
+#EXTINF:0,PLAY BOY TV
+http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
+ 
+#EXTINF:-1, Playboy TV
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
+ 
+#EXTINF:-1, XXL
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
+
+#EXTINF:-1,Adult:CS Sex +18 ADULT mmsh
+mmsh://tv.webmisto.cz:7000
+
+#EXTINF:-1,BABE_XXX
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+
+#EXTINF:-1,Adult:Babestation
+http://46.105.116.159:1935/cellcast/encoder22/.m3u8
+
+#EXTINF:-1,Adult:Babestation Blue
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+
+#EXTINF:-1,Adult:Babestation Unleashed
+http://46.105.116.159:1935/iptv_cellcast_24/livestream_three2/.m3u8
+
+#EXTINF:-1,Adult:Babestation Xtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+
+#EXTINF:-1,Adult:Bella Club
+rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
+
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",Adulto Claro
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",ADULTO C H A N N E L
+http://83.139.104.98/Content/HLS/Live/Channel(ADULT_CHANNEL)/Stream(03)/index.m3u8
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",Adulto Premium Claro
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",Bella Club 
+rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",Bollywood Bikini TV
+http://46.249.213.93/iPhone/broadcast/bollywoodbikini-tablet.3gp/bollywoodbikini-tablet.3gp-mr647k.m3u8
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",Brasileirinhas
+rtmp://62.210.89.54:8082/brasileirinhas/brasileirinhas/ playpath=brasileirinhas swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf pageUrl=http://livestreamcast.org/embeds.php?c=Brasileirinhas&vw=468&vh=360 live=1
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",Brazzers tv
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",CS Sex +18 ADULT mmsh
+mmsh://tv.webmisto.cz:7000
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",DLDVS 1
+http://208.122.3.2:9000
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",DLDVS 2
+http://208.122.3.2:8700
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",DORCEL TV
+rtmp://212.83.171.82:1935/live/1017
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",DORCEL TV [COLOR limegreen] FULLHD [/COLOR]
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos", Hot Clips
+rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv15/mogulus-user-files/chhotceleb/2013/11/23/59825737-e5aa-43f7-a007-c109e430f496 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?color=0x000000&autoPlay=true&iconColor=0xcccccc&mute=false&jsEnabled=false&iconColorOver=0xe7e7e7 pageUrl=http://tvtoss.com/channel-frames/Hot Clips 18  TV/hotclips_server-1.php
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",PLAYBOY T V
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8
+#EXTINF:-1 tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",Playboy TV USA
+rtmp://37.130.228.4:8082/pboytv/pboytv/ playpath=pboytv swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf pageUrl=http://www.tvonlinegratis.tv/canais/playboytv.php live=1
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",Power Girls TV [COLOR limegreen]HD [/COLOR]
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",SCT
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",,Sexy Sat
+rtmp://81.89.48.215/xyz999wkz/sexysat.stream_360p
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",VENUS TV
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",Visit-X TV
+rtmp://194.116.150.47/live//visitx.stream1
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",XXX
+
+#EXTINF:-1,XXL Porn IPTV 
+http://a7-60.5-69.cdn13.com/28000/28013/28013.flv?
+#EXTINF:-1, XXL
+http://a7-60.5-69.cdn13.com/28000/28014/28014.flv?
+#EXTINF:-1, XXL
+http://a7-60.5-69.cdn13.com/28000/28015/28015.flv?
+#EXTINF:-1, XXL
+http://a7-60.5-69.cdn13.com/28000/28016/28016.flv?
+#EXTINF:-1, XXL
+http://a7-60.5-69.cdn13.com/28000/28017/28017.flv?
+#EXTINF:-1, XXL
+http://a7-60.5-69.cdn13.com/28000/28018/28018.flv?
+#EXTINF:-1, XXL
+http://a7-60.5-69.cdn13.com/28000/28019/28019.flv?
+#EXTINF:-1, XXL
+http://a7-60.5-69.cdn13.com/28000/28020/28020.flv?
+#EXTINF:-1, XXL
+http://a7-60.5-69.cdn13.com/28000/28021/28021.flv?
+http://188.165.239.200:7024
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",P.boy TV
+http://46.61.226.19/hls/CH_PLAYBOY/bw1500000/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXL
+http://46.61.226.19/hls/CH_XXL/bw1500000/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Blue Hustler
+ http://46.61.226.19/hls/CH_BLUEHUSTLER/bw1500000/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",RUSSIANNIGHT 
+http://46.61.226.19/hls/CH_RUSSIANNIGHT/bw1500000/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",O-la-la
+http://46.61.226.19/hls/CH_OLALA/bw1500000/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Hustler HD (buffer)
+http://185.38.12.20:8088/hustler_hd/
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Jasmin
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Station
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Score Group
+http://188.165.220.116:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",SATISFACTION HD
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Brasileirinhas
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",LiveSex Latinas
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Frenchlover
+http://95.170.186.178:7781/udp/239.255.4.4:1234
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Passiexxx
+http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Wepa
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Wepa 2
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/media-b1100000_2400.m3u8
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Private
+http://185.38.12.20:8088/private/
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",ttv11 china
+rtmp://kv3.ts33.net/tv/ttv11
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",ttv12 china
+rtmp://149.3.141.210:1935/tv/ttv12
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18", XXX Asia 1
+http://59.120.43.181:8081
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18", XXX Asia 2
+http://59.120.43.181:8082
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXX Asia 3
+http://59.120.43.181:8083
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXX Asia 4
+http://59.120.43.181:8084
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXX Asia 5
+http://59.120.43.181:8085
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXX Asia 6
+http://59.120.43.181:8086
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXX Asia 7
+http://59.120.43.181:8087
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Power Girls TV HD
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+ 
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Bollywood Bikini TV
+http://46.249.213.93/iPhone/broadcast/bollywoodbikini-tablet.3gp/bollywoodbikini-tablet.3gp-mr647k.m3u8
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18", Olala
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+ 
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18", Russian Night
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+
+#EXTINF:0 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",ADULT TV 1
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18", Blue Hustler
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+
+#EXTINF:0 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",PLAY BOY TV
+http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
+ 
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18", Playboy TV
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
+ 
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18", XXL
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Adult:CS Sex +18 ADULT mmsh
+mmsh://tv.webmisto.cz:7000
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",BABE_XXX
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Adult:Babestation
+http://46.105.116.159:1935/cellcast/encoder22/.m3u8
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Adult:Babestation Blue
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Adult:Babestation Unleashed
+http://46.105.116.159:1935/iptv_cellcast_24/livestream_three2/.m3u8
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Adult:Babestation Xtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1,A&E (Ciencia y Cultura)
 http://oneplay.tv/darkuzdev/?ch=AELatinoamericaHD
