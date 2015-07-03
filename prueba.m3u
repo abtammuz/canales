@@ -3,11 +3,11 @@
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 
 #EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Dis
-http://ucaster.eu:1935/live/_definst_/disney2016
+#EXTINF:-1,P
+rtmp://50.7.78.138:443/live?2CaKyZwAqtVJcG1X3TZMyBXvVU0qRGD7
 #EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,dlat
-http://ucaster.eu:1935/live/_definst_/dlatino2016
+#EXTINF:-1,P
+rtmp://198.255.0.18:443/live?zw6yu6C5sTZpZtWrt06LKjJcR4hoNn3T
 #EXTINF:-1, AMERICA SPORTS
 http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
 #EXTINF:-1, LRL456 ORBE 21
