@@ -3,8 +3,10 @@
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,hbo2
 http://37.187.253.241:8000/hbo2.m3u8
-#EXTINF:-1,hbo
-http://37.187.253.241:8000/hbo.m3u8
+#EXTINF:-1,1
+http://live.zcast.us:1935/liveorigin/_definst_/17029/playlist.m3u8
+#EXTINF:-1,2
+rtmp://live.shidurlive.com:1935/app/_definst_/17029
 #EXTINF:-1,hbo1
 http://37.187.253.241:8000/mangelitotv.m3u8
 #EXTINF:-1, AMERICA SPORTS
