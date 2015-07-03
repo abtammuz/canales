@@ -7,6 +7,8 @@ http://37.187.253.241:8000/hbo2.m3u8
 http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,FOX
 http://38.99.146.36:7777/Fox_HD/Fox_High.m3u8?user=39636&session=&hlsid=HLS_2420850
+#EXTINF:-1,dkids
+http://31.204.128.74/live/master24/live.m3u8
 #EXTINF:-1, AMERICA SPORTS
 http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
 #EXTINF:-1, LRL456 ORBE 21
