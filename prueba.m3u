@@ -1,9 +1,12 @@
 #EXTM3U
 #EXTINF:-1, DISCOVERY1
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-
 #EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,P
+#EXTINF:-1,hbo
+rtmp://mips.tv:1935/live/_definst_/mangelitotv
+#EXTINF:-1,hbo2
+http://mips.tv:1935/live/mangelitotv/playlist.m3u8
+#EXTINF:-1,P1
 rtmp://50.7.78.138:443/live?2CaKyZwAqtVJcG1X3TZMyBXvVU0qRGD7
 #EXTM3U $ExtFilter="RTMP"
 #EXTINF:-1,P
