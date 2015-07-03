@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, DISCOVERY
+#EXTINF:-1, DISCOVERY1
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTM3U $ExtFilter="RTMP" 
 #EXTINF:-1,dysney
