@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1, DISCOVERY
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTM3U $ExtFilter="RTMP"
 #EXTINF:-1,dysney1
 rtmp://ucaster.eu:1935/live/_definst_/disney2016
 #EXTINF:-1, AMERICA SPORTS
