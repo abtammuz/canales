@@ -2,9 +2,11 @@
 #EXTINF:-1, DISCOVERY1
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,:D
-http://ucaster.eu:1935/live/_definst_/disney2016
+http://ucaster.eu:1935/live/_definst_/disney2016.m3u8
 #EXTINF:-1,Disney
-http://ucaster.eu:1935/live/_definst_/disney2016/playlist.m3u8
+http://ucaster.eu:1935/live/disney2016/playlist.m3u8
+#EXTINF:-1,Dlatino
+http://ucaster.eu:1935/live/dlatino2016/playlist.m3u8
 #EXTINF:-1, AMERICA SPORTS
 http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
 #EXTINF:-1, LRL456 ORBE 21
