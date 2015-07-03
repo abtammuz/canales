@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1, DISCOVERY1
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,hbo3
-rtmp://mips.tv:1935/live/_definst_/mangelitotv/playlist.m3u8
-#EXTINF:-1,hbo4
-http://mips.tv:1935/live/_definst_/mangelitotv/playlist.m3u8
+#EXTINF:-1,hbo
+rtmp://mips.tv:1935/live/_definst_/mangelitotv/live.m3u8
+#EXTINF:-1,hbo1
+http://mips.tv:1935/live/_definst_/mangelitotv/live.m3u8
 #EXTINF:-1,P1
-http://50.7.78.138:443/live?2CaKyZwAqtVJcG1X3TZMyBXvVU0qRGD7/playlist.m3u8
+http://50.7.78.138:443/live?2CaKyZwAqtVJcG1X3TZMyBXvVU0qRGD7/live.m3u8
 #EXTM3U $ExtFilter="RTMP"
 #EXTINF:-1,P2
-htmp://198.255.0.18:443/live?zw6yu6C5sTZpZtWrt06LKjJcR4hoNn3T/playlist.m3u8
+htmp://198.255.0.18:443/live?zw6yu6C5sTZpZtWrt06LKjJcR4hoNn3T/live.m3u8
 #EXTINF:-1,Carton
-http://mips.tv:1935/live/_definst_/cartoonnw.m3u8
+http://mips.tv:1935/live/_definst_/cartoonnw/live.m3u8
 #EXTINF:-1, AMERICA SPORTS
 http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
 #EXTINF:-1, LRL456 ORBE 21
