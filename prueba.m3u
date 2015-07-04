@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1,foxD
+#EXTINF:-1,FOX1
 http://37.187.253.241:8000/fox1.m3u8
+#EXTINF:-1,HBO
+http://iphone-streaming.ustream.tv/uhls/hboespaa/streams/live/iphone/playlist.m3u8
 #EXTINF:-1, ASIA 8081
 http://59.120.43.181:8081
 #EXTINF:-1, ASIA 8083
