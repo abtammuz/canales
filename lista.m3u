@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,HBO 2
+#EXTINF:-1 group-title="CANALES",HBO 2
 http://37.187.253.241:8000/hbo2.m3u8
-#EXTINF:-1 group-title="Colombia",ULTRA TV
+#EXTINF:-1 group-title="CANALES",ULTRA TV
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
 #EXTINF:-1, ULTRA TV OPC2
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
@@ -91,7 +91,6 @@ http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet
 rtmp://74.208.69.207/live/miamitvhd
 #EXTINF:-1,TVEO Miami USA
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1,MUSIC VEVO1 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 #EXTINF:-1,music VEVO HD
