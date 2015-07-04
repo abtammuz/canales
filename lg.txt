@@ -1,72 +1,523 @@
-ext,A&E (Ciencia y Cultura),http://oneplay.tv/darkuzdev/?ch=AELatinoamericaHD
-ext,Animal Planet (Ciencia y Cultura),http://oneplay.tv/darkuzdev/?ch=AnimalPlanetLASD
-ext,Discovery Channel (Ciencia y Cultura),http://oneplay.tv/darkuzdev/?ch=DiscoveryChLA
-ext,Discovery Theater (Ciencia y Cultura),http://oneplay.tv/darkuzdev/?ch=DiscoveryenEspanolHD
-27,Discovery World (Ciencia y Cultura),http://oneplay.tv/darkuzdev/?ch=DiscoveryWorldLA
-ext,El Gourmet (Ciencia y Cultura),http://oneplay.tv/darkuzdev/?ch=ElgourmetLA
-ext,History (Ciencia y Cultura),http://oneplay.tv/darkuzdev/?ch=HistoryLA
-ext,History 2 (Ciencia y Cultura),http://oneplay.tv/darkuzdev/?ch=H2LASD
-inv-discovery,Investigation Discovery (Ciencia y Cultura),http://oneplay.tv/darkuzdev/?ch=InvDiscoverySD
-ext,NAT GEO (Ciencia y Cultura),http://oneplay.tv/darkuzdev/?ch=NatGeoLASD
-natgeowild,Nat Geo Wild (Ciencia y Cultura),http://oneplay.tv/darkuzdev/?ch=NatGeoWildLAHD
-ext,TLC (Ciencia y Cultura),http://oneplay.tv/darkuzdev/?ch=TLCLASD
-ext,TruTV (Ciencia y Cultura),http://oneplay.tv/darkuzdev/?ch=TruTVSD
-ext,Boomerang (Infantiles ),http://oneplay.tv/darkuzdev/?ch=BoomerangLA
-cartoon,Cartoon Network (Infantiles ),http://oneplay.tv/darkuzdev/?ch=CartoonNetworkLASD
-ext,Discovery Kids (Infantiles ),http://oneplay.tv/darkuzdev/?ch=DiscoveryKidsSD
-ext,Disney Channel (Infantiles ),http://oneplay.tv/darkuzdev/?ch=DisneyChannelNorteHD
-ext,Disney Junior (Infantiles ),http://oneplay.tv/darkuzdev/?ch=DisneyJrLASD
-ext,Disney XD (Infantiles ),http://oneplay.tv/darkuzdev/?ch=DisneyXDSD
-43,Nick Jr. (Infantiles ),http://oneplay.tv/darkuzdev/?ch=NickJrLASD
-ext,Nickelodeon (Infantiles ),http://oneplay.tv/darkuzdev/?ch=NickelodeonLA
-ext,Tooncast (Infantiles ),http://oneplay.tv/darkuzdev/?ch=TooncastSD
-ext,Bein Sports (Deportes),http://oneplay.tv/darkuzdev/?ch=BeinSportsLA
-ext,Espn (Deportes),http://oneplay.tv/darkuzdev/?ch=ESPNLA
-ext,ESPN 2 (Deportes),http://oneplay.tv/darkuzdev/?ch=ESPN2LASD
-ext,ESPN 3 (Deportes),http://oneplay.tv/darkuzdev/?ch=ESPN3LASD
-ext,Fox Sports (Deportes),http://oneplay.tv/darkuzdev/?ch=FoxSportsLA
-ext,Fox Sports 2 (Deportes),http://oneplay.tv/darkuzdev/?ch=FoxSports2SD
-ext,Fox Sports 3 (Deportes),http://oneplay.tv/darkuzdev/?ch=FoxSports3SD
-ext,Planeta Futbol (Deportes),http://oneplay.tv/darkuzdev/?ch=PlanetaFutbolLA
-ext,Planeta Futbol English (Deportes),http://oneplay.tv/darkuzdev/?ch=PlanetaFutbolEnglish
-ext,MTV (Musica),http://oneplay.tv/darkuzdev/?ch=MTVLA
-mtv-hits,MTV Hits (Musica),http://oneplay.tv/darkuzdev/?ch=MTVHitsLA
-ext,VH1 (Musica),http://oneplay.tv/darkuzdev/?ch=VH1LatinoSD
-ext,VH1 Classics (Musica),http://oneplay.tv/darkuzdev/?ch=VH1ClassicLASD
-ext,AMC (Cine & Series),http://oneplay.tv/darkuzdev/?ch=AMCLASD
-ext,AXN (Cine & Series),http://oneplay.tv/darkuzdev/?ch=AXNLA
-ext,Cinecanal (Cine & Series),http://oneplay.tv/darkuzdev/?ch=CineCanalLA
-ext,Cinemax (Cine & Series),http://oneplay.tv/darkuzdev/?ch=CinemaxLASD
-ext,Comedy Central (Cine & Series),http://oneplay.tv/darkuzdev/?ch=ComedyCentralLA
-ext,E! Entertainment (Cine & Series),http://oneplay.tv/darkuzdev/?ch=EentertaimentSD
-ext,FOX (Cine & Series),http://oneplay.tv/darkuzdev/?ch=FOXLA
-ext,Fox 1 (Cine & Series),http://oneplay.tv/darkuzdev/?ch=FOX1LASD
-ext,Fox Action (Cine & Series),http://oneplay.tv/darkuzdev/?ch=FOXACTIONLASD
-ext,Fox Cinema (Cine & Series),http://oneplay.tv/darkuzdev/?ch=FoxCinemaSD
-ext,Fox Classics (Cine & Series),http://oneplay.tv/darkuzdev/?ch=FOXClassicsLASD
-ext,Fox Comedy (Cine & Series),http://oneplay.tv/darkuzdev/?ch=FOXComedyLASD
-ext,Fox Family (Cine & Series),http://oneplay.tv/darkuzdev/?ch=FOXFamilyLASD
-ext,Fox Life (Cine & Series),http://oneplay.tv/darkuzdev/?ch=FoxLifeSD
-ext,Fox Movies (Cine & Series),http://oneplay.tv/darkuzdev/?ch=FOXMoviesLASD
-ext,FX (Cine & Series),http://oneplay.tv/darkuzdev/?ch=FXLASD
-ext,Glitz (Cine & Series),http://oneplay.tv/darkuzdev/?ch=GlitzLA
-ext,HBO (Cine & Series),http://oneplay.tv/darkuzdev/?ch=HBOLASD
-ext,HBO 2 (Cine & Series),http://oneplay.tv/darkuzdev/?ch=HBO2SD
-ext,HBO Family (Cine & Series),http://oneplay.tv/darkuzdev/?ch=HBOFamilyLASD
-ext,HBO PLUS (Cine & Series),http://oneplay.tv/darkuzdev/?ch=HBOPus2LASD
-ext,HBO Signature (Cine & Series),http://oneplay.tv/darkuzdev/?ch=HBOSignatureLASD
-ext,Max Prime (Cine & Series),http://oneplay.tv/darkuzdev/?ch=MaxPrime2LASD
-ext,MundoFox (Cine & Series),http://oneplay.tv/darkuzdev/?ch=MundoFoxSD
-ext,Paramount Channel (Cine & Series),http://oneplay.tv/darkuzdev/?ch=ParamountChannelLatinAmericaHD
-ext,Sony (Cine & Series),http://oneplay.tv/darkuzdev/?ch=SonyLA
-ext,Studio Universal (Cine & Series),http://oneplay.tv/darkuzdev/?ch=StudioUniversalSD
-ext,Syfy (Cine & Series),http://oneplay.tv/darkuzdev/?ch=SyFyLASD
-ext,TBS (Cine & Series),http://oneplay.tv/darkuzdev/?ch=TBSLASD
-ext,TCM (Cine & Series),http://oneplay.tv/darkuzdev/?ch=TCMSD
-ext,Telemundo (Cine & Series),http://oneplay.tv/darkuzdev/?ch=835-TMNDO
-ext,The Film Zone (Cine & Series),http://oneplay.tv/darkuzdev/?ch=FilmZoneLASD
-ext,TNT (Cine & Series),http://oneplay.tv/darkuzdev/?ch=TNTAmericaLatinaHD
-ext,TNT Serie (Cine & Series),http://oneplay.tv/darkuzdev/?ch=infinitoSD
-ext,UNIMAS (Cine & Series),http://oneplay.tv/darkuzdev/?ch=UniMasUS
-ext,Universal Channel (Alterno),http://oneplay.tv/darkuzdev/?ch=UniversalLASD
-ext,Warner Bros (Cine & Series),http://oneplay.tv/darkuzdev/?ch=WarnerLA
+group,CANALES
+HBO2.mx,HBO 2,http://37.187.253.241:8000/hbo2.m3u8
+UltraTV.hr,ULTRA TV,http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
+ext,ULTRA TV OPC2,http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
+ext,TaTeTi NIÑOS,http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+ext,South Park,http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3u8
+ESPNDeportes.us,ESPN DEPORTES,http://iphone-streaming.ustream.tv/uhls/20000054/streams/live/iphone/playlist.m3u8
+ext,RT ESPAÑOL,http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u8
+ext,LIBERTAD TV,http://iphone-streaming.ustream.tv/uhls/15837981/streams/live/iphone/playlist.m3u8
+ext,TELESIG,http://iphone-streaming.ustream.tv/uhls/253309/streams/live/iphone/playlist.m3u8
+ext,REDTV,http://iphone-streaming.ustream.tv/uhls/5642870/streams/live/iphone/playlist.m3u8
+ext,PIXEL CHANNEL,http://iphone-streaming.ustream.tv/uhls/11360682/streams/live/iphone/playlist.m3u8
+ext,TV VISA,http://iphone-streaming.ustream.tv/uhls/19675268/streams/live/iphone/playlist.m3u8
+ext,FAMATV,http://iphone-streaming.ustream.tv/uhls/12135793/streams/live/iphone/playlist.m3u8
+sport1_rus,TV,http://iphone-streaming.ustream.tv/uhls/18376856/streams/live/iphone/playlist.m3u8
+DiscoveryChannel.mx,Discovery,http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+ext,Discovery (Opc.2),http://iphone-streaming.ustream.tv/ustreamVideo/17248101/streams/live/playlist.m3u8
+ext,ANIME TV,http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+ext,KW TV México,http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi
+SportsNetNewYork.us,SPORTSNET,http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+ext,CDN SportsMax,http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+RealMadridTV.sp,Real Madrid TV,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8#MegaIPTVArgentina
+ext,PAC-12Net.(Arizona),http://xrxs.net/video/live-p12ariz-4728.m3u8?
+ext,PAC-12Net.(Bay Area),http://xrxs.net/video/live-p12baya-4728.m3u8?
+ext,PAC-12Net.(Los Angeles),http://xrxs.net/video/live-p12losa-4728.m3u8?
+ext,PAC-12Net.(Moutain),http://xrxs.net/video/live-p12moun-4728.m3u8?
+ext,PAC-12Net.(Oregon),http://xrxs.net/video/live-p12oreg-4728.m3u8?
+ext,PAC-12Net.(Washington),http://xrxs.net/video/live-p12wash-4728.m3u8?
+ext,USA-BASKET UNI.(Arizona),http://xrxs.net/video/live-p12ariz-1164.m3u8
+ext,USA-BASKET UNI.(Los Angeles),http://xrxs.net/video/live-p12losa-1164.m3u8
+ext,USA-BASKET UNI.(Moutain),http://xrxs.net/video/live-p12moun-1164.m3u8
+ext,USA-BASKET UNI.(Oregon),http://xrxs.net/video/live-p12oreg-1164.m3u8
+ext,USA-BASKET UNI.(Washington),http://xrxs.net/video/live-p12wash-2328.m3u8
+ext,Antena3 Sports,http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+ext,Eurosport1 ENG,http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+ext,Eurosport1 France,http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+ext,FOX SPORT ARG,http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
+ext,GOL TV USA,http://ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/chunklist_b1596000.m3u8#MegaIPTVArgentina
+ext,GOL TV ARG,http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
+ext,AMERICA SPORTS,http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
+ext,Sevilla TV,http://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc/stml.m3u8
+ext,Sevilla OPC 2,rtmp://flash0.80137-live0.dna.qbrick.com:1935/80137-live0/sevillafc
+RealMadridTV.sp,Real Madrid TV HD,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+TNHD.ar,TN,rtsp://stream.tn.com.ar/live/tnhd1
+ext,Victorias Secret Angels TV,http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
+
+group,Variedades - Latinos
+ext,Miami TV HD 720 USA,rtmp://74.208.69.207:1935/live/miamitvhd
+ext,TVEO Miami USA,http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+ext,MUSIC VEVO1 HD,http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+ext,music VEVO HD,http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+ext,MUSIC Vevo2 HD,http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+ext,MUSIC Vevo3 HD,http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+ext,KISS TV MUSIC,rtmp://tst.es.flash.glb.ipercast.net:1935/tst.es-live/live
+ext,First MusicHD,rtmp://109.239.142.62:1935/live/livestream3
+ext,MUSIC,http://www.djing.com/tv/hothothot.m3u8
+ext,FOR MUSIC WEB,rtmp://wowza1.top-ix.org:1935/quartaretetv1/formusicweb
+ext,QUIEROMUSICA,mms://200.42.92.6:1755/qmusica
+ext,IBIZA ON TV,rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
+CapitalTV.uk,CAPITAL TV,http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+ext,HEART TV,http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
+RougeTV.fr,ROUGE TV,rtmp://rtmp.infomaniak.ch:1935/livecast/rougetv
+ext,VIRGIN TV,http://wow01.105.net/live/virgin1/.m3u8
+ext,DREAM,http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+FashionTV.nws,FASHION TV,http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+ext,RADIO 105 TV,http://serv07.vintera.tv:1935/restream/105tv.stream/playlist.m3u8
+ext,RADIO MONTECARLO,http://serv07.vintera.tv:1935/restream/rmc.stream/playlist.m3u8
+ext,PLANETA POP,http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
+ext,IB3,http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+NOWMusic.uk,NOW MUSIC,http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+M6MusicHits.fr,M6 MUSIC,http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+ext,TUBA TV,rtmp://fms.gazeta.pl:1935/aglive/tuba_tv
+a-one,A-One,http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?=-1
+ext,AKA,http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+ext,Electrosound TVHD,rtmp://www.electrosound.tv:1935/public/stream
+ext,Gold TV,http://87.248.160.8/edge/smil:goldtv/playlist.m3u8#MegaIPTVArgentina
+ext,Amazing,http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+mbu,Music Box UA,rtmp://212.26.132.86:1935/live/mb_ua
+ext,HardLife,http://rtk1.peers.tv/streaming/hardlife_tv/126/tvrec/playlist.m3u8#MegaIPTVArgentina
+ext,Global Star TV,http://msk2.peers.tv/streaming/globalstartv/126/tvrec/playlist.m3u8#MegaIPTVArgentina
+ext,Si TV,http://hd.worldkast.com:1935/8436/8436/playlist.m3u8#MegaIPTVArgentina
+ext,Melody Channel,rtmp://186.155.200.118:1935/live/MelodyChannel
+ext,Televitrola,rtmp://186.155.200.118:1935/live/Televitrola
+ext,Mi Gente TV,http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u8
+ext,El Trece México,http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
+Azteca13.mx,AZTECA 13,http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+Azteca13.mx,AZTECA NOTICIAS,http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+ext,AZTECA DEPORTES,http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
+avi,PROYECTO 40,http://tvaz-pd.kaltura.com.edgesuite.net/p/461031/sp/46103100/serveFlavor/entryId/0_08wdjxfl/v/1/flavorId/0_8j06e5nk/forceproxy/true/name/a.mp4
+CanalEstrellas.es,CANAL DE LAS ESTRELLAS,http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+ForoTV.mx,FORO TV,http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8#MegaIPTVArgentina
+OnceTV.mx,Once TV,http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8#MegaIPTVArgentina
+ext,GALATV Cancun,http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8?
+OnceTV.mx,ONCE TV,http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+ext,MILENIO,http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
+ext,PELICULAS LATINO,http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+ext,Megavision Canal 21 El Salvador,http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8#MegaIPTVArgentina
+ext,Nuestra Visión Canal 5 México,rtmp://159.16.243.10:1935/live/canal5/canal5
+ext,TVMas,rtmp://50.7.98.234:1935/rtv/videortv
+ext,MEXIQUENSE,rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+ext,MOCHO TV,http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+ext,CANAL10 Cancun,http://www.promovision.mx:1935/live/tvlive2/playlist.m3u8?
+ext,TV 4 Guanajuato,http://iphone-streaming.ustream.tv/uhls/4157836/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+ext,TV 4 Guanajuato (Opc.2),http://iphone-streaming.ustream.tv/ustreamVideo/4157836/streams/live/playlist.m3u8#MegaIPTVArgentina
+ext,Canal 7 Mazatlan México,http://74.63.97.188:1935/gpacifico4/videogpacifico4/playlist.m3u8#MegaIPTVArgentina
+ext,Canal 7 San Luis Potosí México,http://187.188.159.113:1935/live/web.sdp/playlist.m3u8#MegaIPTVArgentina
+ext,Canal 13 San Luis Potosí México,rtmp://192.99.9.67:1935/8076/8076
+ext,TeleMax Sonora México,http://enhd.co:1935/ilive/ilive/playlist.m3u8?MegaIPTVArgentina
+ext,RTG Soy Guerrero México,http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8#MegaIPTVArgentina
+ext,Trecevision Yucatán México,http://74.222.3.185:1935/live/ngrp:trecevision_all/playlist.m3u8#MegaITVArgentina
+ext,Acapulco TV México,rtmp://video.hosteris.com:1935/tvacapulco/tvacapulco
+ext,Canal 4 Mérida México,rtmp://159.16.243.10:1935/live/canal4/canal4
+ext,5TV Sabinas Coahuila México,http://50.7.29.178:1935/gnode06/videognode06/playlist.m3u8#MegaIPTVArgentina
+ext,Canal 7 Noticias México,http://74.63.97.188:1935/c7/videoc7/playlist.m3u8#MegaIPTVArgentina
+ext,Capital 21 México,http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8#MegaIPTVArgentina
+ext,Canal México TV,http://iphone-streaming.ustream.tv/ustreamVideo/18636540/streams/live/playlist.m3u8#MegaIPTVArgentina
+ext,Canal México TV (Opc.2),http://iphone-streaming.ustream.tv/uhls/18636540/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+ext,TV DF,http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+ext,CANAL44 Chihuahua,http://odna.octoshape.net/p9b7g9i7/cds/smil:canal44/playlist.m3u8
+ohotnik-i-rybolov,Telemadrid,http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8
+ext,TELEMAR Campeche,http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
+ext,INFO7 Monterrey,http://38.104.228.230:1938:1935/info7/info7_512/playlist.m3u8?
+ext,Canal 7 Cultura México,http://74.63.97.188:1935/gnode05/videognode05/playlist_b125000.m3u8?MegaIPTVArgentina
+ext,CANAL53 Mexico,mms://streaming.uanl.mx/canal53bandaancha/
+ext,EFECTO NOTICIAS,http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_3_av-b.m3u8?sd=10&rebase=on
+ext,UNO TV,http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8?
+Euronews.nws,EURONEWS,http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+ext,AMERICA TV,rtmp://podi.hopper.pw:443/live/live_elyamato
+ext,AMERICA TV HD (Per),http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
+MultimediosMonterrey.mx,MULTIMEDIOS,http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=ChelTV_m3u8
+DW.al,DW,http://streaming.elpinguino.com:1935/live/pinguinotv_360p/hasbahca.m3u8
+ext,CDN,http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+TVN.pl,TVN,http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+TVN.pl,TVN,http://edge-11-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+ext,Cantrece,rtmp://stream01.cyberfuel.com:1935/SinartCanal13/livestream
+ext,CBS,http://brightcove03-f.akamaihd.net/iptv2_1_900@50919?videoId=1370792317001&lineUpId=&pubId=734546207001&playerId=2210144031001&affiliateId=&v=3.4.0&fp=WIN%2016,0,0,305&r=QKDUB&g=VYPYWHJMHSEH
+ext,OCHO TV (Mex),http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+UniMas.us,UNIMAS,rtmp://podi.hopper.pw:443/live/live_unimas12
+ext,MEGA HD (Chi),http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
+ext,Naranja Tv,http://ciez45.live.cloud.influxis.com/ciez45/NaranjaTV/chunklist_w1563927943.m3u8?
+ext,Canal 28 Chihuahua México,http://web.xnet.mx:1935/xnetn/canal282/playlist.m3u8#MegaIPTVArgentina
+ext,Quince TV Zacatecas México,http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15zacatecas/livestream/playlist.m3u8#MegaIPTVArgentina
+ext,SMTV Michoacán México,http://iphone-streaming.ustream.tv/ustreamVideo/13946965/streams/live/playlist.m3u8#MegaIPTVArgentina
+ext,SMTV Michoacán México (Opc.2),http://iphone-streaming.ustream.tv/uhls/13946965/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+ext,Televisión Querétaro México,http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/playlist.m3u8#MegaIPTVArgentina
+ext,Aguascalientes TV6 México,http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8?MegaIPTVArgentina
+ext,MIJAS TV,rtmp://teledifusion.tv:1935/mijastv/mijastvlive
+ext,Mexico Travel Channel,http://cdns840stu1010.multistream.net/mtchlive/amlst:live/chunklist_b900000.m3u8
+ext,Hogar TV Colombia,http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
+ext,TVN (Chi),http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+ext,ANTENA3 HD,http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+LaSexta.sp,LA SEXTA HD,http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+ext,TELESISTEMA 11 (Dom),http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+ext,TELEFUTURA 23 (Dom),http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8
+ext,EXTREMADURA TV (Esp),http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+ext,ANDALUCIA TV (Esp),http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+ext,TELECANAL (Chi),http://wow2.cl.digitalproserver.com/tcsc/tcscvivo/tcsc.smil/chunklist_w1420799444_b1248000.m3u8
+ext,MUSA VISION (Dom),rtmp://joelzaiter1.srfms.com:1963/live/musav.sdp
+ext,TV UNI,mms://streaming.uanl.mx/canal53bandaancha/
+C5N.ar,C5N,rtmp://c5n.stweb.tv:1935/c5n/live
+ext,Canal 5 tigre-tv,http://iphone-streaming.ustream.tv/ustreamVideo/11068260/streams/live/playlist.m3u8
+ext,Canal 12,http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
+Canal13.ar,Canal 13,rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+13tv.es,13TV,http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+ext,Telemax,http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+26TV.ar,CANAL 26,rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360
+TVChili.se,Tv Chile,http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+TVChili.se,TV Chile,http://edge-12-cl.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/master.m3u8
+ext,BBTV canal 9,http://wow2.cl.digitalproserver.com/c9//c9.smil/hasbahca.m3u8
+Lared.cl,La Red,http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u8
+stb,Mega HD,http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
+ext,Valle Television 2,http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+AragonTVsat.sp,Aragon TV Sat,http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8
+24horas.sp,24Horas,http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+24horas.sp,24HORAS,http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
+ext,324NOTICIES,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8
+ext,Spain:IB3,http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+ext,TV Canarias,http://streamrtvcdrb.mad.idec.net/rtvcnet/rtvcnet.drb.stream/playlist.m3u8
+ext,TELEAYUDA,rtmp://87.106.244.74:1935/live/myStream_2
+travel,TRAVEL TV,rtmp://87.106.219.140:1935/live/myStream_2
+ext,NAZARENO.TV,rtmp://87.106.232.7:1935/live/myStream_2
+axn,10,rtmp://87.106.220.67:1935/live/myStream_2
+
+group,Audio - Radio
+ext,Radio 50\'s,http://buecrplb01.cienradios.com.ar/50_32000.aac
+ext,Radio 60\'s,http://buecrplb01.cienradios.com.ar/60_32000.aac
+ext,Radio 70\'s,http://buecrplb01.cienradios.com.ar/70_Internacional_32000.aac
+ext,70\'s USA,http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_70_USA_32000.aac
+ext,Radio Beatles,http://108.61.73.119:8062/;stream.nsv
+ext,Radio 80´s,http://buecrplb01.cienradios.com.ar/80_Internacional_32000.aac
+ext,80\'s Argentina,http://buecrplb01.cienradios.com.ar/80_Nacional_32000.aac
+ext,80\'s USA,http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_80_USA_32000.aac
+ext,90\'s Internacional,http://buecrplb01.cienradios.com.ar/90_Internacional_32000.aac
+ext,90\'s Europa,http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_90_UK_32000.aac
+ext,Adulto Contemporaneo,http://buecrplb01.cienradios.com.ar/Adulto_Contemporaneo_32000.aac
+Baladas.br,Baladas,http://buecrplb01.cienradios.com.ar/Power_Ballads_32000.aac
+Bossanova.br,Bossa Nova,http://buecrplb01.cienradios.com.ar/Bossa_Nova_32000.aac
+ext,Brasil,http://buecrplb01.cienradios.com.ar/Brasil_32000.aac
+ext,BritPop,http://buecrplb01.cienradios.com.ar/Britpop_32000.aac
+ext,Chillout,http://buecrplb01.cienradios.com.ar/Chillout_32000.aac
+ext,JPop,http://pub1.radiotunes.com:80/radiotunes_jpop?c99c0d59b19e3b7c9f99d515
+ext,Country,http://pub8.radiotunes.com:80/radiotunes_country?c99c0d59b19e3b7c9f99d515
+ext,Cuarteto,http://buecrplb01.cienradios.com.ar/Cuarteto_32000.aac
+ext,Estrenos,http://buecrplb01.cienradios.com.ar/Estrenos_32000.aac
+ext,Electronica,http://buecrplb01.cienradios.com.ar/Electronico_32000.aac
+ext,Electro Tango,http://buecrplb01.cienradios.com.ar/Electronic_Tango_32000.aac?
+ext,Fiesta Dance,http://buecrplb01.cienradios.com.ar/Fiesta_Dance_32000.aac
+ext,Lentos,http://buecrplb01.cienradios.com.ar/Lentos_32000.aac
+ext,Live music,http://buecrplb01.cienradios.com.ar/Vivo_32000.aac
+ext,Raggae,http://buecrplb01.cienradios.com.ar/Reggae_32000.aac
+ext,Reggaeton,http://buecrplb01.cienradios.com.ar/Reggaeton_32000.aac
+ext,Rock Hits,http://buecrplb01.cienradios.com.ar/Rock_Hits_32000.aac
+ext,Rock Latino,http://buecrplb01.cienradios.com.ar/Rock_Latinoamericano_32000.aac
+Salsa.us,Salsa,http://buecrplb01.cienradios.com.ar/Salsa_32000.aac
+SmoothJazz.us,Smooth Jazz,http://buecrplb01.cienradios.com.ar/Smooth_Jazz_32000.aac
+ext,Mellow Jazz,http://pub6.radiotunes.com:80/radiotunes_mellowjazz?c99c0d59b19e3b7c9f99d515
+ext,Top 40,http://buecrplb01.cienradios.com.ar/Top_40_32000.aac
+ext,Top Europa,http://buecrplb01.cienradios.com.ar/Top_Europa_32000.aac
+ext,Top USA,http://buecrplb01.cienradios.com.ar/Top_USA_32000.aac
+Lounge.br,Lounge,http://pub3.radiotunes.com:80/radiotunes_smoothlounge?
+ext,Musica del Mundo,http://pub8.radiotunes.com:80/radiotunes_world?c99c0d59b19e3b7c9f99d515
+ext,Yoga,http://buecrplb01.cienradios.com.ar/Yoga_32000.aac
+ext,Reiki,http://buecrplb01.cienradios.com.ar/Reiki_32000.aac
+ext,Relajación,http://pub7.radiotunes.com:80/radiotunes_relaxation?c99c0d59b19e3b7c9f99d515
+NewAge.us,New Age,http://pub7.radiotunes.com:80/radiotunes_newage?c99c0d59b19e3b7c9f99d515
+ext,Clasica,http://buecrplb01.cienradios.com.ar/Clasica_32000.aac
+ext,Clasica Cine,http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
+ext,Clasica Meditacion,http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
+
+group,Infantil
+avi,THE SIMPSONS CAP1,https://youpeliculas.box.com/shared/static/h1ks4cezg5pkpfojfodk.mp4
+avi,THE SIMPSONS CAP2,https://youpeliculas.box.com/shared/static/7ylnmpmdbh7dfbiofsk0.mp4
+avi,THE SIMPSONS CAP3,https://youpeliculas.box.com/shared/static/gtq87oyok6qoa2hh3mpp.mp4
+avi,THE SIMPSONS CAP4,https://youpeliculas.box.com/shared/static/80ic50ms5aj9har1qlthpi3s0a5alw8q.mp4
+avi,THE SIMPSONS CAP5,https://youpeliculas.box.com/shared/static/9d0na57i5whdbwobesosarv3sv8ywhqi.mp4
+avi,THE SIMPSONS CAP6,https://youpeliculas.box.com/shared/static/bbprqwfkzni62rbiajczsyj4rlcxsyut.mp4
+avi,CAP7,https://youpeliculas.box.com/shared/static/ebvf99yghy7dzwuvbdnu.mp4
+avi,CAP8,https://youpeliculas.box.com/shared/static/02unzde7d3ljr4idhfhd.mp4
+avi,CAP9,https://youpeliculas.box.com/shared/static/7namk41rge9nmlxv4oct.mp4
+avi,CAP10,https://youpeliculas.box.com/shared/static/few43s7xlaxg47qkwpp6.mp4
+avi,CAP11,https://youpeliculas.box.com/shared/static/buelxtymuxypyfp36pk2.mp4
+avi,CAP12,https://youpeliculas.box.com/shared/static/bc5z6kdbiwn8a8hsa5ik.mp4
+avi,CAP13,https://youpeliculas.box.com/shared/static/7t6tpdb42em3dzpytkue.mp4
+avi,CAP14,https://youpeliculas.box.com/shared/static/umtj85zdwnnivh01si12.mp4
+avi,CAP15,https://youpeliculas.box.com/shared/static/atlflgjm2tja9082po5g.mp4
+avi,CAP16,https://youpeliculas.box.com/shared/static/h3kq7izzyr4ff8srgvaj.mp4
+avi,CAP17,https://youpeliculas.box.com/shared/static/6dvqvhu666yqt63vsqqd.mp4
+avi,CAP18,https://youpeliculas.box.com/shared/static/logzkbc36p6kht1vj341.mp4
+avi,CAP19,https://youpeliculas.box.com/shared/static/c6w174ywovs61i0legtf.mp4
+avi,CAP20,https://youpeliculas.box.com/shared/static/en7yd3fis453t43fauhr.mp4
+avi,CAP21,https://youpeliculas.box.com/shared/static/jltr9svimib5thgjdvgu.mp4
+avi,CAP22,https://youpeliculas.box.com/shared/static/aqyodd6kbcmzqszn7wcoeb9jd9yezkp1.mkv
+avi,CAP23,https://youpeliculas.box.com/shared/static/bu96482tom31lfiyypmxfts7bje4iiai.mkv
+ext,CAP24,https://youpeliculas.box.com/shared/static/ver8dm9guu0ezt9552xqeb2fn65ia5zg.flv
+ext,CAP25,https://youpeliculas.box.com/shared/static/355hor0d1zr7ejafdp0oxfcrh4g233xq.flv
+ext,CAP26,https://youpeliculas.box.com/shared/static/qg0asq8u7hufta8pgr7rt1tyg0yp1mtq.flv
+ext,CAP27,https://youpeliculas.box.com/shared/static/45o3m5vo9d0u1apxvw318gw50uvol8n3.flv
+ext,CAP28,https://youpeliculas.box.com/shared/static/pyhocfuksq73cyy66x38f0upsuip0zgu.flv
+ext,CAP29,https://youpeliculas.box.com/shared/static/peupz8dfenj8bbkghjgtzc3sp25xw7fj.flv
+ext,CAP30,https://youpeliculas.box.com/shared/static/63gg91kzj8pefrhxiwaluw53jp7gbzrf.flv
+ext,CAP31,https://youpeliculas.box.com/shared/static/s30rt3rcnnqlaoiyte57t3x87l6ktpfl.flv
+ext,CAP32,https://youpeliculas.box.com/shared/static/r0fztm52c9smsfpa4jcrojked8x6m31a.flv
+ext,CAP33,https://youpeliculas.box.com/shared/static/3udo2pnouc4gf2vrphej6i0rrytsx5g1.flv
+ext,CAP34,https://youpeliculas.box.com/shared/static/55nes7garakihrehbcmx6t4ayqv2hgk3.flv
+ext,CAP35,https://youpeliculas.box.com/shared/static/pnf1yu24axlwygl6rntyzih7w5dik3ar.flv
+ext,CAP36,https://youpeliculas.box.com/shared/static/fni3kod6tvun6w5n5xucp6lg4h3zew3h.flv
+ext,CAP37,https://youpeliculas.box.com/shared/static/h7k0peeui4vt1ar8qqrc16urr1j6ep6d.flv
+ext,CAP38,https://youpeliculas.box.com/shared/static/79a2nnpn5wvuziggo456lf6qghys8z84.flv
+ext,CAP39,https://youpeliculas.box.com/shared/static/nj9obigisyby7a8dbf6brmhapgop2rb5.flv
+ext,CAP40,https://youpeliculas.box.com/shared/static/u2ztmxvcjwpgjie82sfo5molo985510i.flv
+ext,CAP41,https://youpeliculas.box.com/shared/static/vt6q0nh69q40vvk4h5as9myogwpxqnzv.flv
+ext,CAP42,https://youpeliculas.box.com/shared/static/dtlz8pz9vmgybet8l82ysbajiv8qh9z2.flv
+ext,CAP43,https://youpeliculas.box.com/shared/static/nxjsg0ghmv5hkkfw2o8p6focv4hgvyeq.flv
+ext,CAP44,https://youpeliculas.box.com/shared/static/1cdi39wodbynyzlxw3jpra15sm8rd4tl.flv
+ext,CAP45,https://youpeliculas.box.com/shared/static/ihmjtna5ppatbbu6u3mviov39mmycvt9.flv
+ext,CAP46,https://youpeliculas.box.com/shared/static/j70bknjurpgrwikxkvp4vadrtwh3r7aj.flv
+ext,CAP47,https://youpeliculas.box.com/shared/static/vkz9c1yai7t01gmu69y36bbziz8ruuwb.flv
+ext,CAP48,https://youpeliculas.box.com/shared/static/7j2enhgb8b2nc3pt38yi9surha9z10aq.flv
+ext,CAP49,https://youpeliculas.box.com/shared/static/2r2akdvjywqr3etv4awuwsge12z1rziz.flv
+ext,CAP50,https://youpeliculas.box.com/shared/static/ipg8j8j7o0gnbbe6dszvorhx1ha31ojz.flv
+ext,CAP51,https://youpeliculas.box.com/shared/static/v86nrcida81kinph2jrra7s7prf0lfag.flv
+ext,CAP52,https://youpeliculas.box.com/shared/static/cvharuok56b0vd912iyky9gox2g2ovnj.flv
+ext,CAP53,https://youpeliculas.box.com/shared/static/xtwggqbw06f7jtlky05hdehuh65lh0ly.flv
+ext,CAP54,https://youpeliculas.box.com/shared/static/oi9y9l4nodlng5ewnhycw8ua1m9dic96.flv
+ext,CAP55,https://youpeliculas.box.com/shared/static/1ydx5p6rpfejtjorof21bh2r0ze3vech.flv
+ext,CAP56,https://youpeliculas.box.com/shared/static/zsywh4e93ctj1qhz0feui79sdg7op9nj.flv
+ext,CAP57,https://youpeliculas.box.com/shared/static/ne04zw39jadt5drgtn237cl3yx6whhc8.flv
+ext,CAP58,https://youpeliculas.box.com/shared/static/i65tqu8js9tl7bd1kmy72s5o20ca1s8h.flv
+ext,CAP59,https://youpeliculas.box.com/shared/static/n05o3b10ppvqx4rftydwnm4itg2wopjm.flv
+ext,CAP60,https://youpeliculas.box.com/shared/static/qwuakul6kr29ap14ksfijkwao1gj7pnf.flv
+ext,CAP61,https://youpeliculas.box.com/shared/static/kzmwnjksl12hijdbad669ubuucv1z1wp.flv
+ext,CAP62,https://youpeliculas.box.com/shared/static/oxsl2xx3ue32xlk3hs50impn6wkph3mf.flv
+ext,CAP63,https://youpeliculas.box.com/shared/static/qp91ou16wgmievrknvrxnpqjbp8j3sp9.flv
+ext,CAP64,https://youpeliculas.box.com/shared/static/yzlli5swlq9938lcd9vej4bp789ja3ub.flv
+ext,CAP65,https://youpeliculas.box.com/shared/static/ncgjig7nn5s5wj8mhu7fmc8qcwi64h1v.flv
+avi,CAP66,https://youpeliculas.box.com/shared/static/9yzg3daqg90uks77i1wg4r4nh9d6b064.mkv
+ext,CAP67,https://youpeliculas.box.com/shared/static/utmfxgo6wvcm8dzdv5pvoueiwpwt7dz8.flv
+ext,CAP68,https://youpeliculas.box.com/shared/static/a9gp9x7qlytjdj2xxpkvbcd9813o0r10.flv
+ext,CAP69,https://youpeliculas.box.com/shared/static/dyqiinyozgfm7hj7u25r9n64d8devpjp.flv
+ext,CAP70,https://youpeliculas.box.com/shared/static/9uhev42gk27m9q5nvptphu2h9c44oivi.flv
+ext,CAP71,https://youpeliculas.box.com/shared/static/usbp0tzfm8n00uc1thzgcauocwn2dx71.flv
+ext,CAP72,https://youpeliculas.box.com/shared/static/wb7xhydfxuxze7uni5izuklmsalqj9c4.flv
+ext,CAP73,https://youpeliculas.box.com/shared/static/w6zoulil88ho57bi45ikmkihqf2zpuf9.flv
+ext,CAP74,https://youpeliculas.box.com/shared/static/p6tzsnal5zd2yuntjxnriuxpajldh6c5.flv
+ext,CAP75,https://youpeliculas.box.com/shared/static/zlkoje94ezovpyzd5ihvv7d0rmrrw0w1.flv
+ext,CAP76,https://youpeliculas.box.com/shared/static/vhr46veodzehkxvytgfbuuarg9cqgrz5.flv
+ext,CAP77,https://youpeliculas.box.com/shared/static/13fw52dsnuo7eosapjrgfa2l6mqga3a5.flv
+ext,CAP78,https://youpeliculas.box.com/shared/static/cyiupfbxnidrxuv2i4586rmflpa3xdnl.flv
+ext,CAP79,https://youpeliculas.box.com/shared/static/2rorknb2yuurjoie1u9wr3k9rli55uks.flv
+ext,CAP80,https://youpeliculas.box.com/shared/static/s13lxljb04dltevld0fr0v8rwpz7afgq.flv
+ext,CAP81,https://youpeliculas.box.com/shared/static/cqpnu6u8e1c9v8dvtc3sk85ityxmvkk0.flv
+ext,CAP82,https://youpeliculas.box.com/shared/static/bkltpwje24wqgh83m4zved16t5czpxhy.flv
+ext,CAP83,https://youpeliculas.box.com/shared/static/vefh2mn75hi6cjun58ix3e3ak9o09gt9.flv
+ext,CAP84,https://youpeliculas.box.com/shared/static/9xenp3c5w8q8l7vq29t5vwxlrw9cmbj4.flv
+ext,CAP85,https://youpeliculas.box.com/shared/static/c12kzh9n21olhtun2sujdaextkxgv9xa.flv
+ext,CAP86,https://youpeliculas.box.com/shared/static/iqo2zz646dvmmlpjilvryu56s3vsfktl.flv
+avi,CAP87,https://youpeliculas.box.com/shared/static/ffmovbft3xanrolmsgjzxb8qgt1d3kmf.mkv
+ext,CAP88,https://youpeliculas.box.com/shared/static/oterm8q9b3t6zqyz24iiw6vu7ysqx6fc.flv
+ext,CAP89,https://youpeliculas.box.com/shared/static/3qauawdjdww53bcehjr5jkasiw0mskxd.flv
+ext,CAP90,https://youpeliculas.box.com/shared/static/zasdz7309rb68623rh2xhziokvm28u0x.flv
+ext,CAP91,https://youpeliculas.box.com/shared/static/2a471sptym5uhh6aw3ikekckjnjelife.flv
+ext,CAP92,https://youpeliculas.box.com/shared/static/zndo8ly56h4jt4375sbtd1om8pjx4pbc.flv
+ext,CAP93,https://youpeliculas.box.com/shared/static/xlifj44drzlq0v5zn07bxjore9s4d2di.flv
+ext,CAP94,https://youpeliculas.box.com/shared/static/e1fj2fwtb53p6lixvl3bvx3qvwoqs2gu.flv
+ext,CAP95,https://youpeliculas.box.com/shared/static/w3ir3m9jd6nyli5lsq60a1gegzr7sr89.flv
+ext,CAP96,https://youpeliculas.box.com/shared/static/bn6dblagpximn6r0k8fo404izzfl19yz.flv
+ext,CAP97,https://youpeliculas.box.com/shared/static/djdn2n37bn7vtsvz0ltj49a6xxae1bl0.flv
+ext,CAP98,https://youpeliculas.box.com/shared/static/15r3jj1dom4j8mwwo4u5pf6obnajodmc.flv
+ext,CAP99,https://youpeliculas.box.com/shared/static/2uxr7fxl8cpjxgyat52hvlztjzrtiyzm.flv
+ext,CAP100,https://youpeliculas.box.com/shared/static/gud9audtavugt4e7gsrwfjh7ywqdl1kc.flv
+ext,CAP101,https://youpeliculas.box.com/shared/static/6guw4bz4z5m8t4ayz1evzbsgrmh9gc5b.flv
+ext,CAP102,https://youpeliculas.box.com/shared/static/vsk64vap38ml8unpkm0rz24p6vob85o2.flv
+ext,CAP103,https://youpeliculas.box.com/shared/static/0mtnjl2alasdurk4kq1j0qhe2z6wnwd9.flv
+ext,CAP104,https://youpeliculas.box.com/shared/static/to9scctngn0516rk0iahzk0d5kab4v2x.flv
+ext,CAP105,https://youpeliculas.box.com/shared/static/wdkfcv3irls2dnvvq19kna2ed09316o0.flv
+ext,CAP106,https://youpeliculas.box.com/shared/static/stgji776e9y2lxe5965jewjp0gualch9.flv
+ext,CAP107,https://youpeliculas.box.com/shared/static/klcyuoqpc74lxmk8as2x0ea2y7ozzeu7.flv
+ext,CAP108,https://youpeliculas.box.com/shared/static/o515vk9jgpb7cgw6cx15wdi8nwn2yuxm.flv
+avi,CAP109,https://youpeliculas.box.com/shared/static/l5sj494rr6ldsrrkods0tc3rxd0ycbwg.mkv
+ext,CAP110,https://youpeliculas.box.com/shared/static/z839x0lyxbjkn0fcetgv4mi16v6g2mle.flv
+ext,CAP111,https://youpeliculas.box.com/shared/static/ygnw2ag8q8izfxb0jpjtu57krj6h43c2.flv
+ext,CAP112,https://youpeliculas.box.com/shared/static/czwdpwpc7kum59w7qfeln4863vuvxsz7.flv
+ext,CAP113,https://youpeliculas.box.com/shared/static/rwzvc7elq2eakxxsyrxfy7nj9iq19qda.flv
+ext,CAP114,https://youpeliculas.box.com/shared/static/bitinynrfy3uakhbru6nr1b303dc37he.flv
+ext,CAP115,https://youpeliculas.box.com/shared/static/x5ctkvusse2869piiqob4fz5zij6tzas.flv
+ext,CAP116,https://youpeliculas.box.com/shared/static/cx32vwxzau2l03gkmivn2pymb06v3hor.flv
+ext,CAP117,https://youpeliculas.box.com/shared/static/k6ng1snijy3a3rvirgfpt9vnjpzszot4.flv
+ext,CAP118,https://youpeliculas.box.com/shared/static/ae5dbxttw8l7omkqn9lewkg6jiasf31i.flv
+ext,CAP119,https://youpeliculas.box.com/shared/static/y151c4tlg5q036oj0vcebiil4c7dx7us.flv
+ext,CAP120,https://youpeliculas.box.com/shared/static/c9awm9j9v21p1av77k19sqh0gb0x56vo.flv
+ext,CAP121,https://youpeliculas.box.com/shared/static/kc04i48e1qhgksvqs9hb9x1sc9lmzsit.flv
+ext,CAP122,https://youpeliculas.box.com/shared/static/kys74hmi5aosi1ptaz15zo97n890io4g.flv
+ext,CAP123,https://youpeliculas.box.com/shared/static/mumsv604cj5jbkypfohclsvf98ilbgv4.flv
+ext,CAP124,https://youpeliculas.box.com/shared/static/rds726nqm3ktkehldvue6907pdy5p20x.flv
+ext,CAP125,https://youpeliculas.box.com/shared/static/wvp10pov00u807dkkuwzc6chhju8w0xp.flv
+ext,CAP126,https://youpeliculas.box.com/shared/static/eitvc5s4qq5urmwun2882x5ajhh3ewpy.flv
+ext,CAP127,https://youpeliculas.box.com/shared/static/rig7hjvxqbq2oc99qcycs8407om4s1i6.flv
+avi,CAP128,https://youpeliculas.box.com/shared/static/uhdh5pec190wol0ugb9u4xf9sa1k3mgz.mkv
+ext,CAP129,https://youpeliculas.box.com/shared/static/b1purh41iuan4u3jzk7gqivjsjh9nlsw.flv
+ext,CAP130,https://youpeliculas.box.com/shared/static/66vyq2gnk5xliqorvygdoqzcs09iv4pw.flv
+ext,CAP131,https://youpeliculas.box.com/shared/static/rn1ujixpgpzxdft7g7o8je4lvppmxsi9.flv
+ext,CAP132,https://youpeliculas.box.com/shared/static/uwt67362vtblhfu90h0j57yawfbzfif0.flv
+ext,CAP133,https://youpeliculas.box.com/shared/static/kbd6jvt3pbsh8f2mqsmgr6ddeyf8l992.flv
+ext,CAP134,https://youpeliculas.box.com/shared/static/vm4s7csqdid2sjgqqkz57mu4i2dw1fgv.flv
+ext,CAP135,https://youpeliculas.box.com/shared/static/jg18g44jegdc2v0l65zr7usf6wua383c.flv
+ext,CAP136,https://youpeliculas.box.com/shared/static/z1smvkyz8kfegelos8danjjlqiwtgfbz.flv
+ext,CAP137,https://youpeliculas.box.com/shared/static/gorlmhef3agtf8mmhusp3ei576h6wqco.flv
+ext,CAP138,https://youpeliculas.box.com/shared/static/6a7ihfq6xkmrmi7qe3s8zbyupkdqldl6.flv
+ext,CAP139,https://youpeliculas.box.com/shared/static/e1fj2fwtb53p6lixvl3bvx3qvwoqs2gu.flv
+ext,Henry Hugglemonster Roarsome Tales (2014).Capitulo 1,https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!117&authkey=!AKJJTtp6gyuu47E&ithint=file%2cmkv
+ext,Henry Hugglemonster Roarsome Tales (2014).Capitulo 2,https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!115&authkey=!ALpY1sFnKCgIXxI&ithint=file%2cmkv
+ext,Henry Hugglemonster Roarsome Tales (2014).Capitulo 3,https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!116&authkey=!ADuvU9u2Y99KCgE&ithint=file%2cmkv
+ext,Henry Hugglemonster Roarsome Tales (2014).Capitulo 4,https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!118&authkey=!AH5VdocrSTagFT0&ithint=file%2cmkv
+ext,Henry Hugglemonster Roarsome Tales (2014).Capitulo 5,https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!119&authkey=!AAlZW5fXG3foZiQ&ithint=file%2cmkv
+ext,Henry Hugglemonster Roarsome Tales (2014).Capitulo 6,https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!120&authkey=!APjilfuyHG8gGxc&ithint=file%2cmkv
+ext,Henry Hugglemonster Dvd (2013).Capitulo 1[/COLOR],https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!121&authkey=!ACLENxswssHMucE&ithint=file%2cmkv
+ext,Henry Hugglemonster Dvd (2013).Capitulo 2,https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!122&authkey=!AKQUnWWQMjUo17g&ithint=file%2cmkv
+ext,Henry Hugglemonster Dvd (2013).Capitulo 3,https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!123&authkey=!AAWlsvmlPawtXOI&ithint=file%2cmkv
+ext,Henry Hugglemonster Dvd (2013).Capitulo 4,https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!124&authkey=!AAtV8MqnU7HJVJ0&ithint=file%2cmkv
+ext,Henry Hugglemonster Dvd (2013).Capitulo 5,https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!125&authkey=!AO-ummJXH10Ypfk&ithint=file%2cmkv
+ext,Henry Hugglemonster Dvd (2013).Capitulo 6,https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!126&authkey=!AJGEq4fu-Q4FBbg&ithint=file%2cmkv
+ext,La Casa de Mickey Mouse - El Hipo de Donald,https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!128&authkey=!AJfbU0a13Q6qpLU&ithint=video%2cavi
+ext,La Casa de Mickey Mouse - El Bubu De Oro,https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!129&authkey=!AF5w5ZCOJUyQrVg&ithint=video%2cavi
+ext,La Casa de Mickey Mouse - Goofy Desaparece,https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!130&authkey=!AOV0BSQ6siY21UU&ithint=video%2cavi
+ext,La Casa de Mickey Mouse - Mickey va a pescar,https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!132&authkey=!AMVGI149DRYjzXE&ithint=video%2cavi
+ext,La Casa de Mickey Mouse - La Minnie Durmiente,https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!131&authkey=!AJoLzKTEKTfGEVU&ithint=video%2cavi
+avi,ALADDIN,http://www.spruto.tv/get_file/1/38577f19393369cb2c5d785beb3c3ffc/80000/80730/80730.mp4
+avi,ALADDIN 2 EL RETORNO DE JAFAR,http://www.spruto.tv/get_file/5/b66d5c46890169c4100a2d1efdc8c45c/110000/110198/110198.mp4
+avi,ALADDIN Y EL REY DE LOS LADRONES,http://www.spruto.tv/get_file/5/ca110c858858a9f44749dfaac0220c9a/110000/110199/110199.mp4
+avi,ALICIA EN EL PAIS DE LAS MARAVILLAS (1951),http://www.spruto.tv/get_file/1/6e54e785dcb21b63de42f4928ce68bf5/86000/86137/86137.mp4
+avi,ALICIA EN EL PAIS DE LAS MARAVILLAS (2010),http://www.spruto.tv/get_file/7/f75b9e1cefffcd3087150b883fac3fc7/76000/76261/76261.mp4
+avi,BARBIE SUPER PRINCESA,http://www.spruto.tv/get_file/2/296ed0c12d8f80128b04d333c08204c8/98000/98420/98420.mp4
+avi,ENREDADOS,http://www.spruto.tv/get_file/1/03259f1f551f0a49262bb7850316fb3f/80000/80737/80737.mp4
+avi,FROZEN UNA AVENTURA CONGELADA,http://www.spruto.tv/get_file/1/bcae57a2defea5dec966b96630b25aee/80000/80731/80731.mp4
+avi,LA BELLA Y LA BESTIA,http://www.spruto.tv/get_file/1/c70f56a357964267dabbc26f0e3ab056/80000/80729/80729.mp4
+avi,LA CENICIENTA (1950),http://www.spruto.tv/get_file/1/1f40df69b4937859479ea77516275841/80000/80739/80739.mp4
+avi,LA CENICIENTA 2 UN SUEÑO HECHO REALIDAD,http://www.spruto.tv/get_file/5/e385ba2b56ffe07c86d12b21a0ba7075/110000/110193/110193.mp4
+avi,LA PRINCESA Y EL SAPO,http://www.spruto.tv/get_file/1/0ca9aa377fdebc035473d0854dba27bd/80000/80733/80733.mp4
+avi,LA SIRENITA,http://www.spruto.tv/get_file/1/4b064db0eb982aa0bbe454deab684473/80000/80728/80728.mp4
+avi,LA SIRENITA 2 REGRESO AL MAR,http://www.spruto.tv/get_file/5/3285b40f685b8393955c2f6c6c2c3633/110000/110190/110190.mp4
+avi,LA SIRENITA LOS COMIENZOS DE ARIEL,http://www.spruto.tv/get_file/5/a2ce2d450446df3680e88291f5265033/110000/110191/110191.mp4
+avi,MULAN,http://www.spruto.tv/get_file/1/8743a11400fed1059155b246e8c16e80/80000/80735/80735.mp4
+avi,MULAN 2,http://www.spruto.tv/get_file/7/cc0868b3bbd4d8af610469b429a57667/76000/76864/76864.mp4
+avi,POCAHONTAS,http://www.spruto.tv/get_file/1/6cccbcf375881ff2d942fc3383e52cf8/80000/80732/80732.mp4
+avi,POCAHONTAS 2,http://www.spruto.tv/get_file/5/089c5dc4e579784688380d9ce7cbff9a/110000/110200/110200.mp4
+avi,VALIENTE,http://www.spruto.tv/get_file/1/bdbbca9f39a2dc67d1fd3af42a36065b/80000/80734/80734.mp4
+
+group,Peliculas en Español Latino
+avi,P-MENTES PELIGROSAS,https://ia600309.us.archive.org/34/items/b1fb1b3745.360/b1fb1b3745.360.mp4
+avi,P-INTRUSOS,https://ia600309.us.archive.org/17/items/IntrrStream/INTRRS.mp4
+avi,P-INDESTRUCTIBLES 3,https://ia600309.us.archive.org/4/items/industructibles/I%C3%91D3TRUC3.mp4
+avi,P-FRANCOTIRADOR,https://ia600309.us.archive.org/0/items/FRCNTDR/FRCNTDR.mp4
+avi,P-FOCUS,https://ia600309.us.archive.org/21/items/hemelgelvez4_gmail_FCS/FCS.mp4
+avi,P-RESUCITADOS,https://ia800309.us.archive.org/21/items/1esucitados./1esucitados..mp4
+avi,P-ROBOCOP,https://ia601507.us.archive.org/33/items/4obocop./4obocop..mp4
+avi,P-DESTINO JUPITER,https://ia600309.us.archive.org/17/items/D3T1N0JUT3R/D3T1N0%20JUT3R.mp4
+avi,APOCALIPSIS EN LOS ANGELES,http://www.spruto.tv/get_file/5/0eb819a9120b4cd7aa96e871c2807acf/109000/109075/109075.mp4
+avi,HEROE DE CENTRO COMERCIAL,http://www.spruto.tv/get_file/2/d75649d825bf5f0ad32dcdf4fb3561bf/106000/106278/106278.mp4
+avi,16 DESEOS,http://www.spruto.tv/get_file/2/6ca2d685d9bad2c5c1f4d73f5037ba4d/102000/102949/102949.mp4
+ext,OBLIVION,https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!169&authkey=!ALlQcEBQSgTfj30&ithint=file%2cmkv
+ext,EX-MACHINA,https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!176&authkey=!AIRwBJU0o_MhpvQ&ithint=file%2cmkv
+ext,BIENVENIDOS AL AYER,https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!174&authkey=!AKAn1h6osTFl6bo&ithint=file%2cmkv
+ext,UNA NOCHE EN EL MUSEO 3,https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!173&authkey=!AMX3kSBcw9Z8bLU&ithint=file%2cmkv
+ext,MORTDECAI,https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!170&authkey=!APC7EGmdKSrx4y0&ithint=file%2cmkv
+ext,RUROUNI KENSHIN THE LEGEND ENDS HD,https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!168&authkey=!APhOt9MDkETcs_Q&ithint=video%2cavi
+ext,LA PIRAMIDE,https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!166&authkey=!ABOyn1AqFuEwlAU&ithint=file%2cmkv
+ext,LOS PINGUINOS DE PAPA,https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!165&authkey=!ALtS6Q01iJDCmic&ithint=video%2cavi
+ext,FOCUS 2015,https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!164&authkey=!APSbsEce74WgNUI&ithint=file%2cmkv
+ext,ESCOBAR PARAISO PERDIDO,https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!163&authkey=!AC5OXxOqfIxDgEI&ithint=video%2cavi
+ext,AVENTURA DE DOS NOCHES,https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!162&authkey=!AGLx4bo2_juhVak&ithint=video%2cavi
+ext,MALEFICA,https://onedrive.live.com/download.aspx?resid=ddd89122e94140c5!223&authkey=!AK_xPvm1-tWDv5k&ithint=file%2cmkv
+ext,ALQUILER DE PADRINOS,https://onedrive.live.com/download.aspx?resid=9caf247c0ad78cb5!73727&authkey=!AMUxFf8m6pkCPnA&ithint=file%2cmkv
+ext,50 SOMBRAS DE GRAY,https://onedrive.live.com/download.aspx?resid=9caf247c0ad78cb5!73652&authkey=!AOOliN6j1rYX-Ec&ithint=file%2cmkv
+avi,AMERICAN PIE 2,http://www.spruto.tv/get_file/5/17c92456a3dd4ff4412579e9fd62468f/109000/109915/109915.mp4
+avi,MUERTE EN BUENOS AIRES,http://www.spruto.tv/get_file/1/23371c1d4bf35de3ca1f9eee7224f978/86000/86331/86331.mp4
+avi,EL CONJURO,http://www.spruto.tv/get_file/1/b980284784017250b9b0c826b104656a/86000/86338/86338.mp4
+avi,ANARCHY,http://www.spruto.tv/get_file/1/823c0398a19c7448dd05bc165b0fe728/86000/86363/86363.mp4
+avi,TURBO,http://www.spruto.tv/get_file/1/ed06b3932c73f428a3093371b1c84f85/86000/86337/86337.mp4
+avi,LA PEOR NOCHE DE MI VIDA,http://www.spruto.tv/get_file/1/55492527a1a728e61205e2b5f0dd6f7e/86000/86335/86335.mp4
+avi,TORTUGAS NINJAS 2014,http://www.spruto.tv/get_file/1/fa178b0eeee2729787cc80262308ee53/86000/86327/86327.mp4
+avi,EL EXSORCISTA,http://www.spruto.tv/get_file/1/dd94ec691a5fdda0761ab47fab5ec2fa/84000/84913/84913.mp4
+avi,LA ULTIMA Y NOS VAMOS,http://www.spruto.tv/get_file/5/b6cb2e3540e1f274c334f36ae1e35810/116000/116354/116354.mp4
+avi,THE INTERVIEW,http://www.spruto.tv/get_file/5/782ea5b59943d4f6c605899d58294e05/115000/115514/115514.mp4
+avi,X-MEN 2,http://www.spruto.tv/get_file/2/662a0f8847ad56f80b2422064f6e4534/105000/105714/105714.mp4
+avi,CHAPIEE,http://www.spruto.tv/get_file/5/c0e48113fc2ef52a45381d909a729b4a/116000/116862/116862.mp4
+avi,IRON MAN 3,http://www.spruto.tv/get_file/7/0eaa75a746e22a3f89fed8269a68bedb/78000/78196/78196.mp4
+avi,LA DICTADURA PERFECTA,http://www.spruto.tv/get_file/2/588e561ff46cf4866914b732c8ad294b/105000/105729/105729.mp4
+avi,NO SE ACEPTAN DEVOLUCIONES,http://www.spruto.tv/get_file/1/0dc75c7c7ae034d5a6b135e2e860f1b5/87000/87074/87074.mp4
+avi,ELSA Y FREED,http://www.spruto.tv/get_file/2/32fb79cb3cfbb9ae0dbca2cf01fcc7ce/101000/101140/101140.mp4
+avi,HONEY MOON,http://www.spruto.tv/get_file/2/3906a1067af27aeadfbff1e46b2df5ae/100000/100677/100677.mp4
+avi,CANTINFLAS,http://www.spruto.tv/get_file/2/77e24f776fb6ad8b3b70104e7b36d2f5/92000/92263/92263.mp4
+avi,NO GOOD DEED,http://www.spruto.tv/get_file/2/9cb6e21d1473df9dc2d0dc7cc0c35fc8/96000/96694/96694.mp4
+avi,The.SpongeBob.Movie.Sponge.Out.of.Water,http://www.spruto.tv/get_file/5/94f668727d1741ec8c9f9239f1cc1f18/113000/113946/113946.mp4
+avi,hell1100n,http://www.spruto.tv/get_file/2/ed31b761d2e79a09e4562d1fd55d3546/105000/105516/105516.mp4
+avi,LA TORMENTA PERFECTA,http://www.spruto.tv/get_file/5/4e4aad29439fecbd49bec6f662cf28af/112000/112078/112078.mp4
+avi,SI DECIDO QUEDARME,http://www.spruto.tv/get_file/2/9b10b5eba7e38b030f5f43c791232e01/89000/89860/89860.mp4
+avi,LAS NOVIAS DE MIS AMIGOS,http://www.spruto.tv/get_file/1/74a868ab2199d5554acc4be5793b8b69/86000/86881/86881.mp4
+avi,take3n-1,http://www.spruto.tv/get_file/1/ddd1223bf92310814da0e02360f78835/86000/86899/86899.mp4
+avi,INDESTRUCTIBLES 3,http://www.spruto.tv/get_file/2/3d6ae49752d2838a142cb5b09afa9a80/89000/89391/89391.mp4
+avi,TAMMY,http://www.spruto.tv/get_file/1/da244c0319e3ae01bf70ba73c17a90b2/86000/86886/86886.mp4
+avi,as-above-so-below,http://www.spruto.tv/get_file/2/583172de5d7f85c223eec29558744438/90000/90894/90894.mp4
+avi,HERMOSAS CRIATURAS,http://www.spruto.tv/get_file/1/ec0d0600daeeec97ebaa31311b47e954/86000/86754/86754.mp4
+avi,LUCY,http://www.spruto.tv/get_file/2/1fb22fb18c1a240bdb16bc67982968b7/90000/90742/90742.mp4
+avi,BOBO ESPONJA,http://www.spruto.tv/get_file/5/a6fd323327940b76a06e957ee96670f7/113000/113727/113727.mp4
+avi,PINGUINOS DE MADAGASCAR,http://www.spruto.tv/get_file/2/8e14a58773e6cd4ae73bee47758fcc7d/100000/100361/100361.mp4
+avi,EL REGALO PROMETIDO 2,http://www.spruto.tv/get_file/2/2dc6fd3f6415d8c7b1e100ae627fc0b5/94000/94901/94901.mp4
+avi,I ORIGINS,http://www.spruto.tv/get_file/2/dc6c926a402161a14544bc453a82c6f0/95000/95189/95189.mp4
+avi,THE PURGE,http://www.spruto.tv/get_file/2/68342a693b386c6dc3fe48f0d2b6ee6a/88000/88972/88972.mp4
+avi,MIL PALABRAS,http://www.spruto.tv/get_file/1/9423b9ab396003b187bfe797cf0fa1ee/88000/88598/88598.mp4
+avi,La Era de Hielo 3,http://www.spruto.tv/get_file/7/b87164d9bdbeb605d4300439829b589f/77000/77736/77736.mp4
+ext,Bob Esponja Un Héroe Fuera Del Agua 2015 720P HD,https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!243&authkey=!AL0aXUncXk6enYQ&ithint=file%2cmkv
+ext,*La Dama de Negro*,https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!177&authkey=!AMo7scXSn9uN8vw&ithint=file%2cmkv
+ext,El Cuarto Contacto,https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!175&authkey=!AKXyRZbeVHorkbk&ithint=video%2cavi
+ext,PINGUINOS DE MADAGASCAR  (2014) 720P hd,https://onedrive.live.com/download.aspx?resid=b9d3cb38dfde3913!165&authkey=!AHMWZ-HLct8F6Es&ithint=file%2cmkv
+ext,MONSTER UNIVERSITY (2013) 720P hd,https://onedrive.live.com/download.aspx?resid=b9d3cb38dfde3913!164&authkey=!ANUC_OMs-5mSJ94&ithint=video%2cmp4
+ext,MEGAMENTE (2010) 720P hd,https://onedrive.live.com/download.aspx?resid=b9d3cb38dfde3913!163&authkey=!AGh7WQSF3dO9Jo4&ithint=video%2cmp4
+ext,METEGOL (2013) 720P hd,https://onedrive.live.com/download.aspx?resid=b9d3cb38dfde3913!162&authkey=!AAGYhlywZH1sAgI&ithint=video%2cmp4
+ext,LOS CROODS (2013) 720P hd,https://onedrive.live.com/download.aspx?resid=b9d3cb38dfde3913!161&authkey=!AJ2byxadYXVDvvc&ithint=file%2cmkv
+ext,MADAGASCAR 3 DE MARCHA POR EUROPA (2012) 720P hd,https://onedrive.live.com/download.aspx?resid=b9d3cb38dfde3913!160&authkey=!AAyqqNCYvuDt9qk&ithint=video%2cmp4
+ext,LLUVIA DE HAMBURGUESAS  (2009) 720P hd,https://onedrive.live.com/download.aspx?resid=b9d3cb38dfde3913!156&authkey=!AHAyK3QJsa_-BdE&ithint=video%2cmp4
+ext,LLUVIA DE HAMBURGUESAS 2  (2013) 720P hd,https://onedrive.live.com/download.aspx?resid=b9d3cb38dfde3913!159&authkey=!APj4EGHc-XQul1g&ithint=video%2cmp4
+ext,Space Jam,https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!172&authkey=!ALwfkhEcPvGjZTQ&ithint=video%2cavi
+ext,Spirit el Corcel Indomable,https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!171&authkey=!AGVf06svhNn4DUQ&ithint=video%2cmp4
+ext,Residen Evil 1,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2471&authkey=!AA6_Gh9CINjEGHs&ithint=video%2cavi
+ext,Residen Evil 2,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2469&authkey=!AGEpv10Z_Kf1xGs&ithint=video%2cavi
+ext,Residen Evil 3,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2470&authkey=!AEjxcwyCTScdP_o&ithint=video%2cavi
+ext,Residen Evil 4,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2473&authkey=!AL1n5u_I-p7HZso&ithint=video%2cavi
+ext,Residen Evil 5,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2472&authkey=!AGOn3CxSyzVzVhQ&ithint=video%2cavi
+ext,Gnomeo y Julieta,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2452&authkey=!AGD6usYO1JLtj0I&ithint=video%2cavi
+ext,Guardianes de la galaxia Sub y 3D,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2455&authkey=!ACj3KPjTneKwMnY&ithint=file%2cmkv
+ext,Dioses y reyes 3D y SUB,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2457&authkey=!AESp6JPfrT7R7CY&ithint=file%2cmkv
+ext,Infernal,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2451&authkey=!AIepExCIehamN4A&ithint=video%2cmp4
+ext,El experimento de la OUIJA 2 sub,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2450&authkey=!AF7G4ZbSdU3D420&ithint=video%2cmp4
+ext,RIO,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2453&authkey=!ABX5m3WtMJFOV5k&ithint=video%2cavi
+ext,The Gambler SUBTITULADA,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2454&authkey=!AE2KTz2rJDp70tA&ithint=file%2cmkv
+ext,San Andres,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2447&authkey=!AMJkVqQNejwk2wc&ithint=video%2cMP4
+ext,Survivor,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2449&authkey=!AD1O3Od95uKTY-w&ithint=file%2cmkv
+ext,We are still Here,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2448&authkey=!APjzTu7GtTz6lsU&ithint=file%2cmkv
+ext,INSIDIOUS III,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1152&authkey=!ADWSZBzoNvD1Ok0&ithint=video%2cmp4
+ext,Family GUY Dark Side,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1150&authkey=!AP8h1GW7neSkc2Q&ithint=video%2cmp4
+ext,Family GUY It\'s A trap,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1151&authkey=!ACXdFBCTumogwco&ithint=video%2cmp4
+ext,Family GUY BLUE Harvest,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1149&authkey=!AFRQNr0T6vifCkk&ithint=video%2cmp4
+ext,TITANIC,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1148&authkey=!AJ-o1Hy47aeMgZk&ithint=video%2cmp4
+ext,El conjuro dual,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1147&authkey=!ADRe_Le39Oru38w&ithint=video%2cmp4
+ext,Kingsman servicio secreto SUBTITULADA,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1146&authkey=!AFOPyF0qG4FaEGU&ithint=video%2cmp4
+ext,Avenger 2 Subtitulada,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1143&authkey=!AMboOQkcc6UMhIM&ithint=file%2cmkv
+ext,Austin Power 1,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1142&authkey=!AJtosBGUIqMvVBo&ithint=video%2cmp4
+ext,Austin Power 2,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1145&authkey=!ABNcPVtgsvDWSss&ithint=video%2cmp4
+ext,Austin Power 3,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1144&authkey=!ACsWdU4LIGicVuk&ithint=video%2cmp4
+ext,Transcendence,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1141&authkey=!AIxkpPC-qxPB_iU&ithint=video%2cmp4
+ext,Y tu mamÃ¡ tambien,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1140&authkey=!AFLfHAcql40Y_NU&ithint=video%2cmp4
+ext,Vatican Exorcism,https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1138&authkey=!AGScB_k-LZwxqf8&ithint=video%2cmp4
+ext,Big Hero,https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!109&authkey=!AMqpe0rh98jqOEg&ithint=file%2cmkv
+ext,Chappie,https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!110&authkey=!AI4IxN6Veg0qj6Y&ithint=video%2cavi
+ext,Apartamento 5,https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!111&authkey=!AL7faVmgfFj5a3I&ithint=file%2cmkv
+ext,Batman Unlimited,https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!113&authkey=!AO4i3mg9iXl-z60&ithint=file%2cmkv
+ext,ExMachina,https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!126&authkey=!AAy49ZyUCDGALww&ithint=file%2cmkv
+ext,Negocios con Resaca,https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!132&authkey=!AFUzdJiyFOH89A4&ithint=file%2cmkv
+avi,LOS JUEGOS DEL HAMBRE SINSAJO PARTE 1,http://www.spruto.tv/get_file/2/d60293a7e0b2a63ee276877578a81c6a/100000/100906/100906.mp4
+avi,EL AMANECER DEL PLANETA DE LOS SIMIOS,http://www.spruto.tv/get_file/1/1b8634191d3bf7b4722550f8f1ee8d71/88000/88461/88461.mp4
+avi,En El Bosque (into the woods),http://www.spruto.tv/get_file/2/6bb416dfe3a1c559930905f48c528ba9/104000/104812/104812.mp4
+avi,WHIPLASH,http://www.spruto.tv/get_file/2/16128b39ee17c57b4586edf1557cfe8c/103000/103899/103899.mp4
+avi,TED,http://www.spruto.tv/get_file/1/26abd89519052ceb87fa5578107dab0e/86000/86752/86752.mp4
