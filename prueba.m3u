@@ -3,96 +3,10 @@
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,hbo2
 http://37.187.253.241:8000/hbo2.m3u8
-#EXTINF:-1,105
-http://live.oneplay.tv/reproducir/105.m3u8$OPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,n
+#EXTINF:-1,GOLTV
 http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
 #EXTINF:-1, AMERICA SPORTS
 http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
-#EXTINF:-1, LRL456 ORBE 21
-http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
-#EXTINF:-1, ANTENA NEGRA TV
-http://servicioamerica.net:1935/8680/8680/playlist.m3u8
-#EXTINF:-1,BET
-http://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl/playlist.m3u8?wowzasessionid=1419880467
-#EXTINF:-1,Discovery Channel HD
-http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
-#EXTINF:-1,Disney Channel
-http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
-#EXTINF:-1,ESPN HD
-http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
-#EXTINF:-1,ESPN 2 HD
-http://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
-#EXTINF:-1,ESPN 2
-http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722
-#EXTINF:-1,Food Network
-http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022
-#EXTINF:-1,FOX News HD
-http://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821
-#EXTINF:-1,FOX News SD
-http://93.174.95.125:1935/edge/_definst_/w0mr10getvsikam/playlist.m3u8?wowzasessionid=1419873587
-#EXTINF:-1,Golf Channel HD
-http://93.174.95.125:1935/edge/_definst_/ts6w24dx29tcwi4/playlist.m3u8?wowzasessionid=1420169504
-#EXTINF:-1,Hallmark HD
-http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
-#EXTINF:-1,HBO HD
-http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
-#EXTINF:-1,HBO SD
-http://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1419907309
-#EXTINF:-1,HGTV
-http://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602
-#EXTINF:-1,History Channel (USA)
-http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
-#EXTINF:-1,ID
-http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729
-#EXTINF:-1,Lifetime HD
-http://93.174.95.125:1935/edge/_definst_/7b2gr554gyyth8e/playlist.m3u8?wowzasessionid=1419879018
-#EXTINF:-1,MSNBC
-http://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712
-#EXTINF:-1,MTV
-http://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062
-#EXTINF:-1,Nat GEO HD
-http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
-#EXTINF:-1,NBC HD
-http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103
-#EXTINF:-1,Nickelodeon
-http://93.174.95.125:1935/edge/_definst_/64jaber5pjqj2cr/playlist.m3u8?wowzasessionid=1434627898
-#EXTINF:-1,SyFy
-http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
-#EXTINF:-1,TNT HD
-http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
-#EXTINF:-1,TV Land
-http://93.174.95.125:1935/edge/_definst_/7yxirr4046nk5ca/playlist.m3u8?wowzasessionid=1419908401
-#EXTINF:-1,Univision
-http://93.174.95.125:1935/edge/_definst_/obzq3ltrjoaxglf/manifest.m3u8?wowzasessionid=1419908048
-#EXTINF:-1,USA Network
-http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
-#EXTINF:-1,VH-1
-http://93.174.95.125:1935/edge/_definst_/oeiigxxv1gbeqq9/manifest.m3u8?wowzasessionid=1420170560
-#EXTINF:-1,Cartoon Network
-http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
-#EXTINF:-1,NICKELODEON
-http://hls.novotelecom.ru/streaming/nickelodeon/tvrec/playlist.m3u8
-#EXTINF:0,Animal Planet
-http://80.80.160.168/live/1/live.m3u8
-#EXTINF:0,TLC
-http://80.80.160.168/live/2/live.m3u8
-#EXTINF:0,Travel Ch.
-http://80.80.160.168/live/3/live.m3u8
-#EXTINF:0,Planet Green
-http://80.80.160.168/live/4/live.m3u8
-#EXTINF:0,ID
-http://80.80.160.168/live/5/live.m3u8
-#EXTINF:0,ESPN HD
-http://80.80.160.168/live/6/live.m3u8
-#EXTINF:0,SHO HD
-http://80.80.160.168/live/7/live.m3u8
-#EXTINF:0,Discovery Ch. HD
-http://80.80.160.168/live/8/live.m3u8
-#EXTINF:0,Discovery Sc. HD
-http://80.80.160.168/live/9/live.m3u8
-
-
 #EXTINF:-1,PLANETA FUTBOL
 http://108.168.206.90:1935/cdnsm/cdnsm/enlacesiptv.m3u8
 
