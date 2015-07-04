@@ -5,10 +5,6 @@ http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3
 http://37.187.253.241:8000/hbo2.m3u8
 #EXTINF:-1,n
 http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,NATGEO
-http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8
-#EXTINF:-1,UNIVERSALHD
-http://universalhdlive.marca.com/i/dr21_1@100203/index_6_av-p.m3u8
 #EXTINF:-1, AMERICA SPORTS
 http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
 #EXTINF:-1, LRL456 ORBE 21
