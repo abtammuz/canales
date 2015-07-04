@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,ntag
-rtmp://185.39.11.146:1735/redirect/?token=play@143603423309334
+#EXTINF:-1,foxD
+http://37.187.253.241:8000/fox1.m3u8
 #EXTINF:-1, ASIA 8081
 http://59.120.43.181:8081
 #EXTINF:-1, ASIA 8083
