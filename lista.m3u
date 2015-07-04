@@ -453,7 +453,7 @@ http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Clasica Meditacion
 http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
 
-#EXTINF:-1,THE SIMPSONS CAP1
+#EXTINF:-1 group-title="Infantil",THE SIMPSONS CAP1
 https://youpeliculas.box.com/shared/static/h1ks4cezg5pkpfojfodk.mp4
 #EXTINF:-1,THE SIMPSONS CAP2
 https://youpeliculas.box.com/shared/static/7ylnmpmdbh7dfbiofsk0.mp4
@@ -808,9 +808,9 @@ http://www.spruto.tv/get_file/1/bdbbca9f39a2dc67d1fd3af42a36065b/80000/80734/807
 
 
 
-#EXTINF:0,P-MENTES PELIGROSAS
+#EXTINF:-1 group-title="Peliculas en Español Latino",P-MENTES PELIGROSAS
 https://ia600309.us.archive.org/34/items/b1fb1b3745.360/b1fb1b3745.360.mp4
-#EXTINF:0,P-INTRUSOS
+#EXTINF:-1 group-title="Peliculas en Español Latino",P-INTRUSOS
 https://ia600309.us.archive.org/17/items/IntrrStream/INTRRS.mp4
 #EXTINF:0,P-INDESTRUCTIBLES 3
 https://ia600309.us.archive.org/4/items/industructibles/I%C3%91D3TRUC3.mp4
@@ -1045,17 +1045,17 @@ https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1140&authkey=!AFL
 #EXTM3U $ExtFilter="RTMP"
 #EXTINF:-1,Vatican Exorcism
 https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1138&authkey=!AGScB_k-LZwxqf8&ithint=video%2cmp4
-#EXTINF:-1 group-title="PPV", Big Hero
+#EXTINF:-1, Big Hero
 https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!109&authkey=!AMqpe0rh98jqOEg&ithint=file%2cmkv
-#EXTINF:-1 group-title="PPV", Chappie
+#EXTINF:-1, Chappie
 https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!110&authkey=!AI4IxN6Veg0qj6Y&ithint=video%2cavi
-#EXTINF:-1 group-title="PPV", Apartamento 5
+#EXTINF:-1, Apartamento 5
 https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!111&authkey=!AL7faVmgfFj5a3I&ithint=file%2cmkv
-#EXTINF:-1 group-title="PPV", Batman Unlimited
+#EXTINF:-1, Batman Unlimited
 https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!113&authkey=!AO4i3mg9iXl-z60&ithint=file%2cmkv
-#EXTINF:-1 group-title="PPV", ExMachina
+#EXTINF:-1, ExMachina
 https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!126&authkey=!AAy49ZyUCDGALww&ithint=file%2cmkv
-#EXTINF:-1 group-title="PPV", Negocios con Resaca
+#EXTINF:-1, Negocios con Resaca
 https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!132&authkey=!AFUzdJiyFOH89A4&ithint=file%2cmkv
 #EXTINF:-1 tvg-logo="http://www.yaske.to/upload/images/5f9b3a428a7e046ae3d44bd037560994.jpg",LOS JUEGOS DEL HAMBRE SINSAJO PARTE 1
 http://www.spruto.tv/get_file/2/d60293a7e0b2a63ee276877578a81c6a/100000/100906/100906.mp4
