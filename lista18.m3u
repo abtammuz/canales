@@ -1071,6 +1071,8 @@ http://www.spruto.tv/get_file/1/26abd89519052ceb87fa5578107dab0e/86000/86752/867
 
 #EXTINF:-1 group-title="ADULTOS" parent-code="1997",PlayBoy TvChat
 http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w95313209.m3u8
+#EXTINF:-1, PowerGirls
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
 #EXTINF:0, C-More Hits 
 http://188.138.9.228:8020 
 #EXTINF:-1,Kore Livething Premium
@@ -1117,12 +1119,14 @@ rtmp://edge2.everyon.tv/etv2sb/phd993
 http://galsflv.videosz.com//mom-and-the-pop_5/videosz-mom-and-the-pop-53.flv
 #EXTINF:-1,BELLALUZ
 rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
-#EXTINF:-1,Adult1
+#EXTINF:-1,Adult
 http://wowza1.videos.movile.com:1935/live/adulto_1.smil/livestream.m3u8
-#EXTINF:-1,adult2
+#EXTINF:-1,adultPremium
 http://wowza1.videos.movile.com:1935/live/adultopremium_1.smil/livestream.m3u8
 #EXTINF:-1,X Jazmintv
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+#EXTINF:-1, Jazmintv opc2
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
 #EXTINF:-1,Xxx
 http://188.165.220.116:8081/live2/5/playlist.m3u8
 #EXTINF:-1,X1
@@ -1131,10 +1135,6 @@ http://188.165.220.116:8081/live/30/playlist.m3u8
 http://178.33.126.213:1935/leved/privateCom/.m3u8
 #EXTINF:-1,X Satisfaction HD
 rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
-#EXTINF:-1,X Frenchlover
-http://95.170.186.178:7781/udp/239.255.4.4:1234
-#EXTINF:-1,X Passie
-http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
 #EXTINF:-1,X Asia 1
 http://59.120.43.181:8081
 #EXTINF:-1,X Asia 2
@@ -1165,6 +1165,11 @@ http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
 http://46.105.116.159:1935/cellcast/encoder22/.m3u8
 #EXTINF:-1,X Babestation Xtra
 http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+#EXTINF:-1,Babestation2 
+http://publish.thewebstream.co:1935/cellcast/encoder72/playlist.m3u8
+#EXTINF:-1,Babestation3 
+http://publish.thewebstream.co:1935/cellcast/encoder31/playlist.m3u8
+
 #EXTINF:-1,X Babestation Blue
 http://178.33.126.213:1935/cellcast/encoder32/.m3u8
 #EXTINF:-1,X Babestation Live
@@ -1187,6 +1192,7 @@ http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/hot_100-tablet.3gp/hot_100-tab
 http://81.89.48.215:1935/sexysat/sexysat.stream_360p/playlist.m3u8
 #EXTINF:-1,BOLLYWOOD BIKINI TV
 http://46.249.213.93/iPhone/broadcast/bollywoodbikini-tablet.3gp/bollywoodbikini-tablet.3gp-mr647k.m3u8
+
 
 #EXTINF:-1,X Video1
 http://zazax1.ru/videos/baz55.flv
