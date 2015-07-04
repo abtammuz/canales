@@ -1,233 +1,10 @@
 #EXTM3U
-#EXTINF:-1, DISCOVERY1
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,hbo2
-http://37.187.253.241:8000/hbo2.m3u8
-#EXTINF:-1,GOLTV
-http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
-#EXTINF:-1, AMERICA SPORTS
-http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,PLANETA FUTBOL
-http://108.168.206.90:1935/cdnsm/cdnsm/enlacesiptv.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://v2.imgs24.com/images/2014/04/25/space-jam-el-juego-del-siglo-subtitulada-poster-en-alta-resolucion-hd-michael-jordan-wayne-knight-theresa-randle.jpg",Space Jam
-https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!172&authkey=!ALwfkhEcPvGjZTQ&ithint=video%2cavi
-#EXTINF:-1 tvg-logo="http://v2.imgs24.com/images/2014/03/20/Spirit_el_corcel_indomable_1.jpg",Spirit el Corcel Indomable
-https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!171&authkey=!AGVf06svhNn4DUQ&ithint=video%2cmp4
-
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Residen Evil 1
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2471&authkey=!AA6_Gh9CINjEGHs&ithint=video%2cavi
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Residen Evil 2
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2469&authkey=!AGEpv10Z_Kf1xGs&ithint=video%2cavi
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Residen Evil 3
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2470&authkey=!AEjxcwyCTScdP_o&ithint=video%2cavi
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Residen Evil 4
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2473&authkey=!AL1n5u_I-p7HZso&ithint=video%2cavi
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Residen Evil 5
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2472&authkey=!AGOn3CxSyzVzVhQ&ithint=video%2cavi
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Gnomeo y Julieta
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2452&authkey=!AGD6usYO1JLtj0I&ithint=video%2cavi
-
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Guardianes de la galaxia Sub y 3D
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2455&authkey=!ACj3KPjTneKwMnY&ithint=file%2cmkv
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Exodus, Dioses y reyes 3D y SUB
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2457&authkey=!AESp6JPfrT7R7CY&ithint=file%2cmkv
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Infernal
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2451&authkey=!AIepExCIehamN4A&ithint=video%2cmp4
-
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,El experimento de la OUIJA 2 sub
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2450&authkey=!AF7G4ZbSdU3D420&ithint=video%2cmp4
-
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,RIO
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2453&authkey=!ABX5m3WtMJFOV5k&ithint=video%2cavi
-
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,The Gambler SUBTITULADA
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2454&authkey=!AE2KTz2rJDp70tA&ithint=file%2cmkv
-
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,San Andres
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2447&authkey=!AMJkVqQNejwk2wc&ithint=video%2cMP4
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Survivor
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2449&authkey=!AD1O3Od95uKTY-w&ithint=file%2cmkv
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,We are still Here
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2448&authkey=!APjzTu7GtTz6lsU&ithint=file%2cmkv
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,INSIDIOUS III
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1152&authkey=!ADWSZBzoNvD1Ok0&ithint=video%2cmp4
-
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Family GUY Dark Side
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1150&authkey=!AP8h1GW7neSkc2Q&ithint=video%2cmp4
-
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Family GUY It's A trap
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1151&authkey=!ACXdFBCTumogwco&ithint=video%2cmp4
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Family GUY BLUE Harvest
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1149&authkey=!AFRQNr0T6vifCkk&ithint=video%2cmp4
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,TITANIC 
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1148&authkey=!AJ-o1Hy47aeMgZk&ithint=video%2cmp4
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,El conjuro dual
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1147&authkey=!ADRe_Le39Oru38w&ithint=video%2cmp4
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Kingsman servicio secreto SUBTITULADA
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1146&authkey=!AFOPyF0qG4FaEGU&ithint=video%2cmp4
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Avenger 2 Subtitulada
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1143&authkey=!AMboOQkcc6UMhIM&ithint=file%2cmkv
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Austin Power 1
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1142&authkey=!AJtosBGUIqMvVBo&ithint=video%2cmp4
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Austin Power 2
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1145&authkey=!ABNcPVtgsvDWSss&ithint=video%2cmp4
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Austin Power 3
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1144&authkey=!ACsWdU4LIGicVuk&ithint=video%2cmp4
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Transcendence
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1141&authkey=!AIxkpPC-qxPB_iU&ithint=video%2cmp4
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Y tu mamÃ¡ tambien
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1140&authkey=!AFLfHAcql40Y_NU&ithint=video%2cmp4
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Hannibal 3x01
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1153&authkey=!ACIYAywZ1EYWrys&ithint=video%2cmp4
-
-#EXTM3U $ExtFilter="RTMP"
-#EXTINF:-1,Vatican Exorcism
-https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1138&authkey=!AGScB_k-LZwxqf8&ithint=video%2cmp4
-#EXTINF:-1 group-title="PPV", Big Hero
-https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!109&authkey=!AMqpe0rh98jqOEg&ithint=file%2cmkv
-
-#EXTINF:-1 group-title="PPV", Chappie
-https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!110&authkey=!AI4IxN6Veg0qj6Y&ithint=video%2cavi
-
-#EXTINF:-1 group-title="PPV", Apartamento 5
-https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!111&authkey=!AL7faVmgfFj5a3I&ithint=file%2cmkv
-
-#EXTINF:-1 group-title="PPV", Batman Unlimited
-https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!113&authkey=!AO4i3mg9iXl-z60&ithint=file%2cmkv
-
-#EXTINF:-1 group-title="PPV", ExMachina
-https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!126&authkey=!AAy49ZyUCDGALww&ithint=file%2cmkv
-
-#EXTINF:-1 group-title="PPV", Negocios con Resaca
-https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!132&authkey=!AFUzdJiyFOH89A4&ithint=file%2cmkv
-#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 1
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!117&authkey=!AKJJTtp6gyuu47E&ithint=file%2cmkv
-#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 2
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!115&authkey=!ALpY1sFnKCgIXxI&ithint=file%2cmkv
-#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 3
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!116&authkey=!ADuvU9u2Y99KCgE&ithint=file%2cmkv
-#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 4
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!118&authkey=!AH5VdocrSTagFT0&ithint=file%2cmkv
-#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 5
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!119&authkey=!AAlZW5fXG3foZiQ&ithint=file%2cmkv
-#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 6
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!120&authkey=!APjilfuyHG8gGxc&ithint=file%2cmkv
-#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 1[/COLOR]
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!121&authkey=!ACLENxswssHMucE&ithint=file%2cmkv
-#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 2
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!122&authkey=!AKQUnWWQMjUo17g&ithint=file%2cmkv
-#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 3
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!123&authkey=!AAWlsvmlPawtXOI&ithint=file%2cmkv
-#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 4
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!124&authkey=!AAtV8MqnU7HJVJ0&ithint=file%2cmkv
-#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 5
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!125&authkey=!AO-ummJXH10Ypfk&ithint=file%2cmkv
-#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 6
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!126&authkey=!AJGEq4fu-Q4FBbg&ithint=file%2cmkv
-#EXTINF:-1,La Casa de Mickey Mouse - El Hipo de Donald
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!128&authkey=!AJfbU0a13Q6qpLU&ithint=video%2cavi
-#EXTINF:-1,La Casa de Mickey Mouse - El Bubu De Oro
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!129&authkey=!AF5w5ZCOJUyQrVg&ithint=video%2cavi
-#EXTINF:-1,La Casa de Mickey Mouse - Goofy Desaparece
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!130&authkey=!AOV0BSQ6siY21UU&ithint=video%2cavi
-#EXTINF:-1,La Casa de Mickey Mouse - Mickey va a pescar
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!132&authkey=!AMVGI149DRYjzXE&ithint=video%2cavi
-#EXTINF:-1,La Casa de Mickey Mouse - La Minnie Durmiente
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!131&authkey=!AJoLzKTEKTfGEVU&ithint=video%2cavi
-#EXTINF:-1 tvg-logo="http://www.yaske.to/upload/images/5f9b3a428a7e046ae3d44bd037560994.jpg",LOS JUEGOS DEL HAMBRE SINSAJO PARTE 1
-http://www.spruto.tv/get_file/2/d60293a7e0b2a63ee276877578a81c6a/100000/100906/100906.mp4
-
-#EXTINF:-1 tvg-logo="http://aquipelis.net/wp-content/uploads/2014/07/el-amanecer-del-planeta-de-los-simios-160x230.jpg",EL AMANECER DEL PLANETA DE LOS SIMIOS
-http://www.spruto.tv/get_file/1/1b8634191d3bf7b4722550f8f1ee8d71/88000/88461/88461.mp4
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-6aZujWdgisg/VBiiAraxWjI/AAAAAAAAt_4/MRkE2j2m0ag/s275/en-el-bosque.jpg",En El Bosque (into the woods)
-http://www.spruto.tv/get_file/2/6bb416dfe3a1c559930905f48c528ba9/104000/104812/104812.mp4
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-uabaUCgwaRQ/VNEVPzRBBdI/AAAAAAAAAro/9dCPZ6i3ImQ/s175/whiplash.jpg",WHIPLASH
-http://www.spruto.tv/get_file/2/16128b39ee17c57b4586edf1557cfe8c/103000/103899/103899.mp4
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/--4K-yWmRRiY/VBMkzkiG9WI/AAAAAAAAB8M/tQhQkV9Rx_s/s175/ted-2.jpg", TED
-http://www.spruto.tv/get_file/1/26abd89519052ceb87fa5578107dab0e/86000/86752/86752.mp4
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-QrywPBmZDmI/VQ0QHERbY4I/AAAAAAAABtY/jZKqMHuSUhc/s175/la-dictadura-perfecta.jpg",LA DICTADURA PERFECTA
-http://www.spruto.tv/get_file/2/588e561ff46cf4866914b732c8ad294b/105000/105729/105729.mp4
-#EXTINF: 0, TEMPTATION +18
-http://46.47.13.200:1234/udp/224.244.244.97:19993
-#EXTINF: 0, Nightclub +18
-http://46.47.13.200:1234/udp/224.244.244.199:19993
-#EXTINF: 0, Russian Night +18
-http://46.47.13.200:1234/udp/224.244.244.200:19993
-
-#EXTINF:-1, Adult Premium 2
-http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/media-b1100000_2400.m3u8
-#EXTINF:-1, ADULTO 1 XXX
-http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
 #EXTINF:-1, ASIA 8081
 http://59.120.43.181:8081
-
 #EXTINF:-1, ASIA 8083
 http://59.120.43.181:8083
 #EXTINF:-1, ASIA 8084
 http://59.120.43.181:8084
-
-
-
 #EXTINF:-1, BabeStation Unleashed 1
 http://46.105.116.159:1935/iptv_cellcast_24/livestream_three2/.m3u8
 #EXTINF:-1, BabeStation Unleashed 2
@@ -236,7 +13,6 @@ http://178.33.126.213:1935/cellcast/encoder32/.m3u8
 http://46.105.116.159:1935/cellcast/encoder72/.m3u8
 #EXTINF:-1, Bella Luz rtsp
 rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
-
 #EXTINF:-1, Blue Hustler
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
 #EXTINF:-1, CS Sex +18 ADULT mmsh
@@ -247,7 +23,6 @@ http://208.122.3.2:9000
 http://208.122.3.2:8700
 #EXTINF:-1, HQ Amateurs
 http://galsflv.videosz.com//mom-and-the-pop_5/videosz-mom-and-the-pop-53.flv
-
 #EXTINF:-1, Jazmin Channel HD 720
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
 #EXTINF:-1, Korea m3u8 Ask TV
