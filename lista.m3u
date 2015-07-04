@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="CANALES",HBO 2
 http://37.187.253.241:8000/hbo2.m3u8
+#EXTINF:-1,FOX1
+http://37.187.253.241:8000/fox1.m3u8
 #EXTINF:-1,ULTRA TV
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
 #EXTINF:-1, ULTRA TV OPC2
