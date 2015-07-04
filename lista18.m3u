@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,HBO 2
+http://37.187.253.241:8000/hbo2.m3u8
 #EXTINF:-1 group-title="Colombia",ULTRA TV
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
 #EXTINF:-1, ULTRA TV OPC2
@@ -69,8 +71,12 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_10
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 #EXTINF:-1,FOX SPORT ARG
 http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,Gol TV USA
+#EXTINF:-1,GOL TV USA
 http://ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/chunklist_b1596000.m3u8#MegaIPTVArgentina
+#EXTINF:-1,GOL TV ARG
+http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
+#EXTINF:-1, AMERICA SPORTS
+http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Sevilla TV
 http://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc/stml.m3u8
 #EXTINF:4.004,Sevilla OPC 2
@@ -725,7 +731,80 @@ https://youpeliculas.box.com/shared/static/gorlmhef3agtf8mmhusp3ei576h6wqco.flv
 https://youpeliculas.box.com/shared/static/6a7ihfq6xkmrmi7qe3s8zbyupkdqldl6.flv
 #EXTINF:-1, CAP139
 https://youpeliculas.box.com/shared/static/e1fj2fwtb53p6lixvl3bvx3qvwoqs2gu.flv
-
+#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 1
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!117&authkey=!AKJJTtp6gyuu47E&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 2
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!115&authkey=!ALpY1sFnKCgIXxI&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 3
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!116&authkey=!ADuvU9u2Y99KCgE&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 4
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!118&authkey=!AH5VdocrSTagFT0&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 5
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!119&authkey=!AAlZW5fXG3foZiQ&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 6
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!120&authkey=!APjilfuyHG8gGxc&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 1[/COLOR]
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!121&authkey=!ACLENxswssHMucE&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 2
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!122&authkey=!AKQUnWWQMjUo17g&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 3
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!123&authkey=!AAWlsvmlPawtXOI&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 4
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!124&authkey=!AAtV8MqnU7HJVJ0&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 5
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!125&authkey=!AO-ummJXH10Ypfk&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 6
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!126&authkey=!AJGEq4fu-Q4FBbg&ithint=file%2cmkv
+#EXTINF:-1,La Casa de Mickey Mouse - El Hipo de Donald
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!128&authkey=!AJfbU0a13Q6qpLU&ithint=video%2cavi
+#EXTINF:-1,La Casa de Mickey Mouse - El Bubu De Oro
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!129&authkey=!AF5w5ZCOJUyQrVg&ithint=video%2cavi
+#EXTINF:-1,La Casa de Mickey Mouse - Goofy Desaparece
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!130&authkey=!AOV0BSQ6siY21UU&ithint=video%2cavi
+#EXTINF:-1,La Casa de Mickey Mouse - Mickey va a pescar
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!132&authkey=!AMVGI149DRYjzXE&ithint=video%2cavi
+#EXTINF:-1,La Casa de Mickey Mouse - La Minnie Durmiente
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!131&authkey=!AJoLzKTEKTfGEVU&ithint=video%2cavi
+#EXTINF:0 group-title="Infantil",ALADDIN
+http://www.spruto.tv/get_file/1/38577f19393369cb2c5d785beb3c3ffc/80000/80730/80730.mp4
+#EXTINF:0 group-title="Infantil",ALADDIN 2 EL RETORNO DE JAFAR
+http://www.spruto.tv/get_file/5/b66d5c46890169c4100a2d1efdc8c45c/110000/110198/110198.mp4
+#EXTINF:0 group-title="Infantil",ALADDIN Y EL REY DE LOS LADRONES
+http://www.spruto.tv/get_file/5/ca110c858858a9f44749dfaac0220c9a/110000/110199/110199.mp4
+#EXTINF:0 group-title="Infantil",ALICIA EN EL PAIS DE LAS MARAVILLAS (1951)
+http://www.spruto.tv/get_file/1/6e54e785dcb21b63de42f4928ce68bf5/86000/86137/86137.mp4
+#EXTINF:0 group-title="Infantil",ALICIA EN EL PAIS DE LAS MARAVILLAS (2010)
+http://www.spruto.tv/get_file/7/f75b9e1cefffcd3087150b883fac3fc7/76000/76261/76261.mp4
+#EXTINF:0 group-title="Infantil",BARBIE SUPER PRINCESA
+http://www.spruto.tv/get_file/2/296ed0c12d8f80128b04d333c08204c8/98000/98420/98420.mp4
+#EXTINF:0 group-title="Infantil",ENREDADOS
+http://www.spruto.tv/get_file/1/03259f1f551f0a49262bb7850316fb3f/80000/80737/80737.mp4
+#EXTINF:0 group-title="Infantil",FROZEN UNA AVENTURA CONGELADA
+http://www.spruto.tv/get_file/1/bcae57a2defea5dec966b96630b25aee/80000/80731/80731.mp4
+#EXTINF:0 group-title="Infantil",LA BELLA Y LA BESTIA
+http://www.spruto.tv/get_file/1/c70f56a357964267dabbc26f0e3ab056/80000/80729/80729.mp4
+#EXTINF:0 group-title="Infantil",LA CENICIENTA (1950)
+http://www.spruto.tv/get_file/1/1f40df69b4937859479ea77516275841/80000/80739/80739.mp4
+#EXTINF:0 group-title="Infantil",LA CENICIENTA 2 UN SUEÑO HECHO REALIDAD
+http://www.spruto.tv/get_file/5/e385ba2b56ffe07c86d12b21a0ba7075/110000/110193/110193.mp4
+#EXTINF:0 group-title="Infantil",LA PRINCESA Y EL SAPO
+http://www.spruto.tv/get_file/1/0ca9aa377fdebc035473d0854dba27bd/80000/80733/80733.mp4
+#EXTINF:0 group-title="Infantil",LA SIRENITA
+http://www.spruto.tv/get_file/1/4b064db0eb982aa0bbe454deab684473/80000/80728/80728.mp4
+#EXTINF:0 group-title="Infantil",LA SIRENITA 2 REGRESO AL MAR
+http://www.spruto.tv/get_file/5/3285b40f685b8393955c2f6c6c2c3633/110000/110190/110190.mp4
+#EXTINF:0 group-title="Infantil",LA SIRENITA LOS COMIENZOS DE ARIEL
+http://www.spruto.tv/get_file/5/a2ce2d450446df3680e88291f5265033/110000/110191/110191.mp4
+#EXTINF:0 group-title="Infantil",MULAN
+http://www.spruto.tv/get_file/1/8743a11400fed1059155b246e8c16e80/80000/80735/80735.mp4
+#EXTINF:0 group-title="Infantil",MULAN 2
+http://www.spruto.tv/get_file/7/cc0868b3bbd4d8af610469b429a57667/76000/76864/76864.mp4
+#EXTINF:0 group-title="Infantil",POCAHONTAS
+http://www.spruto.tv/get_file/1/6cccbcf375881ff2d942fc3383e52cf8/80000/80732/80732.mp4
+#EXTINF:0 group-title="Infantil",POCAHONTAS 2
+http://www.spruto.tv/get_file/5/089c5dc4e579784688380d9ce7cbff9a/110000/110200/110200.mp4
+#EXTINF:0 group-title="Infantil",VALIENTE
+http://www.spruto.tv/get_file/1/bdbbca9f39a2dc67d1fd3af42a36065b/80000/80734/80734.mp4
 
 
 
@@ -745,74 +824,12 @@ https://ia800309.us.archive.org/21/items/1esucitados./1esucitados..mp4
 https://ia601507.us.archive.org/33/items/4obocop./4obocop..mp4
 #EXTINF:0,P-DESTINO JUPITER
 https://ia600309.us.archive.org/17/items/D3T1N0JUT3R/D3T1N0%20JUT3R.mp4
-#EXTINF:0 group-title="Infantil",ALADDIN
-http://www.spruto.tv/get_file/1/38577f19393369cb2c5d785beb3c3ffc/80000/80730/80730.mp4
-
-#EXTINF:0 group-title="Infantil",ALADDIN 2 EL RETORNO DE JAFAR
-http://www.spruto.tv/get_file/5/b66d5c46890169c4100a2d1efdc8c45c/110000/110198/110198.mp4
-
-#EXTINF:0 group-title="Infantil",ALADDIN Y EL REY DE LOS LADRONES
-http://www.spruto.tv/get_file/5/ca110c858858a9f44749dfaac0220c9a/110000/110199/110199.mp4
-
-#EXTINF:0 group-title="Infantil",ALICIA EN EL PAIS DE LAS MARAVILLAS (1951)
-http://www.spruto.tv/get_file/1/6e54e785dcb21b63de42f4928ce68bf5/86000/86137/86137.mp4
-
-#EXTINF:0 group-title="Infantil",ALICIA EN EL PAIS DE LAS MARAVILLAS (2010)
-http://www.spruto.tv/get_file/7/f75b9e1cefffcd3087150b883fac3fc7/76000/76261/76261.mp4
-
-#EXTINF:0 group-title="Infantil",BARBIE SUPER PRINCESA
-http://www.spruto.tv/get_file/2/296ed0c12d8f80128b04d333c08204c8/98000/98420/98420.mp4
-
-#EXTINF:0 group-title="Infantil",ENREDADOS
-http://www.spruto.tv/get_file/1/03259f1f551f0a49262bb7850316fb3f/80000/80737/80737.mp4
-
-#EXTINF:0 group-title="Infantil",FROZEN UNA AVENTURA CONGELADA
-http://www.spruto.tv/get_file/1/bcae57a2defea5dec966b96630b25aee/80000/80731/80731.mp4
-
-#EXTINF:0 group-title="Infantil",LA BELLA Y LA BESTIA
-http://www.spruto.tv/get_file/1/c70f56a357964267dabbc26f0e3ab056/80000/80729/80729.mp4
-
-#EXTINF:0 group-title="Infantil",LA CENICIENTA (1950)
-http://www.spruto.tv/get_file/1/1f40df69b4937859479ea77516275841/80000/80739/80739.mp4
-
-#EXTINF:0 group-title="Infantil",LA CENICIENTA 2 UN SUEÑO HECHO REALIDAD
-http://www.spruto.tv/get_file/5/e385ba2b56ffe07c86d12b21a0ba7075/110000/110193/110193.mp4
-
-#EXTINF:0 group-title="Infantil",LA PRINCESA Y EL SAPO
-http://www.spruto.tv/get_file/1/0ca9aa377fdebc035473d0854dba27bd/80000/80733/80733.mp4
-
-#EXTINF:0 group-title="Infantil",LA SIRENITA
-http://www.spruto.tv/get_file/1/4b064db0eb982aa0bbe454deab684473/80000/80728/80728.mp4
-
-#EXTINF:0 group-title="Infantil",LA SIRENITA 2 REGRESO AL MAR
-http://www.spruto.tv/get_file/5/3285b40f685b8393955c2f6c6c2c3633/110000/110190/110190.mp4
-
-#EXTINF:0 group-title="Infantil",LA SIRENITA LOS COMIENZOS DE ARIEL
-http://www.spruto.tv/get_file/5/a2ce2d450446df3680e88291f5265033/110000/110191/110191.mp4
-
-#EXTINF:0 group-title="Infantil",MULAN
-http://www.spruto.tv/get_file/1/8743a11400fed1059155b246e8c16e80/80000/80735/80735.mp4
-
-#EXTINF:0 group-title="Infantil",MULAN 2
-http://www.spruto.tv/get_file/7/cc0868b3bbd4d8af610469b429a57667/76000/76864/76864.mp4
-
-#EXTINF:0 group-title="Infantil",POCAHONTAS
-http://www.spruto.tv/get_file/1/6cccbcf375881ff2d942fc3383e52cf8/80000/80732/80732.mp4
-
-#EXTINF:0 group-title="Infantil",POCAHONTAS 2
-http://www.spruto.tv/get_file/5/089c5dc4e579784688380d9ce7cbff9a/110000/110200/110200.mp4
-
-#EXTINF:0 group-title="Infantil",VALIENTE
-http://www.spruto.tv/get_file/1/bdbbca9f39a2dc67d1fd3af42a36065b/80000/80734/80734.mp4
-
 #EXTINF:-1,APOCALIPSIS EN LOS ANGELES
 http://www.spruto.tv/get_file/5/0eb819a9120b4cd7aa96e871c2807acf/109000/109075/109075.mp4
-
 #EXTINF:-1,HEROE DE CENTRO COMERCIAL
 http://www.spruto.tv/get_file/2/d75649d825bf5f0ad32dcdf4fb3561bf/106000/106278/106278.mp4
 #EXTINF:-1,16 DESEOS
 http://www.spruto.tv/get_file/2/6ca2d685d9bad2c5c1f4d73f5037ba4d/102000/102949/102949.mp4
-
 #EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="Oblivion.jpg" ,OBLIVION
 https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!169&authkey=!ALlQcEBQSgTfj30&ithint=file%2cmkv
 #EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="exmachina1.png" ,EX-MACHINA
@@ -937,7 +954,119 @@ https://onedrive.live.com/download.aspx?resid=b9d3cb38dfde3913!160&authkey=!AAyq
 https://onedrive.live.com/download.aspx?resid=b9d3cb38dfde3913!156&authkey=!AHAyK3QJsa_-BdE&ithint=video%2cmp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-i0m7L_GOP6c/Ug1ah_eAnCI/AAAAAAAAKUA/hqzSHOah4uA/s175/lluvia-de-hamburguesas-2-la-venganza-de-las-sobras.jpg",LLUVIA DE HAMBURGUESAS 2  (2013) 720P hd
 https://onedrive.live.com/download.aspx?resid=b9d3cb38dfde3913!159&authkey=!APj4EGHc-XQul1g&ithint=video%2cmp4
-
+#EXTINF:-1 tvg-logo="http://v2.imgs24.com/images/2014/04/25/space-jam-el-juego-del-siglo-subtitulada-poster-en-alta-resolucion-hd-michael-jordan-wayne-knight-theresa-randle.jpg",Space Jam
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!172&authkey=!ALwfkhEcPvGjZTQ&ithint=video%2cavi
+#EXTINF:-1 tvg-logo="http://v2.imgs24.com/images/2014/03/20/Spirit_el_corcel_indomable_1.jpg",Spirit el Corcel Indomable
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!171&authkey=!AGVf06svhNn4DUQ&ithint=video%2cmp4
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Residen Evil 1
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2471&authkey=!AA6_Gh9CINjEGHs&ithint=video%2cavi
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Residen Evil 2
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2469&authkey=!AGEpv10Z_Kf1xGs&ithint=video%2cavi
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Residen Evil 3
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2470&authkey=!AEjxcwyCTScdP_o&ithint=video%2cavi
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Residen Evil 4
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2473&authkey=!AL1n5u_I-p7HZso&ithint=video%2cavi
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Residen Evil 5
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2472&authkey=!AGOn3CxSyzVzVhQ&ithint=video%2cavi
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Gnomeo y Julieta
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2452&authkey=!AGD6usYO1JLtj0I&ithint=video%2cavi
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Guardianes de la galaxia Sub y 3D
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2455&authkey=!ACj3KPjTneKwMnY&ithint=file%2cmkv
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Exodus, Dioses y reyes 3D y SUB
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2457&authkey=!AESp6JPfrT7R7CY&ithint=file%2cmkv
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Infernal
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2451&authkey=!AIepExCIehamN4A&ithint=video%2cmp4
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,El experimento de la OUIJA 2 sub
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2450&authkey=!AF7G4ZbSdU3D420&ithint=video%2cmp4
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,RIO
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2453&authkey=!ABX5m3WtMJFOV5k&ithint=video%2cavi
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,The Gambler SUBTITULADA
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2454&authkey=!AE2KTz2rJDp70tA&ithint=file%2cmkv
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,San Andres
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2447&authkey=!AMJkVqQNejwk2wc&ithint=video%2cMP4
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Survivor
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2449&authkey=!AD1O3Od95uKTY-w&ithint=file%2cmkv
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,We are still Here
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2448&authkey=!APjzTu7GtTz6lsU&ithint=file%2cmkv
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,INSIDIOUS III
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1152&authkey=!ADWSZBzoNvD1Ok0&ithint=video%2cmp4
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Family GUY Dark Side
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1150&authkey=!AP8h1GW7neSkc2Q&ithint=video%2cmp4
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Family GUY It's A trap
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1151&authkey=!ACXdFBCTumogwco&ithint=video%2cmp4
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Family GUY BLUE Harvest
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1149&authkey=!AFRQNr0T6vifCkk&ithint=video%2cmp4
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,TITANIC 
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1148&authkey=!AJ-o1Hy47aeMgZk&ithint=video%2cmp4
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,El conjuro dual
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1147&authkey=!ADRe_Le39Oru38w&ithint=video%2cmp4
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Kingsman servicio secreto SUBTITULADA
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1146&authkey=!AFOPyF0qG4FaEGU&ithint=video%2cmp4
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Avenger 2 Subtitulada
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1143&authkey=!AMboOQkcc6UMhIM&ithint=file%2cmkv
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Austin Power 1
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1142&authkey=!AJtosBGUIqMvVBo&ithint=video%2cmp4
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Austin Power 2
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1145&authkey=!ABNcPVtgsvDWSss&ithint=video%2cmp4
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Austin Power 3
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1144&authkey=!ACsWdU4LIGicVuk&ithint=video%2cmp4
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Transcendence
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1141&authkey=!AIxkpPC-qxPB_iU&ithint=video%2cmp4
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Y tu mamÃ¡ tambien
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1140&authkey=!AFLfHAcql40Y_NU&ithint=video%2cmp4
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1,Vatican Exorcism
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1138&authkey=!AGScB_k-LZwxqf8&ithint=video%2cmp4
+#EXTINF:-1 group-title="PPV", Big Hero
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!109&authkey=!AMqpe0rh98jqOEg&ithint=file%2cmkv
+#EXTINF:-1 group-title="PPV", Chappie
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!110&authkey=!AI4IxN6Veg0qj6Y&ithint=video%2cavi
+#EXTINF:-1 group-title="PPV", Apartamento 5
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!111&authkey=!AL7faVmgfFj5a3I&ithint=file%2cmkv
+#EXTINF:-1 group-title="PPV", Batman Unlimited
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!113&authkey=!AO4i3mg9iXl-z60&ithint=file%2cmkv
+#EXTINF:-1 group-title="PPV", ExMachina
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!126&authkey=!AAy49ZyUCDGALww&ithint=file%2cmkv
+#EXTINF:-1 group-title="PPV", Negocios con Resaca
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!132&authkey=!AFUzdJiyFOH89A4&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://www.yaske.to/upload/images/5f9b3a428a7e046ae3d44bd037560994.jpg",LOS JUEGOS DEL HAMBRE SINSAJO PARTE 1
+http://www.spruto.tv/get_file/2/d60293a7e0b2a63ee276877578a81c6a/100000/100906/100906.mp4
+#EXTINF:-1 tvg-logo="http://aquipelis.net/wp-content/uploads/2014/07/el-amanecer-del-planeta-de-los-simios-160x230.jpg",EL AMANECER DEL PLANETA DE LOS SIMIOS
+http://www.spruto.tv/get_file/1/1b8634191d3bf7b4722550f8f1ee8d71/88000/88461/88461.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-6aZujWdgisg/VBiiAraxWjI/AAAAAAAAt_4/MRkE2j2m0ag/s275/en-el-bosque.jpg",En El Bosque (into the woods)
+http://www.spruto.tv/get_file/2/6bb416dfe3a1c559930905f48c528ba9/104000/104812/104812.mp4
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-uabaUCgwaRQ/VNEVPzRBBdI/AAAAAAAAAro/9dCPZ6i3ImQ/s175/whiplash.jpg",WHIPLASH
+http://www.spruto.tv/get_file/2/16128b39ee17c57b4586edf1557cfe8c/103000/103899/103899.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/--4K-yWmRRiY/VBMkzkiG9WI/AAAAAAAAB8M/tQhQkV9Rx_s/s175/ted-2.jpg", TED
+http://www.spruto.tv/get_file/1/26abd89519052ceb87fa5578107dab0e/86000/86752/86752.mp4
 
 
 #EXTINF:-1 group-title="ADULTOS" parent-code="1997",PlayBoy TvChat
