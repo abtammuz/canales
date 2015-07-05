@@ -12,7 +12,7 @@ http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
 #EXTINF:-1,South Park
 http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,ESPN DEPORTES
-http://iphone-streaming.ustream.tv/uhls/20000054/streams/live/iphone/playlist.m3u8
+http://iphone-streaming.ustream.tv/uhls/20188531/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,RT ESPAÑOL
 http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,LIBERTAD TV
@@ -39,8 +39,6 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacal
 http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi
 #EXTINF:-1,SPORTSNET
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
-#EXTINF:-1,CDN SportsMax
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8#MegaIPTVArgentina
 #EXTINF:0,PAC-12Net.(Arizona)
@@ -65,16 +63,12 @@ http://xrxs.net/video/live-p12moun-1164.m3u8
 http://xrxs.net/video/live-p12oreg-1164.m3u8
 #EXTINF:-1,USA-BASKET UNI.(Washington)
 http://xrxs.net/video/live-p12wash-2328.m3u8
-#EXTINF:-1,Antena3 Sports
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
 #EXTINF:-1,Eurosport1 ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:-1, Eurosport1 France
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 #EXTINF:-1,FOX SPORT ARG
 http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,GOL TV USA
-http://ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/chunklist_b1596000.m3u8#MegaIPTVArgentina
 #EXTINF:-1,GOL TV ARG
 http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
 #EXTINF:-1, AMERICA SPORTS
@@ -93,6 +87,7 @@ http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet
 rtmp://74.208.69.207/live/miamitvhd
 #EXTINF:-1,TVEO Miami USA
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+
 #EXTINF:-1,MUSIC VEVO1 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 #EXTINF:-1,music VEVO HD
@@ -454,7 +449,7 @@ http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Clasica Meditacion
 http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
 
-#EXTINF:-1 group-title="Infantil",THE SIMPSONS CAP1
+#EXTINF:-1,THE SIMPSONS CAP1
 https://youpeliculas.box.com/shared/static/h1ks4cezg5pkpfojfodk.mp4
 #EXTINF:-1,THE SIMPSONS CAP2
 https://youpeliculas.box.com/shared/static/7ylnmpmdbh7dfbiofsk0.mp4
@@ -809,9 +804,9 @@ http://www.spruto.tv/get_file/1/bdbbca9f39a2dc67d1fd3af42a36065b/80000/80734/807
 
 
 
-#EXTINF:-1 group-title="Peliculas en Español Latino",P-MENTES PELIGROSAS
+#EXTINF:0,P-MENTES PELIGROSAS
 https://ia600309.us.archive.org/34/items/b1fb1b3745.360/b1fb1b3745.360.mp4
-#EXTINF:-1 group-title="Peliculas en Español Latino",P-INTRUSOS
+#EXTINF:0,P-INTRUSOS
 https://ia600309.us.archive.org/17/items/IntrrStream/INTRRS.mp4
 #EXTINF:0,P-INDESTRUCTIBLES 3
 https://ia600309.us.archive.org/4/items/industructibles/I%C3%91D3TRUC3.mp4
@@ -1046,17 +1041,17 @@ https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1140&authkey=!AFL
 #EXTM3U $ExtFilter="RTMP"
 #EXTINF:-1,Vatican Exorcism
 https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1138&authkey=!AGScB_k-LZwxqf8&ithint=video%2cmp4
-#EXTINF:-1, Big Hero
+#EXTINF:-1 group-title="PPV", Big Hero
 https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!109&authkey=!AMqpe0rh98jqOEg&ithint=file%2cmkv
-#EXTINF:-1, Chappie
+#EXTINF:-1 group-title="PPV", Chappie
 https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!110&authkey=!AI4IxN6Veg0qj6Y&ithint=video%2cavi
-#EXTINF:-1, Apartamento 5
+#EXTINF:-1 group-title="PPV", Apartamento 5
 https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!111&authkey=!AL7faVmgfFj5a3I&ithint=file%2cmkv
-#EXTINF:-1, Batman Unlimited
+#EXTINF:-1 group-title="PPV", Batman Unlimited
 https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!113&authkey=!AO4i3mg9iXl-z60&ithint=file%2cmkv
-#EXTINF:-1, ExMachina
+#EXTINF:-1 group-title="PPV", ExMachina
 https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!126&authkey=!AAy49ZyUCDGALww&ithint=file%2cmkv
-#EXTINF:-1, Negocios con Resaca
+#EXTINF:-1 group-title="PPV", Negocios con Resaca
 https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!132&authkey=!AFUzdJiyFOH89A4&ithint=file%2cmkv
 #EXTINF:-1 tvg-logo="http://www.yaske.to/upload/images/5f9b3a428a7e046ae3d44bd037560994.jpg",LOS JUEGOS DEL HAMBRE SINSAJO PARTE 1
 http://www.spruto.tv/get_file/2/d60293a7e0b2a63ee276877578a81c6a/100000/100906/100906.mp4
