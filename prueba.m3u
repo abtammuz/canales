@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, HOME
 http://www70.uptobox.com/stream/9hvyon2013/720/0
+#EXTINF:-1, HCC
+http://www12.uptobox.com/stream/9hwf1w1fc3/720/0
 #EXTINF:-1,AMC
 http://lb.iptvserver.tv:8080/redirect/LiveEdge/AMCLASD/playlist.m3u8?token=7f1f8bb709adad1256f3d7e981d6459e
 
