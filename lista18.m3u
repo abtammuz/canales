@@ -1,40 +1,28 @@
 #EXTM3U
-#EXTINF:-1 group-title="CANALES",HBO 2
-http://37.187.253.241:8000/hbo2.m3u8
-#EXTINF:-1,FOX1
-http://37.187.253.241:8000/fox1.m3u8
 #EXTINF:-1,ULTRA TV
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
 #EXTINF:-1, ULTRA TV OPC2
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
 #EXTINF:0,TaTeTi NIÑOS
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:-1,Paka Paka arg
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 #EXTINF:-1,South Park
 http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,ESPN DEPORTES
 http://iphone-streaming.ustream.tv/uhls/20188531/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,RT ESPAÑOL
 http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,LIBERTAD TV
-http://iphone-streaming.ustream.tv/uhls/15837981/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,TELESIG
 http://iphone-streaming.ustream.tv/uhls/253309/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,REDTV
-http://iphone-streaming.ustream.tv/uhls/5642870/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,PIXEL CHANNEL
-http://iphone-streaming.ustream.tv/uhls/11360682/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,TELEMUNDO
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,FAMATV
-http://iphone-streaming.ustream.tv/uhls/12135793/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,TV
 http://iphone-streaming.ustream.tv/uhls/18376856/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Discovery
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Discovery (Opc.2)
 http://iphone-streaming.ustream.tv/ustreamVideo/17248101/streams/live/playlist.m3u8
-#EXTINF:1,ANIME TV
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:-1,KW TV México
 http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi
 #EXTINF:-1,SPORTSNET
@@ -1063,13 +1051,8 @@ http://www.spruto.tv/get_file/2/6bb416dfe3a1c559930905f48c528ba9/104000/104812/1
 http://www.spruto.tv/get_file/2/16128b39ee17c57b4586edf1557cfe8c/103000/103899/103899.mp4
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/--4K-yWmRRiY/VBMkzkiG9WI/AAAAAAAAB8M/tQhQkV9Rx_s/s175/ted-2.jpg", TED
 http://www.spruto.tv/get_file/1/26abd89519052ceb87fa5578107dab0e/86000/86752/86752.mp4
-#EXTINF:-1,EXODO DIOSES Y REYES
-http://www.spruto.tv/get_file/5/074958b2bba164f9ed29ff600a4efda0/106000/106644/106644.mp4
-#EXTINF:-1,MINIONS
-http://www.spruto.tv/get_file/8/c81485dc5df33b8d45f8823958336360/121000/121204/121204.mp4
 #EXTINF:-1,EL VIAJE MAS LARGO
 http://www.spruto.tv/get_file/5/9316df350d66e0e91ed314cc5a210edd/120000/120001/120001.mp4
-
 
 
 
