@@ -1,279 +1,33 @@
 #EXTM3U
-#EXTINF:-1 group-title=”LATINOS”,HBOPlusLASD 
-http://31.220.40.100:80/LiveEdge/HBOPlusLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,space 
-http://31.220.40.100:80/LiveEdge/SpaceLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,FX 
-http://31.220.40.100:80/LiveEdge/FXLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,SyFy 
-http://31.220.40.100:80/LiveEdge/SyFyLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Mundo Fox 
-http://31.220.40.100:80/LiveEdge/MundoFoxSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,max 
-http://31.220.40.100:80/LiveEdge/MAXLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,max up 
-http://31.220.40.100:80/LiveEdge/MaxUPSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Max Prime 
-http://31.220.40.100:80/LiveEdge/MaxPrimeLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Max Prime 2 
-http://31.220.40.100:80/LiveEdge/MaxPrime2LASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,FOX Family 
-http://31.220.40.100:80/LiveEdge/FOXFamilyLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Fox Cinema 
-http://31.220.40.100:80/LiveEdge/FoxCinemaSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,FOX Comedy 
-http://31.220.40.100:80/LiveEdge/FOXComedyLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,FOX ACTION 
-http://31.220.40.100:80/LiveEdge/FOXACTIONLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,HBO 
-http://31.220.40.100:80/LiveEdge/HBOLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,HBO 2 
-http://31.220.40.100:80/LiveEdge/HBO2SD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,HBO Signature 
-http://31.220.40.100:80/LiveEdge/HBOSignatureLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,FOX 1 
-http://31.220.40.100:80/LiveEdge/FOX1LASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,FOX HD 
-http://31.220.40.100:80/LiveEdge/FOXHDLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Film Zone 
-http://31.220.40.100:80/LiveEdge/FilmZoneLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,TNT HD 
-http://31.220.40.100:80/LiveEdge/TNTAmericaLatinaHD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Cine Latino 
-http://31.220.40.100:80/LiveEdge/CineLatinoSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Golden HD 
-http://31.220.40.100:80/LiveEdge/GoldenHD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,canal de las estrellas 
-http://31.220.40.100:80/LiveEdge/EstrellasLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Univision 
-http://31.220.40.100:80/LiveEdge/UnivisionEastUS/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,unimas 
-http://31.220.40.100:80/LiveEdge/UniMasUS/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Pasiones 
-http://31.220.40.100:80/LiveEdge/PasionesSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Telemundo 
-http://31.220.40.100:80/LiveEdge/TelemundoUS/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Telemundo 
-http://31.220.40.100:80/LiveEdge/TelemundoSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,RCN novelas 
-http://31.220.40.100:80/LiveEdge/RCNnovelasLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Telenovelas 
-http://31.220.40.100:80/LiveEdge/TlnovelasLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Telecentro 
-http://31.220.40.100:80/LiveEdge/Telecentro13LA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Caracol internacional 
-http://31.220.40.100:80/LiveEdge/CaracolIntSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Tv Globo Internacional 
-http://31.220.40.100:80/LiveEdge/TVGloboLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Discovery 
-http://31.220.40.100:80/LiveEdge/DiscoveryChLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Discovery Theater 
-http://31.220.40.100:80/LiveEdge/DiscoveryenEspanolHD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Discovery World 
-http://31.220.40.100:80/LiveEdge/DiscoveryWorldLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Discovery Home & Health 
-http://31.220.40.100:80/LiveEdge/DiscoveryHomeHealthLAHD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,History 2 
-http://31.220.40.100:80/LiveEdge/H2LASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,History 
-http://31.220.40.100:80/LiveEdge/HistoryLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Nat Geo 
-http://31.220.40.100:80/LiveEdge/NatGeoLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Animal Planet 
-http://31.220.40.100:80/LiveEdge/AnimalPlanetLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,ESPN 
-http://31.220.40.100:80/LiveEdge/ESPNLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,ESPN 2 
-http://31.220.40.100:80/LiveEdge/ESPN2LASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,ESPN 3 
-http://31.220.40.100:80/LiveEdge/ESPN3LASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Fox Sports 
-http://31.220.40.100:80/LiveEdge/FoxSportsLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Fox Sports 2 
-http://31.220.40.100:80/LiveEdge/FoxSports2SD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Fox Sports 3 
-http://31.220.40.100:80/LiveEdge/FoxSports3SD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Bein Sports 
-http://31.220.40.100:80/LiveEdge/BeinSportsLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,UFC Network 
-http://31.220.40.100:80/LiveEdge/UFCNetworkLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,F1 
-http://31.220.40.100:80/LiveEdge/F1LA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Planeta Futbol 
-http://31.220.40.100:80/LiveEdge/PlanetaFutbolLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Planeta Futbol 
-http://31.220.40.100:80/LiveEdge/PlanetaFutbolEnglish/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,TDN 
-http://31.220.40.100:80/LiveEdge/TDNMXLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Univision TDN 
-http://31.220.40.100:80/LiveEdge/UnivisionTDNLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Disney Channel 
-http://31.220.40.100:80/LiveEdge/DisneyChannelNorteHD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,DisneyXD 
-http://31.220.40.100:80/LiveEdge/DisneyXDSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Disney Jr 
-http://31.220.40.100:80/LiveEdge/DisneyJrLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Nickelodeon 
-http://31.220.40.100:80/LiveEdge/NickelodeonLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Nick Jr 
-http://31.220.40.100:80/LiveEdge/NickJrLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Discovery Kids 
-http://31.220.40.100:80/LiveEdge/DiscoveryKidsSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Cartoon Network 
-http://31.220.40.100:80/LiveEdge/CartoonNetworkLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Boomerang 
-http://31.220.40.100:80/LiveEdge/BoomerangLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Tooncast 
-http://31.220.40.100:80/LiveEdge/TooncastSD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Baby First 
-http://31.220.40.100:80/LiveEdge/BabyFirstLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Baby TV 
-http://31.220.40.100:80/LiveEdge/BabyTVLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Cbeebies 
-http://31.220.40.100:80/LiveEdge/CbeebiesLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e 
-#EXTINF:-1 group-title=”LATINOS”,Sony 
-http://31.220.40.100:80/LiveEdge/SonyLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
-#EXTINF:-1,A&E (Ciencia y Cultura)
-http://oneplay.tv/darkuzdev/?ch=AELatinoamericaHD
-#EXTINF:-1,Animal Planet (Ciencia y Cultura)
-http://oneplay.tv/darkuzdev/?ch=AnimalPlanetLASD
-#EXTINF:-1,Discovery Channel (Ciencia y Cultura)
-http://oneplay.tv/darkuzdev/?ch=DiscoveryChLA
-#EXTINF:-1,Discovery Theater (Ciencia y Cultura)
-http://oneplay.tv/darkuzdev/?ch=DiscoveryenEspanolHD
-#EXTINF:-1,Discovery World (Ciencia y Cultura)
-http://oneplay.tv/darkuzdev/?ch=DiscoveryWorldLA
-#EXTINF:-1,El Gourmet (Ciencia y Cultura)
-http://oneplay.tv/darkuzdev/?ch=ElgourmetLA
-#EXTINF:-1,History (Ciencia y Cultura)
-http://oneplay.tv/darkuzdev/?ch=HistoryLA
-#EXTINF:-1,History 2 (Ciencia y Cultura)
-http://oneplay.tv/darkuzdev/?ch=H2LASD
-#EXTINF:-1,Investigation Discovery (Ciencia y Cultura)
-http://oneplay.tv/darkuzdev/?ch=InvDiscoverySD
-#EXTINF:-1,NAT GEO (Ciencia y Cultura)
-http://oneplay.tv/darkuzdev/?ch=NatGeoLASD
-#EXTINF:-1,Nat Geo Wild (Ciencia y Cultura)
-http://oneplay.tv/darkuzdev/?ch=NatGeoWildLAHD
-#EXTINF:-1,TLC (Ciencia y Cultura)
-http://oneplay.tv/darkuzdev/?ch=TLCLASD
-#EXTINF:-1,TruTV (Ciencia y Cultura)
-http://oneplay.tv/darkuzdev/?ch=TruTVSD
-#EXTINF:-1,Boomerang (Infantiles )
-http://oneplay.tv/darkuzdev/?ch=BoomerangLA
-#EXTINF:-1,Cartoon Network (Infantiles )
-http://oneplay.tv/darkuzdev/?ch=CartoonNetworkLASD
-#EXTINF:-1,Discovery Kids (Infantiles )
-http://oneplay.tv/darkuzdev/?ch=DiscoveryKidsSD
-#EXTINF:-1,Disney Channel (Infantiles )
-http://oneplay.tv/darkuzdev/?ch=DisneyChannelNorteHD
-#EXTINF:-1,Disney Junior (Infantiles )
-http://oneplay.tv/darkuzdev/?ch=DisneyJrLASD
-#EXTINF:-1,Disney XD (Infantiles )
-http://oneplay.tv/darkuzdev/?ch=DisneyXDSD
-#EXTINF:-1,Nick Jr. (Infantiles )
-http://oneplay.tv/darkuzdev/?ch=NickJrLASD
-#EXTINF:-1,Nickelodeon (Infantiles )
-http://oneplay.tv/darkuzdev/?ch=NickelodeonLA
-#EXTINF:-1,Tooncast (Infantiles )
-http://oneplay.tv/darkuzdev/?ch=TooncastSD
-#EXTINF:-1,Bein Sports (Deportes)
-http://oneplay.tv/darkuzdev/?ch=BeinSportsLA
-#EXTINF:-1,Espn (Deportes)
-http://oneplay.tv/darkuzdev/?ch=ESPNLA
-#EXTINF:-1,ESPN 2 (Deportes)
-http://oneplay.tv/darkuzdev/?ch=ESPN2LASD
-#EXTINF:-1,ESPN 3 (Deportes)
-http://oneplay.tv/darkuzdev/?ch=ESPN3LASD
-#EXTINF:-1,Fox Sports (Deportes)
-http://oneplay.tv/darkuzdev/?ch=FoxSportsLA
-#EXTINF:-1,Fox Sports 2 (Deportes)
-http://oneplay.tv/darkuzdev/?ch=FoxSports2SD
-#EXTINF:-1,Fox Sports 3 (Deportes)
-http://oneplay.tv/darkuzdev/?ch=FoxSports3SD
-#EXTINF:-1,Planeta Futbol (Deportes)
-http://oneplay.tv/darkuzdev/?ch=PlanetaFutbolLA
-#EXTINF:-1,Planeta Futbol English (Deportes)
-http://oneplay.tv/darkuzdev/?ch=PlanetaFutbolEnglish
-#EXTINF:-1,MTV (Musica)
-http://oneplay.tv/darkuzdev/?ch=MTVLA
-#EXTINF:-1,MTV Hits (Musica)
-http://oneplay.tv/darkuzdev/?ch=MTVHitsLA
-#EXTINF:-1,VH1 (Musica)
-http://oneplay.tv/darkuzdev/?ch=VH1LatinoSD
-#EXTINF:-1,VH1 Classics (Musica)
-http://oneplay.tv/darkuzdev/?ch=VH1ClassicLASD
-#EXTINF:-1,AMC (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=AMCLASD
-#EXTINF:-1,AXN (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=AXNLA
-#EXTINF:-1,Cinecanal (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=CineCanalLA
-#EXTINF:-1,Cinemax (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=CinemaxLASD
-#EXTINF:-1,Comedy Central (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=ComedyCentralLA
-#EXTINF:-1,E! Entertainment (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=EentertaimentSD
-#EXTINF:-1,FOX (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=FOXLA
-#EXTINF:-1,Fox 1 (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=FOX1LASD
-#EXTINF:-1,Fox Action (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=FOXACTIONLASD
-#EXTINF:-1,Fox Cinema (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=FoxCinemaSD
-#EXTINF:-1,Fox Classics (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=FOXClassicsLASD
-#EXTINF:-1,Fox Comedy (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=FOXComedyLASD
-#EXTINF:-1,Fox Family (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=FOXFamilyLASD
-#EXTINF:-1,Fox Life (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=FoxLifeSD
-#EXTINF:-1,Fox Movies (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=FOXMoviesLASD
-#EXTINF:-1,FX (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=FXLASD
-#EXTINF:-1,Glitz (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=GlitzLA
-#EXTINF:-1,HBO (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=HBOLASD
-#EXTINF:-1,HBO 2 (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=HBO2SD
-#EXTINF:-1,HBO Family (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=HBOFamilyLASD
-#EXTINF:-1,HBO PLUS (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=HBOPus2LASD
-#EXTINF:-1,HBO Signature (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=HBOSignatureLASD
-#EXTINF:-1,Max Prime (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=MaxPrime2LASD
-#EXTINF:-1,MundoFox (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=MundoFoxSD
-#EXTINF:-1,Paramount Channel (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=ParamountChannelLatinAmericaHD
-#EXTINF:-1,Sony (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=SonyLA
-#EXTINF:-1,Studio Universal (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=StudioUniversalSD
-#EXTINF:-1,Syfy (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=SyFyLASD
-#EXTINF:-1,TBS (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=TBSLASD
-#EXTINF:-1,TCM (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=TCMSD
-#EXTINF:-1,Telemundo (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=835-TMNDO
-#EXTINF:-1,The Film Zone (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=FilmZoneLASD
-#EXTINF:-1,TNT (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=TNTAmericaLatinaHD
-#EXTINF:-1,TNT Serie (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=infinitoSD
-#EXTINF:-1,UNIMAS (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=UniMasUS
-#EXTINF:-1,Universal Channel (Alterno)
-http://oneplay.tv/darkuzdev/?ch=UniversalLASD
-#EXTINF:-1,Warner Bros (Cine & Series)
-http://oneplay.tv/darkuzdev/?ch=WarnerLA
+‪#‎EXTINF‬:-1,Baby TV 
+http://5.79.76.205:8888/1522?auth=qera+1bKUehtX 
+#EXTINF:-1,Barca TV 
+http://5.79.76.205:8888/1525?auth=qera+1bKUehtX 
+#EXTINF:-1,Boing spain 
+http://5.79.76.205:8888/1523?auth=qera+1bKUehtX 
+#EXTINF:-1,Canal 24 Horas 
+http://5.79.76.205:8888/1587?auth=qera+1bKUehtX 
+#EXTINF:-1,Canal de las Estrellas 
+http://5.79.76.205:8888/1528?auth=qera+1bKUehtX 
+#EXTINF:-1,Canal Holywood 
+http://5.79.76.205:8888/1560?auth=qera+1bKUehtX 
+#EXTINF:-1,Canal+ Xtra 
+http://5.79.76.205:8888/1563?auth=qera+1bKUehtX 
+#EXTINF:-1,Clan TVE 
+http://5.79.76.205:8888/1557?auth=qera+1bKUehtX 
+#EXTINF:-1,Divinity 
+http://5.79.76.205:8888/1520?auth=qera+1bKUehtX 
+#EXTINF:-1,Energy 
+http://5.79.76.205:8888/1524?auth=qera+1bKUehtX 
+#EXTINF:-1,Factoria de Ficcion 
+http://5.79.76.205:8888/1556?auth=qera+1bKUehtX 
+#EXTINF:-1,La 1 
+http://5.79.76.205:8888/1559?auth=qera+1bKUehtX 
+#EXTINF:-1,La 2 
+http://5.79.76.205:8888/1561?auth=qera+1bKUehtX 
+#EXTINF:-1,La sextata 
+http://5.79.76.205:8888/1558?auth=qera+1bKUehtX 
+#EXTINF:-1,MTV spain 
+http://5.79.76.205:8888/1527?auth=qera+1bKUehtX 
+#EXTINF:-1,Telecinco 
+http://5.79.76.205:8888/1562?auth=qera+1bKUehtX
