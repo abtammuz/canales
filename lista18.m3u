@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1,History
+http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,Disney XD
+http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,Caracol Internacional Colombia
+http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,Fox Sports
+http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,Discovery Kids
+http://live.mvdigital.net:1935/live6/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,RED TV Peru
+http://live.mvdigital.net:1935/live9/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,Latina
+http://live.mvdigital.net:1935/live1/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,America
+http://live.mvdigital.net:1935/live2/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,ATV
+http://live.mvdigital.net:1935/live3/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,Music
+http://live.mvdigital.net:1935/live13/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,An7
+http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,ULTRA TV
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
 #EXTINF:-1, ULTRA TV OPC2
