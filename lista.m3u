@@ -1,15 +1,20 @@
 #EXTM3U
+#EXTINF:-1,Discovery
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,History
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,Disney XD
 http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,Caracol Internacional Colombia
-http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,Discovery Kids
 http://live.mvdigital.net:1935/live6/livestream1.sdp/playlist.m3u8
+#EXTINF:0,TaTeTi NIÑOS
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:-1,South Park
+http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Caracol Internacional Colombia
+http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,RED TV Peru
 http://live.mvdigital.net:1935/live9/livestream1.sdp/playlist.m3u8
-
 #EXTINF:-1,Music
 http://live.mvdigital.net:1935/live13/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,An7
@@ -24,14 +29,6 @@ http://live.mvdigital.net:1935/live3/livestream1.sdp/playlist.m3u8
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
 #EXTINF:-1, ULTRA TV OPC2
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
-#EXTINF:0,TaTeTi NIÑOS
-http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
-#EXTINF:-1,Paka Paka arg
-http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
-#EXTINF:-1,South Park
-http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,ESPN DEPORTES
-http://iphone-streaming.ustream.tv/uhls/20188531/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,RT ESPAÑOL
 http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,TELESIG
@@ -40,10 +37,7 @@ http://iphone-streaming.ustream.tv/uhls/253309/streams/live/iphone/playlist.m3u8
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,TV
 http://iphone-streaming.ustream.tv/uhls/18376856/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Discovery
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Discovery (Opc.2)
-http://iphone-streaming.ustream.tv/ustreamVideo/17248101/streams/live/playlist.m3u8
+
 #EXTINF:-1,KW TV México
 http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi
 #EXTINF:-1,SPORTSNET
