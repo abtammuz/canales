@@ -357,94 +357,80 @@ rtmp://87.106.232.7/live/myStream_2
 rtmp://87.106.220.67/live/myStream_2
 
 
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Radio 50's
-http://buecrplb01.cienradios.com.ar/50_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Radio 60's
-http://buecrplb01.cienradios.com.ar/60_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Radio 70's
-http://buecrplb01.cienradios.com.ar/70_Internacional_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",70's USA
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_70_USA_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Radio Beatles
-http://108.61.73.119:8062/;stream.nsv
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Radio 80´s
-http://buecrplb01.cienradios.com.ar/80_Internacional_32000.aac
-#EXTINF:-1 tvg-logo="radios.png",80's Argentina
-http://buecrplb01.cienradios.com.ar/80_Nacional_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",80's USA
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_80_USA_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",90's Internacional
-http://buecrplb01.cienradios.com.ar/90_Internacional_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",90's Europa
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_90_UK_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Adulto Contemporaneo
-http://buecrplb01.cienradios.com.ar/Adulto_Contemporaneo_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Baladas
-http://buecrplb01.cienradios.com.ar/Power_Ballads_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Bossa Nova
-http://buecrplb01.cienradios.com.ar/Bossa_Nova_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Brasil
-http://buecrplb01.cienradios.com.ar/Brasil_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",BritPop
-http://buecrplb01.cienradios.com.ar/Britpop_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Chillout
-http://buecrplb01.cienradios.com.ar/Chillout_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",JPop
-http://pub1.radiotunes.com:80/radiotunes_jpop?c99c0d59b19e3b7c9f99d515
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Country
-http://pub8.radiotunes.com:80/radiotunes_country?c99c0d59b19e3b7c9f99d515
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Cuarteto
-http://buecrplb01.cienradios.com.ar/Cuarteto_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Estrenos
-http://buecrplb01.cienradios.com.ar/Estrenos_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Electronica
-http://buecrplb01.cienradios.com.ar/Electronico_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Electro Tango
-http://buecrplb01.cienradios.com.ar/Electronic_Tango_32000.aac?
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Fiesta Dance
-http://buecrplb01.cienradios.com.ar/Fiesta_Dance_32000.aac
-#EXTINF:-1 tvg-logo="radios.png group-title="Audio - Radio"",Lentos
-http://buecrplb01.cienradios.com.ar/Lentos_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Live music
-http://buecrplb01.cienradios.com.ar/Vivo_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Raggae
-http://buecrplb01.cienradios.com.ar/Reggae_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Reggaeton
-http://buecrplb01.cienradios.com.ar/Reggaeton_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Rock Hits
-http://buecrplb01.cienradios.com.ar/Rock_Hits_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Rock Latino
-http://buecrplb01.cienradios.com.ar/Rock_Latinoamericano_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Salsa
-http://buecrplb01.cienradios.com.ar/Salsa_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Smooth Jazz
-http://buecrplb01.cienradios.com.ar/Smooth_Jazz_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Mellow Jazz
-http://pub6.radiotunes.com:80/radiotunes_mellowjazz?c99c0d59b19e3b7c9f99d515
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Top 40
-http://buecrplb01.cienradios.com.ar/Top_40_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Top Europa
-http://buecrplb01.cienradios.com.ar/Top_Europa_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Top USA
-http://buecrplb01.cienradios.com.ar/Top_USA_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Lounge
-http://pub3.radiotunes.com:80/radiotunes_smoothlounge?
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Musica del Mundo
-http://pub8.radiotunes.com:80/radiotunes_world?c99c0d59b19e3b7c9f99d515
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Yoga
-http://buecrplb01.cienradios.com.ar/Yoga_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Reiki
-http://buecrplb01.cienradios.com.ar/Reiki_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Relajación
-http://pub7.radiotunes.com:80/radiotunes_relaxation?c99c0d59b19e3b7c9f99d515
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",New Age
-http://pub7.radiotunes.com:80/radiotunes_newage?c99c0d59b19e3b7c9f99d515
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Clasica
-http://buecrplb01.cienradios.com.ar/Clasica_32000.aac
-#EXTINF:-1 tvg-logo="radios.png",Clasica Cine
-http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Clasica Meditacion
-http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
+#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 1
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!117&authkey=!AKJJTtp6gyuu47E&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 2
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!115&authkey=!ALpY1sFnKCgIXxI&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 3
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!116&authkey=!ADuvU9u2Y99KCgE&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 4
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!118&authkey=!AH5VdocrSTagFT0&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 5
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!119&authkey=!AAlZW5fXG3foZiQ&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 6
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!120&authkey=!APjilfuyHG8gGxc&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 1[/COLOR]
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!121&authkey=!ACLENxswssHMucE&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 2
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!122&authkey=!AKQUnWWQMjUo17g&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 3
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!123&authkey=!AAWlsvmlPawtXOI&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 4
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!124&authkey=!AAtV8MqnU7HJVJ0&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 5
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!125&authkey=!AO-ummJXH10Ypfk&ithint=file%2cmkv
+#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 6
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!126&authkey=!AJGEq4fu-Q4FBbg&ithint=file%2cmkv
+#EXTINF:-1,La Casa de Mickey Mouse - El Hipo de Donald
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!128&authkey=!AJfbU0a13Q6qpLU&ithint=video%2cavi
+#EXTINF:-1,La Casa de Mickey Mouse - El Bubu De Oro
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!129&authkey=!AF5w5ZCOJUyQrVg&ithint=video%2cavi
+#EXTINF:-1,La Casa de Mickey Mouse - Goofy Desaparece
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!130&authkey=!AOV0BSQ6siY21UU&ithint=video%2cavi
+#EXTINF:-1,La Casa de Mickey Mouse - Mickey va a pescar
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!132&authkey=!AMVGI149DRYjzXE&ithint=video%2cavi
+#EXTINF:-1,La Casa de Mickey Mouse - La Minnie Durmiente
+https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!131&authkey=!AJoLzKTEKTfGEVU&ithint=video%2cavi
+#EXTINF:0 group-title="Infantil",ALADDIN
+http://www.spruto.tv/get_file/1/38577f19393369cb2c5d785beb3c3ffc/80000/80730/80730.mp4
+#EXTINF:0 group-title="Infantil",ALADDIN 2 EL RETORNO DE JAFAR
+http://www.spruto.tv/get_file/5/b66d5c46890169c4100a2d1efdc8c45c/110000/110198/110198.mp4
+#EXTINF:0 group-title="Infantil",ALADDIN Y EL REY DE LOS LADRONES
+http://www.spruto.tv/get_file/5/ca110c858858a9f44749dfaac0220c9a/110000/110199/110199.mp4
+#EXTINF:0 group-title="Infantil",ALICIA EN EL PAIS DE LAS MARAVILLAS (1951)
+http://www.spruto.tv/get_file/1/6e54e785dcb21b63de42f4928ce68bf5/86000/86137/86137.mp4
+#EXTINF:0 group-title="Infantil",ALICIA EN EL PAIS DE LAS MARAVILLAS (2010)
+http://www.spruto.tv/get_file/7/f75b9e1cefffcd3087150b883fac3fc7/76000/76261/76261.mp4
+#EXTINF:0 group-title="Infantil",BARBIE SUPER PRINCESA
+http://www.spruto.tv/get_file/2/296ed0c12d8f80128b04d333c08204c8/98000/98420/98420.mp4
+#EXTINF:0 group-title="Infantil",ENREDADOS
+http://www.spruto.tv/get_file/1/03259f1f551f0a49262bb7850316fb3f/80000/80737/80737.mp4
+#EXTINF:0 group-title="Infantil",FROZEN UNA AVENTURA CONGELADA
+http://www.spruto.tv/get_file/1/bcae57a2defea5dec966b96630b25aee/80000/80731/80731.mp4
+#EXTINF:0 group-title="Infantil",LA BELLA Y LA BESTIA
+http://www.spruto.tv/get_file/1/c70f56a357964267dabbc26f0e3ab056/80000/80729/80729.mp4
+#EXTINF:0 group-title="Infantil",LA CENICIENTA (1950)
+http://www.spruto.tv/get_file/1/1f40df69b4937859479ea77516275841/80000/80739/80739.mp4
+#EXTINF:0 group-title="Infantil",LA CENICIENTA 2 UN SUEÑO HECHO REALIDAD
+http://www.spruto.tv/get_file/5/e385ba2b56ffe07c86d12b21a0ba7075/110000/110193/110193.mp4
+#EXTINF:0 group-title="Infantil",LA PRINCESA Y EL SAPO
+http://www.spruto.tv/get_file/1/0ca9aa377fdebc035473d0854dba27bd/80000/80733/80733.mp4
+#EXTINF:0 group-title="Infantil",LA SIRENITA
+http://www.spruto.tv/get_file/1/4b064db0eb982aa0bbe454deab684473/80000/80728/80728.mp4
+#EXTINF:0 group-title="Infantil",LA SIRENITA 2 REGRESO AL MAR
+http://www.spruto.tv/get_file/5/3285b40f685b8393955c2f6c6c2c3633/110000/110190/110190.mp4
+#EXTINF:0 group-title="Infantil",LA SIRENITA LOS COMIENZOS DE ARIEL
+http://www.spruto.tv/get_file/5/a2ce2d450446df3680e88291f5265033/110000/110191/110191.mp4
+#EXTINF:0 group-title="Infantil",MULAN
+http://www.spruto.tv/get_file/1/8743a11400fed1059155b246e8c16e80/80000/80735/80735.mp4
+#EXTINF:0 group-title="Infantil",MULAN 2
+http://www.spruto.tv/get_file/7/cc0868b3bbd4d8af610469b429a57667/76000/76864/76864.mp4
+#EXTINF:0 group-title="Infantil",POCAHONTAS
+http://www.spruto.tv/get_file/1/6cccbcf375881ff2d942fc3383e52cf8/80000/80732/80732.mp4
+#EXTINF:0 group-title="Infantil",POCAHONTAS 2
+http://www.spruto.tv/get_file/5/089c5dc4e579784688380d9ce7cbff9a/110000/110200/110200.mp4
+#EXTINF:0 group-title="Infantil",VALIENTE
+http://www.spruto.tv/get_file/1/bdbbca9f39a2dc67d1fd3af42a36065b/80000/80734/80734.mp4
 
 #EXTINF:2-1,007: Goldeneye (lat)
 http://pacific1469.serverprofi24.eu/peliculas//007%3a%20Goldeneye%20%28lat%29.m4v
@@ -3246,81 +3232,6 @@ http://pacific1469.serverprofi24.eu/peliculas//%c2%bfQue%20pas%c3%b3%20ayer%3f%2
 http://pacific1469.serverprofi24.eu/peliculas//%c2%bfQue%20voy%20a%20hacer%20con%20mi%20marido%3f.m4v
 #EXTINF:2-1,Ã‰rase una vez en MÃ©xico
 http://pacific1469.serverprofi24.eu/peliculas//%c3%89rase%20una%20vez%20en%20M%c3%a9xico.m4v
-
-#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 1
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!117&authkey=!AKJJTtp6gyuu47E&ithint=file%2cmkv
-#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 2
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!115&authkey=!ALpY1sFnKCgIXxI&ithint=file%2cmkv
-#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 3
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!116&authkey=!ADuvU9u2Y99KCgE&ithint=file%2cmkv
-#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 4
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!118&authkey=!AH5VdocrSTagFT0&ithint=file%2cmkv
-#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 5
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!119&authkey=!AAlZW5fXG3foZiQ&ithint=file%2cmkv
-#EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 6
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!120&authkey=!APjilfuyHG8gGxc&ithint=file%2cmkv
-#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 1[/COLOR]
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!121&authkey=!ACLENxswssHMucE&ithint=file%2cmkv
-#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 2
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!122&authkey=!AKQUnWWQMjUo17g&ithint=file%2cmkv
-#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 3
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!123&authkey=!AAWlsvmlPawtXOI&ithint=file%2cmkv
-#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 4
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!124&authkey=!AAtV8MqnU7HJVJ0&ithint=file%2cmkv
-#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 5
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!125&authkey=!AO-ummJXH10Ypfk&ithint=file%2cmkv
-#EXTINF:-1,Henry Hugglemonster Dvd (2013).Capitulo 6
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!126&authkey=!AJGEq4fu-Q4FBbg&ithint=file%2cmkv
-#EXTINF:-1,La Casa de Mickey Mouse - El Hipo de Donald
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!128&authkey=!AJfbU0a13Q6qpLU&ithint=video%2cavi
-#EXTINF:-1,La Casa de Mickey Mouse - El Bubu De Oro
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!129&authkey=!AF5w5ZCOJUyQrVg&ithint=video%2cavi
-#EXTINF:-1,La Casa de Mickey Mouse - Goofy Desaparece
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!130&authkey=!AOV0BSQ6siY21UU&ithint=video%2cavi
-#EXTINF:-1,La Casa de Mickey Mouse - Mickey va a pescar
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!132&authkey=!AMVGI149DRYjzXE&ithint=video%2cavi
-#EXTINF:-1,La Casa de Mickey Mouse - La Minnie Durmiente
-https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!131&authkey=!AJoLzKTEKTfGEVU&ithint=video%2cavi
-#EXTINF:0 group-title="Infantil",ALADDIN
-http://www.spruto.tv/get_file/1/38577f19393369cb2c5d785beb3c3ffc/80000/80730/80730.mp4
-#EXTINF:0 group-title="Infantil",ALADDIN 2 EL RETORNO DE JAFAR
-http://www.spruto.tv/get_file/5/b66d5c46890169c4100a2d1efdc8c45c/110000/110198/110198.mp4
-#EXTINF:0 group-title="Infantil",ALADDIN Y EL REY DE LOS LADRONES
-http://www.spruto.tv/get_file/5/ca110c858858a9f44749dfaac0220c9a/110000/110199/110199.mp4
-#EXTINF:0 group-title="Infantil",ALICIA EN EL PAIS DE LAS MARAVILLAS (1951)
-http://www.spruto.tv/get_file/1/6e54e785dcb21b63de42f4928ce68bf5/86000/86137/86137.mp4
-#EXTINF:0 group-title="Infantil",ALICIA EN EL PAIS DE LAS MARAVILLAS (2010)
-http://www.spruto.tv/get_file/7/f75b9e1cefffcd3087150b883fac3fc7/76000/76261/76261.mp4
-#EXTINF:0 group-title="Infantil",BARBIE SUPER PRINCESA
-http://www.spruto.tv/get_file/2/296ed0c12d8f80128b04d333c08204c8/98000/98420/98420.mp4
-#EXTINF:0 group-title="Infantil",ENREDADOS
-http://www.spruto.tv/get_file/1/03259f1f551f0a49262bb7850316fb3f/80000/80737/80737.mp4
-#EXTINF:0 group-title="Infantil",FROZEN UNA AVENTURA CONGELADA
-http://www.spruto.tv/get_file/1/bcae57a2defea5dec966b96630b25aee/80000/80731/80731.mp4
-#EXTINF:0 group-title="Infantil",LA BELLA Y LA BESTIA
-http://www.spruto.tv/get_file/1/c70f56a357964267dabbc26f0e3ab056/80000/80729/80729.mp4
-#EXTINF:0 group-title="Infantil",LA CENICIENTA (1950)
-http://www.spruto.tv/get_file/1/1f40df69b4937859479ea77516275841/80000/80739/80739.mp4
-#EXTINF:0 group-title="Infantil",LA CENICIENTA 2 UN SUEÑO HECHO REALIDAD
-http://www.spruto.tv/get_file/5/e385ba2b56ffe07c86d12b21a0ba7075/110000/110193/110193.mp4
-#EXTINF:0 group-title="Infantil",LA PRINCESA Y EL SAPO
-http://www.spruto.tv/get_file/1/0ca9aa377fdebc035473d0854dba27bd/80000/80733/80733.mp4
-#EXTINF:0 group-title="Infantil",LA SIRENITA
-http://www.spruto.tv/get_file/1/4b064db0eb982aa0bbe454deab684473/80000/80728/80728.mp4
-#EXTINF:0 group-title="Infantil",LA SIRENITA 2 REGRESO AL MAR
-http://www.spruto.tv/get_file/5/3285b40f685b8393955c2f6c6c2c3633/110000/110190/110190.mp4
-#EXTINF:0 group-title="Infantil",LA SIRENITA LOS COMIENZOS DE ARIEL
-http://www.spruto.tv/get_file/5/a2ce2d450446df3680e88291f5265033/110000/110191/110191.mp4
-#EXTINF:0 group-title="Infantil",MULAN
-http://www.spruto.tv/get_file/1/8743a11400fed1059155b246e8c16e80/80000/80735/80735.mp4
-#EXTINF:0 group-title="Infantil",MULAN 2
-http://www.spruto.tv/get_file/7/cc0868b3bbd4d8af610469b429a57667/76000/76864/76864.mp4
-#EXTINF:0 group-title="Infantil",POCAHONTAS
-http://www.spruto.tv/get_file/1/6cccbcf375881ff2d942fc3383e52cf8/80000/80732/80732.mp4
-#EXTINF:0 group-title="Infantil",POCAHONTAS 2
-http://www.spruto.tv/get_file/5/089c5dc4e579784688380d9ce7cbff9a/110000/110200/110200.mp4
-#EXTINF:0 group-title="Infantil",VALIENTE
-http://www.spruto.tv/get_file/1/bdbbca9f39a2dc67d1fd3af42a36065b/80000/80734/80734.mp4
 
 
 #EXTINF:-1 group-title="ADULTOS" parent-code="1997",PlayBoy TvChat
