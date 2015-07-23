@@ -1,6 +1,8 @@
 #EXTM3U
+#EXTINF:-1,CLARITO
+http://ooyalasecurehd3-f.akamaihd.net/z/csportsec06_delivery@332300/playlist.m3u8
 #EXTINF:-1,CLARO6
-http://ionlive1-lh.akamaihd.net/i/csportsec05_delivery@332299/master.m3u8
+http://ionlive1-lh.akamaihd.net/i/csportsec05_delivery@332299/playlist.m3u8
 #EXTINF:-1,Discovery
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,History
