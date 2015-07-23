@@ -3,8 +3,6 @@
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,History
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,Disney XD
-http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,Discovery Kids
 http://live.mvdigital.net:1935/live6/livestream1.sdp/playlist.m3u8
 #EXTINF:0,TaTeTi NIÑOS
