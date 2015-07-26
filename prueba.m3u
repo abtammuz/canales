@@ -1,6 +1,6 @@
 #EXTM3U
-‪‎EXTINF‬:-1,Fox
-http://oneplay.tv/applicationlive/reproducir/85_YKWQBIbDdsnTpcqvlJGUkSwmfjhLEO.m3u8
+#EXTINF:-1,MUSIC
+http://200.76.77.230/LIVE/H01/CANAL103/PROFILE03.m3u8
 #EXTINF:-1,Disney XD
 http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Radio 50's
