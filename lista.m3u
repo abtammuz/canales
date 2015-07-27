@@ -215,6 +215,10 @@ http://200.76.77.230/LIVE/H01/CANAL495/PROFILE03.m3u8?
 http://200.76.77.230/LIVE/H01/CANAL496/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="ESPN HD" , ESPN HD
 http://200.76.77.230/LIVE/H01/CANAL516/PROFILE03.m3u8?
+#EXTINF:-1 tvg-name="ESPN" , ESPN
+http://200.76.77.230/LIVE/H01/CANAL558/PROFILE03.m3u8?
+#EXTINF:-1 tvg-name="ESPN2" , ESPN2
+http://200.76.77.230/LIVE/H01/CANAL561/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="ESPN3 HD" , ESPN3 HD
 http://200.76.77.230/LIVE/H01/CANAL520/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Fox Sports HD" , Fox Sports HD
@@ -223,10 +227,6 @@ http://200.76.77.230/LIVE/H01/CANAL522/PROFILE03.m3u8?
 http://200.76.77.230/LIVE/H01/CANAL527/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="PXTV HD" , PXTV HD
 http://200.76.77.230/LIVE/H01/CANAL528/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="ESPN" , ESPN
-http://200.76.77.230/LIVE/H01/CANAL558/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="ESPN2" , ESPN2
-http://200.76.77.230/LIVE/H01/CANAL561/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="AYM Deportes" , AYM Deportes
 http://200.76.77.230/LIVE/H01/CANAL576/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Milenio" , Milenio
@@ -416,30 +416,6 @@ rtmp://186.155.200.118:1935/live/Televitrola
 http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u8
 
 
-
-
-#EXTINF:-1,El Trece México
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
-#EXTINF:-1,AZTECA 13
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-#EXTINF:-1,AZTECA NOTICIAS
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:-1,AZTECA DEPORTES
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
-#EXTINF:-1,PROYECTO 40
-http://tvaz-pd.kaltura.com.edgesuite.net/p/461031/sp/46103100/serveFlavor/entryId/0_08wdjxfl/v/1/flavorId/0_8j06e5nk/forceproxy/true/name/a.mp4
-#EXTINF:-1,CANAL DE LAS ESTRELLAS
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
-#EXTINF:-1,FORO TV
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8#MegaIPTVArgentina
-#EXTINF:-1 ,Once TV
-http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1,GALATV Cancun
-http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8?
-#EXTINF:-1,ONCE TV
-http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
-#EXTINF:-1,MILENIO
-http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
 #EXTINF:-1,PELICULAS LATINO
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Megavision Canal 21 El Salvador
