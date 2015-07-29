@@ -1,4 +1,234 @@
 #EXTM3U
+#EXTINF:0,TR: KRAL
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5112.m3u8
+#EXTINF:0,TR: ULKE TV HD
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5144.m3u8
+#EXTINF:0,TR: TV 8
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5129.m3u8
+#EXTINF:0,TR: TRT_1 HD
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5121.m3u8
+#EXTINF:0,TR: TRT TÜRK
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5161.m3u8
+#EXTINF:0,TR: TRT SPOR
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5122.m3u8
+#EXTINF:0,TR: TRT OKUL
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5160.m3u8
+#EXTINF:0,TR: TRT MÜZIK
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5159.m3u8
+#EXTINF:0,TR: TRT MÜZİK
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5158.m3u8
+#EXTINF:0,TR: TRT HD
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5157.m3u8
+#EXTINF:0,TR: TRT DIYANET
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5156.m3u8
+#EXTINF:0,TR: TRT BELGESEL
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5145.m3u8
+#EXTINF:0,TR: TRT ÇOCUK
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5123.m3u8
+#EXTINF:0,TR: TRT AVAZ
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5155.m3u8
+#EXTINF:0,TR: TRT ARAPÇA
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5154.m3u8
+#EXTINF:0,TR: TRT 6
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5152.m3u8
+#EXTINF:0,TR: TRT 3 SPOR
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5151.m3u8
+#EXTINF:0,TR: TGRT BELGESEL
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5146.m3u8
+#EXTINF:0,TR: STAR TV
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5126.m3u8
+#EXTINF:0,TR: SHOW TV
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5127.m3u8
+#EXTINF:0,TR: SEMERKAND HD
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5147.m3u8
+#EXTINF:0,TR: SAMANYOLU
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5132.m3u8
+#EXTINF:0,TR: NTVSPOR
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5135.m3u8
+#EXTINF:0,TR: NTV
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5134.m3u8
+#EXTINF:0,TR: MİNİKA
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5139.m3u8
+#EXTINF:0,TR: MINIKA COCUK
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5140.m3u8
+#EXTINF:0,TR: KANALTURK
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5143.m3u8
+#EXTINF:0,TR: KANAL D HD
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5124.m3u8
+#EXTINF:0,TR: KANAL A
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5148.m3u8
+#EXTINF:0,TR: KANAL 7
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5131.m3u8
+#EXTINF:0,TR: History Channel
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5162.m3u8
+#EXTINF:0,TR: FOX HD
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5128.m3u8
+#EXTINF:0,TR: E2
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5136.m3u8
+#EXTINF:0,TR: DREAM TV
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5141.m3u8
+#EXTINF:0,TR: DREAM TURK
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5142.m3u8
+#EXTINF:0,TR: CNNTURK
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5149.m3u8
+#EXTINF:0,TR: CINE 5
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5130.m3u8
+#EXTINF:0,TR: CARTONNETWORK
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5138.m3u8
+#EXTINF:0,TR: ATV HD
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5125.m3u8
+#EXTINF:0,TR: AHABER
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5150.m3u8
+#EXTINF:0,TR: A SPOR
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5133.m3u8
+#EXTINF:0,US: Ten Sport
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4340.m3u8
+#EXTINF:0,US: NBA TV
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4339.m3u8
+#EXTINF:0,US: EPL 5 HD
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4338.m3u8
+#EXTINF:0,US: EPL 4 HD
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4337.m3u8
+#EXTINF:0,US: EPL 3 HD
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4336.m3u8
+#EXTINF:0,US: EPL 2 HD
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4335.m3u8
+#EXTINF:0,US: EPL 1 HD
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4334.m3u8
+#EXTINF:0,US: Qvc Style
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4053.m3u8
+#EXTINF:0,US: Qvc Beauty
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4054.m3u8
+#EXTINF:0,US: Eden
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4057.m3u8
+#EXTINF:0,US: NBC HD
+http://portal.rapidiptv.com:8080/live/jojo/jojo/3465.m3u8
+#EXTINF:0,US: Big Ten Sporm3u8
+http://portal.rapidiptv.com:8080/live/jojo/jojo/3466.m3u8
+#EXTINF:0,US: USA NetWork
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2617.m3u8
+#EXTINF:0,US: m3u8N Sporm3u8 5
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2645.m3u8
+#EXTINF:0,US: m3u8N Sporm3u8 4
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2644.m3u8
+#EXTINF:0,US: m3u8N Sporm3u8 3
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2643.m3u8
+#EXTINF:0,US: m3u8N Sporm3u8 2
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2642.m3u8
+#EXTINF:0,US: m3u8N Sporm3u8 1
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2641.m3u8
+#EXTINF:0,US: BET
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2618.m3u8
+#EXTINF:0,US: Sy-Fy
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2619.m3u8
+#EXTINF:0,US: Sporm3u8 Net 360
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2637.m3u8
+#EXTINF:0,US: DISCOVERY SCIENCE
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2650.m3u8
+#EXTINF:0,US:STARZ CHILDREN
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2649.m3u8
+#EXTINF:0,US: CBC
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2648.m3u8
+#EXTINF:0,US: Comedy
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2647.m3u8
+#EXTINF:0,US: DISCOVERY INVESTIGATION
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2646.m3u8
+#EXTINF:0,US: WARNER
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2630.m3u8
+#EXTINF:0,US: TELETOON
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2620.m3u8
+#EXTINF:0,US: NBCSN
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2621.m3u8
+#EXTINF:0,US: NBC Sporm3u8
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2622.m3u8
+#EXTINF:0,US: NBC Golf Channel
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2623.m3u8
+#EXTINF:0,US: NICK
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2624.m3u8
+#EXTINF:0,US: DISNEY JR
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2625.m3u8
+#EXTINF:0,US: HISTORY
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2626.m3u8
+#EXTINF:0,US: SPORm3u8NET ONTARIO
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2627.m3u8
+#EXTINF:0,US: Fox Sport 2
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2636.m3u8
+#EXTINF:0,US: Fox Sport 1
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2635.m3u8
+#EXTINF:0,US: Food Network HD
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2628.m3u8
+#EXTINF:0,US: FIGHT NETWORK
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2634.m3u8
+#EXTINF:0,US: ESPN HD
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2633.m3u8
+#EXTINF:0,US: NAT GEO WILD
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2629.m3u8
+#EXTINF:0,US: Big Ten Sport
+http://portal.rapidiptv.com:8080/live/jojo/jojo/2632.m3u8
+#EXTINF:0,NR: Viasat Film
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4445.m3u8
+#EXTINF:0,NR: TV3 Puls
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4457.m3u8
+#EXTINF:0,NR: TV3 Norway
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4456.m3u8
+#EXTINF:0,NR: TV3 Denmark
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4455.m3u8
+#EXTINF:0,NR: TV2 Zulu
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4454.m3u8
+#EXTINF:0,NR: TV2 Zebra
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4453.m3u8
+#EXTINF:0,NR: TV2 Sportkanalen
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4452.m3u8
+#EXTINF:0,NR: TV2 Nyhem3u8kanalen
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4451.m3u8
+#EXTINF:0,NR: TV2 Norge
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4450.m3u8
+#EXTINF:0,NR: TV2 FRI
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4449.m3u8
+#EXTINF:0,NR: TV2 Charlie
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4448.m3u8
+#EXTINF:0,NR: TV2 Bliss
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4447.m3u8
+#EXTINF:0,NR: TV Norge
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4446.m3u8
+#EXTINF:0,NR: NRK Super
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4444.m3u8
+#EXTINF:0,NR: NRK 2
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4443.m3u8
+#EXTINF:0,NR: NRK 1
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4442.m3u8
+#EXTINF:0,NR: Nelonen
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4441.m3u8
+#EXTINF:0,NR: Max Norway
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4440.m3u8
+#EXTINF:0,NR: Kanal 5
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4438.m3u8
+#EXTINF:0,NR: Fem
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4437.m3u8
+#EXTINF:0,NR: DR 3
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4436.m3u8
+#EXTINF:0,NR: DR 2
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4435.m3u8
+#EXTINF:0,NR: Vox Norway
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4424.m3u8
+#EXTINF:0,NR: Viasat Golf
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4431.m3u8
+#EXTINF:0,NR: Viasat Film Action
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4433.m3u8
+#EXTINF:0,NR: TV3 Sport 2
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4430.m3u8
+#EXTINF:0,NR: TV3 Sport 1
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4429.m3u8
+#EXTINF:0,NR: MTV Sport 2
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4428.m3u8
+#EXTINF:0,NR: MTV Sport 1
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4427.m3u8
+#EXTINF:0,NR: Eurosport 1
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4425.m3u8
+#EXTINF:0,NR: DR 1
+http://portal.rapidiptv.com:8080/live/jojo/jojo/4434.m3u8
+
+
 #EXTINF:-1 tvg-name="Total Play HD" , Total Play HD
 http://200.76.77.230/LIVE/H01/CANAL1/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="Az Noticias HD" , Az Noticias HD
