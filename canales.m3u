@@ -345,10 +345,6 @@ http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchanne
 http://live.mvdigital.net:1935/live13/livestream1.sdp/playlist.m3u8
 #EXTINF:1,MUSIC
 http://www.djing.com/tv/hothothot.m3u8
-#EXTINF:-1, QUIEROMUSICA
-mms://200.42.92.6:1755/qmusica
-#EXTINF:-1, IBIZA ON TV
-rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
 #EXTINF:-1, CAPITAL TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,HEART TV
@@ -365,7 +361,7 @@ http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
 http://serv07.vintera.tv:1935/restream/105tv.stream/playlist.m3u8
 #EXTINF:-1,RADIO MONTECARLO
 http://serv07.vintera.tv:1935/restream/rmc.stream/playlist.m3u8
-#EXTINF:-1,PLANETA POP
+#EXTINF:-1,PLANAT POP
 http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:-1,IB3
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
