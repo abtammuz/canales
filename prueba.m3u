@@ -1,140 +1,151 @@
 #EXTM3U
-#EXTINF:0,####VM 18  Attenzione no Parental Control###
-http://bstream.universostream.net:8000/live/guidop/guidop/643.ts
-#EXTINF:0,La Rimozione
-http://bstream.universostream.net:8000/live/guidop/guidop/644.m3u8
-#EXTINF:0,1
-http://bstream.universostream.net:8000/live/guidop/guidop/897.m3u8
-#EXTINF:0,2
-http://bstream.universostream.net:8000/live/guidop/guidop/898.m3u8
-#EXTINF:0,3
-http://bstream.universostream.net:8000/live/guidop/guidop/899.m3u8
-#EXTINF:0,4
-http://bstream.universostream.net:8000/live/guidop/guidop/906.m3u8
-#EXTINF:0,5
-http://bstream.universostream.net:8000/live/guidop/guidop/907.m3u8
-#EXTINF:0,XXX 6
-http://bstream.universostream.net:8000/live/guidop/guidop/904.ts
-#EXTINF:0,XXX 7
-http://bstream.universostream.net:8000/live/guidop/guidop/908.ts
-#EXTINF:0,XXX 8
-http://bstream.universostream.net:8000/live/guidop/guidop/911.ts
-#EXTINF:0,XXX 9
-http://bstream.universostream.net:8000/live/guidop/guidop/915.ts
-#EXTINF:0,XXX 10
-http://bstream.universostream.net:8000/live/guidop/guidop/922.ts
-#EXTINF:0,XXX 11
-http://bstream.universostream.net:8000/live/guidop/guidop/1051.ts
-#EXTINF:0,XXX 12
-http://bstream.universostream.net:8000/live/guidop/guidop/1052.ts
-#EXTINF:0,XXX 13
-http://bstream.universostream.net:8000/live/guidop/guidop/1053.ts
-#EXTINF:0,XXX 14
-http://bstream.universostream.net:8000/live/guidop/guidop/1054.ts
-#EXTINF:0,XXX 15
-http://bstream.universostream.net:8000/live/guidop/guidop/1055.ts
-#EXTINF:0,REDLIGHT
-http://bstream.universostream.net:8000/live/guidop/guidop/2381.ts
-#EXTINF:0,Sct HQ
-http://bstream.universostream.net:8000/live/guidop/guidop/2331.ts
-#EXTINF:0,SCT 7
-http://bstream.universostream.net:8000/live/guidop/guidop/2379.ts
-#EXTINF:0,SCT 6
-http://bstream.universostream.net:8000/live/guidop/guidop/2380.ts
-#EXTINF:0,####### XXX VOD#####
-http://bstream.universostream.net:8000/live/guidop/guidop/2344.ts
-#EXTINF:0,My.Dads.Hot.Wife
-http://bstream.universostream.net:8000/movie/guidop/guidop/2461.mkv
-#EXTINF:0,Mommys.Back.2
-http://bstream.universostream.net:8000/movie/guidop/guidop/2460.mkv
-#EXTINF:0,MILF.Fantasy
-http://bstream.universostream.net:8000/movie/guidop/guidop/2458.mkv
-#EXTINF:0,Milf.Cream.Pies
-http://bstream.universostream.net:8000/movie/guidop/guidop/2459.mkv
-#EXTINF:0,Lesbian.Ghost.Stories.3
-http://bstream.universostream.net:8000/movie/guidop/guidop/2457.mkv
-#EXTINF:0,Teen.Cum.Surprise
-http://bstream.universostream.net:8000/movie/guidop/guidop/2414.mkv
-#EXTINF:0,Supernatural
-http://bstream.universostream.net:8000/movie/guidop/guidop/2413.mkv
-#EXTINF:0,Super.Cute.3
-http://bstream.universostream.net:8000/movie/guidop/guidop/2412.mkv
-#EXTINF:0,Restraint.2
-http://bstream.universostream.net:8000/movie/guidop/guidop/2411.mkv
-#EXTINF:0,Nice.Naturals
-http://bstream.universostream.net:8000/movie/guidop/guidop/2410.mkv
-#EXTINF:0,Impulse
-http://bstream.universostream.net:8000/movie/guidop/guidop/2409.mkv
-#EXTINF:0,Girls.Of.Bang.Bros
-http://bstream.universostream.net:8000/movie/guidop/guidop/2408.mkv
-#EXTINF:0,Analmals
-http://bstream.universostream.net:8000/movie/guidop/guidop/2407.mkv
-#EXTINF:0,The.Innocence.Of.Youth.8
-http://bstream.universostream.net:8000/movie/guidop/guidop/2343.mkv
-#EXTINF:0,Moms.In.Control.2
-http://bstream.universostream.net:8000/movie/guidop/guidop/2342.mkv
-#EXTINF:0,Having.Relations
-http://bstream.universostream.net:8000/movie/guidop/guidop/2376.mkv
-#EXTINF:0,Teachers.With.Curves
-http://bstream.universostream.net:8000/movie/guidop/guidop/2378.mkv
-#EXTINF:6330,Behind.The.Scenes
-http://bstream.universostream.net:8000/movie/guidop/guidop/2375.mkv
-#EXTINF:0,In.The.Flesh
-http://bstream.universostream.net:8000/movie/guidop/guidop/2377.mkv
+#EXTINF:-1,HOGAR TV
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fxhogartvx.api.channel.livestream.com%2F3.0%2Fplaylist.m3u8
+#EXTINF:-1,Canal 12 Cordoba
+http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
+#EXTINF:-1,CANAL TRECE
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fcdns840stu1010.multistream.net%2Fcanaltr3celive%2Flive-500%2FPAZ.m3u8
+#EXTINF:-1,Cine Dinamita
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3465
+#EXTINF:-1,Cinecanal
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2495
+#EXTINF:-1,CineLatino
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F477
+#EXTINF:-1,Fox
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3947
+#EXTINF:-1,Paramount Channel Latinoamerica
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F260
+#EXTINF:-1,Sundance Channel Latinoamerica 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1041
 
+#EXTINF:-1,Mundo Fox
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F429
+#EXTINF:-1,SyFy
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F447
+#EXTINF:-1,Fox 1 HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F433
+#EXTINF:-1,Fox 1 HD 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F439 
+#EXTINF:-1,Fox Action HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F435
+#EXTINF:-1,Fox Action HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F437 
+#EXTINF:-1,Fox Movies HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F463 
+#EXTINF:-1,Fox Cinéma
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F457 
+#EXTINF:-1,Fox Family
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F467
+#EXTINF:-1,Fox Comedy
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F461
+#EXTINF:-1,HBO
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F385
+#EXTINF:-1,HBO2
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F365
+#EXTINF:-1,HBO plus ESTE
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F453
+#EXTINF:-1,HBO plus OESTE
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F369
+#EXTINF:-1,HBO Family 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F449
+#EXTINF:-1,Max UP
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F469
+#EXTINF:-1,MAX
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F381
+#EXTINF:-1,Max Prime Este
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F377
+#EXTINF:-1,MaxPrime Oeste
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F379
+#EXTINF:-1,AMC
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F485
+#EXTINF:-1,Universal
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F387
+#EXTINF:-1,Studio Universal
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F345
 
+#EXTINF:-1,I.Sat
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1703
+#EXTINF:-1,Sony HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2501 
+#EXTINF:-1,Warner Channel Latinoamerica
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2499
 
+#EXTINF:-1,FX HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F431
+#EXTINF:-1,Tru TV America Latina
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F337
+#EXTINF:-1,A E 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F258
+#EXTINF:-1,E!
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F427
+#EXTINF:-1,AXN HD 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2493
 
-#EXTINF:0,IT: Porq 2 XXX
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4288.m3u8
-#EXTINF:0,IT: Porq 1 XXX
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4289.m3u8
-#EXTINF:0,IT: Hot Club 9 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4291.m3u8
-#EXTINF:0,IT: Hot Club 8 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4292.m3u8
-#EXTINF:0,IT: Hot Club 7 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4293.m3u8
-#EXTINF:0,IT: Hot Club 6 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4294.m3u8
-#EXTINF:0,IT: Hot Club 5 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4295.m3u8
-#EXTINF:0,IT: Hot Club 4 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4296.m3u8
-#EXTINF:0,IT: Hot Club 3 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4297.m3u8
-#EXTINF:0,IT: Hot Club 2 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4298.m3u8
-#EXTINF:0,IT: Hot Club 10 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4290.m3u8
-#EXTINF:0,IT: Hot Club 1 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4299.m3u8
+#EXTINF:-1,Cinemax
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F343
+#EXTINF:-1,Europa Europa
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1597
+#EXTINF:-1,Film & Arts
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1599
+#EXTINF:-1,The Film Zone HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1055
+#EXTINF:-1,TNT HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F262
+#EXTINF:-1,TNT Series Latinoamerica
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F331
+#EXTINF:-1,MultiPremier
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3293
+#EXTINF:-1,Golden Premier 1
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1487
+#EXTINF:-1,Golden Multiplex
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1035
+#EXTINF:-1,Golden Edge 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1465
+#EXTINF:-1,Space
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2489
+#EXTINF:-1,TCM
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F481
+#EXTINF:-1,BBC Entertainment
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1407
+#EXTINF:-1,Glitz
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1473
+#EXTINF:-1,Comedy Central 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1037 
+#EXTINF:-1,Distrito Comedia
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1491 
+#EXTINF:-1,TBS
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F333 
+#EXTINF:-1,Disney Channel
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F256
+#EXTINF:-1,Disney XD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F499
+#EXTINF:-1,Disney Jr
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1455
+#EXTINF:-1,Nick
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1423 
+#EXTINF:-1,Nick Jr 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F417
+#EXTINF:-1,Cartoon Network
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F421 
+#EXTINF:-1,Boomerang
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2507
+#EXTINF:-1,Tooncast
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F443
+#EXTINF:-1,CBeebies
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1029
+#EXTINF:-1,BabyFirst TV
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1031
+#EXTINF:-1,Baby TV
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F317
+#EXTINF:-1,Discovery Kids
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F309
 
-
-#EXTINF:-1,Hustler HD
-http://tvservice.broke-it.net:8000/live/lovingguy_101/SKYPE3/2337.m3u8
-#EXTINF:-1,Redlight HD
-http://tvservice.broke-it.net:8000/live/lovingguy_101/SKYPE3/2462.m3u8
-#EXTINF:-1,xxx-Paradise
-http://tvservice.broke-it.net:8000/live/lovingguy_101/SKYPE3/1572.m3u8
-#EXTINF:-1,Dorcel XXX
-http://tvservice.broke-it.net:8000/live/lovingguy_101/SKYPE3/1573.m3u8
-#EXTINF:-1,Hot Club 1 HD
-http://tvservice.broke-it.net:8000/live/lovingguy_101/SKYPE3/1000.m3u8
-#EXTINF:-1,Hot Club 2 HD
-http://tvservice.broke-it.net:8000/live/lovingguy_101/SKYPE3/1020.m3u8
-#EXTINF:-1,Hot Club 3 HD
-http://tvservice.broke-it.net:8000/live/lovingguy_101/SKYPE3/1021.m3u8
-#EXTINF:-1,Hot Club 4 HD
-http://tvservice.broke-it.net:8000/live/lovingguy_101/SKYPE3/1022.m3u8
-#EXTINF:-1,Hot Club 5 HD
-http://tvservice.broke-it.net:8000/live/lovingguy_101/SKYPE3/1120.m3u8
-#EXTINF:-1,Hot Club 6 HD
-http://tvservice.broke-it.net:8000/live/lovingguy_101/SKYPE3/1121.m3u8
-#EXTINF:-1,Hot Club 7 HD
-http://tvservice.broke-it.net:8000/live/lovingguy_101/SKYPE3/1122.m3u8
-
-
+#EXTINF:-1,DRAGON BALL Z
+rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330
+#EXTINF:-1,History
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3704
+#EXTINF:-1,H2 Latinoamerica
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F297
 
 #EXTINF:-1 tvg-name="Total Play HD" , Total Play HD
 http://200.76.77.230/LIVE/H01/CANAL1/PROFILE05.m3u8?
