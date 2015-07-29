@@ -9,10 +9,10 @@ http://bstream.universostream.net:8000/live/guidop/guidop/897.m3u8
 http://bstream.universostream.net:8000/live/guidop/guidop/898.m3u8
 #EXTINF:0,3
 http://bstream.universostream.net:8000/live/guidop/guidop/899.m3u8
-#EXTINF:0,XXX 4
-http://bstream.universostream.net:8000/live/guidop/guidop/906.ts
-#EXTINF:0,XXX 5
-http://bstream.universostream.net:8000/live/guidop/guidop/907.ts
+#EXTINF:0,4
+http://bstream.universostream.net:8000/live/guidop/guidop/906.m3u8
+#EXTINF:0,5
+http://bstream.universostream.net:8000/live/guidop/guidop/907.m3u8
 #EXTINF:0,XXX 6
 http://bstream.universostream.net:8000/live/guidop/guidop/904.ts
 #EXTINF:0,XXX 7
