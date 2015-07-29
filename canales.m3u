@@ -512,7 +512,7 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_360p/hasbahca.m3u8
 http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
 #EXTINF:4.004,TVN
 http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
-#EXTINF:-1,TVN
+#EXTINF:-1,TVN opc 2
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1,Cantrece
 rtmp://stream01.cyberfuel.com/SinartCanal13/livestream
@@ -520,9 +520,7 @@ rtmp://stream01.cyberfuel.com/SinartCanal13/livestream
 http://brightcove03-f.akamaihd.net/iptv2_1_900@50919?videoId=1370792317001&lineUpId=&pubId=734546207001&playerId=2210144031001&affiliateId=&v=3.4.0&fp=WIN%2016,0,0,305&r=QKDUB&g=VYPYWHJMHSEH
 #EXTINF:-1,OCHO TV (Mex)
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
-#EXTINF:-1,UNIMAS
-rtmp://podi.hopper.pw:443/live/live_unimas12
-#EXTINF:-1,MEGA HD (Chi)
+#EXTINF:-1,MEGA HD
 http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
 #EXTINF:-1,Naranja Tv
 http://ciez45.live.cloud.influxis.com/ciez45/NaranjaTV/chunklist_w1563927943.m3u8?
@@ -584,8 +582,6 @@ http://edge-12-cl.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17
 http://wow2.cl.digitalproserver.com/c9//c9.smil/hasbahca.m3u8
 #EXTINF:4.004,La Red 
 http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u8
-#EXTINF:4.004,Mega HD
-http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
 #EXTINF:4.004,Valle Television 2
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
 #EXTINF:4.004,Aragon TV Sat
