@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,pruev
-http://oneplay.tv/applicationlive/reproducir/308_yBXZpjJmMTDqczRLgnSkiOYaGuetof.m3u8
 #EXTINF:-1 tvg-name="Total Play HD" , Total Play HD
 http://200.76.77.230/LIVE/H01/CANAL1/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Az Noticias HD" , Az Noticias HD
@@ -256,9 +254,9 @@ http://200.76.77.230/LIVE/H01/CANAL731/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Bandamax" , Bandamax
 http://200.76.77.230/LIVE/H01/CANAL732/PROFILE03.m3u8?
 
-#EXTINF:-1,Discovery
+#EXTINF:-1,Discovery en español
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,History
+#EXTINF:-1,Tu History
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,Discovery Kids
 http://live.mvdigital.net:1935/live6/livestream1.sdp/playlist.m3u8
@@ -270,8 +268,6 @@ http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3
 http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,RED TV Peru
 http://live.mvdigital.net:1935/live9/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,Music
-http://live.mvdigital.net:1935/live13/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,An7
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Latina
@@ -280,16 +276,8 @@ http://live.mvdigital.net:1935/live1/livestream1.sdp/playlist.m3u8
 http://live.mvdigital.net:1935/live2/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,ATV
 http://live.mvdigital.net:1935/live3/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,ULTRA TV
-http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
-#EXTINF:-1, ULTRA TV OPC2
-http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
 #EXTINF:-1,Ultra Cine
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
-#EXTINF:-1,Ultra Film
-http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchannel3@219942/index.m3u8
-#EXTINF:-1,Ultra Fiesta
-http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
 #EXTINF:-1,RT ESPAÑOL
 http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,TELESIG
@@ -299,12 +287,12 @@ http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3
 #EXTINF:-1,TV
 http://iphone-streaming.ustream.tv/uhls/18376856/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1,KW TV México
-http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi
 #EXTINF:-1,SPORTSNET
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 #EXTINF:-1,Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8#MegaIPTVArgentina
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+#EXTINF:4.004,Sevilla TV
+rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
 #EXTINF:0,PAC-12Net.(Arizona)
 http://xrxs.net/video/live-p12ariz-4728.m3u8?
 #EXTINF:0,PAC-12Net.(Bay Area)
@@ -335,42 +323,31 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,GOL TV ARG
 http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
-#EXTINF:-1, AMERICA SPORTS
-http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Sevilla TV
-http://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc/stml.m3u8
-#EXTINF:4.004,Sevilla OPC 2
-rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
-#EXTINF:-1,Real Madrid TV HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,TN
-rtsp://stream.tn.com.ar/live/tnhd1
-#EXTINF:-1,Victorias Secret Angels TV 
+#EXTINF:-1,Victorias Secret Angels
 http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
-#EXTINF:-1 tvg-name=MiamiTVHD" tvg-logo="miamitv.png" group-title="Variedades - Latinos",Miami TV HD 720 USA
-rtmp://74.208.69.207/live/miamitvhd
 #EXTINF:-1,TVEO Miami USA
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1,MUSIC VEVO1 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1,music VEVO HD
+
+#EXTINF:-1,MUSIC VEVO HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
-#EXTINF:-1,MUSIC Vevo2 HD
+#EXTINF:-1,MUSIC VEVO2 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1,MUSIC Vevo3 HD
+#EXTINF:-1,MUSIC VEVO3 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 #EXTINF:-1,KISS TV MUSIC
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1,First MusicHD
+#EXTINF:-1,FIRTS MUSIC HD
 rtmp://109.239.142.62/live/livestream3
+#EXTINF:-1,ULTRA FIESTA
+http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
+#EXTINF:-1,DANCING
+http://live.mvdigital.net:1935/live13/livestream1.sdp/playlist.m3u8
 #EXTINF:1,MUSIC
 http://www.djing.com/tv/hothothot.m3u8
-#EXTINF:-1,FOR MUSIC WEB
-rtmp://wowza1.top-ix.org/quartaretetv1/formusicweb
-#EXTINF:1,QUIEROMUSICA
+#EXTINF:-1, QUIEROMUSICA
 mms://200.42.92.6:1755/qmusica
-#EXTINF:-1,IBIZA ON TV
+#EXTINF:-1, IBIZA ON TV
 rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
 #EXTINF:-1, CAPITAL TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
@@ -612,7 +589,10 @@ rtmp://87.106.219.140/live/myStream_2
 rtmp://87.106.232.7/live/myStream_2
 #EXTINF:-1, 10
 rtmp://87.106.220.67/live/myStream_2
-#EXTINF:-1 group-title="ADULTOS" parent-code="1997",PlayBoy TvChat
+
+#EXTINF:-1 group-title="ADULTOS" parent-code="1997",Miami TV
+rtmp://74.208.69.207/live/miamitvhd
+#EXTINF:-1,PlayBoy TvChat
 http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w95313209.m3u8
 #EXTINF:-1, PowerGirls
 http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
