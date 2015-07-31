@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1,DiscoveryTurbo
-http://oneplay.tv/ver/canal/109/discovery-turbo.m3u8
-#EXTINF:-1,I-SAT
-http://oneplay.tv/ver/canal/106/i-sat.m3u8
+#EXTINF:-1,DTurbo
+http://oneplay.tv/applicationlive/reproducir/221_TqcpsHzLgfZESXVKdxiRINjtrWoyBQ.m3u8
+#EXTINF:-1,ISAT
+http://oneplay.tv/applicationlive/reproducir/221_dXItZOHMbBeCThrPAamRkzfLKEvwGV.m3u8
 #EXTINF:-1,The Walking Dead
 http://oneplay.tv/ver/canal/105/the-walking-dead.m3u8
 #EXTINF:-1,Fox Cinema
