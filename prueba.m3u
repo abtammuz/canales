@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1,1
-http://live.oneplay.tv/STREAM/01/415/05-161/1883-20150731T103630.m3u8
-#EXTINF:-1,The Walking Dead
-http://oneplay.tv/ver/canal/105/the-walking-dead.m3u8
+#EXTINF:-1,peli
+http://images.myvi.ru/files/videos/preroll_awesome_people_myvi_2.mp4
 #EXTINF:-1,Fox Cinema
 http://oneplay.tv/ver/canal/103/fox-cinema.m3u8
 #EXTINF:-1,Fox+ Family
