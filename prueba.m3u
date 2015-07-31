@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1,DT
-http://oneplay.tv/applicationlive/reproducir/221_lDpscRNIwyjEAnXrvZudmHOCgFhLUt.m3u8
-#EXTINF:-1,ISAT
-http://oneplay.tv/applicationlive/reproducir/221_dXItZOHMbBeCThrPAamRkzfLKEvwGV.m3u8
+#EXTINF:-1,1
+http://oneplay.tv/applicationlive/reproducir/221.m3u8
+#EXTINF:-1,2
+http://oneplay.tv/applicationlive/reproducir/298.m3u8
 #EXTINF:-1,The Walking Dead
 http://oneplay.tv/ver/canal/105/the-walking-dead.m3u8
 #EXTINF:-1,Fox Cinema
