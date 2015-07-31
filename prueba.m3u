@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:-1,Discovery Turbo
-http://oneplay.tv/ver/canal/109/discovery-turbo
-#EXTINF:-1,I-sat
-http://oneplay.tv/ver/canal/106/i-sat
+#EXTINF:-1,DiscoveryTurbo
+http://oneplay.tv/ver/canal/109/discovery-turbo.m3u8
+#EXTINF:-1,I-SAT
+http://oneplay.tv/ver/canal/106/i-sat.m3u8
 #EXTINF:-1,The Walking Dead
-http://oneplay.tv/ver/canal/105/the-walking-dead
+http://oneplay.tv/ver/canal/105/the-walking-dead.m3u8
 #EXTINF:-1,Fox Cinema
-http://oneplay.tv/ver/canal/103/fox-cinema
+http://oneplay.tv/ver/canal/103/fox-cinema.m3u8
 #EXTINF:-1,Fox+ Family
-http://oneplay.tv/ver/canal/102/fox-family
+http://oneplay.tv/ver/canal/102/fox-family.m3u8
 #EXTINF:-1,Fox Classics
-http://oneplay.tv/ver/canal/101/fox-classics
+http://oneplay.tv/ver/canal/101/fox-classics.m3u8
 #EXTINF:-1,Fox+ 1
-http://oneplay.tv/ver/canal/100/fox-1
+http://oneplay.tv/ver/canal/100/fox-1.m3u8
 #EXTINF:-1,Fox+ Action
 http://oneplay.tv/ver/canal/99/fox-action
 #EXTINF:-1,Fox + Movies
