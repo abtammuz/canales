@@ -2,8 +2,8 @@
 #EXTINF:-1,BEIN sport
 http://mbox-addon.com/streams/68873-navix.m3u8
 
-#EXTINF:-1,telehit
-http://oneplay.tv/applicationlive/reproducir/436_UiZCFyXwhVSbTaNWPofqkJcxOlGetz.m3u8
+#EXTINF:-1,TELEHIT
+http://oneplay.tv/applicationlive/reproducir/436.m3u8
 #EXTINF:-1,Fox+ Family
 http://oneplay.tv/ver/canal/102/fox-family.m3u8
 #EXTINF:-1,Fox Classics
