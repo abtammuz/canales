@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1,DiscoveryM3U8
+http://192.99.40.14:8000/stream.php?v=DiscoveryChLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW.m3u8
+#EXTINF:-1,DiscoveryTheaterm3u8 
+http://192.99.40.14:8000/stream.php?v=DiscoveryenEspanolHD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW.m3u8
+#EXTINF:-1,DiscoveryWorldm3u8 
+http://192.99.40.14:8000/stream.php?v=DiscoveryWorldLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW.m3u8
+#EXTINF:-1,DiscoveryHomeHealthLatinoamericam3u8
+http://192.99.40.14:8000/stream.php?v=DiscoveryHomeHealthLAHD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW.m3u8
+#EXTINF:-1,H2Latinoamericam3u8
+http://192.99.40.14:8000/stream.php?v=H2LASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW.m3u8
+#EXTINF:-1,HistoryenEspañolm3u8 
+http://192.99.40.14:8000/stream.php?v=HistoryLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW.m3u8
+#EXTINF:-1,NationalGeographicLatinoamericam3u8 
+http://192.99.40.14:8000/stream.php?v=NatGeoLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW.m3u8
+#EXTINF:-1,NatGeoWildLatinoAmericam3u8
+http://192.99.40.14:8000/stream.php?v=NatGeoWildLAHD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW.m3u8
+#EXTINF:-1,AnimalPlanetLatinoamericam3u8
+http://192.99.40.14:8000/stream.php?v=AnimalPlanetLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW.m3u8
 #EXTINF:-1,Canal De Las Estrellas
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8#MegaIPTVArgentina
 #EXTINF:-1,Info 7
