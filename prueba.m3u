@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,BEIN sport
 http://mbox-addon.com/streams/68873-navix.m3u8
+#EXTINF:-1,minions 
+http://pacific1469.serverprofi24.eu/peliculas//Minions.HDTS.LAT.mp4
 
 #EXTINF:-1,TELEHIT
 http://oneplay.tv/applicationlive/reproducir/436.m3u8
