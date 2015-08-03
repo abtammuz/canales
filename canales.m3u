@@ -337,7 +337,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 #EXTINF:-1,KISS TV MUSIC
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1,FIRTS MUSIC HD
+#EXTINF:-1,FIRTS HD
 rtmp://109.239.142.62/live/livestream3
 #EXTINF:-1,ULTRA FIESTA
 http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
@@ -377,10 +377,10 @@ rtmp://fms.gazeta.pl/aglive/tuba_tv
 http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?=-1
 #EXTINF:-1,AKA
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,Eska RockTv
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
 #EXTINF:-1,Electrosound TVHD
 rtmp://www.electrosound.tv:1935/public/stream
-#EXTINF:-1,Gold TV
-http://87.248.160.8/edge/smil:goldtv/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1,Amazing
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 #EXTINF:-1,Music Box UA
@@ -505,7 +505,7 @@ http://brightcove03-f.akamaihd.net/iptv2_1_900@50919?videoId=1370792317001&lineU
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
 #EXTINF:-1,MEGA HD
 http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
-#EXTINF:-1,Megatv
+#EXTINF:-1,MEGA TV
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
 #EXTINF:-1,Naranja Tv
 http://ciez45.live.cloud.influxis.com/ciez45/NaranjaTV/chunklist_w1563927943.m3u8?
@@ -527,12 +527,18 @@ http://cdns840stu1010.multistream.net/mtchlive/amlst:live/chunklist_b900000.m3u8
 http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
 #EXTINF:-1,TVN (Chi)
 http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+#EXTINF:-1,ncuatro
+http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_22@168474/index_0_av-p.m3u8
+#EXTINF:-1,telecinco
+http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-p.m3u8
 #EXTINF:-1,ANTENA3 HD
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
 #EXTINF:-1,ANTENA3 Opc2
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/index.m3u8
 #EXTINF:-1,LA SEXTA HD
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,Telesur
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
 #EXTINF:-1,TELESISTEMA 11 (Dom)
 http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
 #EXTINF:-1,TELEFUTURA 23 (Dom)
@@ -549,7 +555,7 @@ rtmp://joelzaiter1.srfms.com:1963/live/musav.sdp
 mms://streaming.uanl.mx/canal53bandaancha/
 #EXTINF:4.004,C5N 
 rtmp://c5n.stweb.tv:1935/c5n/live
-#EXTINF:4.004,Canal 5 tigre-tv
+#EXTINF:4.004,Canal5 tigre-tv
 http://iphone-streaming.ustream.tv/ustreamVideo/11068260/streams/live/playlist.m3u8
 #EXTINF:4.004,Canal 12
 http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
