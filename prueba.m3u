@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, discovery
-http://sjc-uhls-proxy109.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=17248101&stream=viewer_240p&connectionId=oldurl-278cbb83a0417bfd4658277dba69e057eeb36e3d&group=iphone
 #EXTINF:-1,Canal De Las Estrellas
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8#MegaIPTVArgentina
 #EXTINF:-1,Info 7
@@ -9,7 +7,7 @@ http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
 #EXTINF:-1 tvg-logo="canal once.png",Canal Once
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
-#EXTINF:-1,Russia Today RT En Español
+#EXTINF:-1,RT En Español
 http://rt-a.akamaihd.net/ch_02@325606/480p.m3u8
 #EXTINF:-1,Azteca Noticias
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8#MegaIPTVArgentina
