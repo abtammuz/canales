@@ -1,45 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Total Play HD" , Total Play HD
+#EXTINF:-1 tvg-name="Total Play HD" , TotalPlay
 http://200.76.77.230/LIVE/H01/CANAL1/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Az Noticias HD" , Az Noticias HD
+#EXTINF:-1 tvg-name="Az Noticias HD" , Az Noticias
 http://200.76.77.230/LIVE/H01/CANAL2/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Azteca 7 HD" , Azteca 7 HD
+#EXTINF:-1 tvg-name="Azteca 7 HD" , Azteca 7
 http://200.76.77.230/LIVE/H01/CANAL7/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Azteca Trece HD" , Azteca 13 HD
+#EXTINF:-1 tvg-name="Azteca Trece HD" , Azteca 13
 http://200.76.77.230/LIVE/H01/CANAL13/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Azteca Siete Jalisco HD" , Azteca Siete Jalisco HD
+#EXTINF:-1 tvg-name="Azteca Siete Jalisco HD" , Azteca Siete Jalisco
 http://200.76.77.230/LIVE/H01/CANAL17/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Azteca Trece HD" , Azteca 13 HD
+#EXTINF:-1 tvg-name="Azteca Trece HD" , Azteca 13
 http://200.76.77.230/LIVE/H01/CANAL23/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Proyecto 40 HD" , Proyecto 40 HD
+#EXTINF:-1 tvg-name="Proyecto 40 HD" , Proyecto 40
 http://200.76.77.230/LIVE/H01/CANAL40/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Az Corazon HD" , Az Corazon HD
+#EXTINF:-1 tvg-name="Az Corazon HD" , Az Corazon
 http://200.76.77.230/LIVE/H01/CANAL45/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Canal de las Estrellas HD" , Canal de las Estrellas HD
+#EXTINF:-1 tvg-name="Canal de las Estrellas HD" , Canal de las Estrellas
 http://200.76.77.230/LIVE/H01/CANAL52/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Canal 5 HD" , Canal 5 HD
+#EXTINF:-1 tvg-name="Canal 5 HD" , Canal 5
 http://200.76.77.230/LIVE/H01/CANAL55/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Azteca Siete HD" , Azteca Siete HD
+#EXTINF:-1 tvg-name="Azteca Siete HD" , Azteca Siete
 http://200.76.77.230/LIVE/H01/CANAL57/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Azteca Trece HD" , Azteca 13 HD
+#EXTINF:-1 tvg-name="Azteca Trece HD" , Azteca 13
 http://200.76.77.230/LIVE/H01/CANAL63/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Canal de las Estrellas HD" , Canal de las Estrellas HD
+#EXTINF:-1 tvg-name="Canal de las Estrellas HD" , Canal de las Estrellas
 http://200.76.77.230/LIVE/H01/CANAL102/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Azclic" , Azclic
 http://200.76.77.230/LIVE/H01/CANAL103/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Foro TV HD" , Foro TV HD
+#EXTINF:-1 tvg-name="Foro TV HD" , Foro TV
 http://200.76.77.230/LIVE/H01/CANAL104/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Canal 5 HD" , Canal 5 HD
+#EXTINF:-1 tvg-name="Canal 5 HD" , Canal 5
 http://200.76.77.230/LIVE/H01/CANAL105/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Azteca Siete HD" , Azteca Siete HD
+#EXTINF:-1 tvg-name="Azteca Siete HD" , Azteca Siete
 http://200.76.77.230/LIVE/H01/CANAL107/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Gala TV HD" , Gala TV HD
+#EXTINF:-1 tvg-name="Gala TV HD" , Gala TV
 http://200.76.77.230/LIVE/H01/CANAL109/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Canal Once HD" , Canal Once HD
+#EXTINF:-1 tvg-name="Canal Once HD" , Canal Once
 http://200.76.77.230/LIVE/H01/CANAL111/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Azteca Trece HD" , Azteca 13 HD
+#EXTINF:-1 tvg-name="Azteca Trece HD" , Azteca 13
 http://200.76.77.230/LIVE/H01/CANAL113/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Proyecto 40 HD" , Proyecto 40 HD
+#EXTINF:-1 tvg-name="Proyecto 40 HD" , Proyecto 40
 http://200.76.77.230/LIVE/H01/CANAL140/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Cadena Tres" , Cadena Tres
 http://200.76.77.230/LIVE/H01/CANAL143/PROFILE03.m3u8?
@@ -47,35 +47,35 @@ http://200.76.77.230/LIVE/H01/CANAL143/PROFILE03.m3u8?
 http://200.76.77.230/LIVE/H01/CANAL145/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Tele Formula" , Tele Formula
 http://200.76.77.230/LIVE/H01/CANAL161/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Multimedios HD" , Multimedios HD
+#EXTINF:-1 tvg-name="Multimedios HD" , Multimedios
 http://200.76.77.230/LIVE/H01/CANAL167/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="HMX" , HMX
 http://200.76.77.230/LIVE/H01/CANAL169/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Fox HD" , Fox HD
+#EXTINF:-1 tvg-name="Fox HD" , Fox
 http://200.76.77.230/LIVE/H01/CANAL201/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Sony HD" , SET HD
+#EXTINF:-1 tvg-name="Sony HD" , SET
 http://200.76.77.230/LIVE/H01/CANAL203/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Warner Channel HD" , Warner Channel HD
+#EXTINF:-1 tvg-name="Warner Channel HD" , Warner Channel
 http://200.76.77.230/LIVE/H01/CANAL205/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Universal HD" , Universal HD
+#EXTINF:-1 tvg-name="Universal HD" , Universal Studio
 http://200.76.77.230/LIVE/H01/CANAL207/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="FX HD" , FX HD
+#EXTINF:-1 tvg-name="FX HD" , FX
 http://200.76.77.230/LIVE/H01/CANAL209/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="A&E HD" , A&E HD
+#EXTINF:-1 tvg-name="A&E HD" , A&E
 http://200.76.77.230/LIVE/H01/CANAL211/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="AXN HD" , AXN HD
+#EXTINF:-1 tvg-name="AXN HD" , AXN
 http://200.76.77.230/LIVE/H01/CANAL213/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Tru TV HD" , Tru TV HD
+#EXTINF:-1 tvg-name="Tru TV HD" , Tru TV
 http://200.76.77.230/LIVE/H01/CANAL215/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Comedy Central HD" , Comedy Central HD
+#EXTINF:-1 tvg-name="Comedy Central HD" , Comedy Central
 http://200.76.77.230/LIVE/H01/CANAL217/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Unicable HD" , Unicable HD
+#EXTINF:-1 tvg-name="Unicable HD" , Unicable
 http://200.76.77.230/LIVE/H01/CANAL218/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="HolaTV" , HolaTV
 http://200.76.77.230/LIVE/H01/CANAL219/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="FashionTV" , FashionTV
 http://200.76.77.230/LIVE/H01/CANAL220/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Az Corazon HD" , Az Corazon HD
+#EXTINF:-1 tvg-name="Az Corazon HD" , Az Corazon
 http://200.76.77.230/LIVE/H01/CANAL250/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Fox SD" , Fox SD
 http://200.76.77.230/LIVE/H01/CANAL251/PROFILE03.m3u8?
@@ -119,9 +119,9 @@ http://200.76.77.230/LIVE/H01/CANAL308/PROFILE03.m3u8?
 http://200.76.77.230/LIVE/H01/CANAL310/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Disney Channel" , Disney Channel
 http://200.76.77.230/LIVE/H01/CANAL312/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Nick Toons" , Nick Toons
+#EXTINF:-1 tvg-name="Nick Toons" , NickToons
 http://200.76.77.230/LIVE/H01/CANAL314/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Nick HD" , Nick HD
+#EXTINF:-1 tvg-name="Nick HD" , Nick
 http://200.76.77.230/LIVE/H01/CANAL315/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Nickelodeon" , Nickelodeon
 http://200.76.77.230/LIVE/H01/CANAL317/PROFILE03.m3u8?
@@ -135,19 +135,19 @@ http://200.76.77.230/LIVE/H01/CANAL324/PROFILE03.m3u8?
 http://200.76.77.230/LIVE/H01/CANAL325/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Tooncast" , Tooncast
 http://200.76.77.230/LIVE/H01/CANAL328/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Discovery Teather HD" , Discovery Teather HD
+#EXTINF:-1 tvg-name="Discovery Teather HD" , Discovery Teather
 http://200.76.77.230/LIVE/H01/CANAL351/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="History HD" , History HD
+#EXTINF:-1 tvg-name="History HD" , History
 http://200.76.77.230/LIVE/H01/CANAL353/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Nat Geo Wild HD" , Nat Geo Wild HD
+#EXTINF:-1 tvg-name="Nat Geo Wild HD" , Nat Geo Wild
 http://200.76.77.230/LIVE/H01/CANAL355/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="World Discovery HD" , World Discovery HD
+#EXTINF:-1 tvg-name="World Discovery HD" , World Discovery
 http://200.76.77.230/LIVE/H01/CANAL356/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Discovery Channel" , Discovery Channel
 http://200.76.77.230/LIVE/H01/CANAL371/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Animal Planet" , Animal planet
 http://200.76.77.230/LIVE/H01/CANAL373/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Discovery Home & Health" , Discovery Home & Health
+#EXTINF:-1 tvg-name="Discovery Home & Health" , Discovery H&H
 http://200.76.77.230/LIVE/H01/CANAL374/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="National Geographic Channel" , National Geographic Channel
 http://200.76.77.230/LIVE/H01/CANAL377/PROFILE03.m3u8?
@@ -165,9 +165,9 @@ http://200.76.77.230/LIVE/H01/CANAL386/PROFILE03.m3u8?
 http://200.76.77.230/LIVE/H01/CANAL387/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Fox1 HD" , Fox1 HD
 http://200.76.77.230/LIVE/H01/CANAL415/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Fox Action HD" , Fox Action HD
+#EXTINF:-1 tvg-name="Fox Action HD" , Fox Action
 http://200.76.77.230/LIVE/H01/CANAL416/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Fox Movies HD" , Fox Movies HD
+#EXTINF:-1 tvg-name="Fox Movies HD" , Fox Movies
 http://200.76.77.230/LIVE/H01/CANAL417/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Fox Cinema" , Fox Cinema
 http://200.76.77.230/LIVE/H01/CANAL421/PROFILE03.m3u8?
@@ -177,17 +177,17 @@ http://200.76.77.230/LIVE/H01/CANAL424/PROFILE03.m3u8?
 http://200.76.77.230/LIVE/H01/CANAL425/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Cinecanal + HD" , Cinecanal + HD
 http://200.76.77.230/LIVE/H01/CANAL430/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="TNT HD" , TNT HD
+#EXTINF:-1 tvg-name="TNT HD" , TNT
 http://200.76.77.230/LIVE/H01/CANAL435/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Golden HD" , Golden HD
+#EXTINF:-1 tvg-name="Golden HD" , Golden
 http://200.76.77.230/LIVE/H01/CANAL436/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Film Zone HD" , Film Zone HD
+#EXTINF:-1 tvg-name="Film Zone HD" , Film Zone
 http://200.76.77.230/LIVE/H01/CANAL440/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="De PelУ­cula HD" , De PelУ­cula HD
+#EXTINF:-1 tvg-name="De PelУ­cula HD" , De Pelicula
 http://200.76.77.230/LIVE/H01/CANAL442/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="AMC HD" , AMC HD
+#EXTINF:-1 tvg-name="AMC HD" , AMC
 http://200.76.77.230/LIVE/H01/CANAL444/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Space HD" , Space HD
+#EXTINF:-1 tvg-name="Space HD" , Space
 http://200.76.77.230/LIVE/H01/CANAL445/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Fox Cinema" , Fox Cinema
 http://200.76.77.230/LIVE/H01/CANAL472/PROFILE03.m3u8?
@@ -213,15 +213,15 @@ http://200.76.77.230/LIVE/H01/CANAL492/PROFILE03.m3u8?
 http://200.76.77.230/LIVE/H01/CANAL495/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="TCM" , TCM
 http://200.76.77.230/LIVE/H01/CANAL496/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="ESPN HD" , ESPN HD
+#EXTINF:-1 tvg-name="ESPN HD" , ESPN
 http://200.76.77.230/LIVE/H01/CANAL516/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="ESPN3 HD" , ESPN3 HD
+#EXTINF:-1 tvg-name="ESPN3 HD" , ESPN3
 http://200.76.77.230/LIVE/H01/CANAL520/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Fox Sports HD" , Fox Sports HD
+#EXTINF:-1 tvg-name="Fox Sports HD" , Fox Sports
 http://200.76.77.230/LIVE/H01/CANAL522/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="Fox Sports 2 HD" , Fox Sports 2 HD
+#EXTINF:-1 tvg-name="Fox Sports 2 HD" , Fox Sports 2
 http://200.76.77.230/LIVE/H01/CANAL527/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="PXTV HD" , PXTV HD
+#EXTINF:-1 tvg-name="PXTV HD" , PXTV
 http://200.76.77.230/LIVE/H01/CANAL528/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="ESPN" , ESPN
 http://200.76.77.230/LIVE/H01/CANAL558/PROFILE03.m3u8?
@@ -235,7 +235,7 @@ http://200.76.77.230/LIVE/H01/CANAL603/PROFILE03.m3u8?
 http://200.76.77.230/LIVE/H01/CANAL610/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="TVE Internacional" , TVE Internacional
 http://200.76.77.230/LIVE/H01/CANAL651/PROFILE03.m3u8?
-#EXTINF:-1 tvg-name="MTV Live HD" , MTV Live HD
+#EXTINF:-1 tvg-name="MTV Live HD" , MTV Live
 http://200.76.77.230/LIVE/H01/CANAL701/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Telehit" , TeleHit
 http://200.76.77.230/LIVE/H01/CANAL702/PROFILE03.m3u8?
@@ -329,13 +329,13 @@ http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
 
-#EXTINF:-1,MUSIC VEVO HD
+#EXTINF:-1,MUSIC VEVO
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
-#EXTINF:-1,MUSIC VEVO2 HD
+#EXTINF:-1,MUSIC VEVO2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1,MUSIC VEVO3 HD
+#EXTINF:-1,MUSIC VEVO3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:-1,KISS TV MUSIC
+#EXTINF:-1,KISS TV
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:-1,FIRTS HD
 rtmp://109.239.142.62/live/livestream3
@@ -373,7 +373,7 @@ http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&prot
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 #EXTINF:-1,TUBA TV
 rtmp://fms.gazeta.pl/aglive/tuba_tv
-#EXTINF:-1,A-One
+#EXTINF:-1,A-ONE
 http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?=-1
 #EXTINF:-1,AKA
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
