@@ -656,9 +656,9 @@ rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
 http://wowza1.videos.movile.com:1935/live/adulto_1.smil/livestream.m3u8
 #EXTINF:-1,adultPremium
 http://wowza1.videos.movile.com:1935/live/adultopremium_1.smil/livestream.m3u8
-#EXTINF:-1,X Jazmintv
+#EXTINF:-1,Jazmintv
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-#EXTINF:-1, Jazmintv opc2
+#EXTINF:-1,Jazmintv opc2
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
 #EXTINF:-1,Xxx
 http://188.165.220.116:8081/live2/5/playlist.m3u8
@@ -666,25 +666,25 @@ http://188.165.220.116:8081/live2/5/playlist.m3u8
 http://188.165.220.116:8081/live/30/playlist.m3u8
 #EXTINF:-1,Private
 http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:-1,X Satisfaction HD
+#EXTINF:-1,Satisfaction
 rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
-#EXTINF:-1,X Asia 1
+#EXTINF:-1,Asia 1
 http://59.120.43.181:8081
-#EXTINF:-1,X Asia 2
+#EXTINF:-1,Asia 2
 http://59.120.43.181:8082
-#EXTINF:-1,X Asia 3
+#EXTINF:-1,Asia 3
 http://59.120.43.181:8083
-#EXTINF:-1,X Asia 4
+#EXTINF:-1,Asia 4
 http://59.120.43.181:8084
-#EXTINF:-1,X Olala
+#EXTINF:-1,Olala
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
-#EXTINF:-1,X Russian Night
+#EXTINF:-1,Russian Night
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
-#EXTINF:-1,X Blue Hustler
+#EXTINF:-1,Blue Hustler
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
-#EXTINF:0,X PLAYBOYTV 
+#EXTINF:0,PLAYBOYTV 
 http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
-#EXTINF:-1,X PlayboyTV OPC2
+#EXTINF:-1,PlayboyTV OPC2
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
 #EXTINF:-1,Playboy TV OPC3
 http://yacs88.ddns.net:8001/1:0:1:D15C:90C:2:11A0000:0:0:0:
@@ -692,25 +692,25 @@ http://yacs88.ddns.net:8001/1:0:1:D15C:90C:2:11A0000:0:0:0:
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
 #EXTINF:-1,Sex +18
 mmsh://tv.webmisto.cz:7000
-#EXTINF:-1,Babe_XXX
+#EXTINF:-1,Babe
 http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
-#EXTINF:-1,X Babestation
+#EXTINF:-1,Babestation
 http://46.105.116.159:1935/cellcast/encoder22/.m3u8
-#EXTINF:-1,X Babestation Xtra
+#EXTINF:-1,Babestation Xtra
 http://46.105.116.159:1935/cellcast/encoder72/.m3u8
 #EXTINF:-1,Babestation2 
 http://publish.thewebstream.co:1935/cellcast/encoder72/playlist.m3u8
 #EXTINF:-1,Babestation3 
 http://publish.thewebstream.co:1935/cellcast/encoder31/playlist.m3u8
-#EXTINF:-1,X Babestation Blue
+#EXTINF:-1,Babestation Blue
 http://178.33.126.213:1935/cellcast/encoder32/.m3u8
-#EXTINF:-1,X Babestation Live
+#EXTINF:-1,Babestation Live
 http://178.33.126.213:1935/leved/livesexlatinas/.m3u8
-#EXTINF:-1,X Babestation Unleashed2
+#EXTINF:-1,Babestation Unleashed2
 http://178.33.126.213:1935/iptv_cellcast_24/livestream_two2/.m3u8
-#EXTINF:-1,X BABES SPORTING
+#EXTINF:-1,BABES SPORTING
 http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
-#EXTINF:-1,X HOT SHOTS
+#EXTINF:-1,HOT SHOTS
 http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
 #EXTINF:-1,HOT SHOTS BEACH
 http://stream02.yamgo.com/iPhone/broadcast/hot_shots_beach_babes-tablet.3gp/hot_shots_beach_babes-tablet.3gp-mr646k.m3u8
