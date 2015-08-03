@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1,DiscoveryM3U8
-http://192.99.40.14:8000/stream.php?v=DiscoveryChLA/chunklist_w961144320_b1000000.m3u8?token=d1da9b846b1b52fc8fc975327c28f87a
-#EXTINF:-1,DiscoveryM3U8
 http://192.99.40.14:8000/stream.php?v=DiscoveryChLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW.m3u8
 #EXTINF:-1,DiscoveryTheaterm3u8 
 http://192.99.40.14:8000/stream.php?v=DiscoveryenEspanolHD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW.m3u8
