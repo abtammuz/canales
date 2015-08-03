@@ -1,1747 +1,321 @@
 #EXTM3U
-#EXTM3U
-#EXTINF:-1,NFL Network
-http://31.220.40.121:80/LiveEdge/NFLNetworkUS/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,EstrellasMX
-http://31.220.40.121:80/LiveEdge/EstrellasLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,AzMundo
-http://31.220.40.121:80/LiveEdge/AzMundoLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Univision
-http://31.220.40.121:80/LiveEdge/UnivisionEastUS/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,UniMas
-http://31.220.40.121:80/LiveEdge/UniMasUS/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,TVE Internacional America
-http://31.220.40.121:80/LiveEdge/TVELASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,GalaTv
-http://31.220.40.121:80/LiveEdge/GalaTVLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Pasiones
-http://31.220.40.121:80/LiveEdge/PasionesSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Telemundo
-http://31.220.40.121:80/LiveEdge/TMNDO/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Telemundo Internacional
-http://31.220.40.121:80/LiveEdge/TelemundoSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,RCNNovelas
-http://31.220.40.121:80/LiveEdge/RCNnovelasLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,TlnovelasAmerica
-http://31.220.40.121:80/LiveEdge/TlnovelasLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,TeleCentro
-http://31.220.40.121:80/LiveEdge/Telecentro13LA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,CaracolInternacional
-http://31.220.40.121:80/LiveEdge/CaracolIntSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,TVGloboInternacional
-http://31.220.40.121:80/LiveEdge/TVGloboLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Discoveryen Español
-http://31.220.40.121:80/LiveEdge/DiscoveryChLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Discovery Theater
-http://31.220.40.121:80/LiveEdge/DiscoveryenEspanolHD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,DiscoveryWorld
-http://31.220.40.121:80/LiveEdge/DiscoveryWorldLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Discovery HomeHealthLatinoamerica
-http://31.220.40.121:80/LiveEdge/DiscoveryHomeHealthLAHD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,H2 Latinoamerica
-http://31.220.40.121:80/LiveEdge/H2LASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,HistoryenEspañol
-http://31.220.40.121:80/LiveEdge/HistoryLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,NationalGeographicLatinoamerica
-http://31.220.40.121:80/LiveEdge/NatGeoLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,NatGeoWildLatinoAmerica
-http://31.220.40.121:80/LiveEdge/NatGeoWildLAHD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,AnimalPlanetLatinoamerica
-http://31.220.40.121:80/LiveEdge/AnimalPlanetLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,ESPN Latinoamerica
-http://31.220.40.121:80/LiveEdge/ESPNLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,ESPN2Latinoamerica
-http://31.220.40.121:80/LiveEdge/ESPN2LASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,ESPN3 Latinoamerica
-http://31.220.40.121:80/LiveEdge/ESPN3LASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Fox Sports Latinoamerica
-http://31.220.40.121:80/LiveEdge/FoxSportsLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Fox Sports2 Latinoamerica
-http://31.220.40.121:80/LiveEdge/FoxSports2SD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Fox Sports3 Latinoamerica
-http://31.220.40.121:80/LiveEdge/FoxSports3SD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Bein Sportsen Español
-http://31.220.40.121:80/LiveEdge/BeinSportsLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,UFC Network Latino america
-http://31.220.40.121:80/LiveEdge/UFCNetworkLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Planeta Futbol
-http://31.220.40.121:80/LiveEdge/PlanetaFutbolLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Planeta Futbol English Soccer
-http://31.220.40.121:80/LiveEdge/PlanetaFutbolEnglish/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,TDN Mexico
-http://31.220.40.121:80/LiveEdge/TDNMXLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,UnivisionTDN
-http://31.220.40.121:80/LiveEdge/UnivisionEastUS/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,DisneyChannelNorte
-http://31.220.40.121:80/LiveEdge/DisneyChannelNorteHD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,DisneyXDNorte
-http://31.220.40.121:80/LiveEdge/DisneyXDSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,DisneyJuniorNorte
-http://31.220.40.121:80/LiveEdge/DisneyJrLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,NickelodeonLatinoamerica
-http://31.220.40.121:80/LiveEdge/NickelodeonLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,NickJrLatinoamerica
-http://31.220.40.121:80/LiveEdge/NickJrLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,DiscoveryKidsAmericaLatina
-http://31.220.40.121:80/LiveEdge/DiscoveryKidsSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,CartoonNetworkLatinoamerica
-http://31.220.40.121:80/LiveEdge/CartoonNetworkLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,BoomerangLatinoamerica
-http://31.220.40.121:80/LiveEdge/BoomerangLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Tooncast
-http://31.220.40.121:80/LiveEdge/TooncastSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,BabyFirstTVLatinoamerica
-http://31.220.40.121:80/LiveEdge/BabyFirstLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,BabyTVLatinoamerica
-http://31.220.40.121:80/LiveEdge/BabyTVLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,CanalSony
-http://31.220.40.121:80/LiveEdge/SonyLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,BBCEntertainmentLatinoamerica
-http://31.220.40.121:80/LiveEdge/BBCEntLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Unicable
-http://31.220.40.121:80/LiveEdge/UnicableLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,WarnerChannelLatinoamerica
-http://31.220.40.121:80/LiveEdge/WarnerLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,ELatinoamerica
-http://31.220.40.121:80/LiveEdge/EentertaimentSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,FXLatino
-http://31.220.40.121:80/LiveEdge/FXLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,UniversalChannelAmericaLatina
-http://31.220.40.121:80/LiveEdge/UniversalLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,FoxLatinoamerica
-http://31.220.40.121:80/LiveEdge/FOXHDLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,SyfyLatinoamerica
-http://31.220.40.121:80/LiveEdge/SyFyLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,AyELatinoamerica
-http://31.220.40.121:80/LiveEdge/AELatinoamericaHD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,InvestigationDiscoveryLatinoamerica
-http://31.220.40.121:80/LiveEdge/InvDiscoverySD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,TLCLatinoamerica
-http://31.220.40.121:80/LiveEdge/TLCLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,TLCLatinoamerica
-http://31.220.40.121:80/LiveEdge/TLCLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,AXNLatinoamerica
-http://31.220.40.121:80/LiveEdge/AXNLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Eurochannel
-http://31.220.40.121:80/LiveEdge/EurochannelLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,MundoFox
-http://31.220.40.121:80/LiveEdge/MundoFoxSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,TNTSeriesLatinoamerica
-http://31.220.40.121:80/LiveEdge/infinitoSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Elgourmet
-http://31.220.40.121:80/LiveEdge/ElgourmetLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,CasaClubTV
-http://31.220.40.121:80/LiveEdge/CasaClubLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,TBSAmericaLatina
-http://31.220.40.121:80/LiveEdge/TBSLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,GlitzLatinoamerica
-http://31.220.40.121:80/LiveEdge/GlitzLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,FOXLife
-http://31.220.40.121:80/LiveEdge/FoxLifeSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,DistritoComedia
-http://31.220.40.121:80/LiveEdge/DistritoComediaLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,ComedyCentralLatinoamerica
-http://31.220.40.121:80/LiveEdge/ComedyCentralLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,TruTVAmericaLatina
-http://31.220.40.121:80/LiveEdge/TruTVSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,EfektoTV
-http://31.220.40.121:80/LiveEdge/EfektoTVLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,MultimediosPlus
-http://31.220.40.121:80/LiveEdge/MultimediosLA /playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,LifetimeLatinoamerica
-http://31.220.40.121:80/LiveEdge/LifetimeLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,CNNEnEspañol
-http://31.220.40.121:80/LiveEdge/CNNLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,ElFinancieroBloomberg
-http://31.220.40.121:80/LiveEdge/ElFinancieroBLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,NTN24
-http://31.220.40.121:80/LiveEdge/NTN24LA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,MTVLatinoamerica
-http://31.220.40.121:80/LiveEdge/MTVLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,MTVHitsLatinoamerica
-http://31.220.40.121:80/LiveEdge/MTVHitsLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,VH1ClassicEurope
-http://31.220.40.121:80/LiveEdge/VH1ClassicLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,VH1LatinoNorte
-http://31.220.40.121:80/LiveEdge/VH1LatinoSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,KMusic
-http://31.220.40.121:80/LiveEdge/KMusicLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,ConcertChannel
-http://31.220.40.121:80/LiveEdge/ConcertChannelSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,HTV
-http://31.220.40.121:80/LiveEdge/HTVSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Bandamax
-http://31.220.40.121:80/LiveEdge/BandamaxLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,RegionalMusic
-http://31.220.40.121:80/LiveEdge/RegionalMusicLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,CineDinamita
-http://31.220.40.121:80/LiveEdge/CineDinamitaLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,MultiPremier
-http://31.220.40.121:80/LiveEdge/MultiPremierLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,CineLatino
-http://31.220.40.121:80/LiveEdge/CineLatinoSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Golden
-http://31.220.40.121:80/LiveEdge/GoldenHD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,GoldenEdge
-http://31.220.40.121:80/LiveEdge/GoldenEdgeLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,ParamountChannelLatinoamerica
-http://31.220.40.121:80/LiveEdge/ParamountChannelLatinAmericaHD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,SundanceChannelLatinoamerica
-http://31.220.40.121:80/LiveEdge/SundanceLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,TNTAmericaLatina
-http://31.220.40.121:80/LiveEdge/TNTAmericaLatinaHD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,CineCanal
-http://31.220.40.121:80/LiveEdge/CineCanalLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Cinemax
-http://31.220.40.121:80/LiveEdge/CinemaxLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Space
-http://31.220.40.121:80/LiveEdge/SpaceLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,AMC
-http://31.220.40.121:80/LiveEdge/AMCLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,StudioUniversal
-http://31.220.40.121:80/LiveEdge/StudioUniversalSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,TCM
-http://31.220.40.121:80/LiveEdge/TCMSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,ISat
-http://31.220.40.121:80/LiveEdge/ISATLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Europ Europa
-http://31.220.40.121:80/LiveEdge/EuropaEuropaLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Film Arts Latinoamerica
-http://31.220.40.121:80/LiveEdge/FilmArtsLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Film Zone
-http://31.220.40.121:80/LiveEdge/FilmZoneLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,FOX 1
-http://31.220.40.121:80/LiveEdge/FOX1LASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,FOX 1O
-http://31.220.40.121:80/LiveEdge/FOX1OesteLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,FOX Family
-http://31.220.40.121:80/LiveEdge/FOXFamilyLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,FOX Comedy
-http://31.220.40.121:80/LiveEdge/FOXComedyLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Fox Cinema
-http://31.220.40.121:80/LiveEdge/FoxCinemaSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,FOXACTION
-http://31.220.40.121:80/LiveEdge/FOXACTIONLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,FOX ActionOeste
-http://31.220.40.121:80/LiveEdge/FOXActionOesteLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,FOX Movies
-http://31.220.40.121:80/LiveEdge/FOXMoviesLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Fox ClassicsLatinoamerica
-http://31.220.40.121:80/LiveEdge/FOXClassicsLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,HBO
-http://31.220.40.121:80/LiveEdge/HBOLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,HBO2
-http://31.220.40.121:80/LiveEdge/HBO2SD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,HBO Plus
-http://31.220.40.121:80/LiveEdge/HBOPlusLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,HBOPus2
-http://31.220.40.121:80/LiveEdge/HBOPus2LASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,HBOFamily
-http://31.220.40.121:80/LiveEdge/HBOFamilyLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,HBOSignature
-http://31.220.40.121:80/LiveEdge/HBOSignatureLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,MaxUPLatinoamerica
-http://31.220.40.121:80/LiveEdge/MaxUPSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Max Prime
-http://31.220.40.121:80/LiveEdge/MaxPrimeLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Max Prime2
-http://31.220.40.121:80/LiveEdge/MaxPrime2LASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Max
-http://31.220.40.121:80/LiveEdge/MaxLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Golden Premier1
-http://31.220.40.121:80/LiveEdge/GoldenPremier1LA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-#EXTINF:-1,Golden Premiere2
-http://31.220.40.121:80/LiveEdge/GoldenPremiere2LA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
-
-
-#EXTINF:-1,Nickelodeon
-http://B29273.cdn.telefonica.com/29273/NICK_SUB.m3u8
-#EXTINF:-1,Disney Junior
-http://B29285.cdn.telefonica.com/29285/DSNJR_SUB.m3u8
-#EXTINF:-1,40TV
-http://B31312.cdn.telefonica.com/31312/40TV_SUB.m3u8
-#EXTINF:-1,Disney XD
-http://B31309.cdn.telefonica.com/31309/DSNYXD_SUB.m3u8
-#EXTINF:-1,Canal Cocina
-http://B31305.cdn.telefonica.com/31305/COCINA_SUB.m3u8
-#EXTINF:-1,24 Horas
-http://B31301.cdn.telefonica.com/31301/24HORAS_SUB.m3u8
-#EXTINF:-1,Invitado
-http://B29291.cdn.telefonica.com/29291/INVITADO_SUB.m3u8
-#EXTINF:-1,Fox
-http://B29269.cdn.telefonica.com/29269/FOX_SUB.m3u8
-#EXTINF:-1,AXN
-http://B29278.cdn.telefonica.com/29278/AXN_SUB.m3u8
-#EXTINF:-1,Calle 13
-http://B29270.cdn.telefonica.com/29270/CLL13_SUB.m3u8
-#EXTINF:-1,TNT
-http://B29280.cdn.telefonica.com/29280/TNT_SUB.m3u8
-#EXTINF:-1,Fox Life
-http://B31317.cdn.telefonica.com/31317/FOXCRIME_SUB.m3u8
-#EXTINF:-1,Cosmopolitan
-http://B29283.cdn.telefonica.com/29283/CSMO_SUB.m3u8
-#EXTINF:-1,AXN White
-http://B31316.cdn.telefonica.com/31316/AXNWHITE_SUB.m3u8
-#EXTINF:-1,Paramount Comedy
-http://B29281.cdn.telefonica.com/29281/PCMDY_SUB.m3u8
-#EXTINF:-1,SYFY
-http://B31311.cdn.telefonica.com/31311/SYFY_SUB.m3u8
-#EXTINF:-1,TCM
-http://B31310.cdn.telefonica.com/31310/TCM_SUB.m3u8
-#EXTINF:-1,Canal+ Liga
-http://B29276.cdn.telefonica.com/29276/CPLUSLG_SUB.m3u8
-#EXTINF:-1,Movistar Futbol
-http://B32861.cdn.telefonica.com/32861/MOVFUTBOL_SUB.m3u8
-#EXTINF:-1,Canal+ Champions
-http://B29275.cdn.telefonica.com/29275/CPLUSCHP_SUB.m3u8
-#EXTINF:-1,National Geographic
-http://B29287.cdn.telefonica.com/29287/NTLG_SUB.m3u8
-#EXTINF:-1,National Geographic Wild
-http://B31307.cdn.telefonica.com/31307/NATGEOWILD_SUB.m3u8
-
-
-
-#EXTINF:-1 tvg-id="825" tvg-name="Az Mundo" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1101.png" group-title="information", Az Mundo
-http://24.139.223.247/load.php?chan=1307
-#EXTINF:-1 tvg-id="826" tvg-name="Canal De Las Estrellas" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/633.png" group-title="information", Canal De Las Estrellas
-http://24.139.223.247/load.php?chan=1308
-#EXTINF:-1 tvg-id="827" tvg-name="Univision" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/98.png" group-title="entertainments", Univision
-http://24.139.223.247/load.php?chan=1309
-#EXTINF:-1 tvg-id="828" tvg-name="UniMas" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/88.png" group-title="entertainments", UniMas
-http://24.139.223.247/load.php?chan=1310
-#EXTINF:-1 tvg-id="829" tvg-name="NBC Universo" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1805.png" group-title="entertainments", NBC Universo
-http://24.139.223.247/load.php?chan=1311
-#EXTINF:-1 tvg-id="830" tvg-name="Caracol Internacional" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1119.png" group-title="information", Caracol Internacional
-http://24.139.223.247/load.php?chan=1312
-#EXTINF:-1 tvg-id="831" tvg-name="Teletica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1802.png" group-title="information", Teletica
-http://24.139.223.247/load.php?chan=1313 
-#EXTINF:-1 tvg-id="832" tvg-name="TeleCentro" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1117.png" group-title="information", TeleCentro
-http://24.139.223.247/load.php?chan=1314
-#EXTINF:-1 tvg-id="833" tvg-name="Gala TV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/967.png" group-title="information", Gala TV
-http://24.139.223.247/load.php?chan=1315
-#EXTINF:-1 tvg-id="834" tvg-name="Pasiones" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/117.png" group-title="entertainments", Pasiones
-http://24.139.223.247/load.php?chan=1316
-#EXTINF:-1 tvg-id="835" tvg-name="Telemundo" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/815.png" group-title="entertainments", Telemundo
-http://24.139.223.247/load.php?chan=1317
-#EXTINF:-1 tvg-id="836" tvg-name="Telemundo Internacional" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/102.png" group-title="entertainments", Telemundo Internacional
-http://24.139.223.247/load.php?chan=1318
-#EXTINF:-1 tvg-id="837" tvg-name="Tlnovelas America" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/847.png" group-title="entertainments", Tlnovelas America
-http://24.139.223.247/load.php?chan=1319
-#EXTINF:-1 tvg-id="838" tvg-name="RCN Novelas" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/881.png" group-title="entertainments", RCN Novelas
-http://24.139.223.247/load.php?chan=1320
-#EXTINF:-1 tvg-id="839" tvg-name="Antena 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/113.png" group-title="information", Antena 3
-http://24.139.223.247/load.php?chan=1321
-#EXTINF:-1 tvg-id="840" tvg-name="TVE Internacional America" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/115.png" group-title="information", TVE Internacional America
-http://24.139.223.247/load.php?chan=1322
-#EXTINF:-1 tvg-id="841" tvg-name="Galicia TV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/623.png" group-title="information", Galicia TV
-http://24.139.223.247/load.php?chan=1323
-#EXTINF:-1 tvg-id="842" tvg-name="DW Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1095.png" group-title="entertainments", DW Latinoamerica
-http://24.139.223.247/load.php?chan=1324
-#EXTINF:-1 tvg-id="843" tvg-name="TV Globo Internacional" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/937.png" group-title="information", TV Globo Internacional
-http://24.139.223.247/load.php?chan=1325 
-#EXTINF:-1 tvg-id="844" tvg-name="TV 5 Monde" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1171.png" group-title="information", TV 5 Monde
-http://24.139.223.247/load.php?chan=1326
-#EXTINF:-1 tvg-id="845" tvg-name="Discovery en Español" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1333.png" group-title="information", Discovery en Español
-http://24.139.223.247/load.php?chan=1327 
-#EXTINF:-1 tvg-id="846" tvg-name="Discovery Theater" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/29.png" group-title="information", Discovery Theater
-http://24.139.223.247/load.php?chan=1328
-#EXTINF:-1 tvg-id="847" tvg-name="Discovery World" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1493.png" group-title="information", Discovery World
-http://24.139.223.247/load.php?chan=1329
-#EXTINF:-1 tvg-id="848" tvg-name="Discovery Home & Health Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/44.png" group-title="entertainments", Discovery Home & Health Latinoamerica
-http://24.139.223.247/load.php?chan=1330
-#EXTINF:-1 tvg-id="849" tvg-name="H2 Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/119.png" group-title="information", H2 Latinoamerica
-http://24.139.223.247/load.php?chan=1331
-#EXTINF:-1 tvg-id="850" tvg-name="History en Español" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/219.png" group-title="information", History en Español
-http://24.139.223.247/load.php?chan=1332
-#EXTINF:-1 tvg-id="851" tvg-name="National Geographic Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/217.png" group-title="information", National Geographic Latinoamerica
-http://24.139.223.247/load.php?chan=1333
-#EXTINF:-1 tvg-id="852" tvg-name="Nat Geo Wild Latino America" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/35.png" group-title="others", Nat Geo Wild Latino America
-http://24.139.223.247/load.php?chan=1334
-#EXTINF:-1 tvg-id="853" tvg-name="Animal Planet Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/121.png" group-title="information", Animal Planet Latinoamerica
-http://24.139.223.247/load.php?chan=1335
-#EXTINF:-1 tvg-id="854" tvg-name="ESPN Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/819.png" group-title="sports", ESPN Latinoamerica
-http://24.139.223.247/load.php?chan=1336 
-#EXTINF:-1 tvg-id="855" tvg-name="ESPN 2 Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/123.png" group-title="sports", ESPN 2 Latinoamerica
-http://24.139.223.247/load.php?chan=1337
-#EXTINF:-1 tvg-id="856" tvg-name="ESPN 3 Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/125.png" group-title="sports", ESPN 3 Latinoamerica
-http://24.139.223.247/load.php?chan=1338
-#EXTINF:-1 tvg-id="857" tvg-name="Fox Sports Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/831.png" group-title="sports", Fox Sports Latinoamerica
-http://24.139.223.247/load.php?chan=1339
-#EXTINF:-1 tvg-id="858" tvg-name="Fox Sports 2 Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/215.png" group-title="sports", Fox Sports 2 Latinoamerica
-http://24.139.223.247/load.php?chan=1340
-#EXTINF:-1 tvg-id="859" tvg-name="Fox Sports 3 Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/127.png" group-title="sports", Fox Sports 3 Latinoamerica
-http://24.139.223.247/load.php?chan=1341
-#EXTINF:-1 tvg-id="860" tvg-name="BeinSports en Español" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1239.png" group-title="sports", BeinSports en Español
-http://24.139.223.247/load.php?chan=1342
-#EXTINF:-1 tvg-id="861" tvg-name="UFC Network Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/625.png" group-title="sports", UFC Network Latinoamerica
-http://24.139.223.247/load.php?chan=1343
-#EXTINF:-1 tvg-id="862" tvg-name="F1 Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/969.png" group-title="sports", F1 Latinoamerica
-http://24.139.223.247/load.php?chan=1344
-#EXTINF:-1 tvg-id="866" tvg-name="Planeta Futbol" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/863.png" group-title="sports", Planeta Futbol
-http://24.139.223.247/load.php?chan=1345
-#EXTINF:-1 tvg-id="867" tvg-name="Planeta Futbol English Soccer" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1491.png" group-title="sports", Planeta Futbol English Soccer
-http://24.139.223.247/load.php?chan=1346
-#EXTINF:-1 tvg-id="868" tvg-name="TDN Mexico" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/635.png" group-title="others", TDN Mexico
-http://24.139.223.247/load.php?chan=1347
-#EXTINF:-1 tvg-id="869" tvg-name="Univision TDN" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/869.png" group-title="information", Univision TDN
-http://24.139.223.247/load.php?chan=1348
-#EXTINF:-1 tvg-id="870" tvg-name="Golf Channel Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/877.png" group-title="sports", Golf Channel Latinoamerica
-http://24.139.223.247/load.php?chan=1349
-#EXTINF:-1 tvg-id="872" tvg-name="Disney Channel Norte" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/42.png" group-title="others", Disney Channel Norte
-http://24.139.223.247/load.php?chan=1350
-#EXTINF:-1 tvg-id="873" tvg-name="Disney XD Norte" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/255.png" group-title="others", Disney XD Norte
-http://24.139.223.247/load.php?chan=1351
-#EXTINF:-1 tvg-id="874" tvg-name="Disney Junior Norte" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/843.png" group-title="others", Disney Junior Norte
-http://24.139.223.247/load.php?chan=1352
-#EXTINF:-1 tvg-id="875" tvg-name="Nickelodeon Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/817.png" group-title="others", Nickelodeon Latinoamerica
-http://24.139.223.247/load.php?chan=1353
-#EXTINF:-1 tvg-id="876" tvg-name="Nick Jr Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/239.png" group-title="others", Nick Jr Latinoamerica
-http://24.139.223.247/load.php?chan=1354
-#EXTINF:-1 tvg-id="877" tvg-name="Discovery Kids America Latina" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/131.png" group-title="others", Discovery Kids America Latina
-http://24.139.223.247/load.php?chan=1355
-#EXTINF:-1 tvg-id="878" tvg-name="Cartoon Network Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/133.png" group-title="others", Cartoon Network Latinoamerica
-http://24.139.223.247/load.php?chan=1356
-#EXTINF:-1 tvg-id="879" tvg-name="Boomerang Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/135.png" group-title="others", Boomerang Latinoamerica
-http://24.139.223.247/load.php?chan=1357
-#EXTINF:-1 tvg-id="881" tvg-name="Tooncast" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/137.png" group-title="others", Tooncast
-http://24.139.223.247/load.php?chan=1358
-#EXTINF:-1 tvg-id="882" tvg-name="BabyFirst TV Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/611.png" group-title="others", BabyFirst TV Latinoamerica
-http://24.139.223.247/load.php?chan=1359
-#EXTINF:-1 tvg-id="883" tvg-name="Baby TV Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/139.png" group-title="others", Baby TV Latinoamerica
-http://24.139.223.247/load.php?chan=1360
-#EXTINF:-1 tvg-id="884" tvg-name="CBeebies Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/609.png" group-title="others", CBeebies Latinoamerica
-http://24.139.223.247/load.php?chan=1361
-#EXTINF:-1 tvg-id="887" tvg-name="Unicable" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1393.png" group-title="information", Unicable
-http://24.139.223.247/load.php?chan=1364
-#EXTINF:-1 tvg-id="885" tvg-name="Canal Sony" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/837.png" group-title="information", Canal Sony
-http://24.139.223.247/load.php?chan=1362
-#EXTINF:-1 tvg-id="886" tvg-name="BBC Entertainment Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/805.png" group-title="entertainments", BBC Entertainment Latinoamerica
-http://24.139.223.247/load.php?chan=1363
-#EXTINF:-1 tvg-id="888" tvg-name="Warner Channel Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/839.png" group-title="entertainments", Warner Channel Latinoamerica
-http://24.139.223.247/load.php?chan=1365
-#EXTINF:-1 tvg-id="889" tvg-name="E! Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/141.png" group-title="entertainments", E! Latinoamerica
-http://24.139.223.247/load.php?chan=1366
-#EXTINF:-1 tvg-id="890" tvg-name="FX Latino" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/143.png" group-title="entertainments", FX Latino
-http://24.139.223.247/load.php?chan=1367
-#EXTINF:-1 tvg-id="891" tvg-name="Universal Channel America Latina" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/209.png" group-title="cinema", Universal Channel America Latina
-http://24.139.223.247/load.php?chan=1368
-#EXTINF:-1 tvg-id="892" tvg-name="Fox Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/821.png" group-title="entertainments", Fox Latinoamerica
-http://24.139.223.247/load.php?chan=1369
-#EXTINF:-1 tvg-id="893" tvg-name="Syfy Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/145.png" group-title="entertainments", Syfy Latinoamerica
-http://24.139.223.247/load.php?chan=1370
-#EXTINF:-1 tvg-id="894" tvg-name="A&E Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/43.png" group-title="entertainments", A&E Latinoamerica
-http://24.139.223.247/load.php?chan=1371
-#EXTINF:-1 tvg-id="895" tvg-name="Investigation Discovery Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/147.png" group-title="information", Investigation Discovery Latinoamerica
-http://24.139.223.247/load.php?chan=1372
-#EXTINF:-1 tvg-id="896" tvg-name="TLC Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/149.png" group-title="entertainments", TLC Latinoamerica
-http://24.139.223.247/load.php?chan=1373
-#EXTINF:-1 tvg-id="897" tvg-name="AXN Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/833.png" group-title="entertainments", AXN Latinoamerica
-http://24.139.223.247/load.php?chan=1374
-#EXTINF:-1 tvg-id="900" tvg-name="MundoFox" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/151.png" group-title="entertainments", MundoFox
-http://24.139.223.247/load.php?chan=1375
-#EXTINF:-1 tvg-id="902" tvg-name="TNT Series Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/153.png" group-title="entertainments", TNT Series Latinoamerica
-http://24.139.223.247/load.php?chan=1376
-#EXTINF:-1 tvg-id="903" tvg-name="Elgourmet" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/613.png" group-title="others", Elgourmet
-http://24.139.223.247/load.php?chan=1377
-#EXTINF:-1 tvg-id="904" tvg-name="Casa Club TV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/861.png" group-title="information", Casa Club TV
-http://24.139.223.247/load.php?chan=1378
-#EXTINF:-1 tvg-id="905" tvg-name="TBS America Latina" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/155.png" group-title="entertainments", TBS America Latina
-http://24.139.223.247/load.php?chan=1379
-#EXTINF:-1 tvg-id="906" tvg-name="Glitz Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/859.png" group-title="entertainments", Glitz Latinoamerica
-http://24.139.223.247/load.php?chan=1380
-#EXTINF:-1 tvg-id="907" tvg-name="FOX Life" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/157.png" group-title="entertainments", FOX Life
-http://24.139.223.247/load.php?chan=1381
-#EXTINF:-1 tvg-id="908" tvg-name="Distrito Comedia" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/879.png" group-title="entertainments", Distrito Comedia
-http://24.139.223.247/load.php?chan=1382
-#EXTINF:-1 tvg-id="909" tvg-name="Comedy Central Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/617.png" group-title="entertainments", Comedy Central Latinoamerica
-http://24.139.223.247/load.php?chan=1383
-#EXTINF:-1 tvg-id="910" tvg-name="Tru TV America Latina" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/159.png" group-title="entertainments", Tru TV America Latina
-http://24.139.223.247/load.php?chan=1384
-#EXTINF:-1 tvg-id="912" tvg-name="Efekto TV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/619.png" group-title="information", Efekto TV
-http://24.139.223.247/load.php?chan=1385
-#EXTINF:-1 tvg-id="913" tvg-name="Multimedios Plus" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/845.png" group-title="information", Multimedios Plus
-http://24.139.223.247/load.php?chan=1386
-#EXTINF:-1 tvg-id="914" tvg-name="Lifetime Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/161.png" group-title="entertainments", Lifetime Latinoamerica
-http://24.139.223.247/load.php?chan=1387
-#EXTINF:-1 tvg-id="915" tvg-name="CNN en Español" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/213.png" group-title="information", CNN en Español
-http://24.139.223.247/load.php?chan=1388
-#EXTINF:-1 tvg-id="916" tvg-name="El Financiero Bloomberg" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1391.png" group-title="information", El Financiero Bloomberg
-http://24.139.223.247/load.php?chan=1389
-#EXTINF:-1 tvg-id="917" tvg-name="Azteca Noticias" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/291.png" group-title="information", Azteca Noticias
-http://24.139.223.247/load.php?chan=1390
-#EXTINF:-1 tvg-id="918" tvg-name="NTN 24" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/945.png" group-title="information", NTN 24
-http://24.139.223.247/load.php?chan=1391
-#EXTINF:-1 tvg-id="919" tvg-name="CB24" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1595.png" group-title="information", CB24
-http://24.139.223.247/load.php?chan=1392
-#EXTINF:-1 tvg-id="920" tvg-name="Euronews en Español" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1459.png" group-title="information", Euronews en Español
-http://24.139.223.247/load.php?chan=1393
-#EXTINF:-1 tvg-id="921" tvg-name="RT en Español" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/919.png" group-title="information", RT en Español
-http://24.139.223.247/load.php?chan=1394
-#EXTINF:-1 tvg-id="922" tvg-name="TVE 24h" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1610.png" group-title="information", TVE 24h
-http://24.139.223.247/load.php?chan=1395
-#EXTINF:-1 tvg-id="923" tvg-name="MTV Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/829.png" group-title="music", MTV Latinoamerica
-http://24.139.223.247/load.php?chan=1396
-#EXTINF:-1 tvg-id="924" tvg-name="MTV Hits Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/883.png" group-title="music", MTV Hits Latinoamerica
-http://24.139.223.247/load.php?chan=1397
-#EXTINF:-1 tvg-id="925" tvg-name="VH1 Classic Europe" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/237.png" group-title="entertainments", VH1 Classic Europe
-http://24.139.223.247/load.php?chan=1398
-#EXTINF:-1 tvg-id="926" tvg-name="VH1 Latino Norte" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/227.png" group-title="entertainments", VH1 Latino Norte
-http://24.139.223.247/load.php?chan=1399
-#EXTINF:-1 tvg-id="927" tvg-name="K Music" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/855.png" group-title="music", K Music
-http://24.139.223.247/load.php?chan=1400
-#EXTINF:-1 tvg-id="928" tvg-name="Concert Channel" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/223.png" group-title="music", Concert Channel
-http://24.139.223.247/load.php?chan=1401
-#EXTINF:-1 tvg-id="929" tvg-name="HTV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/163.png" group-title="music", HTV
-http://24.139.223.247/load.php?chan=1402
-#EXTINF:-1 tvg-id="930" tvg-name="Bandamax" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/853.png" group-title="music", Bandamax
-http://24.139.223.247/load.php?chan=1403
-#EXTINF:-1 tvg-id="931" tvg-name="Regional Music" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1800.png" group-title="music", Regional Music
-http://24.139.223.247/load.php?chan=1404
-#EXTINF:-1 tvg-id="932" tvg-name="Cine Dinamita" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/873.png" group-title="cinema", Cine Dinamita
-http://24.139.223.247/load.php?chan=1405
-#EXTINF:-1 tvg-id="933" tvg-name="MultiPremier" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/293.png" group-title="information", MultiPremier
-http://24.139.223.247/load.php?chan=1406
-#EXTINF:-1 tvg-id="934" tvg-name="CineLatino" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/221.png" group-title="cinema", CineLatino
-http://24.139.223.247/load.php?chan=1407
-#EXTINF:-1 tvg-id="935" tvg-name="Golden" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/36.png" group-title="cinema", Golden
-http://24.139.223.247/load.php?chan=1408
-#EXTINF:-1 tvg-id="936" tvg-name="Golden Edge" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/851.png" group-title="cinema", Golden Edge
-http://24.139.223.247/load.php?chan=1409
-#EXTINF:-1 tvg-id="937" tvg-name="Golden Multiplex" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/615.png" group-title="cinema", Golden Multiplex
-http://24.139.223.247/load.php?chan=1410
-#EXTINF:-1 tvg-id="938" tvg-name="Paramount Channel Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/18.png" group-title="information", Paramount Channel Latinoamerica
-http://24.139.223.247/load.php?chan=1411
-#EXTINF:-1 tvg-id="939" tvg-name="Sundance Channel Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/621.png" group-title="cinema", Sundance Channel Latinoamerica
-http://24.139.223.247/load.php?chan=1412
-#EXTINF:-1 tvg-id="940" tvg-name="TNT America Latina" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/37.png" group-title="entertainments", TNT America Latina
-http://24.139.223.247/load.php?chan=1413
-#EXTINF:-1 tvg-id="941" tvg-name="CineCanal" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/841.png" group-title="cinema", CineCanal
-http://24.139.223.247/load.php?chan=1414
-#EXTINF:-1 tvg-id="942" tvg-name="Cinemax Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/165.png" group-title="cinema", Cinemax Latinoamerica
-http://24.139.223.247/load.php?chan=1415
-#EXTINF:-1 tvg-id="943" tvg-name="SPACE" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/835.png" group-title="cinema", SPACE
-http://24.139.223.247/load.php?chan=1416
-#EXTINF:-1 tvg-id="944" tvg-name="AMC" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/229.png" group-title="cinema", AMC
-http://24.139.223.247/load.php?chan=1417
-#EXTINF:-1 tvg-id="945" tvg-name="Studio Universal" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/167.png" group-title="cinema", Studio Universal
-http://24.139.223.247/load.php?chan=1418
-#EXTINF:-1 tvg-id="946" tvg-name="TCM America Latina" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/225.png" group-title="cinema", TCM America Latina
-http://24.139.223.247/load.php?chan=1419
-#EXTINF:-1 tvg-id="947" tvg-name="I-Sat" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/947.png" group-title="cinema", I-Sat
-http://24.139.223.247/load.php?chan=1420
-#EXTINF:-1 tvg-id="948" tvg-name="Europa Europa" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/941.png" group-title="cinema", Europa Europa
-http://24.139.223.247/load.php?chan=1421
-#EXTINF:-1 tvg-id="949" tvg-name="Film & Arts Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/943.png" group-title="cinema", Film & Arts Latinoamerica
-http://24.139.223.247/load.php?chan=1422
-#EXTINF:-1 tvg-id="950" tvg-name="Film Zone" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/169.png" group-title="cinema", Film Zone
-http://24.139.223.247/load.php?chan=1423
-#EXTINF:-1 tvg-id="951" tvg-name="Fox 1 Este" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/171.png" group-title="cinema", Fox 1 Este
-http://24.139.223.247/load.php?chan=1424
-#EXTINF:-1 tvg-id="952" tvg-name="Fox 1 Oeste" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/211.png" group-title="cinema", Fox 1 Oeste
-http://24.139.223.247/load.php?chan=1425
-#EXTINF:-1 tvg-id="953" tvg-name="Fox Family" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/173.png" group-title="cinema", Fox Family
-http://24.139.223.247/load.php?chan=1426
-#EXTINF:-1 tvg-id="954" tvg-name="Fox Comedy" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/175.png" group-title="cinema", Fox Comedy
-http://24.139.223.247/load.php?chan=1427
-#EXTINF:-1 tvg-id="955" tvg-name="Fox Cinema" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/177.png" group-title="cinema", Fox Cinema
-http://24.139.223.247/load.php?chan=1428
-#EXTINF:-1 tvg-id="956" tvg-name="Fox Action Este" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/179.png" group-title="cinema", Fox Action Este
-http://24.139.223.247/load.php?chan=1429
-#EXTINF:-1 tvg-id="957" tvg-name="Fox Action Oeste" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/181.png" group-title="cinema", Fox Action Oeste
-http://24.139.223.247/load.php?chan=1430
-#EXTINF:-1 tvg-id="958" tvg-name="Fox Movies Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/183.png" group-title="cinema", Fox Movies Latinoamerica
-http://24.139.223.247/load.php?chan=1431
-#EXTINF:-1 tvg-id="959" tvg-name="Fox Classics Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/185.png" group-title="cinema", Fox Classics Latinoamerica
-http://24.139.223.247/load.php?chan=1432
-#EXTINF:-1 tvg-id="960" tvg-name="HBO Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/207.png" group-title="cinema", HBO Latinoamerica
-http://24.139.223.247/load.php?chan=1433
-#EXTINF:-1 tvg-id="961" tvg-name="HBO 2 Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/187.png" group-title="cinema", HBO 2 Latinoamerica
-http://24.139.223.247/load.php?chan=1434
-#EXTINF:-1 tvg-id="962" tvg-name="HBO Plus Este" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/189.png" group-title="cinema", HBO Plus Este
-http://24.139.223.247/load.php?chan=1435
-#EXTINF:-1 tvg-id="963" tvg-name="HBO Plus Oeste" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/191.png" group-title="cinema", HBO Plus Oeste
-http://24.139.223.247/load.php?chan=1436
-#EXTINF:-1 tvg-id="964" tvg-name="HBO Family Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/193.png" group-title="cinema", HBO Family Latinoamerica
-http://24.139.223.247/load.php?chan=1437
-#EXTINF:-1 tvg-id="965" tvg-name="HBO Signature Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/195.png" group-title="cinema", HBO Signature Latinoamerica
-http://24.139.223.247/load.php?chan=1438
-#EXTINF:-1 tvg-id="966" tvg-name="Max UP Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/197.png" group-title="cinema", Max UP Latinoamerica
-http://24.139.223.247/load.php?chan=1439
-#EXTINF:-1 tvg-id="967" tvg-name="Max Prime Este" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/199.png" group-title="cinema", Max Prime Este
-http://24.139.223.247/load.php?chan=1440
-#EXTINF:-1 tvg-id="968" tvg-name="Max Prime Oeste" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/201.png" group-title="cinema", Max Prime Oeste
-http://24.139.223.247/load.php?chan=1441
-#EXTINF:-1 tvg-id="969" tvg-name="MAX" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/203.png" group-title="cinema", MAX
-http://24.139.223.247/load.php?chan=1442
-#EXTINF:-1 tvg-id="971" tvg-name="Golden Premier 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1787.png" group-title="cinema", Golden Premier 1
-http://24.139.223.247/load.php?chan=1443
-#EXTINF:-1 tvg-id="972" tvg-name="Golden Premier 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1782.png" group-title="cinema", Golden Premier 2
-http://24.139.223.247/load.php?chan=1444
-#EXTINF:-1 tvg-id="2" tvg-name="CBS New York" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/92.png" group-title="information", CBS New York
-http://24.139.223.247/load.php?chan=723
-#EXTINF:-1 tvg-id="5" tvg-name="ABC Miami" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/231.png" group-title="others", ABC Miami
-http://24.139.223.247/load.php?chan=724
-#EXTINF:-1 tvg-id="7" tvg-name="NBC Miami" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/233.png" group-title="others", NBC Miami
-http://24.139.223.247/load.php?chan=725
-#EXTINF:-1 tvg-id="8" tvg-name="FOX Miami" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/235.png" group-title="others", FOX Miami
-http://24.139.223.247/load.php?chan=726
-#EXTINF:-1 tvg-id="10" tvg-name="News 12 Long Island" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1035.png" group-title="information", News 12 Long Island
-http://24.139.223.247/load.php?chan=727
-#EXTINF:-1 tvg-id="11" tvg-name="News 12 Brooklyn" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1039.png" group-title="information", News 12 Brooklyn
-http://24.139.223.247/load.php?chan=728
-#EXTINF:-1 tvg-id="12" tvg-name="News 12 Bronx" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1037.png" group-title="information", News 12 Bronx
-http://24.139.223.247/load.php?chan=729
-#EXTINF:-1 tvg-id="13" tvg-name="News 12 Connecticut" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1041.png" group-title="information", News 12 Connecticut
-http://24.139.223.247/load.php?chan=730
-#EXTINF:-1 tvg-id="14" tvg-name="News 12 Hudson Valley" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1043.png" group-title="information", News 12 Hudson Valley
-http://24.139.223.247/load.php?chan=731
-#EXTINF:-1 tvg-id="15" tvg-name="News 12 New Jersey" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1045.png" group-title="information", News 12 New Jersey
-http://24.139.223.247/load.php?chan=732
-#EXTINF:-1 tvg-id="16" tvg-name="News 12 Westchester" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1047.png" group-title="information", News 12 Westchester
-http://24.139.223.247/load.php?chan=733
-#EXTINF:-1 tvg-id="78" tvg-name="ITV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/759.png" group-title="information", ITV
-http://24.139.223.247/load.php?chan=734
-#EXTINF:-1 tvg-id="79" tvg-name="ITV 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/243.png" group-title="information", ITV 2
-http://24.139.223.247/load.php?chan=735
-#EXTINF:-1 tvg-id="80" tvg-name="ITV 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1399.png" group-title="information", ITV 3
-http://24.139.223.247/load.php?chan=736
-#EXTINF:-1 tvg-id="81" tvg-name="ITV 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1401.png" group-title="information", ITV 4
-http://24.139.223.247/load.php?chan=737
-#EXTINF:-1 tvg-id="82" tvg-name="TG 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1403.png" group-title="information", TG 4
-http://24.139.223.247/load.php?chan=738
-#EXTINF:-1 tvg-id="83" tvg-name="4 Seven" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1600.png" group-title="information", 4 Seven
-http://24.139.223.247/load.php?chan=739
-#EXTINF:-1 tvg-id="84" tvg-name="Channel 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1405.png" group-title="information", Channel 4
-http://24.139.223.247/load.php?chan=740
-#EXTINF:-1 tvg-id="85" tvg-name="Channel 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1407.png" group-title="information", Channel 5
-http://24.139.223.247/load.php?chan=741
-#EXTINF:-1 tvg-id="86" tvg-name="SKY Living" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1409.png" group-title="information", SKY Living
-http://24.139.223.247/load.php?chan=742
-#EXTINF:-1 tvg-id="87" tvg-name="Watch" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1411.png" group-title="information", Watch
-http://24.139.223.247/load.php?chan=743
-#EXTINF:-1 tvg-id="88" tvg-name="Gold" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1413.png" group-title="information", Gold
-http://24.139.223.247/load.php?chan=744
-#EXTINF:-1 tvg-id="89" tvg-name="Dave" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1415.png" group-title="information", Dave
-http://24.139.223.247/load.php?chan=745
-#EXTINF:-1 tvg-id="90" tvg-name="SKY One" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1417.png" group-title="information", SKY One
-http://24.139.223.247/load.php?chan=746
-#EXTINF:-1 tvg-id="91" tvg-name="SKY Atlantic" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1419.png" group-title="information", SKY Atlantic
-http://24.139.223.247/load.php?chan=747
-#EXTINF:-1 tvg-id="92" tvg-name="E4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1421.png" group-title="information", E4
-http://24.139.223.247/load.php?chan=748
-#EXTINF:-1 tvg-id="93" tvg-name="More 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1423.png" group-title="information", More 4
-http://24.139.223.247/load.php?chan=749
-#EXTINF:-1 tvg-id="94" tvg-name="Challenge" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1425.png" group-title="information", Challenge
-http://24.139.223.247/load.php?chan=750
-#EXTINF:-1 tvg-id="95" tvg-name="Irish TV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1427.png" group-title="information", Irish TV
-http://24.139.223.247/load.php?chan=751
-#EXTINF:-1 tvg-id="96" tvg-name="Pick" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/771.png" group-title="information", Pick
-http://24.139.223.247/load.php?chan=752
-#EXTINF:-1 tvg-id="97" tvg-name="5 Star" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1429.png" group-title="information", 5 Star
-http://24.139.223.247/load.php?chan=753
-#EXTINF:-1 tvg-id="98" tvg-name="RTE ONE" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/777.png" group-title="information", RTE ONE
-http://24.139.223.247/load.php?chan=754
-#EXTINF:-1 tvg-id="99" tvg-name="RTE TWO" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/779.png" group-title="information", RTE TWO
-http://24.139.223.247/load.php?chan=755
-#EXTINF:-1 tvg-id="100" tvg-name="BBC ONE" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/801.png" group-title="information", BBC ONE
-http://24.139.223.247/load.php?chan=756
-#EXTINF:-1 tvg-id="101" tvg-name="BBC TWO" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1263.png" group-title="information", BBC TWO
-http://24.139.223.247/load.php?chan=757
-#EXTINF:-1 tvg-id="102" tvg-name="BBC Three" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1433.png" group-title="information", BBC Three
-http://24.139.223.247/load.php?chan=758
-#EXTINF:-1 tvg-id="103" tvg-name="BBC Four" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1435.png" group-title="information", BBC Four
-http://24.139.223.247/load.php?chan=759
-#EXTINF:-1 tvg-id="104" tvg-name="5 USA" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1431.png" group-title="information", 5 USA
-http://24.139.223.247/load.php?chan=760
-#EXTINF:-1 tvg-id="105" tvg-name="USA Network East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/20.png" group-title="cinema", USA Network East
-http://24.139.223.247/load.php?chan=761
-#EXTINF:-1 tvg-id="107" tvg-name="Comedy Central East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/34.png" group-title="entertainments", Comedy Central East
-http://24.139.223.247/load.php?chan=762
-#EXTINF:-1 tvg-id="108" tvg-name="Lifetime East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/543.png" group-title="entertainments", Lifetime East
-http://24.139.223.247/load.php?chan=763
-#EXTINF:-1 tvg-id="109" tvg-name="ITV Encore" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/48.png" group-title="entertainments", ITV Encore
-http://24.139.223.247/load.php?chan=764
-#EXTINF:-1 tvg-id="110" tvg-name="Food Network East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/25.png" group-title="information", Food Network East
-http://24.139.223.247/load.php?chan=765
-#EXTINF:-1 tvg-id="111" tvg-name="DIY Network USA" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/45.png" group-title="information", DIY Network USA
-http://24.139.223.247/load.php?chan=766
-#EXTINF:-1 tvg-id="113" tvg-name="Good Food" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1265.png" group-title="others", Good Food
-http://24.139.223.247/load.php?chan=767
-#EXTINF:-1 tvg-id="114" tvg-name="E!" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1203.png" group-title="entertainments", E!
-http://24.139.223.247/load.php?chan=768
-#EXTINF:-1 tvg-id="115" tvg-name="ITV B" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1747.png" group-title="entertainments", ITV B
-http://24.139.223.247/load.php?chan=769
-#EXTINF:-1 tvg-id="116" tvg-name="True Drama" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1437.png" group-title="information", True Drama
-http://24.139.223.247/load.php?chan=770
-#EXTINF:-1 tvg-id="117" tvg-name="Drama" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1439.png" group-title="information", Drama
-http://24.139.223.247/load.php?chan=771
-#EXTINF:-1 tvg-id="118" tvg-name="A&E East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/583.png" group-title="entertainments", A&E East
-http://24.139.223.247/load.php?chan=772
-#EXTINF:-1 tvg-id="119" tvg-name="Discovery History" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1471.png" group-title="information", Discovery History
-http://24.139.223.247/load.php?chan=773
-#EXTINF:-1 tvg-id="120" tvg-name="History" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/32.png" group-title="information", History
-http://24.139.223.247/load.php?chan=774
-#EXTINF:-1 tvg-id="121" tvg-name="H2 USA" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/885.png" group-title="information", H2 USA
-http://24.139.223.247/load.php?chan=775
-#EXTINF:-1 tvg-id="123" tvg-name="TLC" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/104.png" group-title="entertainments", TLC
-http://24.139.223.247/load.php?chan=776
-#EXTINF:-1 tvg-id="125" tvg-name="Alibi" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1750.png" group-title="information", Alibi
-http://24.139.223.247/load.php?chan=777
-#EXTINF:-1 tvg-id="215" tvg-name="Al Jazeera" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/60.png" group-title="information", Al Jazeera
-http://24.139.223.247/load.php?chan=844
-#EXTINF:-1 tvg-id="126" tvg-name="Really" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/50.png" group-title="entertainments", Really
-http://24.139.223.247/load.php?chan=778
-#EXTINF:-1 tvg-id="127" tvg-name="Oxygen" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/33.png" group-title="entertainments", Oxygen
-http://24.139.223.247/load.php?chan=779
-#EXTINF:-1 tvg-id="128" tvg-name="WE TV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/30.png" group-title="entertainments", WE TV
-http://24.139.223.247/load.php?chan=780
-#EXTINF:-1 tvg-id="129" tvg-name="Bravo East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1870.png" group-title="entertainments", Bravo East
-http://24.139.223.247/load.php?chan=781
-#EXTINF:-1 tvg-id="131" tvg-name="AMC East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/663.png" group-title="entertainments", AMC East
-http://24.139.223.247/load.php?chan=782
-#EXTINF:-1 tvg-id="132" tvg-name="TCM US" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/675.png" group-title="cinema", TCM US
-http://24.139.223.247/load.php?chan=783
-#EXTINF:-1 tvg-id="133" tvg-name="IFC East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/38.png" group-title="entertainments", IFC East
-http://24.139.223.247/load.php?chan=784
-#EXTINF:-1 tvg-id="134" tvg-name="FOX" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/247.png" group-title="information", FOX
-http://24.139.223.247/load.php?chan=785
-#EXTINF:-1 tvg-id="135" tvg-name="BBC America" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/39.png" group-title="cinema", BBC America
-http://24.139.223.247/load.php?chan=786
-#EXTINF:-1 tvg-id="136" tvg-name="FX East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/585.png" group-title="entertainments", FX East
-http://24.139.223.247/load.php?chan=787
-#EXTINF:-1 tvg-id="138" tvg-name="TNT Drama" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/565.png" group-title="entertainments", TNT Drama
-http://24.139.223.247/load.php?chan=788  
-#EXTINF:-1 tvg-id="139" tvg-name="TBS East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/553.png" group-title="entertainments", TBS East
-http://24.139.223.247/load.php?chan=789
-#EXTINF:-1 tvg-id="140" tvg-name="ESPN US" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/549.png" group-title="sports", ESPN US
-http://24.139.223.247/load.php?chan=790
-#EXTINF:-1 tvg-id="141" tvg-name="ESPNU" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/567.png" group-title="sports", ESPNU
-http://24.139.223.247/load.php?chan=791
-#EXTINF:-1 tvg-id="142" tvg-name="ESPNews US" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1213.png" group-title="sports", ESPNews US
-http://24.139.223.247/load.php?chan=792
-#EXTINF:-1 tvg-id="143" tvg-name="SKY Sports News" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/54.png" group-title="sports", SKY Sports News
-http://24.139.223.247/load.php?chan=793
-#EXTINF:-1 tvg-id="144" tvg-name="ESPN 2 US" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1215.png" group-title="sports", ESPN 2 US
-http://24.139.223.247/load.php?chan=794
-#EXTINF:-1 tvg-id="150" tvg-name="Fox Sports 1 US" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/46.png" group-title="sports", Fox Sports 1 US
-http://24.139.223.247/load.php?chan=795
-#EXTINF:-1 tvg-id="151" tvg-name="Fox Sports 2 US" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/673.png" group-title="sports", Fox Sports 2 US
-http://24.139.223.247/load.php?chan=796
-#EXTINF:-1 tvg-id="152" tvg-name="MLB Network" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/40.png" group-title="sports", MLB Network
-http://24.139.223.247/load.php?chan=797
-#EXTINF:-1 tvg-id="153" tvg-name="NHL Network USA" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/41.png" group-title="sports", NHL Network USA
-http://24.139.223.247/load.php?chan=798
-#EXTINF:-1 tvg-id="154" tvg-name="NFL Network" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/591.png" group-title="sports", NFL Network
-http://24.139.223.247/load.php?chan=799
-#EXTINF:-1 tvg-id="155" tvg-name="NBA TV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1207.png" group-title="sports", NBA TV
-http://24.139.223.247/load.php?chan=800
-#EXTINF:-1 tvg-id="156" tvg-name="UFC Network" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1299.png" group-title="sports", UFC Network
-http://24.139.223.247/load.php?chan=801
-#EXTINF:-1 tvg-id="158" tvg-name="CBS Sports Network" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1219.png" group-title="sports", CBS Sports Network
-http://24.139.223.247/load.php?chan=802
-#EXTINF:-1 tvg-id="168" tvg-name="Disney Jr" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1832.png" group-title="others", Disney Jr
-http://24.139.223.247/load.php?chan=803
-#EXTINF:-1 tvg-id="169" tvg-name="Nick Jr" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1852.png" group-title="others", Nick Jr
-http://24.139.223.247/load.php?chan=804
-#EXTINF:-1 tvg-id="170" tvg-name="Nickelodeon East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/973.png" group-title="others", Nickelodeon East
-http://24.139.223.247/load.php?chan=805
-#EXTINF:-1 tvg-id="172" tvg-name="Disney Channel East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/21.png" group-title="others", Disney Channel East
-http://24.139.223.247/load.php?chan=806
-#EXTINF:-1 tvg-id="173" tvg-name="Disney Channel West" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1842.png" group-title="others", Disney Channel West
-http://24.139.223.247/load.php?chan=807
-#EXTINF:-1 tvg-id="174" tvg-name="Disney XD" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1840.png" group-title="others", Disney XD
-http://24.139.223.247/load.php?chan=808
-#EXTINF:-1 tvg-id="175" tvg-name="Boomerang USA" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1885.png" group-title="others", Boomerang USA
-http://24.139.223.247/load.php?chan=809 
-#EXTINF:-1 tvg-id="178" tvg-name="Baby First TV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1862.png" group-title="others", Baby First TV
-http://24.139.223.247/load.php?chan=810
-#EXTINF:-1 tvg-id="179" tvg-name="Baby TV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1091.png" group-title="others", Baby TV
-http://24.139.223.247/load.php?chan=811
-#EXTINF:-1 tvg-id="180" tvg-name="ABC Family" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1835.png" group-title="entertainments", ABC Family
-http://24.139.223.247/load.php?chan=812
-#EXTINF:-1 tvg-id="181" tvg-name="Teen Nick" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1857.png" group-title="others", Teen Nick
-http://24.139.223.247/load.php?chan=813
-#EXTINF:-1 tvg-id="182" tvg-name="Discovery Channel USA" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/4.png" group-title="others", Discovery Channel USA
-http://24.139.223.247/load.php?chan=814
-#EXTINF:-1 tvg-id="183" tvg-name="Discovery Family" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1847.png" group-title="entertainments", Discovery Family
-http://24.139.223.247/load.php?chan=815
-#EXTINF:-1 tvg-id="184" tvg-name="Animal Planet" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1825.png" group-title="others", Animal Planet
-http://24.139.223.247/load.php?chan=816
-#EXTINF:-1 tvg-id="186" tvg-name="National Geographic Channel" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/897.png" group-title="information", National Geographic Channel
-http://24.139.223.247/load.php?chan=817
-#EXTINF:-1 tvg-id="188" tvg-name="Discovery Turbo" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/56.png" group-title="information", Discovery Turbo
-http://24.139.223.247/load.php?chan=818
-#EXTINF:-1 tvg-id="190" tvg-name="Nat Geo Wild" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1810.png" group-title="others", Nat Geo Wild
-http://24.139.223.247/load.php?chan=819
-#EXTINF:-1 tvg-id="191" tvg-name="Dmax" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1755.png" group-title="information", Dmax
-http://24.139.223.247/load.php?chan=820
-#EXTINF:-1 tvg-id="192" tvg-name="Investigation Discovery" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1217.png" group-title="information", Investigation Discovery
-http://24.139.223.247/load.php?chan=821
-#EXTINF:-1 tvg-id="193" tvg-name="Science Channel" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1295.png" group-title="others", Science Channel
-http://24.139.223.247/load.php?chan=822
-#EXTINF:-1 tvg-id="194" tvg-name="Destination America" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1817.png" group-title="information", Destination America
-http://24.139.223.247/load.php?chan=823
-#EXTINF:-1 tvg-id="195" tvg-name="American Heroes Channel" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1865.png" group-title="information", American Heroes Channel
-http://24.139.223.247/load.php?chan=824
-#EXTINF:-1 tvg-id="196" tvg-name="Travel" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1627.png" group-title="others", Travel
-http://24.139.223.247/load.php?chan=825
-#EXTINF:-1 tvg-id="197" tvg-name="RT Documentary" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/899.png" group-title="information", RT Documentary
-http://24.139.223.247/load.php?chan=826
-#EXTINF:-1 tvg-id="198" tvg-name="Eden" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/58.png" group-title="entertainments", Eden
-http://24.139.223.247/load.php?chan=827
-#EXTINF:-1 tvg-id="199" tvg-name="Yesterday" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/64.png" group-title="information", Yesterday
-http://24.139.223.247/load.php?chan=828
-#EXTINF:-1 tvg-id="200" tvg-name="CNN US" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/10.png" group-title="information", CNN US
-http://24.139.223.247/load.php?chan=829
-#EXTINF:-1 tvg-id="201" tvg-name="CNN International" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1049.png" group-title="information", CNN International
-http://24.139.223.247/load.php?chan=830
-#EXTINF:-1 tvg-id="202" tvg-name="Bloomberg TV UK" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1089.png" group-title="information", Bloomberg TV UK
-http://24.139.223.247/load.php?chan=831
-#EXTINF:-1 tvg-id="203" tvg-name="Bloomberg TV US" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/971.png" group-title="information", Bloomberg TV US
-http://24.139.223.247/load.php?chan=832
-#EXTINF:-1 tvg-id="204" tvg-name="ABC News" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1087.png" group-title="information", ABC News
-http://24.139.223.247/load.php?chan=833
-#EXTINF:-1 tvg-id="205" tvg-name="Fox News Channel" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/22.png" group-title="information", Fox News Channel
-http://24.139.223.247/load.php?chan=834
-#EXTINF:-1 tvg-id="206" tvg-name="CNBC Africa" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1795.png" group-title="entertainments", CNBC Africa
-http://24.139.223.247/load.php?chan=835
-#EXTINF:-1 tvg-id="207" tvg-name="CNBC World" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1790.png" group-title="information", CNBC World
-http://24.139.223.247/load.php?chan=836
-#EXTINF:-1 tvg-id="208" tvg-name="CNBC US" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1765.png" group-title="information", CNBC US
-http://24.139.223.247/load.php?chan=837
-#EXTINF:-1 tvg-id="209" tvg-name="MSNBC" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1770.png" group-title="information", MSNBC
-http://24.139.223.247/load.php?chan=838
-#EXTINF:-1 tvg-id="210" tvg-name="RT International" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/62.png" group-title="information", RT International
-http://24.139.223.247/load.php?chan=839
-#EXTINF:-1 tvg-id="211" tvg-name="BBC World News" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1760.png" group-title="information", BBC World News
-http://24.139.223.247/load.php?chan=840
-#EXTINF:-1 tvg-id="212" tvg-name="BBC News" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/251.png" group-title="information", BBC News
-http://24.139.223.247/load.php?chan=841
-#EXTINF:-1 tvg-id="213" tvg-name="France 24" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/419.png" group-title="others", France 24
-http://24.139.223.247/load.php?chan=842
-#EXTINF:-1 tvg-id="214" tvg-name="The Weather Channel" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/12.png" group-title="information", The Weather Channel
-http://24.139.223.247/load.php?chan=843
-#EXTINF:-1 tvg-id="216" tvg-name="SKY News" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/249.png" group-title="information", SKY News
-http://24.139.223.247/load.php?chan=845
-#EXTINF:-1 tvg-id="217" tvg-name="Euronews" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1127.png" group-title="information", Euronews
-http://24.139.223.247/load.php?chan=846
-#EXTINF:-1 tvg-id="218" tvg-name="Deutsche Welle" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1097.png" group-title="information", Deutsche Welle
-http://24.139.223.247/load.php?chan=847
-#EXTINF:-1 tvg-id="219" tvg-name="NHK World" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/733.png" group-title="information", NHK World
-http://24.139.223.247/load.php?chan=848
-#EXTINF:-1 tvg-id="220" tvg-name="eNCA" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1465.png" group-title="information", eNCA
-http://24.139.223.247/load.php?chan=849
-#EXTINF:-1 tvg-id="221" tvg-name="CCTV News" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1615.png" group-title="information", CCTV News
-http://24.139.223.247/load.php?chan=850
-#EXTINF:-1 tvg-id="226" tvg-name="Arirang TV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/921.png" group-title="information", Arirang TV
-http://24.139.223.247/load.php?chan=851
-#EXTINF:-1 tvg-id="227" tvg-name="CBS Reality" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1261.png" group-title="entertainments", CBS Reality
-http://24.139.223.247/load.php?chan=852
-#EXTINF:-1 tvg-id="228" tvg-name="CBS Drama" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1257.png" group-title="entertainments", CBS Drama
-http://24.139.223.247/load.php?chan=853
-#EXTINF:-1 tvg-id="229" tvg-name="CBS Action" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1259.png" group-title="entertainments", CBS Action
-http://24.139.223.247/load.php?chan=854
-#EXTINF:-1 tvg-id="239" tvg-name="WGN America" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/989.png" group-title="entertainments", WGN America
-http://24.139.223.247/load.php?chan=855
-#EXTINF:-1 tvg-id="240" tvg-name="FXX East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1201.png" group-title="entertainments", FXX East
-http://24.139.223.247/load.php?chan=856
-#EXTINF:-1 tvg-id="241" tvg-name="Spike TV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1620.png" group-title="entertainments", Spike TV
-http://24.139.223.247/load.php?chan=857
-#EXTINF:-1 tvg-id="242" tvg-name="Tru TV East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/987.png" group-title="entertainments", Tru TV East
-http://24.139.223.247/load.php?chan=858 
-#EXTINF:-1 tvg-id="245" tvg-name="Ovation" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1209.png" group-title="entertainments", Ovation
-http://24.139.223.247/load.php?chan=859
-#EXTINF:-1 tvg-id="249" tvg-name="Crime + Investigation Network USA" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/467.png" group-title="information", Crime + Investigation Network USA
-http://24.139.223.247/load.php?chan=860
-#EXTINF:-1 tvg-id="250" tvg-name="ION Television East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1882.png" group-title="entertainments", ION Television East
-http://24.139.223.247/load.php?chan=861
-#EXTINF:-1 tvg-id="270" tvg-name="Music Videos 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/279.png" group-title="music", Music Videos 1
-http://24.139.223.247/load.php?chan=862
-#EXTINF:-1 tvg-id="271" tvg-name="Music Videos 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/281.png" group-title="music", Music Videos 2
-http://24.139.223.247/load.php?chan=863
-#EXTINF:-1 tvg-id="272" tvg-name="Music Videos 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/283.png" group-title="music", Music Videos 3
-http://24.139.223.247/load.php?chan=864
-#EXTINF:-1 tvg-id="273" tvg-name="Music Videos 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/507.png" group-title="music", Music Videos 4
-http://24.139.223.247/load.php?chan=865
-#EXTINF:-1 tvg-id="274" tvg-name="Music Videos 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/289.png" group-title="music", Music Videos 5
-http://24.139.223.247/load.php?chan=866
-#EXTINF:-1 tvg-id="275" tvg-name="Music Videos 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/499.png" group-title="music", Music Videos 6
-http://24.139.223.247/load.php?chan=867
-#EXTINF:-1 tvg-id="276" tvg-name="Music Videos 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/501.png" group-title="music", Music Videos 7
-http://24.139.223.247/load.php?chan=868
-#EXTINF:-1 tvg-id="277" tvg-name="Music Videos 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/503.png" group-title="music", Music Videos 8
-http://24.139.223.247/load.php?chan=869
-#EXTINF:-1 tvg-id="278" tvg-name="Music Videos 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/505.png" group-title="music", Music Videos 9
-http://24.139.223.247/load.php?chan=870
-#EXTINF:-1 tvg-id="279" tvg-name="Music Videos 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/277.png" group-title="music", Music Videos 10
-http://24.139.223.247/load.php?chan=871
-#EXTINF:-1 tvg-id="280" tvg-name="Music Videos 11" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/509.png" group-title="music", Music Videos 11
-http://24.139.223.247/load.php?chan=872
-#EXTINF:-1 tvg-id="281" tvg-name="Music Videos 12" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/511.png" group-title="music", Music Videos 12
-http://24.139.223.247/load.php?chan=873
-#EXTINF:-1 tvg-id="282" tvg-name="Music Videos 13" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/513.png" group-title="music", Music Videos 13
-http://24.139.223.247/load.php?chan=874
-#EXTINF:-1 tvg-id="283" tvg-name="Music Videos 14" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/515.png" group-title="music", Music Videos 14
-http://24.139.223.247/load.php?chan=875
-#EXTINF:-1 tvg-id="284" tvg-name="Music Videos 15" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/517.png" group-title="music", Music Videos 15
-http://24.139.223.247/load.php?chan=876
-#EXTINF:-1 tvg-id="285" tvg-name="Music Videos 16" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/519.png" group-title="music", Music Videos 16
-http://24.139.223.247/load.php?chan=877
-#EXTINF:-1 tvg-id="286" tvg-name="Music Videos 17" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/521.png" group-title="music", Music Videos 17
-http://24.139.223.247/load.php?chan=878
-#EXTINF:-1 tvg-id="287" tvg-name="Music Videos 18" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/523.png" group-title="music", Music Videos 18
-http://24.139.223.247/load.php?chan=879
-#EXTINF:-1 tvg-id="288" tvg-name="Music Videos 19" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/525.png" group-title="music", Music Videos 19
-http://24.139.223.247/load.php?chan=880
-#EXTINF:-1 tvg-id="289" tvg-name="Music Videos 20" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/527.png" group-title="music", Music Videos 20
-http://24.139.223.247/load.php?chan=881
-#EXTINF:-1 tvg-id="290" tvg-name="Music Videos 21" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/529.png" group-title="music", Music Videos 21
-http://24.139.223.247/load.php?chan=882
-#EXTINF:-1 tvg-id="291" tvg-name="Music Videos 22" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/531.png" group-title="music", Music Videos 22
-http://24.139.223.247/load.php?chan=883
-#EXTINF:-1 tvg-id="292" tvg-name="Music Videos 23" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/533.png" group-title="music", Music Videos 23
-http://24.139.223.247/load.php?chan=884
-#EXTINF:-1 tvg-id="293" tvg-name="Music Videos 24" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/535.png" group-title="music", Music Videos 24
-http://24.139.223.247/load.php?chan=885
-#EXTINF:-1 tvg-id="294" tvg-name="Music Videos 25" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/537.png" group-title="music", Music Videos 25
-http://24.139.223.247/load.php?chan=886
-#EXTINF:-1 tvg-id="295" tvg-name="Music Videos 26" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/599.png" group-title="music", Music Videos 26
-http://24.139.223.247/load.php?chan=887
-#EXTINF:-1 tvg-id="296" tvg-name="Music Videos 27" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/465.png" group-title="music", Music Videos 27
-http://24.139.223.247/load.php?chan=888
-#EXTINF:-1 tvg-id="297" tvg-name="Music Videos 28" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/643.png" group-title="music", Music Videos 28
-http://24.139.223.247/load.php?chan=889
-#EXTINF:-1 tvg-id="298" tvg-name="Music Videos 29" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/711.png" group-title="music", Music Videos 29
-http://24.139.223.247/load.php?chan=890
-#EXTINF:-1 tvg-id="299" tvg-name="Music Videos 30" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/713.png" group-title="music", Music Videos 30
-http://24.139.223.247/load.php?chan=891
-#EXTINF:-1 tvg-id="300" tvg-name="HBO East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1775.png" group-title="cinema", HBO East
-http://24.139.223.247/load.php?chan=892
-#EXTINF:-1 tvg-id="301" tvg-name="HBO 2 East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/28.png" group-title="cinema", HBO 2 East
-http://24.139.223.247/load.php?chan=893
-#EXTINF:-1 tvg-id="302" tvg-name="HBO Signature East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/545.png" group-title="cinema", HBO Signature East
-http://24.139.223.247/load.php?chan=894
-#EXTINF:-1 tvg-id="303" tvg-name="HBO West" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1777.png" group-title="cinema", HBO West
-http://24.139.223.247/load.php?chan=895
-#EXTINF:-1 tvg-id="308" tvg-name="HBO Zone" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/551.png" group-title="cinema", HBO Zone
-http://24.139.223.247/load.php?chan=899
-#EXTINF:-1 tvg-id="304" tvg-name="HBO 2 West" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/665.png" group-title="cinema", HBO 2 West
-http://24.139.223.247/load.php?chan=896
-#EXTINF:-1 tvg-id="305" tvg-name="HBO Family East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1625.png" group-title="cinema", HBO Family East
-http://24.139.223.247/load.php?chan=897
-#EXTINF:-1 tvg-id="307" tvg-name="HBO Comedy East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/589.png" group-title="cinema", HBO Comedy East
-http://24.139.223.247/load.php?chan=898
-#EXTINF:-1 tvg-id="309" tvg-name="HBO Latino" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1887.png" group-title="cinema", HBO Latino
-http://24.139.223.247/load.php?chan=900
-#EXTINF:-1 tvg-id="310" tvg-name="Cinemax East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/539.png" group-title="cinema", Cinemax East
-http://24.139.223.247/load.php?chan=901
-#EXTINF:-1 tvg-id="311" tvg-name="Cinemax West" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/541.png" group-title="cinema", Cinemax West
-http://24.139.223.247/load.php?chan=902
-#EXTINF:-1 tvg-id="313" tvg-name="ActionMax East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1199.png" group-title="cinema", ActionMax East
-http://24.139.223.247/load.php?chan=903
-#EXTINF:-1 tvg-id="314" tvg-name="5 StarMax" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1875.png" group-title="cinema", 5 StarMax
-http://24.139.223.247/load.php?chan=904
-#EXTINF:-1 tvg-id="316" tvg-name="ThrillerMax East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1297.png" group-title="cinema", ThrillerMax East
-http://24.139.223.247/load.php?chan=905
-#EXTINF:-1 tvg-id="318" tvg-name="Showtime East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/15.png" group-title="information", Showtime East
-http://24.139.223.247/load.php?chan=906
-#EXTINF:-1 tvg-id="319" tvg-name="Showtime West" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/555.png" group-title="cinema", Showtime West
-http://24.139.223.247/load.php?chan=907
-#EXTINF:-1 tvg-id="320" tvg-name="Showtime 2 East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/557.png" group-title="cinema", Showtime 2 East
-http://24.139.223.247/load.php?chan=908
-#EXTINF:-1 tvg-id="321" tvg-name="Showtime Showcase East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/659.png" group-title="cinema", Showtime Showcase East
-http://24.139.223.247/load.php?chan=909
-#EXTINF:-1 tvg-id="322" tvg-name="Showtime Extreme East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/559.png" group-title="cinema", Showtime Extreme East
-http://24.139.223.247/load.php?chan=910
-#EXTINF:-1 tvg-id="323" tvg-name="Showtime Beyond East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/561.png" group-title="cinema", Showtime Beyond East
-http://24.139.223.247/load.php?chan=911
-#EXTINF:-1 tvg-id="324" tvg-name="Showtime Next" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/667.png" group-title="cinema", Showtime Next
-http://24.139.223.247/load.php?chan=912
-#EXTINF:-1 tvg-id="327" tvg-name="The Movie Channel East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/24.png" group-title="cinema", The Movie Channel East
-http://24.139.223.247/load.php?chan=913
-#EXTINF:-1 tvg-id="328" tvg-name="The Movie Channel Xtra East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/563.png" group-title="cinema", The Movie Channel Xtra East
-http://24.139.223.247/load.php?chan=914
-#EXTINF:-1 tvg-id="340" tvg-name="Encore East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/26.png" group-title="cinema", Encore East
-http://24.139.223.247/load.php?chan=915
-#EXTINF:-1 tvg-id="343" tvg-name="Encore Action East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1877.png" group-title="cinema", Encore Action East
-http://24.139.223.247/load.php?chan=916
-#EXTINF:-1 tvg-id="350" tvg-name="Starz East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/23.png" group-title="cinema", Starz East
-http://24.139.223.247/load.php?chan=917
-#EXTINF:-1 tvg-id="351" tvg-name="Starz West" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/569.png" group-title="cinema", Starz West
-http://24.139.223.247/load.php?chan=918
-#EXTINF:-1 tvg-id="352" tvg-name="Starz Edge East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/571.png" group-title="cinema", Starz Edge East
-http://24.139.223.247/load.php?chan=919
-#EXTINF:-1 tvg-id="353" tvg-name="Starz Cinema East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/573.png" group-title="cinema", Starz Cinema East
-http://24.139.223.247/load.php?chan=920
-#EXTINF:-1 tvg-id="354" tvg-name="Starz Comedy East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/575.png" group-title="cinema", Starz Comedy East
-http://24.139.223.247/load.php?chan=921
-#EXTINF:-1 tvg-id="355" tvg-name="Starz In Black East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/577.png" group-title="cinema", Starz In Black East
-http://24.139.223.247/load.php?chan=922
-#EXTINF:-1 tvg-id="356" tvg-name="Starz Kids & Family East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/669.png" group-title="cinema", Starz Kids & Family East
-http://24.139.223.247/load.php?chan=923
-#EXTINF:-1 tvg-id="359" tvg-name="SKY Premiere" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/66.png" group-title="cinema", SKY Premiere
-http://24.139.223.247/load.php?chan=924
-#EXTINF:-1 tvg-id="361" tvg-name="SKY Modern Greats" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/257.png" group-title="cinema", SKY Modern Greats
-http://24.139.223.247/load.php?chan=925
-#EXTINF:-1 tvg-id="362" tvg-name="SKY Disney" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/68.png" group-title="others", SKY Disney
-http://24.139.223.247/load.php?chan=926
-#EXTINF:-1 tvg-id="363" tvg-name="SKY Family" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/70.png" group-title="cinema", SKY Family
-http://24.139.223.247/load.php?chan=927
-#EXTINF:-1 tvg-id="364" tvg-name="SKY Action & Adventure" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/72.png" group-title="cinema", SKY Action & Adventure
-http://24.139.223.247/load.php?chan=928
-#EXTINF:-1 tvg-id="365" tvg-name="SKY Comedy" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/74.png" group-title="cinema", SKY Comedy
-http://24.139.223.247/load.php?chan=929
-#EXTINF:-1 tvg-id="366" tvg-name="SKY Crime & Thriller" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/76.png" group-title="cinema", SKY Crime & Thriller
-http://24.139.223.247/load.php?chan=930
-#EXTINF:-1 tvg-id="367" tvg-name="SKY Movies Drama" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/259.png" group-title="cinema", SKY Movies Drama
-http://24.139.223.247/load.php?chan=931
-#EXTINF:-1 tvg-id="368" tvg-name="SKY Scifi & Horror" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/78.png" group-title="cinema", SKY Scifi & Horror
-http://24.139.223.247/load.php?chan=932
-#EXTINF:-1 tvg-id="369" tvg-name="SKY Select" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/80.png" group-title="cinema", SKY Select
-http://24.139.223.247/load.php?chan=933
-#EXTINF:-1 tvg-id="370" tvg-name="True Movies 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/443.png" group-title="cinema", True Movies 1
-http://24.139.223.247/load.php?chan=934
-#EXTINF:-1 tvg-id="371" tvg-name="True Movies 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/261.png" group-title="cinema", True Movies 2
-http://24.139.223.247/load.php?chan=935
-#EXTINF:-1 tvg-id="372" tvg-name="Movies 24" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/263.png" group-title="cinema", Movies 24
-http://24.139.223.247/load.php?chan=936
-#EXTINF:-1 tvg-id="373" tvg-name="Film 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/253.png" group-title="cinema", Film 4
-http://24.139.223.247/load.php?chan=937
-#EXTINF:-1 tvg-id="374" tvg-name="Palladia" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/579.png" group-title="entertainments", Palladia
-http://24.139.223.247/load.php?chan=938
-#EXTINF:-1 tvg-id="377" tvg-name="Hallmark Movie Channel" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/581.png" group-title="cinema", Hallmark Movie Channel
-http://24.139.223.247/load.php?chan=939
-#EXTINF:-1 tvg-id="386" tvg-name="Sony Movie Channel USA" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/671.png" group-title="cinema", Sony Movie Channel USA
-http://24.139.223.247/load.php?chan=940
-#EXTINF:-1 tvg-id="400" tvg-name="Tennis Channel" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1830.png" group-title="sports", Tennis Channel
-http://24.139.223.247/load.php?chan=941
-#EXTINF:-1 tvg-id="401" tvg-name="Golf Channel" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1205.png" group-title="sports", Golf Channel
-http://24.139.223.247/load.php?chan=942
-#EXTINF:-1 tvg-id="402" tvg-name="Setanta Sports" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/265.png" group-title="sports", Setanta Sports
-http://24.139.223.247/load.php?chan=943
-#EXTINF:-1 tvg-id="403" tvg-name="At The Races" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/267.png" group-title="sports", At The Races
-http://24.139.223.247/load.php?chan=944
-#EXTINF:-1 tvg-id="404" tvg-name="Racing UK" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1285.png" group-title="sports", Racing UK
-http://24.139.223.247/load.php?chan=945
-#EXTINF:-1 tvg-id="405" tvg-name="Eurosport 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1347.png" group-title="sports", Eurosport 1
-http://24.139.223.247/load.php?chan=946
-#EXTINF:-1 tvg-id="406" tvg-name="Eurosport 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1349.png" group-title="sports", Eurosport 2
-http://24.139.223.247/load.php?chan=947
-#EXTINF:-1 tvg-id="407" tvg-name="MUTV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/269.png" group-title="information", MUTV
-http://24.139.223.247/load.php?chan=948
-#EXTINF:-1 tvg-id="408" tvg-name="MSG" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1211.png" group-title="sports", MSG
-http://24.139.223.247/load.php?chan=949
-#EXTINF:-1 tvg-id="409" tvg-name="BOXnation" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/781.png" group-title="information", BOXnation
-http://24.139.223.247/load.php?chan=950
-#EXTINF:-1 tvg-id="410" tvg-name="SKY Sports 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1269.png" group-title="sports", SKY Sports 1
-http://24.139.223.247/load.php?chan=951
-#EXTINF:-1 tvg-id="411" tvg-name="SKY Sports 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1271.png" group-title="sports", SKY Sports 2
-http://24.139.223.247/load.php?chan=952
-#EXTINF:-1 tvg-id="412" tvg-name="SKY Sports 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1273.png" group-title="sports", SKY Sports 3
-http://24.139.223.247/load.php?chan=953
-#EXTINF:-1 tvg-id="413" tvg-name="SKY Sports 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1275.png" group-title="sports", SKY Sports 4
-http://24.139.223.247/load.php?chan=954
-#EXTINF:-1 tvg-id="414" tvg-name="SKY Sports 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1277.png" group-title="sports", SKY Sports 5
-http://24.139.223.247/load.php?chan=955
-#EXTINF:-1 tvg-id="415" tvg-name="SKY Sports F1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1267.png" group-title="sports", SKY Sports F1
-http://24.139.223.247/load.php?chan=956
-#EXTINF:-1 tvg-id="416" tvg-name="BT Sport 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1287.png" group-title="sports", BT Sport 1
-http://24.139.223.247/load.php?chan=957
-#EXTINF:-1 tvg-id="417" tvg-name="BT Sport 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1289.png" group-title="sports", BT Sport 2
-http://24.139.223.247/load.php?chan=958
-#EXTINF:-1 tvg-id="418" tvg-name="ASTRO SuperSport" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1279.png" group-title="sports", ASTRO SuperSport
-http://24.139.223.247/load.php?chan=959
-#EXTINF:-1 tvg-id="419" tvg-name="ASTRO SuperSport 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1281.png" group-title="sports", ASTRO SuperSport 2
-http://24.139.223.247/load.php?chan=960
-#EXTINF:-1 tvg-id="420" tvg-name="ASTRO SuperSport 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1283.png" group-title="sports", ASTRO SuperSport 3
-http://24.139.223.247/load.php?chan=961
-#EXTINF:-1 tvg-id="421" tvg-name="Yes Network" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1812.png" group-title="sports", Yes Network
-http://24.139.223.247/load.php?chan=962
-#EXTINF:-1 tvg-id="423" tvg-name="Fox Sports Florida" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1820.png" group-title="sports", Fox Sports Florida
-http://24.139.223.247/load.php?chan=963
-#EXTINF:-1 tvg-id="435" tvg-name="Sport 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/437.png" group-title="sports", Sport 1
-http://24.139.223.247/load.php?chan=964
-#EXTINF:-1 tvg-id="436" tvg-name="Sport 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/287.png" group-title="sports", Sport 2
-http://24.139.223.247/load.php?chan=965
-#EXTINF:-1 tvg-id="437" tvg-name="Sport 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/345.png" group-title="sports", Sport 3
-http://24.139.223.247/load.php?chan=966
-#EXTINF:-1 tvg-id="438" tvg-name="Sport 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/435.png" group-title="sports", Sport 4
-http://24.139.223.247/load.php?chan=967
-#EXTINF:-1 tvg-id="439" tvg-name="Sport 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/439.png" group-title="sports", Sport 5
-http://24.139.223.247/load.php?chan=968
-#EXTINF:-1 tvg-id="440" tvg-name="Sport 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/441.png" group-title="sports", Sport 6
-http://24.139.223.247/load.php?chan=969
-#EXTINF:-1 tvg-id="441" tvg-name="Sport 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/661.png" group-title="sports", Sport 7
-http://24.139.223.247/load.php?chan=970
-#EXTINF:-1 tvg-id="442" tvg-name="Sport 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/343.png" group-title="sports", Sport 8
-http://24.139.223.247/load.php?chan=971
-#EXTINF:-1 tvg-id="443" tvg-name="Sport 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/82.png" group-title="sports", Sport 9
-http://24.139.223.247/load.php?chan=972 
-#EXTINF:-1 tvg-id="444" tvg-name="Sport 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/84.png" group-title="sports", Sport 10
-http://24.139.223.247/load.php?chan=973
-#EXTINF:-1 tvg-id="445" tvg-name="Sport 11" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/86.png" group-title="sports", Sport 11
-http://24.139.223.247/load.php?chan=974
-#EXTINF:-1 tvg-id="446" tvg-name="Sport 12" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/275.png" group-title="sports", Sport 12
-http://24.139.223.247/load.php?chan=975
-#EXTINF:-1 tvg-id="447" tvg-name="Sport 13" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/273.png" group-title="sports", Sport 13
-http://24.139.223.247/load.php?chan=976
-#EXTINF:-1 tvg-id="448" tvg-name="Sport 14" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/645.png" group-title="sports", Sport 14
-http://24.139.223.247/load.php?chan=977
-#EXTINF:-1 tvg-id="449" tvg-name="Sport 15" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/341.png" group-title="sports", Sport 15
-http://24.139.223.247/load.php?chan=978
-#EXTINF:-1 tvg-id="450" tvg-name="Sport 16" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/647.png" group-title="sports", Sport 16
-http://24.139.223.247/load.php?chan=979
-#EXTINF:-1 tvg-id="451" tvg-name="Sport 17" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/649.png" group-title="sports", Sport 17
-http://24.139.223.247/load.php?chan=980
-#EXTINF:-1 tvg-id="452" tvg-name="Sport 18" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/651.png" group-title="sports", Sport 18
-http://24.139.223.247/load.php?chan=981
-#EXTINF:-1 tvg-id="453" tvg-name="Sport 19" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/653.png" group-title="sports", Sport 19
-http://24.139.223.247/load.php?chan=982
-#EXTINF:-1 tvg-id="454" tvg-name="Sport 20" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/655.png" group-title="sports", Sport 20
-http://24.139.223.247/load.php?chan=983
-#EXTINF:-1 tvg-id="455" tvg-name="Ultimate Events & Sports" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1197.png" group-title="sports", Ultimate Events & Sports
-http://24.139.223.247/load.php?chan=984
-#EXTINF:-1 tvg-id="456" tvg-name="Adult 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/339.png" group-title="for adults", Adult 1
-http://24.139.223.247/load.php?chan=985
-#EXTINF:-1 tvg-id="457" tvg-name="Adult 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/459.png" group-title="for adults", Adult 2
-http://24.139.223.247/load.php?chan=986
-#EXTINF:-1 tvg-id="458" tvg-name="Adult 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/457.png" group-title="for adults", Adult 3
-http://24.139.223.247/load.php?chan=987
-#EXTINF:-1 tvg-id="459" tvg-name="Adult 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/455.png" group-title="for adults", Adult 4
-http://24.139.223.247/load.php?chan=988
-#EXTINF:-1 tvg-id="460" tvg-name="Adult 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/453.png" group-title="for adults", Adult 5
-http://24.139.223.247/load.php?chan=989
-#EXTINF:-1 tvg-id="461" tvg-name="Adult 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/449.png" group-title="for adults", Adult 6
-http://24.139.223.247/load.php?chan=990
-#EXTINF:-1 tvg-id="462" tvg-name="Adult 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/451.png" group-title="for adults", Adult 7
-http://24.139.223.247/load.php?chan=991
-#EXTINF:-1 tvg-id="463" tvg-name="Adult 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/297.png" group-title="for adults", Adult 8
-http://24.139.223.247/load.php?chan=992
-#EXTINF:-1 tvg-id="464" tvg-name="Adult 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/445.png" group-title="for adults", Adult 9
-http://24.139.223.247/load.php?chan=993
-#EXTINF:-1 tvg-id="465" tvg-name="Adult 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/447.png" group-title="for adults", Adult 10
-http://24.139.223.247/load.php?chan=994
-#EXTINF:-1 tvg-id="466" tvg-name="Adult 11" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/473.png" group-title="for adults", Adult 11
-http://24.139.223.247/load.php?chan=995
-#EXTINF:-1 tvg-id="467" tvg-name="Adult 12" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/475.png" group-title="for adults", Adult 12
-http://24.139.223.247/load.php?chan=996
-#EXTINF:-1 tvg-id="468" tvg-name="Adult 13" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/477.png" group-title="for adults", Adult 13
-http://24.139.223.247/load.php?chan=997
-#EXTINF:-1 tvg-id="469" tvg-name="Adult 14" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/479.png" group-title="for adults", Adult 14
-http://24.139.223.247/load.php?chan=998
-#EXTINF:-1 tvg-id="470" tvg-name="Adult 15" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/481.png" group-title="for adults", Adult 15
-http://24.139.223.247/load.php?chan=999
-#EXTINF:-1 tvg-id="471" tvg-name="Adult 16" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/483.png" group-title="for adults", Adult 16
-http://24.139.223.247/load.php?chan=1000
-#EXTINF:-1 tvg-id="472" tvg-name="Adult 17" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/485.png" group-title="for adults", Adult 17
-http://24.139.223.247/load.php?chan=1001
-#EXTINF:-1 tvg-id="473" tvg-name="Adult 18" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/487.png" group-title="for adults", Adult 18
-http://24.139.223.247/load.php?chan=1002
-#EXTINF:-1 tvg-id="474" tvg-name="Adult 19" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/489.png" group-title="for adults", Adult 19
-http://24.139.223.247/load.php?chan=1003
-#EXTINF:-1 tvg-id="475" tvg-name="Adult 20" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/593.png" group-title="for adults", Adult 20
-http://24.139.223.247/load.php?chan=1004
-#EXTINF:-1 tvg-id="476" tvg-name="Adult 21" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/595.png" group-title="for adults", Adult 21
-http://24.139.223.247/load.php?chan=1005
-#EXTINF:-1 tvg-id="477" tvg-name="Adult 22" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/597.png" group-title="for adults", Adult 22
-http://24.139.223.247/load.php?chan=1006
-#EXTINF:-1 tvg-id="478" tvg-name="Adult 23" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1019.png" group-title="for adults", Adult 23
-http://24.139.223.247/load.php?chan=1007
-#EXTINF:-1 tvg-id="479" tvg-name="Adult 24" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1021.png" group-title="for adults", Adult 24
-http://24.139.223.247/load.php?chan=1008
-#EXTINF:-1 tvg-id="480" tvg-name="Venus" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/107.png" group-title="for adults", Venus
-http://24.139.223.247/load.php?chan=1009
-#EXTINF:-1 tvg-id="481" tvg-name="Sextreme" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/109.png" group-title="for adults", Sextreme
-http://24.139.223.247/load.php?chan=1010
-#EXTINF:-1 tvg-id="483" tvg-name="Manhandle XXX" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/607.png" group-title="for adults", Manhandle XXX
-http://24.139.223.247/load.php?chan=1011
-#EXTINF:-1 tvg-id="485" tvg-name="Secrets" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/605.png" group-title="for adults", Secrets
-http://24.139.223.247/load.php?chan=1012
-#EXTINF:-1 tvg-id="487" tvg-name="Playboy TV Latin America" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/111.png" group-title="for adults", Playboy TV Latin America
-http://24.139.223.247/load.php?chan=1013
-#EXTINF:-1 tvg-id="488" tvg-name="Playboy TV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/433.png" group-title="for adults", Playboy TV
-http://24.139.223.247/load.php?chan=1014
-#EXTINF:-1 tvg-id="492" tvg-name="Real" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/601.png" group-title="for adults", Real
-http://24.139.223.247/load.php?chan=1015
-#EXTINF:-1 tvg-id="494" tvg-name="Juicy" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/603.png" group-title="for adults", Juicy
-http://24.139.223.247/load.php?chan=1016
-#EXTINF:-1 tvg-id="496" tvg-name="Hustler TV USA" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/495.png" group-title="for adults", Hustler TV USA
-http://24.139.223.247/load.php?chan=1017
-#EXTINF:-1 tvg-id="498" tvg-name="Xtsy XXX" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/849.png" group-title="for adults", Xtsy XXX
-http://24.139.223.247/load.php?chan=1018
-#EXTINF:-1 tvg-id="501" tvg-name="Italy 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/421.png" group-title="others", Italy 1
-http://24.139.223.247/load.php?chan=1019
-#EXTINF:-1 tvg-id="502" tvg-name="Italy 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/393.png" group-title="others", Italy 2
-http://24.139.223.247/load.php?chan=1020
-#EXTINF:-1 tvg-id="503" tvg-name="Italy 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/461.png" group-title="others", Italy 3
-http://24.139.223.247/load.php?chan=1021
-#EXTINF:-1 tvg-id="504" tvg-name="Italy 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1121.png" group-title="others", Italy 4
-http://24.139.223.247/load.php?chan=1022
-#EXTINF:-1 tvg-id="505" tvg-name="Italy 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1123.png" group-title="others", Italy 5
-http://24.139.223.247/load.php?chan=1023
-#EXTINF:-1 tvg-id="506" tvg-name="Italy 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1125.png" group-title="others", Italy 6
-http://24.139.223.247/load.php?chan=1024
-#EXTINF:-1 tvg-id="507" tvg-name="Italy 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/425.png" group-title="others", Italy 7
-http://24.139.223.247/load.php?chan=1025
-#EXTINF:-1 tvg-id="508" tvg-name="Italy 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/469.png" group-title="others", Italy 8
-http://24.139.223.247/load.php?chan=1026
-#EXTINF:-1 tvg-id="509" tvg-name="Italy 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/377.png" group-title="others", Italy 9
-http://24.139.223.247/load.php?chan=1027
-#EXTINF:-1 tvg-id="510" tvg-name="Italy 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1457.png" group-title="others", Italy 10
-http://24.139.223.247/load.php?chan=1028
-#EXTINF:-1 tvg-id="511" tvg-name="Japan 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1702.png" group-title="information", Japan 1
-http://24.139.223.247/load.php?chan=1029
-#EXTINF:-1 tvg-id="516" tvg-name="Korea 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1499.png" group-title="others", Korea 1
-http://24.139.223.247/load.php?chan=1030
-#EXTINF:-1 tvg-id="517" tvg-name="Korea 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1632.png" group-title="others", Korea 2
-http://24.139.223.247/load.php?chan=1031 
-#EXTINF:-1 tvg-id="521" tvg-name="Russia 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/335.png" group-title="others", Russia 1
-http://24.139.223.247/load.php?chan=1032
-#EXTINF:-1 tvg-id="522" tvg-name="Russia 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/337.png" group-title="others", Russia 2
-http://24.139.223.247/load.php?chan=1033
-#EXTINF:-1 tvg-id="523" tvg-name="Russia 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/725.png" group-title="others", Russia 3
-http://24.139.223.247/load.php?chan=1034
-#EXTINF:-1 tvg-id="524" tvg-name="Russia 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/727.png" group-title="others", Russia 4
-http://24.139.223.247/load.php?chan=1035
-#EXTINF:-1 tvg-id="525" tvg-name="Russia 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/729.png" group-title="others", Russia 5
-http://24.139.223.247/load.php?chan=1036
-#EXTINF:-1 tvg-id="526" tvg-name="Russia 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/731.png" group-title="others", Russia 6
-http://24.139.223.247/load.php?chan=1037
-#EXTINF:-1 tvg-id="527" tvg-name="Russia 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/757.png" group-title="others", Russia 7
-http://24.139.223.247/load.php?chan=1038
-#EXTINF:-1 tvg-id="528" tvg-name="Russia 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/823.png" group-title="others", Russia 8
-http://24.139.223.247/load.php?chan=1039
-#EXTINF:-1 tvg-id="529" tvg-name="Russia 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/825.png" group-title="others", Russia 9
-http://24.139.223.247/load.php?chan=1040
-#EXTINF:-1 tvg-id="530" tvg-name="Russia 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/827.png" group-title="others", Russia 10
-http://24.139.223.247/load.php?chan=1041
-#EXTINF:-1 tvg-id="531" tvg-name="Arabic 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/375.png" group-title="information", Arabic 1
-http://24.139.223.247/load.php?chan=1042
-#EXTINF:-1 tvg-id="532" tvg-name="Arabic 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/427.png" group-title="information", Arabic 2
-http://24.139.223.247/load.php?chan=1043
-#EXTINF:-1 tvg-id="533" tvg-name="Arabic 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/429.png" group-title="information", Arabic 3
-http://24.139.223.247/load.php?chan=1044
-#EXTINF:-1 tvg-id="534" tvg-name="Arabic 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/639.png" group-title="information", Arabic 4
-http://24.139.223.247/load.php?chan=1045
-#EXTINF:-1 tvg-id="535" tvg-name="Arabic 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/641.png" group-title="information", Arabic 5
-http://24.139.223.247/load.php?chan=1046
-#EXTINF:-1 tvg-id="536" tvg-name="Arabic 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/327.png" group-title="information", Arabic 6
-http://24.139.223.247/load.php?chan=1047
-#EXTINF:-1 tvg-id="537" tvg-name="Arabic 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/329.png" group-title="information", Arabic 7
-http://24.139.223.247/load.php?chan=1048
-#EXTINF:-1 tvg-id="538" tvg-name="Arabic 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/331.png" group-title="information", Arabic 8
-http://24.139.223.247/load.php?chan=1049
-#EXTINF:-1 tvg-id="539" tvg-name="Arabic 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/737.png" group-title="information", Arabic 9
-http://24.139.223.247/load.php?chan=1050
-#EXTINF:-1 tvg-id="540" tvg-name="Arabic 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/753.png" group-title="information", Arabic 10
-http://24.139.223.247/load.php?chan=1051
-#EXTINF:-1 tvg-id="541" tvg-name="India 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1003.png" group-title="others", India 1
-http://24.139.223.247/load.php?chan=1052
-#EXTINF:-1 tvg-id="542" tvg-name="India 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1005.png" group-title="others", India 2
-http://24.139.223.247/load.php?chan=1053
-#EXTINF:-1 tvg-id="543" tvg-name="India 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1007.png" group-title="others", India 3
-http://24.139.223.247/load.php?chan=1054
-#EXTINF:-1 tvg-id="544" tvg-name="India 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1009.png" group-title="others", India 4
-http://24.139.223.247/load.php?chan=1055
-#EXTINF:-1 tvg-id="545" tvg-name="India 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1011.png" group-title="others", India 5
-http://24.139.223.247/load.php?chan=1056
-#EXTINF:-1 tvg-id="546" tvg-name="India 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1013.png" group-title="others", India 6
-http://24.139.223.247/load.php?chan=1057
-#EXTINF:-1 tvg-id="547" tvg-name="India 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1015.png" group-title="others", India 7
-http://24.139.223.247/load.php?chan=1058
-#EXTINF:-1 tvg-id="548" tvg-name="India 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1017.png" group-title="others", India 8
-http://24.139.223.247/load.php?chan=1059
-#EXTINF:-1 tvg-id="549" tvg-name="India 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1642.png" group-title="others", India 9
-http://24.139.223.247/load.php?chan=1060 
-#EXTINF:-1 tvg-id="550" tvg-name="India 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1657.png" group-title="others", India 10
-http://24.139.223.247/load.php?chan=1061
-#EXTINF:-1 tvg-id="551" tvg-name="India 11" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1662.png" group-title="others", India 11
-http://24.139.223.247/load.php?chan=1062
-#EXTINF:-1 tvg-id="552" tvg-name="India 12" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1667.png" group-title="others", India 12
-http://24.139.223.247/load.php?chan=1063
-#EXTINF:-1 tvg-id="553" tvg-name="India 13" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1672.png" group-title="others", India 13
-http://24.139.223.247/load.php?chan=1064
-#EXTINF:-1 tvg-id="554" tvg-name="India 14" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1677.png" group-title="others", India 14
-http://24.139.223.247/load.php?chan=1065
-#EXTINF:-1 tvg-id="555" tvg-name="India 15" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1680.png" group-title="others", India 15
-http://24.139.223.247/load.php?chan=1066
-#EXTINF:-1 tvg-id="556" tvg-name="India 16" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1682.png" group-title="others", India 16
-http://24.139.223.247/load.php?chan=1067
-#EXTINF:-1 tvg-id="557" tvg-name="India 17" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1685.png" group-title="others", India 17
-http://24.139.223.247/load.php?chan=1068
-#EXTINF:-1 tvg-id="558" tvg-name="India 18" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1690.png" group-title="others", India 18
-http://24.139.223.247/load.php?chan=1069
-#EXTINF:-1 tvg-id="559" tvg-name="India 19" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1695.png" group-title="others", India 19
-http://24.139.223.247/load.php?chan=1070
-#EXTINF:-1 tvg-id="560" tvg-name="India 20" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1700.png" group-title="others", India 20
-http://24.139.223.247/load.php?chan=1071
-#EXTINF:-1 tvg-id="561" tvg-name="Pakistan 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/413.png" group-title="others", Pakistan 1
-http://24.139.223.247/load.php?chan=1072
-#EXTINF:-1 tvg-id="562" tvg-name="Pakistan 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/415.png" group-title="others", Pakistan 2
-http://24.139.223.247/load.php?chan=1073
-#EXTINF:-1 tvg-id="563" tvg-name="Pakistan 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/417.png" group-title="others", Pakistan 3
-http://24.139.223.247/load.php?chan=1074
-#EXTINF:-1 tvg-id="564" tvg-name="Pakistan 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1707.png" group-title="others", Pakistan 4
-http://24.139.223.247/load.php?chan=1075
-#EXTINF:-1 tvg-id="565" tvg-name="Pakistan 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1710.png" group-title="others", Pakistan 5
-http://24.139.223.247/load.php?chan=1076
-#EXTINF:-1 tvg-id="566" tvg-name="Pakistan 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1725.png" group-title="others", Pakistan 6
-http://24.139.223.247/load.php?chan=1077
-#EXTINF:-1 tvg-id="567" tvg-name="Pakistan 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1730.png" group-title="others", Pakistan 7
-http://24.139.223.247/load.php?chan=1078
-#EXTINF:-1 tvg-id="568" tvg-name="Pakistan 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1732.png" group-title="others", Pakistan 8
-http://24.139.223.247/load.php?chan=1079
-#EXTINF:-1 tvg-id="569" tvg-name="Pakistan 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1737.png" group-title="others", Pakistan 9
-http://24.139.223.247/load.php?chan=1080
-#EXTINF:-1 tvg-id="570" tvg-name="Switzerland 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1570.png" group-title="information", Switzerland 1
-http://24.139.223.247/load.php?chan=1081
-#EXTINF:-1 tvg-id="571" tvg-name="France 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/371.png" group-title="others", France 1
-http://24.139.223.247/load.php?chan=1082
-#EXTINF:-1 tvg-id="572" tvg-name="France 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/395.png" group-title="others", France 2
-http://24.139.223.247/load.php?chan=1083
-#EXTINF:-1 tvg-id="573" tvg-name="France 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/369.png" group-title="others", France 3
-http://24.139.223.247/load.php?chan=1084
-#EXTINF:-1 tvg-id="574" tvg-name="France 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/627.png" group-title="others", France 4
-http://24.139.223.247/load.php?chan=1085
-#EXTINF:-1 tvg-id="575" tvg-name="France 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/751.png" group-title="others", France 5
-http://24.139.223.247/load.php?chan=1086
-#EXTINF:-1 tvg-id="576" tvg-name="France 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/895.png" group-title="others", France 6
-http://24.139.223.247/load.php?chan=1087
-#EXTINF:-1 tvg-id="577" tvg-name="France 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/951.png" group-title="others", France 7
-http://24.139.223.247/load.php?chan=1088
-#EXTINF:-1 tvg-id="578" tvg-name="France 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/977.png" group-title="others", France 8
-http://24.139.223.247/load.php?chan=1089
-#EXTINF:-1 tvg-id="579" tvg-name="France 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/979.png" group-title="others", France 9
-http://24.139.223.247/load.php?chan=1090
-#EXTINF:-1 tvg-id="580" tvg-name="France 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1051.png" group-title="others", France 10
-http://24.139.223.247/load.php?chan=1091
-#EXTINF:-1 tvg-id="581" tvg-name="Canada 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1381.png" group-title="others", Canada 1
-http://24.139.223.247/load.php?chan=1092
-#EXTINF:-1 tvg-id="582" tvg-name="Canada 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1383.png" group-title="others", Canada 2
-http://24.139.223.247/load.php?chan=1093
-#EXTINF:-1 tvg-id="583" tvg-name="Canada 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1385.png" group-title="others", Canada 3
-http://24.139.223.247/load.php?chan=1094
-#EXTINF:-1 tvg-id="584" tvg-name="Canada 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1387.png" group-title="others", Canada 4
-http://24.139.223.247/load.php?chan=1095
-#EXTINF:-1 tvg-id="585" tvg-name="Canada 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1395.png" group-title="others", Canada 5
-http://24.139.223.247/load.php?chan=1096
-#EXTINF:-1 tvg-id="586" tvg-name="Canada 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1441.png" group-title="others", Canada 6
-http://24.139.223.247/load.php?chan=1097
-#EXTINF:-1 tvg-id="587" tvg-name="Canada 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1443.png" group-title="others", Canada 7
-http://24.139.223.247/load.php?chan=1098
-#EXTINF:-1 tvg-id="588" tvg-name="Canada 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1445.png" group-title="others", Canada 8
-http://24.139.223.247/load.php?chan=1099
-#EXTINF:-1 tvg-id="589" tvg-name="Canada 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1447.png" group-title="others", Canada 9
-http://24.139.223.247/load.php?chan=1100
-#EXTINF:-1 tvg-id="590" tvg-name="Canada 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1449.png" group-title="others", Canada 10
-http://24.139.223.247/load.php?chan=1101
-#EXTINF:-1 tvg-id="591" tvg-name="Germany 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/739.png" group-title="others", Germany 1
-http://24.139.223.247/load.php?chan=1102
-#EXTINF:-1 tvg-id="592" tvg-name="Germany 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/887.png" group-title="others", Germany 2
-http://24.139.223.247/load.php?chan=1103
-#EXTINF:-1 tvg-id="593" tvg-name="Germany 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/889.png" group-title="others", Germany 3
-http://24.139.223.247/load.php?chan=1104
-#EXTINF:-1 tvg-id="594" tvg-name="Germany 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/891.png" group-title="others", Germany 4
-http://24.139.223.247/load.php?chan=1105
-#EXTINF:-1 tvg-id="595" tvg-name="Germany 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/893.png" group-title="others", Germany 5
-http://24.139.223.247/load.php?chan=1106
-#EXTINF:-1 tvg-id="596" tvg-name="Germany 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/923.png" group-title="others", Germany 6
-http://24.139.223.247/load.php?chan=1107
-#EXTINF:-1 tvg-id="597" tvg-name="Germany 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/925.png" group-title="others", Germany 7
-http://24.139.223.247/load.php?chan=1108
-#EXTINF:-1 tvg-id="598" tvg-name="Germany 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/927.png" group-title="others", Germany 8
-http://24.139.223.247/load.php?chan=1109
-#EXTINF:-1 tvg-id="599" tvg-name="Germany 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/929.png" group-title="others", Germany 9
-http://24.139.223.247/load.php?chan=1110
-#EXTINF:-1 tvg-id="600" tvg-name="Germany 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/981.png" group-title="others", Germany 10
-http://24.139.223.247/load.php?chan=1111
-#EXTINF:-1 tvg-id="601" tvg-name="Romania 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/397.png" group-title="others", Romania 1
-http://24.139.223.247/load.php?chan=1112
-#EXTINF:-1 tvg-id="602" tvg-name="Romania 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/399.png" group-title="others", Romania 2
-http://24.139.223.247/load.php?chan=1113
-#EXTINF:-1 tvg-id="603" tvg-name="Romania 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/401.png" group-title="others", Romania 3
-http://24.139.223.247/load.php?chan=1114
-#EXTINF:-1 tvg-id="604" tvg-name="Romania 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/403.png" group-title="others", Romania 4
-http://24.139.223.247/load.php?chan=1115
-#EXTINF:-1 tvg-id="605" tvg-name="Romania 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/407.png" group-title="others", Romania 5
-http://24.139.223.247/load.php?chan=1116
-#EXTINF:-1 tvg-id="606" tvg-name="Romania 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/405.png" group-title="others", Romania 6
-http://24.139.223.247/load.php?chan=1117
-#EXTINF:-1 tvg-id="607" tvg-name="Romania 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/409.png" group-title="others", Romania 7
-http://24.139.223.247/load.php?chan=1118
-#EXTINF:-1 tvg-id="608" tvg-name="Romania 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/411.png" group-title="others", Romania 8
-http://24.139.223.247/load.php?chan=1119
-#EXTINF:-1 tvg-id="609" tvg-name="Romania 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/637.png" group-title="others", Romania 9
-http://24.139.223.247/load.php?chan=1120
-#EXTINF:-1 tvg-id="610" tvg-name="Austria 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1001.png" group-title="others", Austria 1
-http://24.139.223.247/load.php?chan=1121
-#EXTINF:-1 tvg-id="611" tvg-name="China 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/901.png" group-title="others", China 1
-http://24.139.223.247/load.php?chan=1122
-#EXTINF:-1 tvg-id="612" tvg-name="China 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/903.png" group-title="others", China 2
-http://24.139.223.247/load.php?chan=1123
-#EXTINF:-1 tvg-id="613" tvg-name="China 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/905.png" group-title="others", China 3
-http://24.139.223.247/load.php?chan=1124
-#EXTINF:-1 tvg-id="614" tvg-name="China 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/907.png" group-title="others", China 4
-http://24.139.223.247/load.php?chan=1125
-#EXTINF:-1 tvg-id="615" tvg-name="China 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/909.png" group-title="others", China 5
-http://24.139.223.247/load.php?chan=1126
-#EXTINF:-1 tvg-id="616" tvg-name="China 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/911.png" group-title="others", China 6
-http://24.139.223.247/load.php?chan=1127
-#EXTINF:-1 tvg-id="617" tvg-name="China 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/913.png" group-title="others", China 7
-http://24.139.223.247/load.php?chan=1128
-#EXTINF:-1 tvg-id="618" tvg-name="China 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/915.png" group-title="others", China 8
-http://24.139.223.247/load.php?chan=1129
-#EXTINF:-1 tvg-id="619" tvg-name="China 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/917.png" group-title="others", China 9
-http://24.139.223.247/load.php?chan=1130
-#EXTINF:-1 tvg-id="620" tvg-name="China 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/931.png" group-title="others", China 10
-http://24.139.223.247/load.php?chan=1131
-#EXTINF:-1 tvg-id="622" tvg-name="Greece 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/389.png" group-title="others", Greece 1
-http://24.139.223.247/load.php?chan=1132
-#EXTINF:-1 tvg-id="623" tvg-name="Greece 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1025.png" group-title="others", Greece 2
-http://24.139.223.247/load.php?chan=1133
-#EXTINF:-1 tvg-id="624" tvg-name="Greece 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1027.png" group-title="others", Greece 3
-http://24.139.223.247/load.php?chan=1134
-#EXTINF:-1 tvg-id="625" tvg-name="Greece 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1023.png" group-title="others", Greece 4
-http://24.139.223.247/load.php?chan=1135
-#EXTINF:-1 tvg-id="626" tvg-name="Greece 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1029.png" group-title="others", Greece 5
-http://24.139.223.247/load.php?chan=1136
-#EXTINF:-1 tvg-id="627" tvg-name="Greece 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1567.png" group-title="others", Greece 6
-http://24.139.223.247/load.php?chan=1137
-#EXTINF:-1 tvg-id="631" tvg-name="Turkey 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/385.png" group-title="others", Turkey 1
-http://24.139.223.247/load.php?chan=1138
-#EXTINF:-1 tvg-id="632" tvg-name="Turkey 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/319.png" group-title="others", Turkey 2
-http://24.139.223.247/load.php?chan=1139
-#EXTINF:-1 tvg-id="633" tvg-name="Turkey 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/323.png" group-title="others", Turkey 3
-http://24.139.223.247/load.php?chan=1140
-#EXTINF:-1 tvg-id="634" tvg-name="Turkey 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/383.png" group-title="others", Turkey 4
-http://24.139.223.247/load.php?chan=1141
-#EXTINF:-1 tvg-id="635" tvg-name="Turkey 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/379.png" group-title="others", Turkey 5
-http://24.139.223.247/load.php?chan=1142
-#EXTINF:-1 tvg-id="636" tvg-name="Turkey 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/381.png" group-title="others", Turkey 6
-http://24.139.223.247/load.php?chan=1143
-#EXTINF:-1 tvg-id="637" tvg-name="Turkey 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/321.png" group-title="others", Turkey 7
-http://24.139.223.247/load.php?chan=1144
-#EXTINF:-1 tvg-id="638" tvg-name="Turkey 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/763.png" group-title="others", Turkey 8
-http://24.139.223.247/load.php?chan=1145
-#EXTINF:-1 tvg-id="639" tvg-name="Turkey 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/765.png" group-title="others", Turkey 9
-http://24.139.223.247/load.php?chan=1146
-#EXTINF:-1 tvg-id="640" tvg-name="Turkey 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/767.png" group-title="others", Turkey 10
-http://24.139.223.247/load.php?chan=1147
-#EXTINF:-1 tvg-id="641" tvg-name="Israel 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/715.png" group-title="others", Israel 1
-http://24.139.223.247/load.php?chan=1148
-#EXTINF:-1 tvg-id="642" tvg-name="Israel 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/717.png" group-title="others", Israel 2
-http://24.139.223.247/load.php?chan=1149
-#EXTINF:-1 tvg-id="643" tvg-name="Israel 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/719.png" group-title="others", Israel 3
-http://24.139.223.247/load.php?chan=1150
-#EXTINF:-1 tvg-id="644" tvg-name="Israel 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/721.png" group-title="others", Israel 4
-http://24.139.223.247/load.php?chan=1151
-#EXTINF:-1 tvg-id="645" tvg-name="Hungary 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/373.png" group-title="others", Hungary 1
-http://24.139.223.247/load.php?chan=1152
-#EXTINF:-1 tvg-id="646" tvg-name="Hungary 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/387.png" group-title="others", Hungary 2
-http://24.139.223.247/load.php?chan=1153
-#EXTINF:-1 tvg-id="647" tvg-name="Bulgaria 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/723.png" group-title="others", Bulgaria 1
-http://24.139.223.247/load.php?chan=1154
-#EXTINF:-1 tvg-id="661" tvg-name="Portugal 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1397.png" group-title="others", Portugal 1
-http://24.139.223.247/load.php?chan=1155
-#EXTINF:-1 tvg-id="662" tvg-name="Portugal 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1526.png" group-title="others", Portugal 2
-http://24.139.223.247/load.php?chan=1156
-#EXTINF:-1 tvg-id="663" tvg-name="Portugal 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1529.png" group-title="others", Portugal 3
-http://24.139.223.247/load.php?chan=1157
-#EXTINF:-1 tvg-id="664" tvg-name="Portugal 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1532.png" group-title="others", Portugal 4
-http://24.139.223.247/load.php?chan=1158
-#EXTINF:-1 tvg-id="665" tvg-name="Portugal 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1535.png" group-title="others", Portugal 5
-http://24.139.223.247/load.php?chan=1159
-#EXTINF:-1 tvg-id="666" tvg-name="Portugal 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1544.png" group-title="others", Portugal 6
-http://24.139.223.247/load.php?chan=1160
-#EXTINF:-1 tvg-id="667" tvg-name="Portugal 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1550.png" group-title="others", Portugal 7
-http://24.139.223.247/load.php?chan=1161
-#EXTINF:-1 tvg-id="668" tvg-name="Portugal 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1553.png" group-title="others", Portugal 8
-http://24.139.223.247/load.php?chan=1162
-#EXTINF:-1 tvg-id="669" tvg-name="Portugal 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1605.png" group-title="others", Portugal 9
-http://24.139.223.247/load.php?chan=1163 
-#EXTINF:-1 tvg-id="670" tvg-name="Portugal 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1607.png" group-title="others", Portugal 10
-http://24.139.223.247/load.php?chan=1164
-#EXTINF:-1 tvg-id="671" tvg-name="Brazil 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/325.png" group-title="others", Brazil 1
-http://24.139.223.247/load.php?chan=1165
-#EXTINF:-1 tvg-id="672" tvg-name="Brazil 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1221.png" group-title="others", Brazil 2
-http://24.139.223.247/load.php?chan=1166
-#EXTINF:-1 tvg-id="673" tvg-name="Brazil 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1223.png" group-title="others", Brazil 3
-http://24.139.223.247/load.php?chan=1167
-#EXTINF:-1 tvg-id="674" tvg-name="Brazil 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1225.png" group-title="others", Brazil 4
-http://24.139.223.247/load.php?chan=1168
-#EXTINF:-1 tvg-id="675" tvg-name="Brazil 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1227.png" group-title="others", Brazil 5
-http://24.139.223.247/load.php?chan=1169
-#EXTINF:-1 tvg-id="676" tvg-name="Brazil 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1229.png" group-title="others", Brazil 6
-http://24.139.223.247/load.php?chan=1170
-#EXTINF:-1 tvg-id="677" tvg-name="Brazil 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1231.png" group-title="others", Brazil 7
-http://24.139.223.247/load.php?chan=1171
-#EXTINF:-1 tvg-id="678" tvg-name="Brazil 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1233.png" group-title="others", Brazil 8
-http://24.139.223.247/load.php?chan=1172
-#EXTINF:-1 tvg-id="679" tvg-name="Brazil 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1235.png" group-title="others", Brazil 9
-http://24.139.223.247/load.php?chan=1173
-#EXTINF:-1 tvg-id="680" tvg-name="Brazil 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1237.png" group-title="others", Brazil 10
-http://24.139.223.247/load.php?chan=1174
-#EXTINF:-1 tvg-id="681" tvg-name="España 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/347.png" group-title="information", España 1
-http://24.139.223.247/load.php?chan=1175
-#EXTINF:-1 tvg-id="682" tvg-name="España 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/351.png" group-title="information", España 2
-http://24.139.223.247/load.php?chan=1176
-#EXTINF:-1 tvg-id="683" tvg-name="España 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/349.png" group-title="information", España 3
-http://24.139.223.247/load.php?chan=1177
-#EXTINF:-1 tvg-id="684" tvg-name="España 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1351.png" group-title="information", España 4
-http://24.139.223.247/load.php?chan=1178
-#EXTINF:-1 tvg-id="685" tvg-name="España 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1353.png" group-title="information", España 5
-http://24.139.223.247/load.php?chan=1179
-#EXTINF:-1 tvg-id="686" tvg-name="España 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1355.png" group-title="information", España 6
-http://24.139.223.247/load.php?chan=1180
-#EXTINF:-1 tvg-id="687" tvg-name="España 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1357.png" group-title="information", España 7
-http://24.139.223.247/load.php?chan=1181
-#EXTINF:-1 tvg-id="688" tvg-name="España 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1359.png" group-title="information", España 8
-http://24.139.223.247/load.php?chan=1182
-#EXTINF:-1 tvg-id="689" tvg-name="España 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1361.png" group-title="information", España 9
-http://24.139.223.247/load.php?chan=1183
-#EXTINF:-1 tvg-id="690" tvg-name="España 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1363.png" group-title="information", España 10
-http://24.139.223.247/load.php?chan=1184
-#EXTINF:-1 tvg-id="691" tvg-name="España 11" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1365.png" group-title="information", España 11
-http://24.139.223.247/load.php?chan=1185
-#EXTINF:-1 tvg-id="692" tvg-name="España 12" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1367.png" group-title="information", España 12
-http://24.139.223.247/load.php?chan=1186
-#EXTINF:-1 tvg-id="693" tvg-name="España 13" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1369.png" group-title="information", España 13
-http://24.139.223.247/load.php?chan=1187
-#EXTINF:-1 tvg-id="694" tvg-name="España 14" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1371.png" group-title="information", España 14
-http://24.139.223.247/load.php?chan=1188
-#EXTINF:-1 tvg-id="695" tvg-name="España 15" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1373.png" group-title="information", España 15
-http://24.139.223.247/load.php?chan=1189
-#EXTINF:-1 tvg-id="696" tvg-name="España 16" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1556.png" group-title="information", España 16
-http://24.139.223.247/load.php?chan=1190
-#EXTINF:-1 tvg-id="697" tvg-name="Paraguay 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1742.png" group-title="others", Paraguay 1
-http://24.139.223.247/load.php?chan=1191
-#EXTINF:-1 tvg-id="698" tvg-name="Paraguay 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1541.png" group-title="others", Paraguay 2
-http://24.139.223.247/load.php?chan=1192
-#EXTINF:-1 tvg-id="699" tvg-name="Uruguay 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1602.png" group-title="others", Uruguay 1
-http://24.139.223.247/load.php?chan=1193
-#EXTINF:-1 tvg-id="703" tvg-name="Guatemala 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1107.png" group-title="others", Guatemala 1
-http://24.139.223.247/load.php?chan=1194
-#EXTINF:-1 tvg-id="704" tvg-name="Guatemala 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1111.png" group-title="others", Guatemala 2
-http://24.139.223.247/load.php?chan=1195
-#EXTINF:-1 tvg-id="705" tvg-name="Guatemala 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1113.png" group-title="others", Guatemala 3
-http://24.139.223.247/load.php?chan=1196
-#EXTINF:-1 tvg-id="706" tvg-name="Nicaragua 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/955.png" group-title="others", Nicaragua 1
-http://24.139.223.247/load.php?chan=1197
-#EXTINF:-1 tvg-id="707" tvg-name="Nicaragua 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/957.png" group-title="others", Nicaragua 2
-http://24.139.223.247/load.php?chan=1198
-#EXTINF:-1 tvg-id="708" tvg-name="Nicaragua 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1103.png" group-title="others", Nicaragua 3
-http://24.139.223.247/load.php?chan=1199
-#EXTINF:-1 tvg-id="709" tvg-name="Nicaragua 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1109.png" group-title="others", Nicaragua 4
-http://24.139.223.247/load.php?chan=1200
-#EXTINF:-1 tvg-id="710" tvg-name="Nicaragua 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1115.png" group-title="others", Nicaragua 5
-http://24.139.223.247/load.php?chan=1201
-#EXTINF:-1 tvg-id="711" tvg-name="Costa Rica 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1099.png" group-title="others", Costa Rica 1
-http://24.139.223.247/load.php?chan=1202
-#EXTINF:-1 tvg-id="712" tvg-name="Costa Rica 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1179.png" group-title="others", Costa Rica 2
-http://24.139.223.247/load.php?chan=1203
-#EXTINF:-1 tvg-id="713" tvg-name="Costa Rica 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1181.png" group-title="others", Costa Rica 3
-http://24.139.223.247/load.php?chan=1204
-#EXTINF:-1 tvg-id="714" tvg-name="Costa Rica 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1183.png" group-title="others", Costa Rica 4
-http://24.139.223.247/load.php?chan=1205
-#EXTINF:-1 tvg-id="715" tvg-name="Costa Rica 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1185.png" group-title="others", Costa Rica 5
-http://24.139.223.247/load.php?chan=1206
-#EXTINF:-1 tvg-id="716" tvg-name="Costa Rica 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1187.png" group-title="others", Costa Rica 6
-http://24.139.223.247/load.php?chan=1207
-#EXTINF:-1 tvg-id="717" tvg-name="Costa Rica 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1189.png" group-title="others", Costa Rica 7
-http://24.139.223.247/load.php?chan=1208
-#EXTINF:-1 tvg-id="718" tvg-name="Costa Rica 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1191.png" group-title="others", Costa Rica 8
-http://24.139.223.247/load.php?chan=1209
-#EXTINF:-1 tvg-id="719" tvg-name="Costa Rica 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1193.png" group-title="others", Costa Rica 9
-http://24.139.223.247/load.php?chan=1210
-#EXTINF:-1 tvg-id="720" tvg-name="Costa Rica 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1195.png" group-title="others", Costa Rica 10
-http://24.139.223.247/load.php?chan=1211
-#EXTINF:-1 tvg-id="721" tvg-name="Ecuador 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1375.png" group-title="others", Ecuador 1
-http://24.139.223.247/load.php?chan=1212
-#EXTINF:-1 tvg-id="722" tvg-name="Ecuador 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1377.png" group-title="others", Ecuador 2
-http://24.139.223.247/load.php?chan=1213
-#EXTINF:-1 tvg-id="723" tvg-name="Ecuador 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1379.png" group-title="others", Ecuador 3
-http://24.139.223.247/load.php?chan=1214
-#EXTINF:-1 tvg-id="724" tvg-name="Panama 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/317.png" group-title="others", Panama 1
-http://24.139.223.247/load.php?chan=1215
-#EXTINF:-1 tvg-id="725" tvg-name="Panama 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1301.png" group-title="others", Panama 2
-http://24.139.223.247/load.php?chan=1216
-#EXTINF:-1 tvg-id="726" tvg-name="Panama 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1303.png" group-title="others", Panama 3
-http://24.139.223.247/load.php?chan=1217
-#EXTINF:-1 tvg-id="729" tvg-name="Bolivia 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1655.png" group-title="information", Bolivia 1
-http://24.139.223.247/load.php?chan=1218
-#EXTINF:-1 tvg-id="730" tvg-name="Bolivia 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1645.png" group-title="information", Bolivia 2
-http://24.139.223.247/load.php?chan=1219
-#EXTINF:-1 tvg-id="731" tvg-name="Mexico 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1498.png" group-title="others", Mexico 1
-http://24.139.223.247/load.php?chan=1220
-#EXTINF:-1 tvg-id="732" tvg-name="Mexico 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/865.png" group-title="others", Mexico 2
-http://24.139.223.247/load.php?chan=1221
-#EXTINF:-1 tvg-id="733" tvg-name="Mexico 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/867.png" group-title="others", Mexico 3
-http://24.139.223.247/load.php?chan=1222
-#EXTINF:-1 tvg-id="734" tvg-name="Mexico 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/953.png" group-title="others", Mexico 4
-http://24.139.223.247/load.php?chan=1223
-#EXTINF:-1 tvg-id="735" tvg-name="Mexico 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/991.png" group-title="others", Mexico 5
-http://24.139.223.247/load.php?chan=1224
-#EXTINF:-1 tvg-id="736" tvg-name="Mexico 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/993.png" group-title="others", Mexico 6
-http://24.139.223.247/load.php?chan=1225
-#EXTINF:-1 tvg-id="737" tvg-name="Mexico 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/995.png" group-title="others", Mexico 7
-http://24.139.223.247/load.php?chan=1226
-#EXTINF:-1 tvg-id="738" tvg-name="Mexico 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/997.png" group-title="others", Mexico 8
-http://24.139.223.247/load.php?chan=1227
-#EXTINF:-1 tvg-id="739" tvg-name="Mexico 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/999.png" group-title="others", Mexico 9
-http://24.139.223.247/load.php?chan=1228
-#EXTINF:-1 tvg-id="740" tvg-name="Mexico 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1177.png" group-title="others", Mexico 10
-http://24.139.223.247/load.php?chan=1229
-#EXTINF:-1 tvg-id="741" tvg-name="El Salvador 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1329.png" group-title="others", El Salvador 1
-http://24.139.223.247/load.php?chan=1230
-#EXTINF:-1 tvg-id="742" tvg-name="El Salvador 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1331.png" group-title="others", El Salvador 2
-http://24.139.223.247/load.php?chan=1231
-#EXTINF:-1 tvg-id="743" tvg-name="El Salvador 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1469.png" group-title="others", El Salvador 3
-http://24.139.223.247/load.php?chan=1232
-#EXTINF:-1 tvg-id="744" tvg-name="El Salvador 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1588.png" group-title="others", El Salvador 4
-http://24.139.223.247/load.php?chan=1233
-#EXTINF:-1 tvg-id="745" tvg-name="Honduras 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1317.png" group-title="others", Honduras 1
-http://24.139.223.247/load.php?chan=1234
-#EXTINF:-1 tvg-id="746" tvg-name="Honduras 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1319.png" group-title="others", Honduras 2
-http://24.139.223.247/load.php?chan=1235
-#EXTINF:-1 tvg-id="747" tvg-name="Honduras 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1321.png" group-title="others", Honduras 3
-http://24.139.223.247/load.php?chan=1236
-#EXTINF:-1 tvg-id="748" tvg-name="Honduras 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1323.png" group-title="others", Honduras 4
-http://24.139.223.247/load.php?chan=1237
-#EXTINF:-1 tvg-id="749" tvg-name="Honduras 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1327.png" group-title="others", Honduras 5
-http://24.139.223.247/load.php?chan=1238
-#EXTINF:-1 tvg-id="750" tvg-name="Honduras 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1467.png" group-title="others", Honduras 6
-http://24.139.223.247/load.php?chan=1239
-#EXTINF:-1 tvg-id="751" tvg-name="Colombia 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/367.png" group-title="others", Colombia 1
-http://24.139.223.247/load.php?chan=1240
-#EXTINF:-1 tvg-id="752" tvg-name="Colombia 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/365.png" group-title="others", Colombia 2
-http://24.139.223.247/load.php?chan=1241
-#EXTINF:-1 tvg-id="753" tvg-name="Colombia 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/353.png" group-title="others", Colombia 3
-http://24.139.223.247/load.php?chan=1242
-#EXTINF:-1 tvg-id="754" tvg-name="Colombia 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/357.png" group-title="others", Colombia 4
-http://24.139.223.247/load.php?chan=1243
-#EXTINF:-1 tvg-id="755" tvg-name="Colombia 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/359.png" group-title="others", Colombia 5
-http://24.139.223.247/load.php?chan=1244
-#EXTINF:-1 tvg-id="756" tvg-name="Colombia 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/355.png" group-title="others", Colombia 6
-http://24.139.223.247/load.php?chan=1245
-#EXTINF:-1 tvg-id="757" tvg-name="Colombia 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/363.png" group-title="others", Colombia 7
-http://24.139.223.247/load.php?chan=1246
-#EXTINF:-1 tvg-id="758" tvg-name="Colombia 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/361.png" group-title="others", Colombia 8
-http://24.139.223.247/load.php?chan=1247
-#EXTINF:-1 tvg-id="759" tvg-name="Colombia 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1173.png" group-title="others", Colombia 9
-http://24.139.223.247/load.php?chan=1248
-#EXTINF:-1 tvg-id="760" tvg-name="Colombia 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1175.png" group-title="others", Colombia 10
-http://24.139.223.247/load.php?chan=1249
-#EXTINF:-1 tvg-id="761" tvg-name="Venezuela 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1137.png" group-title="others", Venezuela 1
-http://24.139.223.247/load.php?chan=1250
-#EXTINF:-1 tvg-id="762" tvg-name="Venezuela 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1251.png" group-title="others", Venezuela 2
-http://24.139.223.247/load.php?chan=1251
-#EXTINF:-1 tvg-id="763" tvg-name="Venezuela 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1253.png" group-title="others", Venezuela 3
-http://24.139.223.247/load.php?chan=1252
-#EXTINF:-1 tvg-id="764" tvg-name="Venezuela 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1255.png" group-title="others", Venezuela 4
-http://24.139.223.247/load.php?chan=1253
-#EXTINF:-1 tvg-id="765" tvg-name="Venezuela 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1305.png" group-title="others", Venezuela 5
-http://24.139.223.247/load.php?chan=1254
-#EXTINF:-1 tvg-id="766" tvg-name="Venezuela 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1307.png" group-title="others", Venezuela 6
-http://24.139.223.247/load.php?chan=1255
-#EXTINF:-1 tvg-id="767" tvg-name="Venezuela 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1309.png" group-title="others", Venezuela 7
-http://24.139.223.247/load.php?chan=1256
-#EXTINF:-1 tvg-id="768" tvg-name="Venezuela 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1311.png" group-title="others", Venezuela 8
-http://24.139.223.247/load.php?chan=1257
-#EXTINF:-1 tvg-id="769" tvg-name="Venezuela 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1313.png" group-title="others", Venezuela 9
-http://24.139.223.247/load.php?chan=1258
-#EXTINF:-1 tvg-id="770" tvg-name="Venezuela 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1315.png" group-title="others", Venezuela 10
-http://24.139.223.247/load.php?chan=1259
-#EXTINF:-1 tvg-id="771" tvg-name="Chile 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/799.png" group-title="others", Chile 1
-http://24.139.223.247/load.php?chan=1260
-#EXTINF:-1 tvg-id="772" tvg-name="Chile 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/959.png" group-title="others", Chile 2
-http://24.139.223.247/load.php?chan=1261
-#EXTINF:-1 tvg-id="773" tvg-name="Chile 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/961.png" group-title="others", Chile 3
-http://24.139.223.247/load.php?chan=1262
-#EXTINF:-1 tvg-id="774" tvg-name="Chile 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1165.png" group-title="others", Chile 4
-http://24.139.223.247/load.php?chan=1263
-#EXTINF:-1 tvg-id="775" tvg-name="Chile 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1167.png" group-title="others", Chile 5
-http://24.139.223.247/load.php?chan=1264
-#EXTINF:-1 tvg-id="776" tvg-name="Chile 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1169.png" group-title="others", Chile 6
-http://24.139.223.247/load.php?chan=1265
-#EXTINF:-1 tvg-id="777" tvg-name="Chile 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1245.png" group-title="others", Chile 7
-http://24.139.223.247/load.php?chan=1266
-#EXTINF:-1 tvg-id="778" tvg-name="Chile 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1523.png" group-title="others", Chile 8
-http://24.139.223.247/load.php?chan=1267
-#EXTINF:-1 tvg-id="781" tvg-name="Argentina 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1141.png" group-title="others", Argentina 1
-http://24.139.223.247/load.php?chan=1268
-#EXTINF:-1 tvg-id="782" tvg-name="Argentina 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1143.png" group-title="others", Argentina 2
-http://24.139.223.247/load.php?chan=1269
-#EXTINF:-1 tvg-id="783" tvg-name="Argentina 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1145.png" group-title="others", Argentina 3
-http://24.139.223.247/load.php?chan=1270
-#EXTINF:-1 tvg-id="784" tvg-name="Argentina 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1147.png" group-title="others", Argentina 4
-http://24.139.223.247/load.php?chan=1271
-#EXTINF:-1 tvg-id="785" tvg-name="Argentina 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1149.png" group-title="others", Argentina 5
-http://24.139.223.247/load.php?chan=1272
-#EXTINF:-1 tvg-id="786" tvg-name="Argentina 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1514.png" group-title="others", Argentina 6
-http://24.139.223.247/load.php?chan=1273
-#EXTINF:-1 tvg-id="787" tvg-name="Argentina 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1517.png" group-title="others", Argentina 7
-http://24.139.223.247/load.php?chan=1274
-#EXTINF:-1 tvg-id="788" tvg-name="Argentina 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1520.png" group-title="others", Argentina 8
-http://24.139.223.247/load.php?chan=1275
-#EXTINF:-1 tvg-id="789" tvg-name="Argentina 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1547.png" group-title="others", Argentina 9
-http://24.139.223.247/load.php?chan=1276
-#EXTINF:-1 tvg-id="791" tvg-name="Peru 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1157.png" group-title="others", Peru 1
-http://24.139.223.247/load.php?chan=1277
-#EXTINF:-1 tvg-id="792" tvg-name="Peru 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1159.png" group-title="others", Peru 2
-http://24.139.223.247/load.php?chan=1278
-#EXTINF:-1 tvg-id="793" tvg-name="Peru 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1161.png" group-title="others", Peru 3
-http://24.139.223.247/load.php?chan=1279
-#EXTINF:-1 tvg-id="794" tvg-name="Peru 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1163.png" group-title="others", Peru 4
-http://24.139.223.247/load.php?chan=1280
-#EXTINF:-1 tvg-id="795" tvg-name="Peru 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1247.png" group-title="others", Peru 5
-http://24.139.223.247/load.php?chan=1281
-#EXTINF:-1 tvg-id="796" tvg-name="Peru 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1249.png" group-title="others", Peru 6
-http://24.139.223.247/load.php?chan=1282
-#EXTINF:-1 tvg-id="797" tvg-name="Peru 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1505.png" group-title="others", Peru 7
-http://24.139.223.247/load.php?chan=1283
-#EXTINF:-1 tvg-id="798" tvg-name="Peru 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1508.png" group-title="others", Peru 8
-http://24.139.223.247/load.php?chan=1284
-#EXTINF:-1 tvg-id="799" tvg-name="Peru 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1511.png" group-title="others", Peru 9
-http://24.139.223.247/load.php?chan=1285
-#EXTINF:-1 tvg-id="800" tvg-name="Peru 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1652.png" group-title="others", Peru 10
-http://24.139.223.247/load.php?chan=1286
-#EXTINF:-1 tvg-id="801" tvg-name="Dominican Republic 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/309.png" group-title="others", Dominican Republic 1
-http://24.139.223.247/load.php?chan=1287
-#EXTINF:-1 tvg-id="802" tvg-name="Dominican Republic 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/311.png" group-title="others", Dominican Republic 2
-http://24.139.223.247/load.php?chan=1288
-#EXTINF:-1 tvg-id="803" tvg-name="Dominican Republic 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/313.png" group-title="others", Dominican Republic 3
-http://24.139.223.247/load.php?chan=1289
-#EXTINF:-1 tvg-id="804" tvg-name="Dominican Republic 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/807.png" group-title="others", Dominican Republic 4
-http://24.139.223.247/load.php?chan=1290
-#EXTINF:-1 tvg-id="805" tvg-name="Dominican Republic 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/809.png" group-title="others", Dominican Republic 5
-http://24.139.223.247/load.php?chan=1291
-#EXTINF:-1 tvg-id="806" tvg-name="Dominican Republic 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/811.png" group-title="others", Dominican Republic 6
-http://24.139.223.247/load.php?chan=1292
-#EXTINF:-1 tvg-id="807" tvg-name="Dominican Republic 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1151.png" group-title="others", Dominican Republic 7
-http://24.139.223.247/load.php?chan=1293
-#EXTINF:-1 tvg-id="808" tvg-name="Dominican Republic 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1153.png" group-title="others", Dominican Republic 8
-http://24.139.223.247/load.php?chan=1294
-#EXTINF:-1 tvg-id="809" tvg-name="Dominican Republic 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1155.png" group-title="others", Dominican Republic 9
-http://24.139.223.247/load.php?chan=1295
-#EXTINF:-1 tvg-id="810" tvg-name="Dominican Republic 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/315.png" group-title="others", Dominican Republic 10
-http://24.139.223.247/load.php?chan=1296
-#EXTINF:-1 tvg-id="815" tvg-name="Cuba 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1241.png" group-title="others", Cuba 1
-http://24.139.223.247/load.php?chan=1297
-#EXTINF:-1 tvg-id="816" tvg-name="Miami 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1647.png" group-title="others", Miami 1
-http://24.139.223.247/load.php?chan=1298
-#EXTINF:-1 tvg-id="817" tvg-name="Trinidad and Tobago 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1594.png" group-title="others", Trinidad and Tobago 1
-http://24.139.223.247/load.php?chan=1299
-#EXTINF:-1 tvg-id="818" tvg-name="Jamaica 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1496.png" group-title="others", Jamaica 1
-http://24.139.223.247/load.php?chan=1300
-#EXTINF:-1 tvg-id="819" tvg-name="Jamaica 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1489.png" group-title="others", Jamaica 2
-http://24.139.223.247/load.php?chan=1301
-#EXTINF:-1 tvg-id="820" tvg-name="Haiti 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1389.png" group-title="others", Haiti 1
-http://24.139.223.247/load.php?chan=1302
-#EXTINF:-1 tvg-id="821" tvg-name="Barbados 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1325.png" group-title="information", Barbados 1
-http://24.139.223.247/load.php?chan=1303
-#EXTINF:-1 tvg-id="822" tvg-name="Curacao 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1291.png" group-title="others", Curacao 1
-http://24.139.223.247/load.php?chan=1304
-#EXTINF:-1 tvg-id="823" tvg-name="Bonaire 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1293.png" group-title="information", Bonaire 1
-http://24.139.223.247/load.php?chan=1305 
-#EXTINF:-1 tvg-id="824" tvg-name="Aruba 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1243.png" group-title="others", Aruba 1
-http://24.139.223.247/load.php?chan=1306
+#EXTINF:-1, Bajo Techo TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/98.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/97.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/95.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/94.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/93.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/92.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/91.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/90.m3u8
+#EXTINF:-1, Disney Channel
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/89.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/88.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/87.m3u8
+#EXTINF:-1, Comedy Central
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/86.m3u8
+#EXTINF:-1, Eurosport
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/85.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/84.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/83.m3u8
+#EXTINF:-1, TBS
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/82.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/81.m3u8
+#EXTINF:-1, C SPAN
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/80.m3u8
+#EXTINF:-1, Bloomberg
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/79.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/78.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/77.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/76.m3u8
+#EXTINF:-1, FOX SPORTS 1
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/75.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/74.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/73.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/72.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/71.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/70.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/69.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/68.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/67.m3u8
+FOX USGA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/66.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/65.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/64.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/63.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/62.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/61.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/60.m3u8
+#EXTINF:-1, NPR
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/54.m3u8
+#EXTINF:-1, FOOD NETWORK
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/53.m3u8
+#EXTINF:-1, HGTV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/52.m3u8
+#EXTINF:-1, USA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/50.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/48.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/47.m3u8
+#EXTINF:-1, DISCOVERY NEWS
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/46.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/45.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/43.m3u8
+#EXTINF:-1, FOX BUSINESS
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/42.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/41.m3u8
+#EXTINF:-1, MLB TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/40.m3u8
+#EXTINF:-1, FRANCE 24
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/39.m3u8
+#EXTINF:-1, CNN
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/38.m3u8
+#EXTINF:-1, MSNBC
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/37.m3u8
+#EXTINF:-1, NPR
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/36.m3u8
+#EXTINF:-1, FOX NEWS
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/35.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/33.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/32.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/31.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/30.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/29.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/28.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/23.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/22.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/21.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/20.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/19.m3u8
+#EXTINF:-1, CENTRIC
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/18.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/17.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/16.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/14.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/13.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/12.m3u8
+#EXTINF:-1, DISCOVERY
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/11.m3u8
+#EXTINF:-1, COOKING CHANNEL
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/10.m3u8
+#EXTINF:-1, NEWSMAX TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/9.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/7.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/6.m3u8
+#EXTINF:-1, CNN
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/5.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/4.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/100.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/101.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/102.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/103.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/109.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/110.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/111.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/112.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/113.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/114.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/115.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/116.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/118.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/119.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/120.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/122.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/123.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/124.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/125.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/126.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/127.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/128.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/129.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/130.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/131.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/132.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/133.m3u8
+#EXTINF:-1, BBC
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/134.m3u8
+#EXTINF:-1, VERIA LIVING
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/135.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/136.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/137.m3u8
+#EXTINF:-1, W LIVE
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/138.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/139.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/140.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/141.m3u8
+#EXTINF:-1, ANIMAL PLANET
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/142.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/143.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/144.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/145.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/146.m3u8
+#EXTINF:-1, BBC AMERICA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/147.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/148.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/149.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/150.m3u8
+#EXTINF:-1, HALLMARK CHANNEL
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/152.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/153.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/154.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/155.m3u8
+#EXTINF:-1, MTV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/156.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/157.m3u8
+#EXTINF:-1, FUSE
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/163.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/167.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/172.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/174.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/178.m3u8
+#EXTINF:-1, E
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/181.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/182.m3u8
+#EXTINF:-1, CNN
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/186.m3u8
+#EXTINF:-1, NAT GEO
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/187.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/202.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/206.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/207.m3u8
+#EXTINF:-1, CNN
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/210.m3u8
+#EXTINF:-1, CCTV NEWS
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/216.m3u8
+#EXTINF:-1, (CHINESE)
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/219.m3u8
+#EXTINF:-1, FRANCE 24
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/224.m3u8
+#EXTINF:-1, COOKING CHANNEL
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/226.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/227.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/228.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/229.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/230.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/231.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/232.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/233.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/235.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/236.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/237.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/239.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/240.m3u8
+#EXTINF:-1,
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/241.m3u8
