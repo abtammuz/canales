@@ -1,4 +1,368 @@
 #EXTM3U
+#EXTINF:-1,Canal De Las Estrellas
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8#MegaIPTVArgentina
+#EXTINF:-1,Info 7
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
+#EXTINF:-1,Azteca Trece
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
+#EXTINF:-1 tvg-logo="canal once.png",Canal Once
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:-1,Russia Today RT En Español
+http://rt-a.akamaihd.net/ch_02@325606/480p.m3u8
+#EXTINF:-1,Azteca Noticias
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8#MegaIPTVArgentina
+#EXTINF:-1,Anime en Español
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:-1,DW Latinoamerica
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?
+#EXTINF:-1,DW Latin Opcion 2
+http://dwschiene3-i.akamaihd.net/hls/live/221760-b/dwschiene3/x6x/playlist6x.m3u8
+#EXTINF:-1,Ultra Cine
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
+#EXTINF:-1,Ultra Film
+http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchannel3@219942/index.m3u8
+#EXTINF:-1,Ultra Fiesta
+http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
+#EXTINF:-1 tvg-logo="azteca Noticias.png",AZTECA DEPORTES
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
+#EXTINF:-1,Az Mundo
+http://192.99.40.14:8000/stream.php?v=AzMundoLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,Univision 
+http://192.99.40.14:8000/stream.php?v=UnivisionEastUS&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW 
+#EXTINF:-1,UniMas 
+http://192.99.40.14:8000/stream.php?v=UniMasUS&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,TVEInternacionalAmerica 
+http://192.99.40.14:8000/stream.php?v=TVELASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,GalaTv 
+http://192.99.40.14:8000/stream.php?v=GalaTVLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW 
+#EXTINF:-1,Pasiones 
+http://192.99.40.14:8000/stream.php?v=PasionesSD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,Telemundo 
+http://192.99.40.14:8000/stream.php?v=TMNDO&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,TelemundoInternacional 
+http://192.99.40.14:8000/stream.php?v=TelemundoSD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,RCNNovelas 
+http://192.99.40.14:8000/stream.php?v=RCNnovelasLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,TlnovelasAmerica 
+http://192.99.40.14:8000/stream.php?v=TlnovelasLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,TeleCentro 
+http://192.99.40.14:8000/stream.php?v=Telecentro13LA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW 
+#EXTINF:-1,CaracolInternacional 
+http://192.99.40.14:8000/stream.php?v=CaracolIntSD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,TVGloboInternacional 
+http://192.99.40.14:8000/stream.php?v=TVGloboLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,DiscoveryenEspañol 
+http://192.99.40.14:8000/stream.php?v=DiscoveryChLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,DiscoveryTheater 
+http://192.99.40.14:8000/stream.php?v=DiscoveryenEspanolHD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,DiscoveryWorld 
+http://192.99.40.14:8000/stream.php?v=DiscoveryWorldLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,DiscoveryHomeHealthLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=DiscoveryHomeHealthLAHD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,H2Latinoamerica 
+http://192.99.40.14:8000/stream.php?v=H2LASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,HistoryenEspañol 
+http://192.99.40.14:8000/stream.php?v=HistoryLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,NationalGeographicLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=NatGeoLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,NatGeoWildLatinoAmerica 
+http://192.99.40.14:8000/stream.php?v=NatGeoWildLAHD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,AnimalPlanetLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=AnimalPlanetLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW 
+#EXTINF:-1,ESPNLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=ESPNLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,ESPN2Latinoamerica 
+http://192.99.40.14:8000/stream.php?v=ESPN2LASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,ESPN3Latinoamerica 
+http://192.99.40.14:8000/stream.php?v=ESPN3LASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,FoxSportsLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=FoxSportsLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,FoxSports2Latinoamerica 
+http://192.99.40.14:8000/stream.php?v=FoxSports2SD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,FoxSports3Latinoamerica 
+http://192.99.40.14:8000/stream.php?v=FoxSports3SD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,BeinSportsenEspañol 
+http://192.99.40.14:8000/stream.php?v=BeinSportsLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,UFCNetworkLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=UFCNetworkLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW 
+#EXTINF:-1,PlanetaFutbol 
+http://192.99.40.14:8000/stream.php?v=PlanetaFutbolLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,PlanetaFutbolEnglishSoccer 
+http://192.99.40.14:8000/stream.php?v=PlanetaFutbolEnglish&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,TDNMexico 
+http://192.99.40.14:8000/stream.php?v=TDNMXLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,UnivisionTDN 
+http://192.99.40.14:8000/stream.php?v=UnivisionTDNLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,DisneyChannelNorte 
+http://192.99.40.14:8000/stream.php?v=DisneyChannelNorteHD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,DisneyXDNorte 
+http://192.99.40.14:8000/stream.php?v=DisneyXDSD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,DisneyJuniorNorte 
+http://192.99.40.14:8000/stream.php?v=DisneyJrLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,NickelodeonLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=NickelodeonLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW 
+#EXTINF:-1,NickJrLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=NickJrLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,DiscoveryKidsAmericaLatina 
+http://192.99.40.14:8000/stream.php?v=DiscoveryKidsSD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW 
+#EXTINF:-1,CartoonNetworkLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=CartoonNetworkLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW 
+#EXTINF:-1,BoomerangLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=BoomerangLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,Tooncast 
+http://192.99.40.14:8000/stream.php?v=TooncastSD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,BabyFirstTVLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=BabyFirstLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,BabyTVLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=BabyTVLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,CanalSony 
+http://192.99.40.14:8000/stream.php?v=SonyLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,BBCEntertainmentLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=BBCEntLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,Unicable 
+http://192.99.40.14:8000/stream.php?v=UnicableLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW 
+#EXTINF:-1,WarnerChannelLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=WarnerLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,ELatinoamerica 
+http://192.99.40.14:8000/stream.php?v=EentertaimentSD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,FXLatino 
+http://192.99.40.14:8000/stream.php?v=FXLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,UniversalChannelAmericaLatina 
+http://192.99.40.14:8000/stream.php?v=UniversalLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,FoxLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=FOXHDLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,SyfyLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=SyFyLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,AyELatinoamerica 
+http://192.99.40.14:8000/stream.php?v=AELatinoamericaHD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,InvestigationDiscoveryLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=InvDiscoverySD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,TLCLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=TLCLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,AXNLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=AXNLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,Eurochannel 
+http://192.99.40.14:8000/stream.php?v=EurochannelLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,MundoFox 
+http://192.99.40.14:8000/stream.php?v=MundoFoxSD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,TNTSeriesLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=infinitoSD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,Elgourmet 
+http://192.99.40.14:8000/stream.php?v=ElgourmetLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,CasaClubTV 
+http://192.99.40.14:8000/stream.php?v=CasaClubLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,TBSAmericaLatina 
+http://192.99.40.14:8000/stream.php?v=TBSLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,GlitzLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=GlitzLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,FOXLife 
+http://192.99.40.14:8000/stream.php?v=FoxLifeSD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW 
+#EXTINF:-1,DistritoComedia 
+http://192.99.40.14:8000/stream.php?v=DistritoComediaLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW 
+#EXTINF:-1,ComedyCentralLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=ComedyCentralLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,TruTVAmericaLatina 
+http://192.99.40.14:8000/stream.php?v=TruTVSD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,EfektoTV 
+http://192.99.40.14:8000/stream.php?v=EfektoTVLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,MultimediosPlus 
+http://192.99.40.14:8000/stream.php?v=MultimediosLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,LifetimeLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=LifetimeLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,CNNEnEspañol 
+http://192.99.40.14:8000/stream.php?v=CNNLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,ElFinancieroBloomberg 
+http://192.99.40.14:8000/stream.php?v=ElFinancieroBLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,NTN24 
+http://192.99.40.14:8000/stream.php?v=NTN24LA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,MTVLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=MTVLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,MTVHitsLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=MTVHitsLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,VH1ClassicEurope 
+http://192.99.40.14:8000/stream.php?v=VH1ClassicLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,VH1LatinoNorte 
+http://192.99.40.14:8000/stream.php?v=VH1LatinoSD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,KMusic 
+http://192.99.40.14:8000/stream.php?v=KMusicLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,ConcertChannel 
+http://192.99.40.14:8000/stream.php?v=ConcertChannelSD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,HTV 
+http://192.99.40.14:8000/stream.php?v=HTVSD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,Bandamax 
+http://192.99.40.14:8000/stream.php?v=BandamaxLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,RegionalMusic 
+http://192.99.40.14:8000/stream.php?v=RegionalMusicLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,CineDinamita 
+http://192.99.40.14:8000/stream.php?v=CineDinamitaLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,MultiPremier 
+http://192.99.40.14:8000/stream.php?v=MultiPremierLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,CineLatino 
+http://192.99.40.14:8000/stream.php?v=CineLatinoSD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW 
+#EXTINF:-1,Golden 
+http://192.99.40.14:8000/stream.php?v=GoldenHD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,GoldenEdge 
+http://192.99.40.14:8000/stream.php?v=GoldenEdgeLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,GoldenMultiplex 
+http://192.99.40.14:8000/stream.php?v=GoldenMPLXLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,ParamountChannelLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=ParamountChannelLatinAmericaHD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,SundanceChannelLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=SundanceLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,TNTAmericaLatina 
+http://192.99.40.14:8000/stream.php?v=TNTAmericaLatinaHD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,CineCanal 
+http://192.99.40.14:8000/stream.php?v=CineCanalLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,CinemaxLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=CinemaxLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,SPACE 
+http://192.99.40.14:8000/stream.php?v=SpaceLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,AMC 
+http://192.99.40.14:8000/stream.php?v=AMCLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,StudioUniversal 
+http://192.99.40.14:8000/stream.php?v=StudioUniversalSD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,TCMAmericaLatina 
+http://192.99.40.14:8000/stream.php?v=TCMSD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,ISat 
+http://192.99.40.14:8000/stream.php?v=ISATLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,EuropaEuropa 
+http://192.99.40.14:8000/stream.php?v=EuropaEuropaLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW 
+#EXTINF:-1,FilmArtsLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=FilmArtsLA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,FilmZone 
+http://192.99.40.14:8000/stream.php?v=FilmZoneLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,Fox1Este 
+http://192.99.40.14:8000/stream.php?v=FOX1LASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,Fox1Oeste 
+http://192.99.40.14:8000/stream.php?v=FOX1OesteLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,FoxFamily 
+http://192.99.40.14:8000/stream.php?v=FOXFamilyLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW 
+#EXTINF:-1,FoxComedy 
+http://192.99.40.14:8000/stream.php?v=FOXComedyLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW 
+#EXTINF:-1,FoxCinema 
+http://192.99.40.14:8000/stream.php?v=FoxCinemaSD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,FoxActionEste 
+http://192.99.40.14:8000/stream.php?v=FOXACTIONLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,FoxActionOeste 
+http://192.99.40.14:8000/stream.php?v=FOXActionOesteLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,FoxMoviesLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=FOXMoviesLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW 
+#EXTINF:-1,FoxClassicsLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=FOXClassicsLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,HBOLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=HBOLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,HBO2Latinoamerica 
+http://192.99.40.14:8000/stream.php?v=HBO2SD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,HBOPlusEste 
+http://192.99.40.14:8000/stream.php?v=HBOPlusLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW 
+#EXTINF:-1,HBOPlusOeste 
+http://192.99.40.14:8000/stream.php?v=HBOPus2LASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,HBOFamilyLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=HBOFamilyLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,HBOSignatureLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=HBOSignatureLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,MaxUPLatinoamerica 
+http://192.99.40.14:8000/stream.php?v=MaxUPSD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,MaxPrimeEste 
+http://192.99.40.14:8000/stream.php?v=MaxPrimeLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW 
+#EXTINF:-1,MaxPrimeOeste 
+http://192.99.40.14:8000/stream.php?v=MaxPrime2LASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,MAX 
+http://192.99.40.14:8000/stream.php?v=MaxLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,GoldenPremier1 
+http://192.99.40.14:8000/stream.php?v=GoldenPremier1LA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,GoldenPremier2 
+http://192.99.40.14:8000/stream.php?v=GoldenPremiere2LA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
+#EXTINF:-1,Qmusica
+mms://streamqm.uigc.net/qmusica
+
+#EXTINF:-1 tvg-logo="musica.png",Hip Hop Channel
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_AONE/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="musica.png",Urban Music TV Dominica
+http://ss7.domint.net:2058/utv_str/urban/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Clubland.png",Clubland
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tv-now.png",Nowmusic
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tv-aka.png",Akanew
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1 tvg-logo="tv-planet-pop.png",planet pop
+http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1 tvg-logo="vevo.png",Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="vevo.png",VEVO HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+
+#EXTINF:-1 tvg-logo="vevo.png",Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="vevo.png",Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="musica.png",Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?
+
+#EXTINF:-1 tvg-logo="kiss-tv.gif",Kiss Tv Music
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+#EXTINF:-1,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
+
+#EXTINF:-1,Telemusica
+rtmp://186.155.200.118:1935/live/telemusica
+
+#EXTINF:-1,Televitrola
+rtmp://186.155.200.118:1935/live/Televitrola
+
+#EXTINF:-1,Virgin TV
+rtmp://fms.105.net:1935/live/virgin2
+
+#EXTINF:-1,ESKA Rock
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
+
+#EXTINF:-1,ESKA Party
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p
+
+#EXTINF:-1,ESKA TV
+rtmp://stream.smcloud.net/live/eskatv
+
+#EXTINF:-1,ESKA Go
+rtmp://stream.smcloud.net/live2/best/best_360p
+
+#EXTINF:-1 group-title="Del Mundo",TELEANTILLAS
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+
+#EXTINF:-1 group-title="Del Mundo",Telesistema
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+
+#EXTINF:-1 group-title="Del Mundo",ANTENA 3 España
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1 group-title="Del Mundo",La Sexta España
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1 group-title="Del Mundo",TVN 
+http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+
+#EXTINF:-1 group-title="Del Mundo",MEGA HD 
+http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
+
+#EXTINF:0 group-title="Del Mundo",CANAL 13
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 group-title="Del Mundo",TVE
+http://200.76.77.230/LIVE/H01/CANAL651/PROFILE03.m3u8?=-1
+
+#EXTINF:-1 group-title="Del Mundo",Arirang
+http://worldlive.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld2.m3u8
+
 #EXTINF:-1,nick
 http://gdl-cdsse-01.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/NICKHD.m3u8
 #EXTINF:-1,telehit
