@@ -1,31 +1,59 @@
 #EXTM3U
 #EXTINF:-1,BEIN sport
 http://mbox-addon.com/streams/68873-navix.m3u8
-#EXTINF:-1,minions 
-http://pacific1469.serverprofi24.eu/peliculas//Minions.HDTS.LAT.mp4
+#EXTINF:-1,la 1 
+http://s154.embed-tv.com/session/455942d0-2e2f-11e5-8c07-005056bc49ac/nvnv5a/5003/2290000/index.m3u8
+#EXTINF:-1,VH1 CLASSIC
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/variant.m3u8
+#EXTINF:-1,DJING TV 
+http://us.djing.com/tv/d-05.m3u8
+#EXTINF:-1,la2
+http://www.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,Antana 3 HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1, antena 3
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/index.m3u8
+#EXTINF:-1,Megatv
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
+#EXTINF:-1,neox HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel03/index.m3u8
+#EXTINF:-1,nova
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel11/eventos_6_700K_640x368_baseline.m3u8
+#EXTINF:-1,cuatro
+http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_22@168474/index_0_av-p.m3u8
+#EXTINF:-1,telecinco
+http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-p.m3u8
+#EXTINF:-1,la sexta
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/index.m3u8
+#EXTINF:-1,la sextahd
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,Telesur
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1,VEVO 1HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 
-#EXTINF:-1,TELEHIT
-http://oneplay.tv/applicationlive/reproducir/436.m3u8
-#EXTINF:-1,Fox+ Family
-http://oneplay.tv/ver/canal/102/fox-family.m3u8
-#EXTINF:-1,Fox Classics
-http://oneplay.tv/ver/canal/101/fox-classics.m3u8
-#EXTINF:-1,Fox+ 1
-http://oneplay.tv/ver/canal/100/fox-1.m3u8
-#EXTINF:-1,Fox+ Action
-http://oneplay.tv/ver/canal/99/fox-action
-#EXTINF:-1,Fox + Movies
-http://oneplay.tv/ver/canal/98/fox-movies
-#EXTINF:-1,NickToons
-http://oneplay.tv/ver/canal/97/nicktoons
-#EXTINF:-1,Bandamax
-http://oneplay.tv/ver/canal/96/bandamax
-#EXTINF:-1,MTV
-http://oneplay.tv/ver/canal/95/mtv
-#EXTINF:-1,VH1
-http://oneplay.tv/ver/canal/94/vh1
-#EXTINF:-1,Telehit
-http://oneplay.tv/ver/canal/93/telehit
+
+#EXTINF:-1,VEVO 1HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1,VEVO 2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1,VEVO 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1,GOLD TV
+http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
+#EXTINF:-1,A-ONE Canal HIP-HOP
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8
+#EXTINF:-1,A-ONE Canal HIP-HOP (0pcion 2)
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?=-1
+#EXTINF:-1,Gotica tv
+rtmp://149.11.34.6/live playpath=gotica.stream
+#EXTINF:-1,1-HD
+rtmp://109.239.142.62/live/livestream3
+#EXTINF:-1,mtv-rocks
+http://92.50.181.6/tv/1279/index.m3u8
+#EXTINF:-1,Eska Rock Tv HD
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+
 #EXTINF:-1,MTV LIVE
 http://oneplay.tv/ver/canal/92/mtv-live
 #EXTINF:-1,ESPN 2
