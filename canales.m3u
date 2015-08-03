@@ -343,8 +343,10 @@ rtmp://109.239.142.62/live/livestream3
 http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
 #EXTINF:-1,DANCING
 http://live.mvdigital.net:1935/live13/livestream1.sdp/playlist.m3u8
-#EXTINF:1,MUSIC
+#EXTINF:1,DJING
 http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:-1,DJING Opc 2
+http://us.djing.com/tv/d-05.m3u8
 #EXTINF:-1, CAPITAL TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,HEART TV
@@ -503,6 +505,8 @@ http://brightcove03-f.akamaihd.net/iptv2_1_900@50919?videoId=1370792317001&lineU
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
 #EXTINF:-1,MEGA HD
 http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
+#EXTINF:-1,Megatv
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
 #EXTINF:-1,Naranja Tv
 http://ciez45.live.cloud.influxis.com/ciez45/NaranjaTV/chunklist_w1563927943.m3u8?
 #EXTINF:-1,Canal 28 Chihuahua México
@@ -525,6 +529,8 @@ http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
 http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
 #EXTINF:-1,ANTENA3 HD
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,ANTENA3 Opc2
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/index.m3u8
 #EXTINF:-1,LA SEXTA HD
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
 #EXTINF:-1,TELESISTEMA 11 (Dom)
