@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,fox
+http://goku.tutvgratis.tv:8000/stream.php?v=foxhdla&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW
 #EXTINF:-1,Dragon Ball
 http://iphone-streaming.ustream.tv/ustreamVideo/20634165/streams/live/playlist.m3u8
 #EXTINF:-1,tvg-logo="sat_1-hd.png",Canal de Peliculas Latino
