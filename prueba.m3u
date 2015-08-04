@@ -1,4 +1,102 @@
 #EXTM3U
+#EXTINF:-1,tvg-logo="sat_1-hd.png",Canal de Peliculas Latino
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8#SCREAMFACE TV
+
+#EXTINF:-1, NOTICIAS SCREAMFACETV
+http://www.microcompu.net/video/videoscreamfacetv.mp4
+
+#EXTINF:-1,tvg-logo="discovery-channel.png",Discovery en español
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="disney-xd.png",Disney Chanel
+http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="history-hd.png",History Channel
+http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="telemundo.png",Telemundo
+http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="america.png",AMERICA TELEVISIÓN 
+http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="vevo.png", VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="proyecto-40.png",PROYECTO 40 HD
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="vevo.png", VEVO 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="antena3.png",ANTENA 3 HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="vevo.png", VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="btnsport.png",BTN SPORT
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_1840.m3u8#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="trece.png",TRECE LIVE HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="sexta.png",LA SEXTA HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="azteca-Noticias.png",AZTECA TRECE
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-p.m3u8?sd=10&rebase=on#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="screamface.png",i24 News INGLES
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/650.m3u8#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="screamface.png",SKY TG24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream6/streamPlaylist.m3u8#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="screamface.png",LONDON LIVE - INGLES
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="screamface.png",RAI NEWS - INGLES
+http://everyrai-lh.akamaihd.net/i/rainews_1@127119/index_1500_av-p.m3u8?sd=10&rebase=on#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="screamface.png",CIELO
+http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/stream2/streamPlaylist.m3u8#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="realmadrid.png",REAL MADRID
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="rpc4.png",RPC TV CANAL 4 
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="telemetro.png",TELEMETRO CANAL 13 
+http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="redbull.png", REDBULL TV US
+http://sacapunta.eltelon.com/channels/redbulltv/high.m3u8#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="kiss-tv.png",KISS TV MUSIC
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="screamface.png",Ultra Cine
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="screamface.png", Azteca 7 Monterrey México
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8#SCREAMFACE TV
+
+#EXTINF:-1,[COLOR yellow]--- SCREAMFACE TV XXX - SOLO ADULTOS +18 --- [/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,tvg-logo="venus.png",VENUS 3X
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/chunklist-b1100000.m3u8?wowzasessionid=1856726832#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="private.png",Private
+http://178.33.126.213:1935/leved/privateCom/.m3u8#SCREAMFACE TV
+
+#EXTINF:-1,tvg-logo="screamface.png",Adulto Claro
+
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8?#SCREAMFACE TV
+
+
 
 #EXTINF:-1,HBO2
 http://iptvmx.ddns.net/forocable/forocable/4.ch
