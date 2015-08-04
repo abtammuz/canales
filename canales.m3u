@@ -909,6 +909,8 @@ http://galsflv.videosz.com//mom-and-the-pop_5/videosz-mom-and-the-pop-53.flv
 rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
 #EXTINF:-1,Adult
 http://wowza1.videos.movile.com:1935/live/adulto_1.smil/livestream.m3u8
+#EXTINF:-1,VENUS 3X
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/chunklist-b1100000.m3u8?wowzasessionid=1856726832#SCREAMFACE TV
 #EXTINF:-1,adultPremium
 http://wowza1.videos.movile.com:1935/live/adultopremium_1.smil/livestream.m3u8
 #EXTINF:-1,Jazmintv
