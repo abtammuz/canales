@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Dragon Ball
+http://iphone-streaming.ustream.tv/ustreamVideo/20634165/streams/live/playlist.m3u8
 #EXTINF:-1,tvg-logo="sat_1-hd.png",Canal de Peliculas Latino
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8#SCREAMFACE TV
 
@@ -82,21 +84,6 @@ http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchanne
 
 #EXTINF:-1,tvg-logo="screamface.png", Azteca 7 Monterrey México
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8#SCREAMFACE TV
-
-#EXTINF:-1,[COLOR yellow]--- SCREAMFACE TV XXX - SOLO ADULTOS +18 --- [/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1,tvg-logo="venus.png",VENUS 3X
-http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/chunklist-b1100000.m3u8?wowzasessionid=1856726832#SCREAMFACE TV
-
-#EXTINF:-1,tvg-logo="private.png",Private
-http://178.33.126.213:1935/leved/privateCom/.m3u8#SCREAMFACE TV
-
-#EXTINF:-1,tvg-logo="screamface.png",Adulto Claro
-
-http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8?#SCREAMFACE TV
-
-
 
 #EXTINF:-1,HBO2
 http://iptvmx.ddns.net/forocable/forocable/4.ch
