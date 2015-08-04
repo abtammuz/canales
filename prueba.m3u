@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Mundo Fox
+http://kcurth.zz.mu/ch/carga.php?canal=5
 #EXTINF:-1,canal 187
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/187.m3u8
 #EXTINF:-1,dis
