@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1, MundoFox1
-http://kcurth.zz.mu/ch1/carga.php?canal=5
-#EXTINF:-1, MundoFox2
-http://kcurth.zz.mu/ch2/carga.php?canal=5
-#EXTINF:-1, MundoFox3
-http://kcurth.zz.mu/ch3/carga.php?canal=5
-#EXTINF:-1, MundoFox4
-http://kcurth.zz.mu/ch4/carga.php?canal=5
-#EXTINF:-1, MundoFox5
-http://kcurth.zz.mu/ch5/carga.php?canal=5
-#EXTINF:-1, MundoFox
-http://kcurth.zz.mu/ch6/carga.php?canal=5
-#EXTINF:-1,canal 187
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/187.m3u8
 #EXTINF:-1,dis
 http://disastered.madpage.com/Kcurth/ch1/1.m3u8
 #EXTINF:-1,dis2
