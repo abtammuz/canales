@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1,HBO2
+http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/4.ch
+#EXTINF:-1,Dragon Ball
+http://iphone-streaming.ustream.tv/ustreamVideo/20634165/streams/live/playlist.m3u8
+#EXTINF:-1,NFL Network
+http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/319.ch
+#EXTINF:-1,sky SPORTS
+http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/350.ch
+#EXTINF:-1,UFC Network Latino america
+http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/349.ch
+#EXTINF:-1, WWE LIVE
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/138.m3u8
 #EXTINF:-1 tvg-name="Total Play HD" , TotalPlay
 http://200.76.77.230/LIVE/H01/CANAL1/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Az Noticias HD" , Az Noticias
@@ -394,6 +406,8 @@ http://200.76.77.230/LIVE/H01/CANAL328/PROFILE05.m3u8?
 http://200.76.77.230/LIVE/H01/CANAL351/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="History HD" , History HD
 http://200.76.77.230/LIVE/H01/CANAL353/PROFILE05.m3u8?
+#EXTINF:-1,H2 Latinoamerica
+http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/337.ch
 #EXTINF:-1 tvg-name="Nat Geo Wild HD" , Nat Geo Wild HD
 http://200.76.77.230/LIVE/H01/CANAL355/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="World Discovery HD" , World Discovery HD
@@ -476,6 +490,8 @@ http://200.76.77.230/LIVE/H01/CANAL520/PROFILE05.m3u8?
 http://200.76.77.230/LIVE/H01/CANAL522/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="Fox Sports 2 HD" , Fox Sports 2 HD
 http://200.76.77.230/LIVE/H01/CANAL527/PROFILE05.m3u8?
+#EXTINF:-1,Fox Sports3 Latinoamerica
+http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/347.ch
 #EXTINF:-1 tvg-name="PXTV HD" , PXTV HD
 http://200.76.77.230/LIVE/H01/CANAL528/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="ESPN" , ESPN HD
