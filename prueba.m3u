@@ -3,6 +3,10 @@
 http://201.161.59.6/fx.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,DISCOVERYKIDS
 http://201.161.59.6/discoverykids.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,dineyjr
+http://201.161.59.6/disneyjr.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,nickjr
+http://201.161.59.6/nickjr.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,FOX SD
 http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,SONY SD
