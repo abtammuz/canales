@@ -524,6 +524,18 @@ http://200.76.77.230/LIVE/H01/CANAL728/PROFILE05.m3u8?
 http://200.76.77.230/LIVE/H01/CANAL731/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="Bandamax" , Bandamax HD
 http://200.76.77.230/LIVE/H01/CANAL732/PROFILE05.m3u8?
+#EXTINF:-1,DJING
+http://us.djing.com/tv/noaudio_MX.m3u8
+#EXTINF:-1,DJING animation
+http://us.djing.com/tv/noaudioanimation_MX.m3u8
+#EXTINF:-1,DJING hothothot
+http://us.djing.com/tv/noaudiohothothot_MX.m3u8
+#EXTINF:-1,DJING ibiza
+http://us.djing.com/tv/noaudiodancefloor_MX.m3u8
+#EXTINF:-1,DJING underground
+http://us.djing.com/tv/noaudiounderground_MX.m3u8
+#EXTINF:-1,DJING classics
+http://us.djing.com/tv/noaudioclassics_MX.m3u8
 
 #EXTINF:-1,Discovery en español
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
