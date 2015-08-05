@@ -1972,9 +1972,6 @@ http://media3.crtvg.es/live/tvga/hasbahca.m3u8
 #EXTINF:-1 tvg-id="Hispan TV" tvg-name="Hispan TV" tvg-logo="hispan tv.png" group-title="Variedades - Mundo",Hispan TV
 rtmp://mtv.fms-01.visionip.tv/live/mtv-m_tv-live-25f-4x3-SDh
 
-#EXTINF:-1 group-title="Deportes",.: DEPORTES :.
-http://?
-
 #EXTINF:-1 tvg-id="MotorsTV" tvg-logo="motorstv.png" group-title="Deportes",Motors TV
 http://46.61.226.21/hls/CH_MOTORSTV/variant.m3u8?version=2
 
@@ -2016,13 +2013,6 @@ rtmp://edge02.dcarsat.com.ar/DXTV/DXTV/
 
 #EXTINF:-1 tvg-id="America Sports" tvg-name="America Sports" tvg-logo="america sports.png" group-title="Deportes",America Sports
 http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
-
-
-
-
-
-
-
 
 #EXTINF:-1,Canal De Las Estrellas
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8#MegaIPTVArgentina
