@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,DJING5
-http://us.djing.com/tv/h-05.m3u8
+#EXTINF:-1,DJING animation
+http://us.djing.com/tv/noaudioanimation_MX.m3u8
 #EXTINF:-1,DJING1
 http://us.djing.com/tv/h-01.m3u8
 #EXTINF:-1,DJING2
