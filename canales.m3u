@@ -1,14 +1,12 @@
 #EXTM3U
 #EXTINF:-1,HBO2
-http://forocable.esy.es/iptvlinksmelapela.php?darkuzgay=116
+http://forocable.esy.es/iptvlinksmelapela.php?darkuzgay=116.m3u8
 #EXTINF:-1,Dragon Ball
 http://iphone-streaming.ustream.tv/ustreamVideo/20634165/streams/live/playlist.m3u8
 #EXTINF:-1,NFL Network
-http://forocable.esy.es/iptvlinksmelapela.php?darkuzgay=1
-#EXTINF:-1,sky SPORTS
-http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/350.ch
+http://forocable.esy.es/iptvlinksmelapela.php?darkuzgay=1.m3u8
 #EXTINF:-1,UFC Network Latino america
-http://forocable.esy.es/iptvlinksmelapela.php?darkuzgay=32h
+http://forocable.esy.es/iptvlinksmelapela.php?darkuzgay=32h.m3u8
 #EXTINF:-1, WWE LIVE
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/138.m3u8
 #EXTINF:-1 tvg-name="Total Play HD" , TotalPlay
