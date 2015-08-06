@@ -340,16 +340,15 @@ rtmp://186.155.200.118:1935/live/MelodyChannel
 rtmp://186.155.200.118:1935/live/Televitrola
 #EXTINF:-1,Mi Gente TV
 http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u8
+
 #EXTINF:-1 group-title="ADULTOS" parent-code="1997",Miami TV
 rtmp://74.208.69.207/live/miamitvhd
 #EXTINF:-1,PlayBoy TvChat
 http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w95313209.m3u8
-#EXTINF:-1,Kore Livething Premium
-http://edge2.everyon.tv/etv2/phd1006/BratuMarian.m3u8
+#EXTINF:-1,KoreLivething Premium
+http://edge2.everyon.tv/etv2/pld1006/BratuMarian.m3u8
 #EXTINF:-1,Korea Okadai
 http://edge2.everyon.tv/etv2/pld1003/BratuMarian.m3u8
-#EXTINF:-1,Korea Okadai HD
-http://edge2.everyon.tv/etv2/phd1003/BratuMarian.m3u8
 #EXTINF:-1, Korea:韩国phd1008
 rtmp://edge2.everyon.tv/etv2/pld1008
 #EXTINF:-1, Korea:韩国phd499
@@ -420,6 +419,4 @@ http://178.33.126.213:1935/iptv_cellcast_24/livestream_two2/.m3u8
 http://stream01.yamgo.com/iPhone/broadcast/bella_club_luz-tablet.3gp/bella_club_luz-tablet.3gp-mr647k.m3u8
 #EXTINF:-1,SEXY SAT
 http://81.89.48.215:1935/sexysat/sexysat.stream_360p/playlist.m3u8
-#EXTINF:-1,BOLLYWOOD BIKINI TV
-http://46.249.213.93/iPhone/broadcast/bollywoodbikini-tablet.3gp/bollywoodbikini-tablet.3gp-mr647k.m3u8
 
