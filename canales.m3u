@@ -344,10 +344,6 @@ http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m
 rtmp://74.208.69.207/live/miamitvhd
 #EXTINF:-1,PlayBoy TvChat
 http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w95313209.m3u8
-#EXTINF:-1, PowerGirls
-http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
-#EXTINF:0, C-More Hits 
-http://188.138.9.228:8020 
 #EXTINF:-1,Kore Livething Premium
 http://edge2.everyon.tv/etv2/phd1006/BratuMarian.m3u8
 #EXTINF:-1,Korea Okadai
@@ -355,43 +351,39 @@ http://edge2.everyon.tv/etv2/pld1003/BratuMarian.m3u8
 #EXTINF:-1,Korea Okadai HD
 http://edge2.everyon.tv/etv2/phd1003/BratuMarian.m3u8
 #EXTINF:-1, Korea:韩国phd1008
-rtmp://edge2.everyon.tv/etv2/phd1008
+rtmp://edge2.everyon.tv/etv2/pld1008
 #EXTINF:-1, Korea:韩国phd499
-rtmp://edge2.everyon.tv/etv2sb/phd499
+rtmp://edge2.everyon.tv/etv2sb/pld499
 #EXTINF:-1, Korea:韩国phd501
-rtmp://edge2.everyon.tv/etv2sb/phd501
+rtmp://edge2.everyon.tv/etv2sb/pld501
 #EXTINF:-1, Korea:韩国phd511
-rtmp://edge2.everyon.tv/etv2sb/phd511
+rtmp://edge2.everyon.tv/etv2sb/pld511
 #EXTINF:-1, Korea:韩国phd59
-rtmp://edge2.everyon.tv/etv2sb/phd59
+rtmp://edge2.everyon.tv/etv2sb/pld59
 #EXTINF:-1, Korea:韩国phd60
-rtmp://edge2.everyon.tv/etv2sb/phd60
+rtmp://edge2.everyon.tv/etv2sb/pld60
 #EXTINF:-1, Korea:韩国phd61
-rtmp://edge2.everyon.tv/etv2sb/phd61
+rtmp://edge2.everyon.tv/etv2sb/pld61
 #EXTINF:-1, Korea:韩国phd62
-rtmp://edge2.everyon.tv/etv2sb/phd62
+rtmp://edge2.everyon.tv/etv2sb/pld62
 #EXTINF:-1, Korea:韩国phd63
-rtmp://edge2.everyon.tv/etv2sb/phd63
+rtmp://edge2.everyon.tv/etv2sb/pld63
 #EXTINF:-1, Korea:韩国phd64
-rtmp://edge2.everyon.tv/etv2sb/phd64
+rtmp://edge2.everyon.tv/etv2sb/pld64
 #EXTINF:-1, Korea:韩国phd769
-rtmp://edge2.everyon.tv/etv2sb/phd769
+rtmp://edge2.everyon.tv/etv2sb/pld769
 #EXTINF:-1, Korea:韩国phd771
-rtmp://edge2.everyon.tv/etv2sb/phd771
+rtmp://edge2.everyon.tv/etv2sb/pld771
 #EXTINF:-1, Korea:韩国phd772
-rtmp://edge2.everyon.tv/etv2sb/phd772
+rtmp://edge2.everyon.tv/etv2sb/pld772
 #EXTINF:-1, Korea:韩国phd968
-rtmp://edge2.everyon.tv/etv2sb/phd968
+rtmp://edge2.everyon.tv/etv2sb/pld968
 #EXTINF:-1, Korea:韩国phd991
-rtmp://edge2.everyon.tv/etv2sb/phd991
+rtmp://edge2.everyon.tv/etv2sb/pld991
 #EXTINF:-1, Korea:韩国phd992
-rtmp://edge2.everyon.tv/etv2sb/phd992
+rtmp://edge2.everyon.tv/etv2sb/pld992
 #EXTINF:-1, Korea:韩国phd993
-rtmp://edge2.everyon.tv/etv2sb/phd993
-#EXTINF:-1,HQ Amateurs
-http://galsflv.videosz.com//mom-and-the-pop_5/videosz-mom-and-the-pop-53.flv
-#EXTINF:-1,BELLALUZ
-rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
+rtmp://edge2.everyon.tv/etv2sb/pld993
 #EXTINF:-1,Adult
 http://wowza1.videos.movile.com:1935/live/adulto_1.smil/livestream.m3u8
 #EXTINF:-1,adultPremium
@@ -400,36 +392,12 @@ http://wowza1.videos.movile.com:1935/live/adultopremium_1.smil/livestream.m3u8
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
 #EXTINF:-1,Jazmintv opc2
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1,Xxx
-http://188.165.220.116:8081/live2/5/playlist.m3u8
-#EXTINF:-1,X1
-http://188.165.220.116:8081/live/30/playlist.m3u8
 #EXTINF:-1,Private
 http://178.33.126.213:1935/leved/privateCom/.m3u8
 #EXTINF:-1,Satisfaction
 rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
 #EXTINF:-1,Asia 1
 http://59.120.43.181:8081
-#EXTINF:-1,Asia 2
-http://59.120.43.181:8082
-#EXTINF:-1,Asia 3
-http://59.120.43.181:8083
-#EXTINF:-1,Asia 4
-http://59.120.43.181:8084
-#EXTINF:-1,Olala
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
-#EXTINF:-1,Russian Night
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
-#EXTINF:-1,Blue Hustler
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
-#EXTINF:0,PLAYBOYTV 
-http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
-#EXTINF:-1,PlayboyTV OPC2
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
-#EXTINF:-1,Playboy TV OPC3
-http://yacs88.ddns.net:8001/1:0:1:D15C:90C:2:11A0000:0:0:0:
-#EXTINF:-1,XXL
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
 #EXTINF:-1,Sex +18
 mmsh://tv.webmisto.cz:7000
 #EXTINF:-1,Babe
@@ -448,18 +416,8 @@ http://178.33.126.213:1935/cellcast/encoder32/.m3u8
 http://178.33.126.213:1935/leved/livesexlatinas/.m3u8
 #EXTINF:-1,Babestation Unleashed2
 http://178.33.126.213:1935/iptv_cellcast_24/livestream_two2/.m3u8
-#EXTINF:-1,BABES SPORTING
-http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
-#EXTINF:-1,HOT SHOTS
-http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
-#EXTINF:-1,HOT SHOTS BEACH
-http://stream02.yamgo.com/iPhone/broadcast/hot_shots_beach_babes-tablet.3gp/hot_shots_beach_babes-tablet.3gp-mr646k.m3u8
 #EXTINF:-1,BELLA CLUB
 http://stream01.yamgo.com/iPhone/broadcast/bella_club_luz-tablet.3gp/bella_club_luz-tablet.3gp-mr647k.m3u8
-#EXTINF:-1,DIVA LITE
-http://stream02.yamgo.com/iPhone/broadcast/you_diva_lite-tablet.3gp/you_diva_lite-tablet.3gp-mr657k.m3u8
-#EXTINF:-1,HOT 100
-http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/hot_100-tablet.3gp/hot_100-tablet.3gp-mr647k.m3u8
 #EXTINF:-1,SEXY SAT
 http://81.89.48.215:1935/sexysat/sexysat.stream_360p/playlist.m3u8
 #EXTINF:-1,BOLLYWOOD BIKINI TV
