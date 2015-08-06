@@ -24,34 +24,34 @@ http://201.161.59.7/telehit.isml/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1,AyE
 http://201.161.59.6/aye.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,Axn
-http://201.161.59.6/axn.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://201.161.59.6/comedycentral.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,disneyjr
-http://201.161.59.6/disney.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,dkids
-http://201.161.59.6/kids.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,SONY SD
-http://201.161.59.6/sony.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,FOX SPORTS
-http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,WARNER
-http://201.161.59.6/warner.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,OnceTV
-http://201.161.59.3/oncetv.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,CANAL 52 MX
-http://201.161.59.4/canal52.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,LIFETIME
-http://201.161.59.5/lifetime.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,FOX LIFE
-http://201.161.59.5/foxlife.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,TYC SPORTS
-http://201.161.59.4/tycdeportes.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,MILENIO TELEVISION
-http://201.161.59.5/milenio.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,EXA TV
-http://201.161.59.5/exatv.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,HOLATV
+http://201.161.59.6/holatv.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,fashiontv
+http://201.161.59.6/fashiontv.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,azcorazon
+http://201.161.59.6/azcorazon.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,BBC ENTRETAIMENT
+http://201.161.59.6/bbcentretaiment.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,e!
+http://201.161.59.6/e!.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,universal
+http://201.161.59.6/universal.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,syfy
+http://201.161.59.6/syfy.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,id
+http://201.161.59.3/id.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,tnt
+http://201.161.59.4/tnt.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,garagetv
+http://201.161.59.5/garagetv.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,glitz
+http://201.161.59.5/glitz.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,distritocomedia
+http://201.161.59.4/distritocomedia.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,tbs
+http://201.161.59.5/tbs.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,tlnovelas
+http://201.161.59.5/tlnovelas.isml/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1,TVE 1
 http://iptvservice.ddns.net:8000/live/bruno/bruno/2265.m3u8
