@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1, NatGeo Wild HD 720
-http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on#MegaIPTVArgentina
-#EXTINF:-1,liga bbva spanish
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/119.m3u8
-#EXTINF:-1,Megavision (Mexico)
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/123.m3u8
-#EXTINF:-1,FC Barcelona (Spain)
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/102.m3u8
 #EXTINF:-0,202-NATIONAL GEOGRAPHIC CHANNEL
 http://31.220.41.111:80/LiveEdgeTesting/NatGeoLASD/playlist.m3u8?token=
 #EXTINF:-0,218-DISCOVERY WORLD
@@ -21,8 +13,6 @@ http://31.220.41.111:80/LiveEdgeTesting/SonyLA/playlist.m3u8?token=
 http://31.220.40.105/LiveEdgeTesting/WarnerLA/playlist.m3u8?token=
 #EXTINF:-0,308-AXN
 http://31.220.41.111:80/LiveEdgeTesting/AXNLA/playlist.m3u8?token=
-#EXTINF:0,NatGeo Wild
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F254
 #EXTINF:-0,204-ANIMAL PLANET
 http://31.220.41.111:80/LiveEdgeTesting/AnimalPlanetLASD/playlist.m3u8?token=
 #EXTINF:-0,206-THE HISTORY CHANNEL
