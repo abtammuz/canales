@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="ARGENTINA" tvg-logo="http://www.marcotuliojs.qlix.com.br/ARGENTINA.jpg" group-title="IPTV ARGENTINA", Telesol
+rtmp://37.187.108.127:554/canal5telesol/radiostation.stream
+
 #EXTINF:-1,Discovery en Español
 http://lb.iptvserver.tv/redirect/LiveEdgeTesting/DiscoveryChLA/playlist.m3u8?token=
 #EXTINF:-1,Discovery Theater
