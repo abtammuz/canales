@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,13noticias
 http://iphone-streaming.ustream.tv/ustreamVideo/20962611/streams/live/playlist.m3u8
+#EXTINF:-1,13NOTICIAS
+http://iphone-streaming.ustream.tv/uhls/20962611/streams/live/iphone/playlist.m3u8
 #EXTINF:0,1
 http://videohttp2.porndig.com/videos/2014/09/61365_20140911.smil/chunklist_b730000.m3u8
 #EXTINF:0,1
