@@ -1,8 +1,38 @@
 #EXTM3U
-#EXTINF:-1,DiscoveryenEspañol 
-http://192.99.40.119:8000/stream.php?v=DiscoveryChLA 
-#EXTINF:-1,HistoryenEspañol 
-http://192.99.40.119:8000/stream.php?v=HistoryLA
+#EXTINF:-1,Discovery en Español
+http://lb.iptvserver.tv/redirect/LiveEdgeTesting/DiscoveryChLA/playlist.m3u8?token=
+#EXTINF:-1,Discovery Theater
+http://lb.iptvserver.tv/redirect/LiveEdgeTesting/DiscoveryenEspanolHD/playlist.m3u8?token=
+#EXTINF:-1,Discovery World
+http://lb.iptvserver.tv/redirect/LiveEdgeTesting/DiscoveryWorldLA/playlist.m3u8?token=
+#EXTINF:-1,Discovery Home & Health Latinoamerica
+http://lb.iptvserver.tv/redirect/LiveEdgeTesting/DiscoveryHomeHealthLAHD/playlist.m3u8?token=
+#EXTINF:-1,H2 Latinoamerica
+http://lb.iptvserver.tv/redirect/LiveEdgeTesting/H2LASD/playlist.m3u8?token=
+#EXTINF:-1,History en Español
+http://lb.iptvserver.tv/redirect/LiveEdgeTesting/HistoryLA/playlist.m3u8?token=
+#EXTINF:-1,National Geographic Latinoamerica
+http://lb.iptvserver.tv/redirect/LiveEdgeTesting/NatGeoLASD/playlist.m3u8?token=
+#EXTINF:-1,Nat Geo Wild Latino America
+http://lb.iptvserver.tv/redirect/LiveEdgeTesting/NatGeoWildLAHD/playlist.m3u8?token=
+#EXTINF:-1,Animal Planet Latinoamerica
+http://lb.iptvserver.tv/redirect/LiveEdgeTesting/AnimalPlanetLASD/playlist.m3u8?token=
+#EXTINF:-1,ESPN Latinoamerica
+http://lb.iptvserver.tv/redirect/LiveEdgeTesting/ESPNLA/playlist.m3u8?token=
+#EXTINF:-1,ESPN 2 Latinoamerica
+http://lb.iptvserver.tv/redirect/LiveEdgeTesting/ESPN2LASD/playlist.m3u8?token=
+#EXTINF:-1,ESPN 3 Latinoamerica
+http://lb.iptvserver.tv/redirect/LiveEdgeTesting/ESPN3LASD/playlist.m3u8?token=
+#EXTINF:-1,Fox Sports Latinoamerica
+http://lb.iptvserver.tv/redirect/LiveEdgeTesting/FoxSportsLA/playlist.m3u8?token=
+#EXTINF:-1,Fox Sports 2 Latinoamerica
+http://lb.iptvserver.tv/redirect/LiveEdgeTesting/FoxSports2SD/playlist.m3u8?token=
+#EXTINF:-1,Fox Sports 3 Latinoamerica
+http://lb.iptvserver.tv/redirect/LiveEdgeTesting/FoxSports3SD/playlist.m3u8?token=
+#EXTINF:-1,BeinSports en Español
+http://lb.iptvserver.tv/redirect/LiveEdgeTesting/BeinSportsLA/playlist.m3u8?token=
+#EXTINF:-1,UFC Network Latinoamerica
+http://lb.iptvserver.tv/redirect/LiveEdgeTesting/UFCNetworkLA/playlist.m3u8?token=
 
 #EXTINF:-1,la mejor fm92.5
 http://2293.live.streamtheworld.com/XHSROFM_SC
