@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,megasimpson
+rtmp://podi.hopper.pw:443/live/live_mega_simpson
 #EXTINF:-1,Discovery en Español
 http://lb.iptvserver.tv/redirect/LiveEdgeTesting/DiscoveryChLA/playlist.m3u8?token=
 #EXTINF:-1,Discovery Theater
