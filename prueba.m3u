@@ -1,4 +1,27 @@
 #EXTM3U
+#EXTINF:-1 tvg-id=”TATETI” tvg-name=”TATETI” tvg-logo=”tateti.png” group-title=”Infantil”,Ta Te Ti
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id=”Paka Paka” tvg-name=”Paka Paka” tvg-logo=”pakapaka.png” group-title=”Infantil”,Paka Paka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+
+#EXTINF:-1 tvg-id=”MegaKids” tvg-name=”MegaKids” tvg-logo=”megakids.png” group-title=”Infantil”,Mega Kids
+rtmp://podi.hopper.pw:443/live/live_mega_kids
+
+#EXTINF:-1 tvg-id=”Simpson” tvg-name=”Simpson” tvg-logo=”simpson.png” group-title=”Infantil”,Mega Simpsons 24/7
+rtmp://podi.hopper.pw:443/live/live_mega_simpson
+
+#EXTINF:-1 tvg-id=”Chespirito Mania” tvg-name=”Chespirito Mania” tvg-logo=”chespirito.png” group-title=”Infantil”,Chespirito Manía
+rtmp://podi.hopper.pw:443/live/live_chespirito_mania
+
+#EXTINF:-1 tvg-id=”Anime TV” tvg-name=”Anime TV” tvg-logo=”animetv.png” group-title=”Infantil”,Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8#MegaIPTVArgentina
+
+#EXTINF:-1 tvg-id=”Animatoon TV” tvg-name=”Animatoon TV” tvg-logo=”animatoontv.png” group-title=”Infantil”,Animatoon TV
+rtmp://podi.hopper.pw:443/live/live_animetoontv
+
+#EXTINF:-1 tvg-id=”Mega Animé TV” tvg-name=”MegaAnime” tvg-logo=”megaanime.png” group-title=”Infantil”,MegaAnimé TV
+rtmp://podi.hopper.pw:443/live/live_mega_animeshd
 #EXTINF:-1,megasimpson
 rtmp://podi.hopper.pw:443/live/live_mega_simpson
 #EXTINF:-1,Discovery en Español
