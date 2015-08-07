@@ -7,6 +7,10 @@ http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
 http://live.mvdigital.net:1935/live6/livestream1.sdp/playlist.m3u8
 #EXTINF:0,TaTeTi NIÑOS
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:-1,Ta Te Ti
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8#MegaIPTVArgentina
 #EXTINF:-1,South Park
 http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Caracol Internacional Colombia
