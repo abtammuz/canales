@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,13noticias
+http://iphone-streaming.ustream.tv/ustreamVideo/20962611/streams/live/playlist.m3u8
 #EXTINF:-1,Dragon Ball
 http://iphone-streaming.ustream.tv/ustreamVideo/20634165/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Total Play HD" , TotalPlay
