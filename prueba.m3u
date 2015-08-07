@@ -1,6 +1,15 @@
 #EXTM3U
-#EXTINF:-1,SanJuan8
-http://iphone-streaming.ustream.tv/uhls/16113137/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,13
+http://live-edge01.telecentro.net.ar/live/13hd-360/playlist.m3u8 
+#EXTINF:-1,ARG EL TRECE SD 
+http://live-edge01.telecentro.net.ar/live/13hd-180/playlist.m3u8 
+
+#EXTINF:-1, Canal 5 Argentina 
+rtmp://c5n.stweb.tv:1935/c5n/live 
+#EXTINF:-1, CANAL 13 ARGENITNA
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1 
+#EXTINF:-1, Canal 79 San Juan 
+rtmp://painel.serveron.com.br:1935/8162/8162 
 #EXTINF:-1,13NOTICIAS
 http://iphone-streaming.ustream.tv/uhls/20962611/streams/live/iphone/playlist.m3u8
 #EXTINF:0,DreamGirls
