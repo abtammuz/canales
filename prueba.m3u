@@ -1,14 +1,18 @@
 #EXTM3U
-#EXTINF:-1,HistoryenEspañol
-http://forocable.esy.es/iptvlinksmelapela.php?darkuzgay=21
-#EXTINF:-1,NationalGeographicLatinoamerica
-http://forocable.esy.es/iptvlinksmelapela.php?darkuzgay=22
-#EXTINF:-1,NatGeoWildLatinoAmerica
-http://forocable.esy.es/iptvlinksmelapela.php?darkuzgay=23
-#EXTINF:-1,AnimalPlanetLatinoamerica
-http://forocable.esy.es/iptvlinksmelapela.php?darkuzgay=24
-#EXTINF:-1,ESPN Latinoamerica
-http://forocable.esy.es/iptvlinksmelapela.php?darkuzgay=25
+#EXTINF:0,Nickelodeon
+http://81.92.105.134:5555/pl.m3u8?channel=35
+#EXTINF:0,Nickelodeon Austria
+http://81.92.105.134:5555/pl.m3u8?channel=36
+#EXTINF:0,n-tv
+http://81.92.105.134:5555/pl.m3u8?channel=37
+#EXTINF:0,Phoenix
+http://81.92.105.134:5555/pl.m3u8?channel=38
+#EXTINF:0,PRO7
+http://81.92.105.134:5555/pl.m3u8?channel=39
+#EXTINF:0,Pro7
+http://81.92.105.134:5555/pl.m3u8?channel=40
+#EXTINF:0,Bloomberg
+http://81.92.105.134:5555/pl.m3u8?channel=26
 
 #EXTINF:0 tvg-logo="canal6Hn.png",Anime en Español
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
