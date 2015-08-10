@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:0,Discovery
-http://31.220.40.105/LiveEdge/DiscoveryChLA/playlist.m3u8?token=dcf8d2e6f3381c1043695249dc1723ef
+#EXTINF:0,197
+http://live.tutvgratis.tv/ch/197.m3u8
+#EXTINF:0,HBO
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOSignatureLASD/playlist.m3u8?token=99b638d06dbe26d99b3c056a9f6defea
 #EXTINF:0,Discovery2
 http://31.220.40.105/LiveEdge/DiscoveryChLA/playlist.m3u8
 
