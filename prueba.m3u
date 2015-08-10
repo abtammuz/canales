@@ -1,42 +1,21 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="rt.png",RT
-http://odna.octoshape.net/f3f5m2v4/cds/ch4_320p/blizznow.m3u8
-#EXTINF:0 tvg-logo="rt 1.png",RT 1
-http://odna.octoshape.net/f3f5m2v4/cds/ch1_320p/blizznow.m3u8
-#EXTINF:0 tvg-logo="Fox_Moxie_Channel.png" tvg-shift="-2",Fox Movies
-http://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream/gmswf.m3u8
-#EXTINF:0 tvg-logo="natgeo-wild.png",Nat Geo Wild
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_NATGEOWILD/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="rt-documentary.png",RT Documentary HD
-http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="rt.png",RT Español
-http://odna.octoshape.net/f3f5m2v4/cds/ch2_720p/chunklist.m3u8
+#EXTINF:-1,HistoryenEspañol
+http://forocable.esy.es/iptvlinksmelapela.php?darkuzgay=21
+#EXTINF:-1,NationalGeographicLatinoamerica
+http://forocable.esy.es/iptvlinksmelapela.php?darkuzgay=22
+#EXTINF:-1,NatGeoWildLatinoAmerica
+http://forocable.esy.es/iptvlinksmelapela.php?darkuzgay=23
+#EXTINF:-1,AnimalPlanetLatinoamerica
+http://forocable.esy.es/iptvlinksmelapela.php?darkuzgay=24
+#EXTINF:-1,ESPN Latinoamerica
+http://forocable.esy.es/iptvlinksmelapela.php?darkuzgay=25
+
 #EXTINF:0 tvg-logo="canal6Hn.png",Anime en Español
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
-#EXTINF:0 tvg-logo="guiatv-prueba.png",MBC Action
-http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:0 tvg-logo="guiatv-prueba.png",MBC 2 HD
-http://63.237.48.23/ios/MBC2/MBC2.m3u8
-#EXTINF:0 tvg-logo="guiatv-prueba.png",MBC Max
-http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
-#EXTINF:0 tvg-logo="guiatv-prueba.png",MBC Bollywood
-http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-#EXTINF:0 tvg-logo="guiatv-prueba.png",MBC 4
-http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
-#EXTINF:-1,Nat Geo
-http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,History Channel
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,HBO2 LATINO
-http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720
 #EXTINF:-1 tvg-logo="disneyxd.png",DISNEY XD
 http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1,EuroSport
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-#EXTINF:-1,TV5 Monde Latino - Francia
-http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m3u8
-
-
 #EXTINF:-1 tvg-logo="ARGENTINA" tvg-logo="http://www.marcotuliojs.qlix.com.br/ARGENTINA.jpg" group-title="IPTV ARGENTINA", Telesol
 rtmp://37.187.108.127:554/canal5telesol/radiostation.stream
 
