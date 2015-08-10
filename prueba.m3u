@@ -1,6 +1,9 @@
 #EXTM3U
-#EXTINF:0,Nickelodeon
-http://81.92.105.134:5555/pl.m3u8?channel=35
+#EXTINF:0,Discovery
+http://31.220.40.105/LiveEdge/DiscoveryChLA/playlist.m3u8?token=dcf8d2e6f3381c1043695249dc1723ef
+#EXTINF:0,Discovery2
+http://31.220.40.105/LiveEdge/DiscoveryChLA/playlist.m3u8
+
 #EXTINF:0,Nickelodeon Austria
 http://81.92.105.134:5555/pl.m3u8?channel=36
 #EXTINF:0,n-tv
