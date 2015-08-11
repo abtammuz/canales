@@ -266,8 +266,14 @@ http://us.djing.com/tv/noaudiodancefloor_MX.m3u8
 http://us.djing.com/tv/noaudiounderground_MX.m3u8
 #EXTINF:-1,DJING classics
 http://us.djing.com/tv/noaudioclassics_MX.m3u8
-#EXTINF:-1,MUSIC VEVO
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+#EXTINF:-1,MUSIC VEVO3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/03/prog_index.m3u8
+#EXTINF:-1,MUSIC VEVO5
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,MUSIC VEVO6
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1,MUSIC VEVO4
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
 #EXTINF:-1,MUSIC VEVO2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 #EXTINF:-1,MUSIC VEVO3
