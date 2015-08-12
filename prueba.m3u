@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,AMC 
+http://xtv.16mb.com/xtv/public/live/329/playlist.m3u8?user=julio.aguilar.krisher&password=N22U
 #EXTINF:-1,MIIO
 http://onetv.16mb.com/LIVE/H01/CANAL01/PROFILE03.m3u8
 #EXTINF:-1,1 CLASSIC 
