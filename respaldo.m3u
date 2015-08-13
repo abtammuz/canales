@@ -284,6 +284,8 @@ http://live.mvdigital.net:1935/live3/livestream1.sdp/playlist.m3u8
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
 #EXTINF:-1,RT ESPAÑOL
 http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,RT ESPAÑOL HD
+http://rt-a.akamaihd.net/ch_02@325606/480p.m3u8
 #EXTINF:-1,TELESIG
 http://iphone-streaming.ustream.tv/uhls/253309/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,TELEMUNDO
