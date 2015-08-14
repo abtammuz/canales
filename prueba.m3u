@@ -1,6 +1,13 @@
 #EXTM3U
 #EXTINF:-1,A&E
 http://backup.oneplay.tv/hash/430/16/asd/108.m3u8
+#EXTINF:-1,AZ NOTICIAS2
+http://backup.oneplay.tv/hash/430/16/asd/2.m3u8
+#EXTINF:-1,AZ NOTICIAS3
+http://backup.oneplay.tv/hash/430/16/asd/3.m3u8
+#EXTINF:-1,AZ NOTICIAS4
+http://backup.oneplay.tv/hash/430/16/asd/4.m3u8
+
 #EXTINF:-1,1 CLASSIC 
 http://xtv.16mb.com/xtv/public/live/477/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
 #EXTINF:-1,A&E 
