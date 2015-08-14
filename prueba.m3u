@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:-1,AMC 
-http://xtv.16mb.com/xtv/public/live/329/playlist.m3u8?user=julio.aguilar.krisher&password=N22U
+
+#EXTINF:-1,A&E
+http://backup.oneplay.tv/hash/430/16/asd/108.m3u8
 #EXTINF:-1,MIIO
 http://onetv.16mb.com/LIVE/H01/CANAL01/PROFILE03.m3u8
 #EXTINF:-1,1 CLASSIC 
@@ -418,7 +419,7 @@ http://31.220.40.121:80/LiveEdgeTesting/HBOPlusLASD/playlist.m3u8?token=
 #EXTINF:-0,706-HBO PLUS 2
 http://31.220.41.111:80/LiveEdgeTesting/HBOPus2LASD/playlist.m3u8?token=
 #EXTINF:-0,708-HBO SIGNATURE
-http://31.220.40.100:80/LiveEdgeTesting/HBOSignatureLASD/playlist.m3u8?token=
+http://31.220.41.111:80/LiveEdgeTesting/HBOSignatureLASD/playlist.m3u8?token=
 #EXTINF:-0,710-MAX
 http://31.220.41.111:80/LiveEdgeTesting/MAXLASD/playlist.m3u8?token=
 #EXTINF:-0,710-MAX UP
@@ -445,6 +446,8 @@ http://31.220.41.111:80/LiveEdgeTesting/_definst_/FOXComedyLASD/playlist.m3u8?to
 http://31.220.40.108:80/LiveEdgeTesting/GoldenPremier1LA/playlist.m3u8?token=
 #EXTINF:-0,726-GOLDEN PREMIER 2
 http://31.220.41.103:80/LiveEdgeTesting/GoldenPremiere2LA/playlist.m3u8?token=
+#EXTINF:-0,WOBI
+http://31.220.41.111:80/LiveEdgeTesting/XTSYLA/playlist.m3u8?token=
 #EXTINF:-0,NOTICIAS MUNDIALES
 http://www.sky.com.mx/images/universe/univer_600.jpg
 #EXTINF:-0,900-CNN EN ESPAÑOL
@@ -516,12 +519,15 @@ http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 #EXTINF:-0,TELESISTEMA 11 (REPUBLICA DOMINICANA)
 http://mek4.mekstream.com:1935/telesistema/live3/playlist.m3u8
 #EXTINF:-0,VENUS
-http://31.220.41.111:1935/LiveEdgeTesting/_definst_/VENUSSD/chunklist_w468401834.m3u8?token=
+http://31.220.40.108:80/LiveEdgeTesting/VENUSSD/playlist.m3u8?token=
 #EXTINF:-0,SEX XTREME
-http://31.220.41.111:1935/LiveEdgeTesting/_definst_/SextremeSD/chunklist_w143111261.m3u8?token=
+http://31.220.40.108:80/LiveEdgeTesting/SextremeSD/playlist.m3u8?token=
 #EXTINF:-0,HUSTLER
-http://31.220.41.111:1935/LiveEdgeTesting/_definst_/hustlerLA/chunklist_w1277853955.m3u8?token=
-
+http://31.220.40.108:80/LiveEdgeTesting/hustlerLA/playlist.m3u8?token=
+#EXTINF:-0,PLAYBOY TV
+http://31.220.41.111:80/LiveEdgeTesting/PlayboyTV/playlist.m3u8?token=
+#EXTINF:-0,SECRETS
+http://31.220.41.111:80/LiveEdgeTesting/SecretsLA/playlist.m3u8?token=
 
 #EXTINF:-1,la mejor fm92.5
 http://2293.live.streamtheworld.com/XHSROFM_SC
