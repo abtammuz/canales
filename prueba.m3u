@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,A&E
 http://backup.oneplay.tv/hash/430/16/asd/108.m3u8
+#EXTINF:-1,AZ NOTICIAS1
+http://backup.oneplay.tv/hash/430/16/asd/1.m3u8
 #EXTINF:-1,AZ NOTICIAS2
 http://backup.oneplay.tv/hash/430/16/asd/2.m3u8
 #EXTINF:-1,AZ NOTICIAS3
