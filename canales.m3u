@@ -333,46 +333,55 @@ http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m
 
 #EXTINF:-1 group-title="ADULTOS" parent-code="1997",Miami TV
 rtmp://74.208.69.207/live/miamitvhd
+#EXTINF:-1,ARACITY
+http://210.200.79.26:1935/live/aracity_m_new/playlist.m3u8
 #EXTINF:-1,PlayBoy TvChat
 http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w95313209.m3u8
-#EXTINF:-1,KoreLivething Premium
-http://edge2.everyon.tv/etv2/pld1006/BratuMarian.m3u8
-#EXTINF:-1,Korea Okadai
-http://edge2.everyon.tv/etv2/pld1003/BratuMarian.m3u8
-#EXTINF:-1, Korea:韩国phd1008
-rtmp://edge2.everyon.tv/etv2/pld1008
-#EXTINF:-1, Korea:韩国phd499
-rtmp://edge2.everyon.tv/etv2sb/pld499
-#EXTINF:-1, Korea:韩国phd501
-rtmp://edge2.everyon.tv/etv2sb/pld501
-#EXTINF:-1, Korea:韩国phd511
-rtmp://edge2.everyon.tv/etv2sb/pld511
-#EXTINF:-1, Korea:韩国phd59
-rtmp://edge2.everyon.tv/etv2sb/pld59
-#EXTINF:-1, Korea:韩国phd60
-rtmp://edge2.everyon.tv/etv2sb/pld60
-#EXTINF:-1, Korea:韩国phd61
-rtmp://edge2.everyon.tv/etv2sb/pld61
-#EXTINF:-1, Korea:韩国phd62
-rtmp://edge2.everyon.tv/etv2sb/pld62
-#EXTINF:-1, Korea:韩国phd63
-rtmp://edge2.everyon.tv/etv2sb/pld63
-#EXTINF:-1, Korea:韩国phd64
-rtmp://edge2.everyon.tv/etv2sb/pld64
+#EXTINF:-1,SATISFACTION
+http://edge2.everyon.tv:1935/etv2sb/pld499/paz.m3u8
+#EXTINF:-1,PENTHOUSE HD
+http://edge1.everyon.tv:1935/etv1sb/pld927/paz.m3u8
+#EXTINF:-1,HYHD
+http://edge1.everyon.tv:1935/etv1sb/pld928/paz.m3u8
+#EXTINF:-1,BUTGO
+http://edge2.everyon.tv:1935/etv2sb/pld772/paz.m3u8
+#EXTINF:-1,HOT MOVIES
+http://edge2.everyon.tv:1935/etv2sb/pld511/paz.m3u8
+#EXTINF:-1,SAKURA
+http://edge2.everyon.tv:1935/etv2sb/pld61/paz.m3u8
+#EXTINF:-1,PARADISE
+http://edge2.everyon.tv:1935/etv2/pld1008/paz.m3u8
+#EXTINF:-1,HOT GIRL
+http://edge2.everyon.tv:1935/etv2sb/pld60/paz.m3u8
+#EXTINF:-1,THE O
+http://edge2.everyon.tv:1935/etv2sb/pld771/paz.m3u8
+#EXTINF:-1,CINERO
+http://edge2.everyon.tv:1935/etv2sb/pld59/paz.m3u8
+#EXTINF:-1,OKADAI HD
+http://edge2.everyon.tv:1935/etv2/pld1003/paz.m3u8
+#EXTINF:-1,PINK TV
+http://edge2.everyon.tv:1935/etv2sb/pld62/paz.m3u8
+#EXTINF:-1,GIRLS TV
+http://edge2.everyon.tv:1935/etv2sb/pld501/paz.m3u8
+#EXTINF:-1,DELIGHT EMPIRE
+http://edge2.everyon.tv:1935/etv2sb/pld63/paz.m3u8
+#EXTINF:-1,PLUS
+http://edge2.everyon.tv:1935/etv2sb/pld992/paz.m3u8
+#EXTINF:-1,OHDEOK
+http://edge2.everyon.tv:1935/etv2sb/pld993/paz.m3u8
+#EXTINF:-1,LIVETHING
+http://edge2.everyon.tv:1935/etv2sb/pld64/paz.m3u8
+#EXTINF:-1,PREMIUM
+http://edge2.everyon.tv:1935/etv2/pld1006/paz.m3u8
+#EXTINF:-1,ASK TV
+http://edge2.everyon.tv:1935/etv2/pld1005/paz.m3u8
 #EXTINF:-1, Korea:韩国phd769
-rtmp://edge2.everyon.tv/etv2sb/pld769
-#EXTINF:-1, Korea:韩国phd771
-rtmp://edge2.everyon.tv/etv2sb/pld771
-#EXTINF:-1, Korea:韩国phd772
-rtmp://edge2.everyon.tv/etv2sb/pld772
+http://edge2.everyon.tv:1935/etv2sb/pld769/paz.m3u8
 #EXTINF:-1, Korea:韩国phd968
-rtmp://edge2.everyon.tv/etv2sb/pld968
+http://edge2.everyon.tv:1935/etv2sb/pld968/paz.m3u8
 #EXTINF:-1, Korea:韩国phd991
-rtmp://edge2.everyon.tv/etv2sb/pld991
-#EXTINF:-1, Korea:韩国phd992
-rtmp://edge2.everyon.tv/etv2sb/pld992
-#EXTINF:-1, Korea:韩国phd993
-rtmp://edge2.everyon.tv/etv2sb/pld993
+http://edge2.everyon.tv:1935/etv2sb/pld991/paz.m3u8
+
 #EXTINF:-1,Adult
 http://wowza1.videos.movile.com:1935/live/adulto_1.smil/livestream.m3u8
 #EXTINF:-1,adultPremium
@@ -383,14 +392,8 @@ http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
 #EXTINF:-1,Private
 http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:-1,Satisfaction
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
-#EXTINF:-1,Asia 1
-http://59.120.43.181:8081
 #EXTINF:-1,Sex +18
 mmsh://tv.webmisto.cz:7000
-#EXTINF:-1,Babe
-http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
 #EXTINF:-1,Babestation
 http://46.105.116.159:1935/cellcast/encoder22/.m3u8
 #EXTINF:-1,Babestation Xtra
