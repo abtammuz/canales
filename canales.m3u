@@ -405,7 +405,7 @@ http://publish.thewebstream.co:1935/cellcast/encoder31/playlist.m3u8
 #EXTINF:-1,Babestation Blue
 http://178.33.126.213:1935/cellcast/encoder32/.m3u8
 #EXTINF:-1,Babestation Live
-http://178.33.126.213:1935/leved/livesexlatinas/.m3u8
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
 #EXTINF:-1,Babestation Unleashed2
 http://178.33.126.213:1935/iptv_cellcast_24/livestream_two2/.m3u8
 #EXTINF:-1,BELLA CLUB
