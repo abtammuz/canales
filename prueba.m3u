@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,Music VOXTV HD
+rtmp://stream.smcloud.net/live2/vox/vox_720p
+#EXTINF:-1,Music VOXTV
+rtmp://stream.smcloud.net/live2/vox/vox_480p
 #EXTINF:-1,CABLE NOTICIAS360
 http://50.23.173.13:1935/live/cablenoticiastv_360p/playlist.m3u8
 #EXTINF:-1,CABLE NOTICIAS480
