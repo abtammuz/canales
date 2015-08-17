@@ -3,6 +3,8 @@
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
 #EXTINF:-1,Ultra Television
 http://205.185.216.10/n8u4c9c7/cds/smil:ultraaguascalientes/playlist.m3u8
+#EXTINF:-1,Ultra Television HD
+http://odna.octoshape.net/n8u4c9c7/cds/smil:ultraaguascalientes/chunklist_b1500000.m3u8
 #EXTINF:-1,Discovery en español
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Discovery en español
@@ -33,8 +35,6 @@ http://live.mvdigital.net:1935/live1/livestream1.sdp/playlist.m3u8
 http://live.mvdigital.net:1935/live2/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,ATV
 http://live.mvdigital.net:1935/live3/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,Ultra Cine
-http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
 #EXTINF:-1,RT ESPAÑOL
 http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,RT ESPAÑOL HD
@@ -82,8 +82,6 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,GOL TV ARG
 http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,Victorias Secret Angels
-http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
 #EXTINF:-1,TVEO Miami USA
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1,El Trece México
@@ -285,13 +283,7 @@ rtmp://87.106.232.7/live/myStream_2
 #EXTINF:-1, 10
 rtmp://87.106.220.67/live/myStream_2
 
-#EXTINF:-1,Ultra Cine
-http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
-#EXTINF:-1,Ultra Film
-http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchannel3@219942/index.m3u8
-#EXTINF:-1,Ultra Fiesta
-http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
-http://vemoxhlslive-i.akamaihd.net/hls/live/219944/vemoxchannel5/iOS/vemoxchannel5@219944/index.m3u8
+
 #EXTINF:-1,El Trece México
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
 #EXTINF:-1,AZTECA 13
