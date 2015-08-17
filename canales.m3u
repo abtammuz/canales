@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Ultra Cine
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
 #EXTINF:-1 tvg-name="Total Play HD" , TotalPlay
 http://200.76.77.230/LIVE/H01/CANAL1/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Az Noticias HD" , Az Noticias
@@ -613,6 +615,9 @@ rtmp://186.155.200.118:1935/live/Televitrola
 http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u8
 #EXTINF:-1,Cantinazo
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1,Victorias Secret Angels
+http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
+
 
 #EXTINF:-1 group-title="ADULTOS" parent-code="1997",Miami TV
 rtmp://74.208.69.207/live/miamitvhd
