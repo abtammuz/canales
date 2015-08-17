@@ -625,10 +625,26 @@ http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet
 rtmp://74.208.69.207/live/miamitvhd
 #EXTINF:-1,Miami TV opc2
 http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w128908539.m3u8
+#EXTINF:-1,SEXY HOT
+http://62.210.82.241:8081/sexhothd/sexhothd/chunklist_w1565017858.m3u8
+#EXTINF:-1,SEXZONE HD
+http://62.210.83.180:8081/sexzonehd/sexzonehd/chunklist_w1684109871.m3u8
+#EXTINF:-1,PASSIExxx
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:-1,HUSTLER TV
+http://62.210.82.241:8081/hustlertv/hustlertv/chunklist_w692369044.m3u8
 #EXTINF:-1,ARACITY
 http://210.200.79.26:1935/live/aracity_m_new/playlist.m3u8
+#EXTINF:-1,Brasileirinhas
+http://62.210.82.241:8081/brasileirinhas/brasileirinhas/chunklist_w14807406.m3u8
+#EXTINF:-1,Brasileirinhas2 
+http://62.210.82.241:8081/brasileirinhas2/brasileirinhas2/chunklist_w1214129346.m3u8
 #EXTINF:-1,PlayBoy TvChat
 http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w95313209.m3u8
+#EXTINF:-1,PLAYBOY
+http://62.210.82.241:8081/pboytv/pboytv/chunklist_w2025160262.m3u8
+#EXTINF:-1,PLAYBOY TV
+http://s2.edem.tv/iptv/M3MKGZW6NMMUGQ/527/index.m3u8
 #EXTINF:-1,SATISFACTION
 http://edge2.everyon.tv:1935/etv2sb/pld499/paz.m3u8
 #EXTINF:-1,PENTHOUSE HD
@@ -673,7 +689,6 @@ http://edge2.everyon.tv:1935/etv2sb/pld769/paz.m3u8
 http://edge2.everyon.tv:1935/etv2sb/pld968/paz.m3u8
 #EXTINF:-1, Korea:韩国phd991
 http://edge2.everyon.tv:1935/etv2sb/pld991/paz.m3u8
-
 #EXTINF:-1,Adult
 http://wowza1.videos.movile.com:1935/live/adulto_1.smil/livestream.m3u8
 #EXTINF:-1,adultPremium
@@ -683,7 +698,7 @@ http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3
 #EXTINF:-1,Jazmintv opc2
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
 #EXTINF:-1,Private
-http://178.33.126.213:1935/leved/privateCom/.m3u8
+http://62.210.88.244:8081/private/private/playlist.m3u8
 #EXTINF:-1,Sex +18
 mmsh://tv.webmisto.cz:7000
 #EXTINF:-1,Babestation
