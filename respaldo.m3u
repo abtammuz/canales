@@ -254,10 +254,17 @@ http://200.76.77.230/LIVE/H01/CANAL731/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="Bandamax" , Bandamax
 http://200.76.77.230/LIVE/H01/CANAL732/PROFILE05.m3u8?
 
+
+#EXTINF:-1,Ultra Television
+http://205.185.216.10/n8u4c9c7/cds/smil:ultraaguascalientes/playlist.m3u8
 #EXTINF:-1,Discovery en español
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Discovery en español
+http://199.66.239.195/uhls/17248101/streams/live/live/playlist.m3u8
 #EXTINF:-1,Tu History
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,Tu History
+http://222.8.213.121:1935/live10/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,Discovery Kids
 http://live.mvdigital.net:1935/live6/livestream1.sdp/playlist.m3u8
 #EXTINF:0,TaTeTi NIÑOS
