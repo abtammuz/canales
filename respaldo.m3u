@@ -255,6 +255,8 @@ http://200.76.77.230/LIVE/H01/CANAL731/PROFILE05.m3u8?
 http://200.76.77.230/LIVE/H01/CANAL732/PROFILE05.m3u8?
 
 
+#EXTINF:-1,Canal Antiestres
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
 #EXTINF:-1,Ultra Television
 http://205.185.216.10/n8u4c9c7/cds/smil:ultraaguascalientes/playlist.m3u8
 #EXTINF:-1,Discovery en español
