@@ -11,8 +11,6 @@ http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3
 http://199.66.239.195/uhls/17248101/streams/live/live/playlist.m3u8
 #EXTINF:-1,Tu History
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,Tu History
-http://222.8.213.121:1935/live10/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,Discovery Kids
 http://live.mvdigital.net:1935/live6/livestream1.sdp/playlist.m3u8
 #EXTINF:0,TaTeTi NIÑOS
@@ -35,6 +33,14 @@ http://live.mvdigital.net:1935/live1/livestream1.sdp/playlist.m3u8
 http://live.mvdigital.net:1935/live2/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,ATV
 http://live.mvdigital.net:1935/live3/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,CMD
+http://live.mvdigital.net:1935/live5/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,8
+http://live.mvdigital.net:1935/live8/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,DISNEY XD
+http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,??
+http://live.mvdigital.net:1935/live13/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,RT ESPAÑOL
 http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,RT ESPAÑOL HD
