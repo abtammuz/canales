@@ -489,7 +489,7 @@ http://200.76.77.230/LIVE/H01/CANAL561/PROFILE05.m3u8?
 http://200.76.77.230/LIVE/H01/CANAL576/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="Milenio" , Milenio HD
 http://200.76.77.230/LIVE/H01/CANAL603/PROFILE05.m3u8?
-#EXTINF:-1 tvg-name="Bloomberg" , Bloomberg
+#EXTINF:-1 tvg-name="Bloomberg" , Bloomberg HD
 http://200.76.77.230/LIVE/H01/CANAL610/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="TVE Internacional" , TVE Internacional HD
 http://200.76.77.230/LIVE/H01/CANAL651/PROFILE05.m3u8?
@@ -621,6 +621,8 @@ http://186.155.200.118:1935/live/Televitrola/playlist.m3u8
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:-1, TV Polanco
 http://186.155.200.118:1935/live/ColombiasuMusica/playlist.m3u8
+#EXTINF:-1,TRENDY MUSICA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 #EXTINF:-1,Victorias Secret Angels
 http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
 
