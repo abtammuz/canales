@@ -1,10 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Total Play HD" , TotalPlay
+http://200.76.77.230/LIVE/H01/CANAL1/PROFILE03.m3u8?
 #EXTINF:-1,Ultra Cine
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
 #EXTINF:-1,Ultra Cine opc2
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
-#EXTINF:-1 tvg-name="Total Play HD" , TotalPlay
-http://200.76.77.230/LIVE/H01/CANAL1/PROFILE03.m3u8?
+#EXTINF:-1,TV3
+http://200.76.77.230/LIVE/H01/CANALPUE65/PROFILE03.m3u8?
+#EXTINF:-1,PueblaTv
+http://200.76.77.230/LIVE/H01/CANALPUE66/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Az Noticias HD" , Az Noticias
 http://200.76.77.230/LIVE/H01/CANAL2/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Azteca 7 HD" , Azteca 7
@@ -259,6 +263,10 @@ http://200.76.77.230/LIVE/H01/CANAL731/PROFILE03.m3u8?
 http://200.76.77.230/LIVE/H01/CANAL732/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Total Play HD" , TotalPlay HD
 http://200.76.77.230/LIVE/H01/CANAL1/PROFILE05.m3u8?
+#EXTINF:-1,TV3 HD
+http://200.76.77.230/LIVE/H01/CANALPUE65/PROFILE05.m3u8?
+#EXTINF:-1,PueblaTv HD
+http://200.76.77.230/LIVE/H01/CANALPUE66/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="Az Noticias HD" , Az Noticias HD
 http://200.76.77.230/LIVE/H01/CANAL2/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="Azteca 7 HD" , Azteca 7 HD
