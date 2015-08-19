@@ -550,19 +550,19 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 #EXTINF:-1,VEVO 3 1080P
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:-1,Eska RockTv 360P
-rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_.360p
+http://stream.smcloud.net/live2/eska_rock/eska_rock_.360p/playlist.m3u8
 #EXTINF:-1,Eska RockTv 480P
-rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_480p
+http://stream.smcloud.net/live2/eska_rock/eska_rock_.480p/playlist.m3u8
 #EXTINF:-1,Eska RockTv 720P
-rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+http://stream.smcloud.net/live2/eska_rock/eska_rock_.720p/playlist.m3u8
 #EXTINF:-1,Music VOXTV 360P
-rtmp://stream.smcloud.net/live2/vox/vox_360p
+http://stream.smcloud.net:1935/live2/vox/vox_360p/playlist.m3u8
 #EXTINF:-1,Music VOXTV 480P
-rtmp://stream.smcloud.net/live2/vox/vox_480p
+http://stream.smcloud.net:1935/live2/vox/vox_480p/playlist.m3u8
 #EXTINF:-1,Music VOXTV 720P
-rtmp://stream.smcloud.net/live2/vox/vox_720p
+http://stream.smcloud.net:1935/live2/vox/vox_720p/playlist.m3u8
 #EXTINF:-1,KISS TV
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
 #EXTINF:-1,FIRTS HD
 rtmp://109.239.142.62/live/livestream3
 #EXTINF:-1,ULTRA FIESTA
@@ -598,7 +598,7 @@ rtmp://fms.gazeta.pl/aglive/tuba_tv
 #EXTINF:-1,AKA
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:-1,Electrosound TVHD
-rtmp://www.electrosound.tv:1935/public/stream
+http://www.electrosound.tv:1935/public/stream/playlist.m3u8
 #EXTINF:-1,Amazing
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 #EXTINF:-1,Music Box UA
@@ -609,14 +609,20 @@ http://rtk1.peers.tv/streaming/hardlife_tv/126/tvrec/playlist.m3u8#MegaIPTVArgen
 http://msk2.peers.tv/streaming/globalstartv/126/tvrec/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1,Si TV
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1,Melody Channel
-rtmp://186.155.200.118:1935/live/MelodyChannel
-#EXTINF:-1,Televitrola
-rtmp://186.155.200.118:1935/live/Televitrola
 #EXTINF:-1,Mi Gente TV
 http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u8
 #EXTINF:-1,Cantinazo
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1, Telemúsica
+http://186.155.200.118:1935/live/telemusica/playlist.m3u8
+#EXTINF:-1, Televitrola
+http://186.155.200.118:1935/live/Televitrola/playlist.m3u8
+#EXTINF:-1,Melody Channel TV
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1, TV Polanco
+http://186.155.200.118:1935/live/ColombiasuMusica/playlist.m3u8
+
+
 #EXTINF:-1,Victorias Secret Angels
 http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
 
