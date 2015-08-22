@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1,LEGO La Pelicula
+#EXTINF:-1,LEGO LATINO
 http://www.spruto.tv/get_file/5/99557217a343f971a11638e35d996b18/109000/109370/109370.mp4
+#EXTINF:-1,LEGO CASTELLANO
+http://www.spruto.tv/get_file/5/bdcdd39102684974d97069449ed6087f/109000/109371/109371.mp4
 #EXTINF:-1 tvg-name="Total Play HD" , TotalPlay
 http://200.76.77.230/LIVE/H01/CANAL1/PROFILE03.m3u8?
 #EXTINF:-1,Ultra Cine
