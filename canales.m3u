@@ -597,30 +597,18 @@ http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
 http://wow01.105.net/live/virgin1/.m3u8
 #EXTINF:-1,DREAM
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:0,FASHION TV
-http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
 #EXTINF:-1,RADIO 105 TV
 http://serv07.vintera.tv:1935/restream/105tv.stream/playlist.m3u8
 #EXTINF:-1,RADIO MONTECARLO
 http://serv07.vintera.tv:1935/restream/rmc.stream/playlist.m3u8
-#EXTINF:-1,PLANAT POP
-http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:-1,IB3
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
-#EXTINF:-1,NOW MUSIC
-http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:-1,M6 MUSIC
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-#EXTINF:-1,TUBA TV
-rtmp://fms.gazeta.pl/aglive/tuba_tv
-#EXTINF:-1,AKA
-http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:-1,Electrosound TVHD
 http://www.electrosound.tv:1935/public/stream/playlist.m3u8
 #EXTINF:-1,Amazing
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
-#EXTINF:-1,Music Box UA
-rtmp://212.26.132.86/live/mb_ua
 #EXTINF:-1,HardLife
 http://rtk1.peers.tv/streaming/hardlife_tv/126/tvrec/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1,Global Star TV
@@ -650,8 +638,6 @@ http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet
 
 
 #EXTINF:-1 group-title="ADULTOS" parent-code="1997",Miami TV
-rtmp://74.208.69.207/live/miamitvhd
-#EXTINF:-1,Miami TV opc2
 http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w128908539.m3u8
 #EXTINF:-1,SEXY HOT
 http://62.210.82.241:8081/sexhothd/sexhothd/chunklist_w1565017858.m3u8
@@ -707,10 +693,6 @@ http://edge2.everyon.tv:1935/etv2sb/pld992/paz.m3u8
 http://edge2.everyon.tv:1935/etv2sb/pld993/paz.m3u8
 #EXTINF:-1,LIVETHING
 http://edge2.everyon.tv:1935/etv2sb/pld64/paz.m3u8
-#EXTINF:-1,PREMIUM
-http://edge2.everyon.tv:1935/etv2/pld1006/paz.m3u8
-#EXTINF:-1,ASK TV
-http://edge2.everyon.tv:1935/etv2/pld1005/paz.m3u8
 #EXTINF:-1, Korea:韩国phd769
 http://edge2.everyon.tv:1935/etv2sb/pld769/paz.m3u8
 #EXTINF:-1, Korea:韩国phd968
