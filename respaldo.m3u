@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,CANAL 8
+http://iphone-streaming.ustream.tv/ustreamVideo/20971966/streams/live/playlist.m3u8
 #EXTINF:-1,Canal Antiestres
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
 #EXTINF:-1,Ultra Television
@@ -13,14 +15,10 @@ http://199.66.239.195/uhls/17248101/streams/live/live/playlist.m3u8
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,Discovery Kids
 http://live.mvdigital.net:1935/live6/livestream1.sdp/playlist.m3u8
-#EXTINF:0,TaTeTi NIÑOS
-http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
-#EXTINF:-1,Ta Te Ti
-http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,Anime TV
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8#MegaIPTVArgentina
-#EXTINF:-1,South Park
-http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,DISNEY XD
+http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1,Telesol
+rtmp://37.187.108.127:554/canal5telesol/radiostation.stream
 #EXTINF:-1,Caracol Internacional Colombia
 http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,RED TV Peru
@@ -310,6 +308,10 @@ http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/m
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
 #EXTINF:-1,MILENIO
 http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
+#EXTINF:-1,LEGO LATINO
+http://www.spruto.tv/get_file/5/99557217a343f971a11638e35d996b18/109000/109370/109370.mp4
+#EXTINF:-1,LEGO CASTELLANO
+http://www.spruto.tv/get_file/5/bdcdd39102684974d97069449ed6087f/109000/109371/109371.mp4
 #EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 1
 https://onedrive.live.com/download.aspx?resid=14fd8e15a50899ed!117&authkey=!AKJJTtp6gyuu47E&ithint=file%2cmkv
 #EXTINF:-1,Henry Hugglemonster Roarsome Tales (2014).Capitulo 2
