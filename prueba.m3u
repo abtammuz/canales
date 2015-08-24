@@ -1,237 +1,30 @@
 #EXTM3U
-#EXTINF:-1,DISCOVERY KIDS 
-http://q.gs/9830047/discoverykidsdokodim3u8
-#EXTINF:-1,BOOMERANG 
-http://q.gs/9830047/boomerangdokodim3u8
-#EXTINF:-1,TVC LATINO
-rtmp://76.79.146.124/live/TVCSB
+#EXTINF:-1,ESKAParty
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p?
+#EXTINF:-1,VirginTv 
+rtmp://fms.105.net:1935/live/virgin2?
+#EXTINF:-1,ESKATV
+rtmp://stream.smcloud.net/live/eskatv?
+#EXTINF:-1,ESKAGo 
+rtmp://stream.smcloud.net/live2/best/best_360p?
+#EXTINF:-1,RockTV 
+http://mediatv2.topix.it:80/24RockOne66?
+#EXTINF:-1,KissTv 
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live?
+#EXTINF:-1,SoyFM
+http://cdn6.iviplanet.com:1935/SoyFM/myStream.sdp/playlist.m3u8
+#EXTINF:-1,VenFM
+http://edge.wms28.lorini.net/venfmplay/venfmplay/playlist.m3u8
+#EXTINF:-1,QMusica 
+mms://streamqm.uigc.net/qmusica?
+#EXTINF:-1,LAtinMusicTVRD
+http://ss7.domint.net:2058/utv_str/urban/playlist.m3u8
 #EXTINF:-1,Big Ten Network HD
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-#EXTINF:-1,MTV MUSIC 
-http://93.184.221.133/00573D/1345/1345-0.m3u8
 #EXTINF:-1,CABLE NOTICIAS360
 http://50.23.173.13:1935/live/cablenoticiastv_360p/playlist.m3u8
 #EXTINF:-1,CABLE NOTICIAS480
 http://50.23.173.13:1935/live/cablenoticiastv_480p/playlist.m3u8
-#EXTINF:-1,1 CLASSIC 
-http://xtv.16mb.com/xtv/public/live/477/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,A&E 
-http://xtv.16mb.com/xtv/public/live/105/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,AMC 
-http://xtv.16mb.com/xtv/public/live/329/playlist.m3u8?user=julio.aguilar.krisher&password=N22U
-#EXTINF:-1,AMC 
-http://xtv.16mb.com/xtv/public/live/365/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,ANIMAL PLANET 
-http://xtv.16mb.com/xtv/public/live/261/playlist.m3u8?user=julio.aguilar.krisher&password=N22U
-#EXTINF:-1,AXN 
-http://xtv.16mb.com/xtv/public/live/109/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,AYM SPORTS 
-http://xtv.16mb.com/xtv/public/live/463/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,AZTECA NOTICIAS 
-http://xtv.16mb.com/xtv/public/live/002/playlist.m3u8?user=julio.aguilar.krisher&password=N22U
-#EXTINF:-1,AZTECA SIETE 
-http://xtv.16mb.com/xtv/public/live/056/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,AZTECA SIETE 
-http://xtv.16mb.com/xtv/public/live/006/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,AZTECA TRECE 
-http://xtv.16mb.com/xtv/public/live/068/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,BANDAMAX 
-http://xtv.16mb.com/xtv/public/live/449/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,BBC ENTRETAINMENT 
-http://xtv.16mb.com/xtv/public/live/129/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,BLOOMBERG 
-http://xtv.16mb.com/xtv/public/live/460/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,BOOMERANG 
-http://xtv.16mb.com/xtv/public/live/229/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,CANAL 5 
-http://xtv.16mb.com/xtv/public/live/040/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,CANAL 5 
-http://xtv.16mb.com/xtv/public/live/052/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,CANAL DE LAS ESTRELLAS 
-http://xtv.16mb.com/xtv/public/live/044/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,MasChic (Casa)
-http://xtv.16mb.com/xtv/public/live/517/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,CBEEBIES 
-http://xtv.16mb.com/xtv/public/live/197/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,CINECANAL 
-http://xtv.16mb.com/xtv/public/live/349/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,CINECANAL+ 
-http://xtv.16mb.com/xtv/public/live/309/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,CINEMAX 
-http://xtv.16mb.com/xtv/public/live/353/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,COMEDY CENTRAL 
-http://xtv.16mb.com/xtv/public/live/117/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,DEPELICULA 
-http://xtv.16mb.com/xtv/public/live/325/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,DISCOVERY CHANNEL 
-http://xtv.16mb.com/xtv/public/live/257/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,DISCOVERY CIVILIZATION 
-http://xtv.16mb.com/xtv/public/live/281/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,DISCOVERY H&H 
-http://xtv.16mb.com/xtv/public/live/265/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,DISCOVERY KIDS 
-http://xtv.16mb.com/xtv/public/live/193/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,DISCOVERY SCI 
-http://xtv.16mb.com/xtv/public/live/277/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,DISCOVERY TURBO 
-http://xtv.16mb.com/xtv/public/live/285/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,DISCOVERY WORLD 
-http://xtv.16mb.com/xtv/public/live/253/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,DISNEY CHANNEL 
-http://xtv.16mb.com/xtv/public/live/209/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,DISNEY JR 
-http://xtv.16mb.com/xtv/public/live/201/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,DISNEY XD 
-http://xtv.16mb.com/xtv/public/live/225/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,DISTRITO COMEDIA 
-http://xtv.16mb.com/xtv/public/live/173/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,E! 
-http://xtv.16mb.com/xtv/public/live/133/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,ESPN 2 
-http://xtv.16mb.com/xtv/public/live/409/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,ESPN COMPACT 
-http://xtv.16mb.com/xtv/public/live/393/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,ESPN 
-http://xtv.16mb.com/xtv/public/live/389/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,ESPN 
-http://xtv.16mb.com/xtv/public/live/405/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,FILM ZONE 
-http://xtv.16mb.com/xtv/public/live/321/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,FOX ACTION 
-http://xtv.16mb.com/xtv/public/live/301/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,FOX CINEMA 
-http://xtv.16mb.com/xtv/public/live/337/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,FOX CINEMA 
-http://xtv.16mb.com/xtv/public/live/489/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,FOX CLASSIC 
-http://xtv.16mb.com/xtv/public/live/345/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,FOX CLASSIC 
-http://xtv.16mb.com/xtv/public/live/493/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,FOX FAMILY 
-http://xtv.16mb.com/xtv/public/live/341/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,FOX LIFE 
-http://xtv.16mb.com/xtv/public/live/169/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,FOX MOVIE 
-http://xtv.16mb.com/xtv/public/live/305/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,FOX SPORTS 2 
-http://xtv.16mb.com/xtv/public/live/401/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,FOX SPORTS 
-http://xtv.16mb.com/xtv/public/live/397/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,FOX 
-http://xtv.16mb.com/xtv/public/live/125/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,FOX 
-http://xtv.16mb.com/xtv/public/live/085/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,FOX1 HD 
-http://xtv.16mb.com/xtv/public/live/297/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,FX 
-http://xtv.16mb.com/xtv/public/live/101/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,FX 
-http://xtv.16mb.com/xtv/public/live/145/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,GLITZ 
-http://xtv.16mb.com/xtv/public/live/165/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,GOLDEN EDGE 
-http://xtv.16mb.com/xtv/public/live/361/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,GOLDEN 
-http://xtv.16mb.com/xtv/public/live/317/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,GOURMET 
-http://xtv.16mb.com/xtv/public/live/161/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,HISTORY 
-http://xtv.16mb.com/xtv/public/live/245/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,HMX 
-http://xtv.16mb.com/xtv/public/live/472/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,ID 
-http://xtv.16mb.com/xtv/public/live/153/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,ISAT 
-http://xtv.16mb.com/xtv/public/live/377/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,LIFETIME 
-http://xtv.16mb.com/xtv/public/live/273/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,MILENIO TV 
-http://xtv.16mb.com/xtv/public/live/417/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,MTV HITS 
-http://xtv.16mb.com/xtv/public/live/476/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,MTV LIVE 
-http://xtv.16mb.com/xtv/public/live/429/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,MTV 
-http://xtv.16mb.com/xtv/public/live/441/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,NATGEO WILD 
-http://xtv.16mb.com/xtv/public/live/249/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,NATGEO 
-http://xtv.16mb.com/xtv/public/live/269/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,NICK JR 
-http://xtv.16mb.com/xtv/public/live/205/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,NICK HD 
-http://xtv.16mb.com/xtv/public/live/213/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,NICKELODEON 
-http://xtv.16mb.com/xtv/public/live/217/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,PROYECTO 40 
-http://xtv.16mb.com/xtv/public/live/024/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,PROYECTO 40
-http://xtv.16mb.com/xtv/public/live/069/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,RITMOSON 
-http://xtv.16mb.com/xtv/public/live/445/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,SONY 
-http://xtv.16mb.com/xtv/public/live/089/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,SPACE 
-http://xtv.16mb.com/xtv/public/live/333/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,SPACE 
-http://xtv.16mb.com/xtv/public/live/369/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,STUDIO UNIVERSAL 
-http://xtv.16mb.com/xtv/public/live/373/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,SYFY 
-http://xtv.16mb.com/xtv/public/live/141/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,TBS VERYFUNNY 
-http://xtv.16mb.com/xtv/public/live/177/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,TCM 
-http://xtv.16mb.com/xtv/public/live/381/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,TELEFORMULA 
-http://xtv.16mb.com/xtv/public/live/081/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,TELEHIT 
-http://xtv.16mb.com/xtv/public/live/433/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,TELENOVELAS 
-http://xtv.16mb.com/xtv/public/live/185/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,TIIN 
-http://xtv.16mb.com/xtv/public/live/233/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,TLC 
-http://xtv.16mb.com/xtv/public/live/289/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,TNT HD 
-http://xtv.16mb.com/xtv/public/live/313/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,TNT SERIES 
-http://xtv.16mb.com/xtv/public/live/157/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,TNT 
-http://xtv.16mb.com/xtv/public/live/357/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,TOONCAST 
-http://xtv.16mb.com/xtv/public/live/237/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,TOTAL PLAY 
-http://xtv.16mb.com/xtv/public/live/458/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,TRU TV 
-http://xtv.16mb.com/xtv/public/live/113/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,TVE INTERNACIONAL 
-http://xtv.16mb.com/xtv/public/live/421/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,UNICABLE 
-http://xtv.16mb.com/xtv/public/live/121/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,UNIVERSAL 
-http://xtv.16mb.com/xtv/public/live/137/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,UNIVERSAL 
-http://xtv.16mb.com/xtv/public/live/097/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,UNO M 
-http://xtv.16mb.com/xtv/public/live/497/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,VH1 HD 
-http://xtv.16mb.com/xtv/public/live/437/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,WARNER 
-http://xtv.16mb.com/xtv/public/live/093/playlist.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1,WOBI 
-http://xtv.16mb.com/xtv/public/live/293/playlist.m3u8?user=julio.aguilar.krisher&password=N22U
-#EXTINF:0,FOX SPORT
-http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
-#EXTINF:0,Anime en Español
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
-#EXTINF:-1,History Channel
-http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,DISNEY XD
-http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1,Telesol
-rtmp://37.187.108.127:554/canal5telesol/radiostation.stream
-
 #EXTINF:-1,1
 http://backup.oneplay.tv/hash/430/16/asd/1.m3u8
 #EXTINF:-1,2
@@ -1274,6 +1067,99 @@ http://backup.oneplay.tv/hash/430/16/asd/519.m3u8
 http://backup.oneplay.tv/hash/430/16/asd/520.m3u8
 
 
+#EXTINF:-1,la mejor fm92.5
+http://2293.live.streamtheworld.com/XHSROFM_SC
+
+
+#EXTINF:-1,AyE
+http://201.161.59.6/aye.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,FOX 
+http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,FX
+http://201.161.59.6/fx.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,SONY 
+http://201.161.59.6/sony.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,FOX SPORTS
+http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,ESPN
+http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,ESPN2
+http://201.161.59.4/espn2.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,ESPN3
+http://201.161.59.4/espn3.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,WARNER
+http://201.161.59.6/warner.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://201.161.59.3/canal2.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Foro tv
+http://201.161.59.3/forotv.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,CANAL 5
+http://201.161.59.3/canal5.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Azteca 7
+http://201.161.59.3/azteca7.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Gala tv
+http://201.161.59.3/galavision.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Azteca 13
+http://201.161.59.3/azteca13.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,OnceTV
+http://201.161.59.3/oncetv.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,CADENA 3
+http://201.161.59.3/cadena3.isml/manifest(format=m3u8-aapl).m3u8 
+#EXTINF:-1,CANAL 52 MX
+http://201.161.59.4/canal52.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,WOBI
+http://201.161.59.4/wobi.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,FOX LIFE
+http://201.161.59.7/foxlife.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,E
+http://201.161.59.6/e.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,DISNEY XD
+http://201.161.59.4/disneyxd.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,NICK
+http://201.161.59.6/nick.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://201.161.59.6/cartoonnetwork.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,NAT GEO
+http://201.161.59.3/natgeo.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,TYC SPORTS
+http://201.161.59.4/tycdeportes.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,MILENIO TELEVISION
+http://201.161.59.3/milenio.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,GOLDEN
+http://201.161.59.4/golden.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,CINE LATINO
+http://201.161.59.4/cinelatino.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,UNICABLE
+http://201.161.59.6/unicable.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,DISTRITO COMEDIA
+http://201.161.59.6/clasicotv.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,BANDAMAX
+http://201.161.59.4/bandamax.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,RITMOSON
+http://201.161.59.4/ritmoson.isml/manifest(format=m3u8-aapl).m3u8
+
+
+
+#EXTINF:-1,tvg-logo="sat_1-hd.png",Canal de Peliculas Latino
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8#SCREAMFACE TV
+#EXTINF:-1, NOTICIAS SCREAMFACETV
+http://www.microcompu.net/video/videoscreamfacetv.mp4
+#EXTINF:-1,tvg-logo="discovery-channel.png",Discovery en español
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8#SCREAMFACE TV
+#EXTINF:-1,tvg-logo="telemundo.png",Telemundo
+http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?#SCREAMFACE TV
+#EXTINF:-1,tvg-logo="america.png",AMERICA TELEVISIÓN 
+http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8#SCREAMFACE TV
+#EXTINF:-1,tvg-logo="screamface.png",CIELO
+http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/stream2/streamPlaylist.m3u8#SCREAMFACE TV
+#EXTINF:-1,tvg-logo="redbull.png", REDBULL TV US
+http://sacapunta.eltelon.com/channels/redbulltv/high.m3u8#SCREAMFACE TV
+#EXTINF:-1,tvg-logo="kiss-tv.png",KISS TV MUSIC
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8#SCREAMFACE TV
+#EXTINF:-1,tvg-logo="screamface.png", Azteca 7 Monterrey México
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8#SCREAMFACE TV
+
+
 
 #EXTINF:-0,301-FOX HD
 http://31.220.41.111:80/LiveEdgeTesting/FOXHDLA/playlist.m3u8?token=
@@ -1529,108 +1415,3 @@ http://31.220.41.111:80/LiveEdgeTesting/PlayboyTV/playlist.m3u8?token=
 http://31.220.41.111:80/LiveEdgeTesting/SecretsLA/playlist.m3u8?token=
 #EXTINF:-0,PLAYBOY OPC2
 http://62.210.82.241:8081/pboytv/pboytv/chunklist_w2025160262.m3u8
-
-#EXTINF:-1,la mejor fm92.5
-http://2293.live.streamtheworld.com/XHSROFM_SC
-
-#EXTINF:-0,AZTECA DEPORTES (EVENTOS)
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
-#EXTINF:-0,???
-http://66.90.93.26:1935/live/canal069.stream/chunklist_w600485621.m3u8?username=fher1&password=iptv
-#EXTINF:-0,TODO DEPORTES
-http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
-
-#EXTINF:-1,AyE
-http://201.161.59.6/aye.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,FOX 
-http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,FX
-http://201.161.59.6/fx.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,SONY 
-http://201.161.59.6/sony.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,FOX SPORTS
-http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,ESPN
-http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,ESPN2
-http://201.161.59.4/espn2.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,ESPN3
-http://201.161.59.4/espn3.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,WARNER
-http://201.161.59.6/warner.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,CANAL DE LAS ESTRELLAS
-http://201.161.59.3/canal2.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,Foro tv
-http://201.161.59.3/forotv.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,CANAL 5
-http://201.161.59.3/canal5.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,Azteca 7
-http://201.161.59.3/azteca7.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,Gala tv
-http://201.161.59.3/galavision.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,Azteca 13
-http://201.161.59.3/azteca13.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,OnceTV
-http://201.161.59.3/oncetv.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,CADENA 3
-http://201.161.59.3/cadena3.isml/manifest(format=m3u8-aapl).m3u8 
-#EXTINF:-1,CANAL 52 MX
-http://201.161.59.4/canal52.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,WOBI
-http://201.161.59.4/wobi.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,FOX LIFE
-http://201.161.59.7/foxlife.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,E
-http://201.161.59.6/e.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,DISNEY XD
-http://201.161.59.4/disneyxd.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,NICK
-http://201.161.59.6/nick.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://201.161.59.6/cartoonnetwork.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,NAT GEO
-http://201.161.59.3/natgeo.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,TYC SPORTS
-http://201.161.59.4/tycdeportes.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,MILENIO TELEVISION
-http://201.161.59.3/milenio.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,GOLDEN
-http://201.161.59.4/golden.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,CINE LATINO
-http://201.161.59.4/cinelatino.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,UNICABLE
-http://201.161.59.6/unicable.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,DISTRITO COMEDIA
-http://201.161.59.6/clasicotv.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,BANDAMAX
-http://201.161.59.4/bandamax.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,RITMOSON
-http://201.161.59.4/ritmoson.isml/manifest(format=m3u8-aapl).m3u8
-
-
-#EXTINF:-1,Dragon Ball
-http://iphone-streaming.ustream.tv/ustreamVideo/20634165/streams/live/playlist.m3u8
-#EXTINF:-1,tvg-logo="sat_1-hd.png",Canal de Peliculas Latino
-http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8#SCREAMFACE TV
-#EXTINF:-1, NOTICIAS SCREAMFACETV
-http://www.microcompu.net/video/videoscreamfacetv.mp4
-#EXTINF:-1,tvg-logo="discovery-channel.png",Discovery en español
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8#SCREAMFACE TV
-#EXTINF:-1,tvg-logo="disney-xd.png",Disney Chanel
-http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#SCREAMFACE TV
-#EXTINF:-1,tvg-logo="history-hd.png",History Channel
-http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8#SCREAMFACE TV
-#EXTINF:-1,tvg-logo="telemundo.png",Telemundo
-http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?#SCREAMFACE TV
-#EXTINF:-1,tvg-logo="america.png",AMERICA TELEVISIÓN 
-http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8#SCREAMFACE TV
-#EXTINF:-1,tvg-logo="screamface.png",CIELO
-http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/stream2/streamPlaylist.m3u8#SCREAMFACE TV
-#EXTINF:-1,tvg-logo="redbull.png", REDBULL TV US
-http://sacapunta.eltelon.com/channels/redbulltv/high.m3u8#SCREAMFACE TV
-#EXTINF:-1,tvg-logo="kiss-tv.png",KISS TV MUSIC
-http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8#SCREAMFACE TV
-#EXTINF:-1,tvg-logo="screamface.png",Ultra Cine
-http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8#SCREAMFACE TV
-#EXTINF:-1,tvg-logo="screamface.png", Azteca 7 Monterrey México
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8#SCREAMFACE TV
