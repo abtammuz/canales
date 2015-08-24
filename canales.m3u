@@ -1,6 +1,36 @@
 #EXTM3U
+#EXTINF:-1,Big Ten Network HD
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:-1,Eurosport ENG
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:0,PAC-12Net.(Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8?
+#EXTINF:0,PAC-12Net.(Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8?
+#EXTINF:0,PAC-12Net.(Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8?
+#EXTINF:0,PAC-12Net.(Moutain)
+http://xrxs.net/video/live-p12moun-4728.m3u8?
+#EXTINF:0,PAC-12Net.(Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8?
+#EXTINF:0,PAC-12Net.(Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8?
+#EXTINF:-1,USA-BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Washington)
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:-1,RealMadrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?
 #EXTINF:-0,TODO DEPORTES
 http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
+#EXTINF:-1,EURONEWS
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 #EXTINF:-1,South Park
 http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3u8
 #EXTINF:0,TaTeTi NIÑOS
@@ -13,10 +43,14 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacal
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
 #EXTINF:-1,Ultra Cine opc2
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
+#EXTINF:-1,TVEO Miami
+http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,TV3
 http://200.76.77.230/LIVE/H01/CANALPUE65/PROFILE03.m3u8?
 #EXTINF:-1,PueblaTv
 http://200.76.77.230/LIVE/H01/CANALPUE66/PROFILE03.m3u8?
+#EXTINF:-1,Ultra Television
+http://odna.octoshape.net/n8u4c9c7/cds/smil:ultraaguascalientes/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-name="Total Play HD" , TotalPlay
 http://200.76.77.230/LIVE/H01/CANAL1/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Az Noticias HD" , Az Noticias
