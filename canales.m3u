@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1,LEGO LATINO
-http://www.spruto.tv/get_file/5/99557217a343f971a11638e35d996b18/109000/109370/109370.mp4
-#EXTINF:-1,LEGO CASTELLANO
-http://www.spruto.tv/get_file/5/bdcdd39102684974d97069449ed6087f/109000/109371/109371.mp4
-#EXTINF:-1 tvg-name="Total Play HD" , TotalPlay
-http://200.76.77.230/LIVE/H01/CANAL1/PROFILE03.m3u8?
+#EXTINF:-1,CANAL8
+http://iphone-streaming.ustream.tv/ustreamVideo/20971966/streams/live/playlist.m3u8
+#EXTINF:-0,TODO DEPORTES
+http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
+#EXTINF:0,Anime
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:-1,Ultra Cine
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
 #EXTINF:-1,Ultra Cine opc2
@@ -13,6 +13,8 @@ http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchanne
 http://200.76.77.230/LIVE/H01/CANALPUE65/PROFILE03.m3u8?
 #EXTINF:-1,PueblaTv
 http://200.76.77.230/LIVE/H01/CANALPUE66/PROFILE03.m3u8?
+#EXTINF:-1 tvg-name="Total Play HD" , TotalPlay
+http://200.76.77.230/LIVE/H01/CANAL1/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Az Noticias HD" , Az Noticias
 http://200.76.77.230/LIVE/H01/CANAL2/PROFILE03.m3u8?
 #EXTINF:-1 tvg-name="Azteca 7 HD" , Azteca 7
