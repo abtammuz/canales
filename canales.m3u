@@ -577,8 +577,6 @@ http://200.76.77.230/LIVE/H01/CANAL728/PROFILE05.m3u8?
 http://200.76.77.230/LIVE/H01/CANAL731/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="Bandamax" , Bandamax HD
 http://200.76.77.230/LIVE/H01/CANAL732/PROFILE05.m3u8?
-
-
 #EXTINF:-1,DJING
 http://us.djing.com/tv/noaudio_MX.m3u8
 #EXTINF:-1,DJING animation
@@ -616,17 +614,49 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 #EXTINF:-1,VEVO 3 1080P
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:-1,Eska RockTv 360P
-http://stream.smcloud.net/live2/eska_rock/eska_rock_.360p/playlist.m3u8
+http://stream.smcloud.net/live2/eska_rock/eska_rock_360p/playlist.m3u8
 #EXTINF:-1,Eska RockTv 480P
-http://stream.smcloud.net/live2/eska_rock/eska_rock_.480p/playlist.m3u8
+http://stream.smcloud.net/live2/eska_rock/eska_rock_480p/playlist.m3u8
 #EXTINF:-1,Eska RockTv 720P
-http://stream.smcloud.net/live2/eska_rock/eska_rock_.720p/playlist.m3u8
+http://stream.smcloud.net/live2/eska_rock/eska_rock_720p/playlist.m3u8
 #EXTINF:-1,Music VOXTV 360P
 http://stream.smcloud.net:1935/live2/vox/vox_360p/playlist.m3u8
 #EXTINF:-1,Music VOXTV 480P
 http://stream.smcloud.net:1935/live2/vox/vox_480p/playlist.m3u8
 #EXTINF:-1,Music VOXTV 720P
 http://stream.smcloud.net:1935/live2/vox/vox_720p/playlist.m3u8
+#EXTINF:-1,Music VOXTV 2
+http://stream.smcloud.net/live/vox2/stream1/playlist.m3u8
+#EXTINF:-1,Polopartytv 360P
+http://stream.smcloud.net/live2/polo_party/polo_party_360p/playlist.m3u8
+#EXTINF:-1,Polopartytv 720P
+http://stream.smcloud.net/live2/polo_party/polo_party_720p/playlist.m3u8
+#EXTINF:-1,ESKAParty 360P
+http://stream.smcloud.net/live2/eska_party/eska_party_360p/playlist.m3u8
+#EXTINF:-1,ESKAParty 720P
+http://stream.smcloud.net/live2/eska_party/eska_party_720p/playlist.m3u8
+#EXTINF:-1,ESKAGo best 360P
+http://stream.smcloud.net/live2/best/best_360p/playlist.m3u8
+#EXTINF:-1,ESKAGo best 720P
+http://stream.smcloud.net/live2/best/best_720p/playlist.m3u8
+#EXTINF:-1,ESKATV
+http://stream.smcloud.net/live/eskatv/playlist.m3u8
+#EXTINF:-1,VirginRadioTV 480P  
+http://wow01.105.net/live/virgin1/.m3u8
+#EXTINF:-1,VirginRadioTV 360P
+#EXTINF:-1,SoyFM
+http://cdn6.iviplanet.com:1935/SoyFM/myStream.sdp/playlist.m3u8
+#EXTINF:-1,VenFM
+http://edge.wms28.lorini.net/venfmplay/venfmplay/playlist.m3u8
+#EXTINF:-1,QMusica mms
+mms://streamqm.uigc.net/qmusica?
+#EXTINF:-1,LAtinMusicTVRD
+http://ss7.domint.net:2058/utv_str/urban/playlist.m3u8
+#EXTINF:-1,Powertv HD
+http://185.28.3.10/powertv/powerturktvh.stream/playlist.m3u8
+#EXTINF:-1,Gold
+http://194.79.52.77/goldi/goldHQ2/index.m3u8
+http://fms.105.net:1935/live/virgin2/playlist.m3u8
 #EXTINF:-1,KISS TV
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
 #EXTINF:-1,FIRTS HD
@@ -641,8 +671,6 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
 #EXTINF:-1,ROUGE TV
 http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
-#EXTINF:-1,VIRGIN TV
-http://wow01.105.net/live/virgin1/.m3u8
 #EXTINF:-1,DREAM
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:-1,RADIO 105 TV
