@@ -1,45 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Powertv HD
-http://185.28.3.10/powertv/powerturktvh.stream/playlist.m3u8
-#EXTINF:-1,Gold
-http://194.79.52.77/goldi/goldHQ2/index.m3u8
-#EXTINF:-1,vox2 R
-rtmp://stream.smcloud.net/live/vox2/stream1
-#EXTINF:-1,vox2 H
-http://stream.smcloud.net/live/vox2/stream1/playlist.m3u8
-#EXTINF:-1,Polopartytv R
-rtmp://stream.smcloud.net/live2/polo_party/polo_party_360p
-#EXTINF:-1,Polopartytv H
-http://stream.smcloud.net/live2/polo_party/polo_party_360p/playlist.m3u8
-#EXTINF:-1,ESKAParty R
-rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p
-#EXTINF:-1,ESKAParty H
-http://stream.smcloud.net/live2/eska_party/eska_party_360p/playlist.m3u8
-#EXTINF:-1,VirginTv R
-rtmp://fms.105.net:1935/live/virgin2?
-#EXTINF:-1,VirginTv H
-http://fms.105.net:1935/live/virgin2/playlist.m3u8
-#EXTINF:-1,ESKATV R
-rtmp://stream.smcloud.net/live/eskatv?
-#EXTINF:-1,ESKATV H
-http://stream.smcloud.net/live/eskatv/playlist.m3u8
-#EXTINF:-1,ESKAGo R
-rtmp://stream.smcloud.net/live2/best/best_360p?
-#EXTINF:-1,ESKAGo H
-http://stream.smcloud.net/live2/best/best_360p/playlist.m3u8
-#EXTINF:-1,KissTv R
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live?
-#EXTINF:-1,KissTv H
-http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
-#EXTINF:-1,SoyFM
-http://cdn6.iviplanet.com:1935/SoyFM/myStream.sdp/playlist.m3u8
-#EXTINF:-1,VenFM
-http://edge.wms28.lorini.net/venfmplay/venfmplay/playlist.m3u8
-#EXTINF:-1,QMusica mms
-mms://streamqm.uigc.net/qmusica?
-#EXTINF:-1,LAtinMusicTVRD
-http://ss7.domint.net:2058/utv_str/urban/playlist.m3u8
-#EXTM3U 
 #EXTINF:-1, FOX
 
 http://stalker.darkuzdev.cf:8080/streamer/85.m3u8
