@@ -63,6 +63,8 @@ http://201.161.59.6/sony.isml/QualityLevels(1817984)/manifest(format=m3u8-aapl).
 http://201.161.59.6/aye.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,FOX SPORTS
 http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Fox Sports 2
+http://201.161.59.4/foxsportsplus.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,ESPN
 http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,ESPN2
@@ -131,6 +133,13 @@ http://201.161.59.4/ritmoson.isml/manifest(format=m3u8-aapl).m3u8
 http://201.161.59.7/telehit.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,NuMusic
 http://201.161.59.4/nu.isml/manifest(format=m3u8-aapl).m3u8?
+#EXTINF:-1,MULTICINEMA T-K
+http://201.161.59.7/multicinema.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,DPELICULA T-K
+http://201.161.59.7/depelicula.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
+
+
+
 #EXTINF:-1,Los Simpson24/7
 http://veetle.com/index.php/hls/streamMbrfast/52dada61bdf13_/stream.m3u8
 
@@ -166,7 +175,6 @@ http://stalker.darkuzdev.cf:8080/streamer/94.m3u8
 http://stalker.darkuzdev.cf:8080/streamer/95.m3u8
 #EXTINF:-1, WARNER 96-2
 http://stalker.darkuzdev.cf:8080/streamer/96.m3u8
-
 #EXTINF:-1, UNIVERSAL CHANNEL 3
 http://stalker.darkuzdev.cf:8080/streamer/97.m3u8
 #EXTINF:-1, FX HD
@@ -289,6 +297,8 @@ http://stalker.darkuzdev.cf:8080/streamer/333.m3u8
 http://stalker.darkuzdev.cf:8080/streamer/337.m3u8
 #EXTINF:-1, FOX+ FAMILY
 http://stalker.darkuzdev.cf:8080/streamer/341.m3u8
+#EXTINF:-1, FOX CLASSIC
+http://stalker.darkuzdev.cf:8080/streamer/346.m3u8
 #EXTINF:-1, CINECANAL
 http://stalker.darkuzdev.cf:8080/streamer/349.m3u8
 #EXTINF:-1, CINEMAX
