@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1,hala madrid
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/segment144009003_1250_av-p.ts?sd=10&rebase=on
 #EXTINF:-1,WIN SPORT
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
 #EXTINF:-1,CANAL ANTIESTRES
