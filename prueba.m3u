@@ -1,4 +1,31 @@
 #EXTM3U
+
+#EXTINF:-1,WIN SPORT
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
+#EXTINF:-1,CANAL ANTIESTRES
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:-1,LIFEDESING
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF:-1,TELE AMIGA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
+#EXTINF:-1,CANAL U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:-1,TV AGRO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+#EXTINF:-1,Cable Noticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1,El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1,UNE TV Manizales
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
+#EXTINF:-1,UNE TV CARIBE
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8
+#EXTINF:-1,UNE TV ARMENIA
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8
+#EXTINF:-1,TELE VIDA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+
+
 #EXTINF:-1,FOX
 http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,FOX 1128000
@@ -136,13 +163,40 @@ http://46.28.205.206/tuPlayTV_Sistema_IPTV_OTT_Numero1delMercadoHispano_info%5Ba
 #EXTINF:-1,Los Simpson24/7
 http://veetle.com/index.php/hls/streamMbrfast/52dada61bdf13_/stream.m3u8
 
-#EXTINF:-1, FOX
+#EXTINF:-1, TELEFORMULA 81-3
+http://stalker.darkuzdev.cf:8080/streamer/81.m3u8
+#EXTINF:-1, TELEFOIRMULA 82-4
+http://stalker.darkuzdev.cf:8080/streamer/82.m3u8
+#EXTINF:-1, TELEFORMULA 83-1
+http://stalker.darkuzdev.cf:8080/streamer/83.m3u8
+#EXTINF:-1, TELEFOIRMULA 84-2
+http://stalker.darkuzdev.cf:8080/streamer/84.m3u8
+#EXTINF:-1, FOX 85-3
 http://stalker.darkuzdev.cf:8080/streamer/85.m3u8
-#EXTINF:-1, SONY
+#EXTINF:-1, FOX 86-4
+http://stalker.darkuzdev.cf:8080/streamer/86.m3u8
+#EXTINF:-1, FOX 87-1
+http://stalker.darkuzdev.cf:8080/streamer/87.m3u8
+#EXTINF:-1, FOX 88-2
+http://stalker.darkuzdev.cf:8080/streamer/88.m3u8
+#EXTINF:-1, SONY 89-3
 http://stalker.darkuzdev.cf:8080/streamer/89.m3u8
-#EXTINF:-1, WARNER HD
+#EXTINF:-1, SONY 90-4
+http://stalker.darkuzdev.cf:8080/streamer/90.m3u8
+#EXTINF:-1, SONY 91-1
+http://stalker.darkuzdev.cf:8080/streamer/91.m3u8
+#EXTINF:-1, SONY 92-2
+http://stalker.darkuzdev.cf:8080/streamer/92.m3u8
+#EXTINF:-1, WARNER 93-3
 http://stalker.darkuzdev.cf:8080/streamer/93.m3u8
-#EXTINF:-1, UNIVERSAL
+#EXTINF:-1, WARNER 94-4
+http://stalker.darkuzdev.cf:8080/streamer/94.m3u8
+#EXTINF:-1, WARNER 95-1
+http://stalker.darkuzdev.cf:8080/streamer/95.m3u8
+#EXTINF:-1, WARNER 96-2
+http://stalker.darkuzdev.cf:8080/streamer/96.m3u8
+
+#EXTINF:-1, UNIVERSAL CHANNEL 3
 http://stalker.darkuzdev.cf:8080/streamer/97.m3u8
 #EXTINF:-1, FX HD
 http://stalker.darkuzdev.cf:8080/streamer/101.m3u8
@@ -180,12 +234,12 @@ http://stalker.darkuzdev.cf:8080/streamer/161.m3u8
 http://stalker.darkuzdev.cf:8080/streamer/165.m3u8
 #EXTINF:-1, FOX LIFE
 http://stalker.darkuzdev.cf:8080/streamer/169.m3u8
-#EXTINF:-1, DISTRITO
+#EXTINF:-1, DISTRITO COMEDIA
 http://stalker.darkuzdev.cf:8080/streamer/173.m3u8
 #EXTINF:-1, TBS
 http://stalker.darkuzdev.cf:8080/streamer/177.m3u8
-#EXTINF:-1, CASA
-http://stalker.darkuzdev.cf:8080/streamer/181.m3u8
+#EXTINF:-1, MASCHIC
+http://stalker.darkuzdev.cf:8080/streamer/517.m3u8
 #EXTINF:-1, TVNOVELAS
 http://stalker.darkuzdev.cf:8080/streamer/185.m3u8
 #EXTINF:-1, DISCOVERY KIDS
