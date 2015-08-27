@@ -27,9 +27,13 @@ http://xrxs.net/video/live-p12oreg-1164.m3u8
 http://xrxs.net/video/live-p12wash-2328.m3u8
 #EXTINF:-1,RealMadrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?
-#EXTINF:-0,TODO DEPORTES
+#EXTINF:-0,Todo Deportes
 http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
-#EXTINF:-1,EURONEWS
+#EXTINF:-1,Win Sport
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
+#EXTINF:-1,TuPlay Eventos
+http://46.28.205.206/tuPlayTV_Sistema_IPTV_OTT_Numero1delMercadoHispano_info%5Barroba%5DtuPlay%5Bpunto%5Dnet_ParaMasInformacion%5BHD%5D/index.m3u8
+#EXTINF:-1,Euronews
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 #EXTINF:-1,RT Español
 http://rt-a.akamaihd.net/ch_02@325606/480p.m3u8
@@ -45,8 +49,6 @@ http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u8
 http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3u8
 #EXTINF:0,TaTeTi NIÑOS
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
-#EXTINF:-1,CANAL8
-http://iphone-streaming.ustream.tv/ustreamVideo/20971966/streams/live/playlist.m3u8
 #EXTINF:0,Anime
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:-1,Ultra Cine
@@ -63,6 +65,24 @@ http://200.76.77.230/LIVE/H01/CANALPUE65/PROFILE03.m3u8?
 http://200.76.77.230/LIVE/H01/CANALPUE66/PROFILE03.m3u8?
 #EXTINF:-1,Ultra Television
 http://odna.octoshape.net/n8u4c9c7/cds/smil:ultraaguascalientes/chunklist_b1500000.m3u8
+#EXTINF:-1,CANAL ANTIESTRES
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:-1,LIFEDESING
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF:-1,TELE AMIGA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
+#EXTINF:-1,CANAL U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:-1,TV AGRO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+#EXTINF:-1,Cable Noticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1,El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1,UNE TV Manizales
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
+#EXTINF:-1,TELE VIDA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
 #EXTINF:-1, TotalPlay
 http://200.76.77.230/LIVE/H01/CANAL1/PROFILE03.m3u8?
 #EXTINF:-1, Az Noticias
