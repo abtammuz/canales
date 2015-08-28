@@ -33,8 +33,6 @@ http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
 #EXTINF:-1,TuPlay Eventos
 http://46.28.205.206/tuPlayTV_Sistema_IPTV_OTT_Numero1delMercadoHispano_info%5Barroba%5DtuPlay%5Bpunto%5Dnet_ParaMasInformacion%5BHD%5D/index.m3u8
-#EXTINF:-1,Euronews
-http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 #EXTINF:-1,RT Español
 http://rt-a.akamaihd.net/ch_02@325606/480p.m3u8
 #EXTINF:-1,TELEMUNDO
@@ -57,8 +55,6 @@ http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchanne
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
 #EXTINF:-1,Peliculas
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,TVEO Miami
-http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,TV3
 http://200.76.77.230/LIVE/H01/CANALPUE65/PROFILE03.m3u8?
 #EXTINF:-1,PueblaTv
