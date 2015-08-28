@@ -83,26 +83,12 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
 http://200.76.77.230/LIVE/H01/CANAL1/PROFILE03.m3u8?
 #EXTINF:-1, Az Noticias
 http://200.76.77.230/LIVE/H01/CANAL2/PROFILE03.m3u8?
-#EXTINF:-1, Azteca 7
-http://200.76.77.230/LIVE/H01/CANAL7/PROFILE03.m3u8?
-#EXTINF:-1, Azteca 13
-http://200.76.77.230/LIVE/H01/CANAL13/PROFILE03.m3u8?
-#EXTINF:-1, Azteca Siete Jalisco
-http://200.76.77.230/LIVE/H01/CANAL17/PROFILE03.m3u8?
-#EXTINF:-1, Azteca 13
-http://200.76.77.230/LIVE/H01/CANAL23/PROFILE03.m3u8?
 #EXTINF:-1, Proyecto 40
 http://200.76.77.230/LIVE/H01/CANAL40/PROFILE03.m3u8?
 #EXTINF:-1, Az Corazon
 http://200.76.77.230/LIVE/H01/CANAL45/PROFILE03.m3u8?
-#EXTINF:-1, Canal de las Estrellas
-http://200.76.77.230/LIVE/H01/CANAL52/PROFILE03.m3u8?
 #EXTINF:-1, Canal 5
 http://200.76.77.230/LIVE/H01/CANAL55/PROFILE03.m3u8?
-#EXTINF:-1, Azteca Siete
-http://200.76.77.230/LIVE/H01/CANAL57/PROFILE03.m3u8?
-#EXTINF:-1, Azteca 13
-http://200.76.77.230/LIVE/H01/CANAL63/PROFILE03.m3u8?
 #EXTINF:-1, Canal de las Estrellas
 http://200.76.77.230/LIVE/H01/CANAL102/PROFILE03.m3u8?
 #EXTINF:-1, Azclic
@@ -111,7 +97,7 @@ http://200.76.77.230/LIVE/H01/CANAL103/PROFILE03.m3u8?
 http://200.76.77.230/LIVE/H01/CANAL104/PROFILE03.m3u8?
 #EXTINF:-1, Canal 5
 http://200.76.77.230/LIVE/H01/CANAL105/PROFILE03.m3u8?
-#EXTINF:-1, Azteca Siete
+#EXTINF:-1, Azteca 7
 http://200.76.77.230/LIVE/H01/CANAL107/PROFILE03.m3u8?
 #EXTINF:-1, Gala TV
 http://200.76.77.230/LIVE/H01/CANAL109/PROFILE03.m3u8?
@@ -345,22 +331,12 @@ http://200.76.77.230/LIVE/H01/CANAL2/PROFILE05.m3u8?
 http://200.76.77.230/LIVE/H01/CANAL7/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="Azteca Trece HD" , Azteca 13 HD
 http://200.76.77.230/LIVE/H01/CANAL13/PROFILE05.m3u8?
-#EXTINF:-1 tvg-name="Azteca Siete Jalisco HD" , Azteca Siete Jalisco HD
-http://200.76.77.230/LIVE/H01/CANAL17/PROFILE05.m3u8?
-#EXTINF:-1 tvg-name="Azteca Trece HD" , Azteca 13 HD
-http://200.76.77.230/LIVE/H01/CANAL23/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="Proyecto 40 HD" , Proyecto 40 HD
 http://200.76.77.230/LIVE/H01/CANAL40/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="Az Corazon HD" , Az Corazon HD
 http://200.76.77.230/LIVE/H01/CANAL45/PROFILE05.m3u8?
-#EXTINF:-1 tvg-name="Canal de las Estrellas HD" , Canal de las Estrellas HD
-http://200.76.77.230/LIVE/H01/CANAL52/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="Canal 5 HD" , Canal 5 HD
 http://200.76.77.230/LIVE/H01/CANAL55/PROFILE05.m3u8?
-#EXTINF:-1 tvg-name="Azteca Siete HD" , Azteca Siete HD
-http://200.76.77.230/LIVE/H01/CANAL57/PROFILE05.m3u8?
-#EXTINF:-1 tvg-name="Azteca Trece HD" , Azteca 13 HD
-http://200.76.77.230/LIVE/H01/CANAL63/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="Canal de las Estrellas HD" , Canal de las Estrellas HD
 http://200.76.77.230/LIVE/H01/CANAL102/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="Azclic" , Azclic HD
@@ -369,14 +345,10 @@ http://200.76.77.230/LIVE/H01/CANAL103/PROFILE05.m3u8?
 http://200.76.77.230/LIVE/H01/CANAL104/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="Canal 5 HD" , Canal 5 HD
 http://200.76.77.230/LIVE/H01/CANAL105/PROFILE05.m3u8?
-#EXTINF:-1 tvg-name="Azteca Siete HD" , Azteca Siete HD
-http://200.76.77.230/LIVE/H01/CANAL107/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="Gala TV HD" , Gala TV HD
 http://200.76.77.230/LIVE/H01/CANAL109/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="Canal Once HD" , Canal Once HD
 http://200.76.77.230/LIVE/H01/CANAL111/PROFILE05.m3u8?
-#EXTINF:-1 tvg-name="Azteca Trece HD" , Azteca 13 HD
-http://200.76.77.230/LIVE/H01/CANAL113/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="Proyecto 40 HD" , Proyecto 40 HD
 http://200.76.77.230/LIVE/H01/CANAL140/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="Cadena Tres" , Cadena 3 HD
@@ -785,11 +757,11 @@ http://edge2.everyon.tv:1935/etv2sb/pld992/paz.m3u8
 http://edge2.everyon.tv:1935/etv2sb/pld993/paz.m3u8
 #EXTINF:-1,LIVETHING
 http://edge2.everyon.tv:1935/etv2sb/pld64/paz.m3u8
-#EXTINF:-1, Korea:韩国phd769
+#EXTINF:-1, Korea:韩国
 http://edge2.everyon.tv:1935/etv2sb/pld769/paz.m3u8
-#EXTINF:-1, Korea:韩国phd968
+#EXTINF:-1, Korea:韩国
 http://edge2.everyon.tv:1935/etv2sb/pld968/paz.m3u8
-#EXTINF:-1, Korea:韩国phd991
+#EXTINF:-1, Korea:韩国
 http://edge2.everyon.tv:1935/etv2sb/pld991/paz.m3u8
 #EXTINF:-1,Adult
 http://wowza1.videos.movile.com:1935/live/adulto_1.smil/livestream.m3u8
