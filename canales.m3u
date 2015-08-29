@@ -699,8 +699,16 @@ http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet
 
 #EXTINF:-1 group-title="ADULTOS" parent-code="1997",Miami TV
 http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w128908539.m3u8
+#EXTINF:-1,Hustler
+http://62.210.88.244:8081/hustlertv/hustlertv/live.m3u8
+#EXTINF:-1,Sexyhot
+http://62.210.88.244:8081/sexhothd/sexhothd/chunklist_w1565017858.m3u8
 #EXTINF:-1,SEXZONE HD
 http://62.210.83.180:8081/sexzonehd/sexzonehd/chunklist_w1684109871.m3u8
+#EXTINF:-1,Brasileirinhas 1
+http://62.210.88.244:8081/brasileirinhas/brasileirinhas/live.m3u8
+#EXTINF:-1,Brasileirinhas 2
+http://62.210.88.244:8081/brasileirinhas2/brasileirinhas2/live.m3u8
 #EXTINF:-1,PASSIE
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
 #EXTINF:-1,ARACITY
@@ -708,7 +716,7 @@ http://210.200.79.26:1935/live/aracity_m_new/playlist.m3u8
 #EXTINF:-1,PlayBoy TvChat
 http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w95313209.m3u8
 #EXTINF:-1,PLAYBOY
-http://62.210.82.241:8081/pboytv/pboytv/chunklist_w2025160262.m3u8
+http://62.210.88.244:8081/pboytv/pboytv/chunklist_w2025160262.m3u8
 #EXTINF:-1,PLAYBOY TV
 http://s2.edem.tv/iptv/M3MKGZW6NMMUGQ/527/index.m3u8
 #EXTINF:-1,SATISFACTION
