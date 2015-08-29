@@ -5,66 +5,70 @@ http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchanne
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
 #EXTINF:-1,FOX
 http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,FOX 1128000
-http://201.161.59.6/fox.isml/QualityLevels(1128000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,FOX 1628000
-http://201.161.59.6/fox.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,FOX 2378000
-http://201.161.59.6/fox.isml/QualityLevels(2378000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,FOX 3503000 
-http://201.161.59.6/fox.isml/QualityLevels(3503000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,FOX 128000
 http://201.161.59.6/fox.isml/QualityLevels(128000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,FOX 1817984
-http://201.161.59.3/fox.isml/QualityLevels(1817984)/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:-1,MundoFox
-http://201.161.59.3/natgeowild.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,MundoFox 1128000
-http://201.161.59.3/natgeowild.isml/QualityLevels(1128000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,MundoFox 1628000
-http://201.161.59.3/natgeowild.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,MundoFox 2378000
-http://201.161.59.3/natgeowild.isml/QualityLevels(2378000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,MundoFox 3503000
-http://201.161.59.3/natgeowild.isml/QualityLevels(3503000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,MundoFox 128000
-http://201.161.59.3/natgeowild.isml/QualityLevels(128000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,MundoFox 1817984
-http://201.161.59.3/natgeowild.isml/QualityLevels(1817984)/manifest(format=m3u8-aapl).m3u8
-
+#EXTINF:-1,FOX 628000
+http://201.161.59.6/fox.isml/QualityLevels(628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,FOX 878000
+http://201.161.59.6/fox.isml/QualityLevels(878000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,FOX 1253000
+http://201.161.59.6/fox.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,FOX 1828000
+http://201.161.59.6/fox.isml/QualityLevels(1828000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,FX
 http://201.161.59.6/fx.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,FX 1128000
-http://201.161.59.6/fx.isml/QualityLevels(1128000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,FX 1628000
-http://201.161.59.6/fx.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,FX 2378000
-http://201.161.59.6/fx.isml/QualityLevels(2378000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,FX 3503000
-http://201.161.59.6/fx.isml/QualityLevels(3503000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,FX 128000
 http://201.161.59.6/fx.isml/QualityLevels(128000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,FX 1817984
-http://201.161.59.6/fx.isml/QualityLevels(1817984)/manifest(format=m3u8-aapl).m3u8
-
+#EXTINF:-1,FX 1128000
+http://201.161.59.6/fx.isml/QualityLevels(1128000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,FX 1328000
+http://201.161.59.6/fx.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,FX 1628000
+http://201.161.59.6/fx.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,FX 1928000
+http://201.161.59.6/fx.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,PARAMOUNT
+http://201.161.59.7/paramount.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,PARAMOUNT 128000
+http://201.161.59.7/paramount.isml/QualityLevels(128000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,PARAMOUNT 1128000
+http://201.161.59.7/paramount.isml/QualityLevels(1128000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,PARAMOUNT 1344000
+http://201.161.59.7/paramount.isml/QualityLevels(1344000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,PARAMOUNT 1628000
+http://201.161.59.7/paramount.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,PARAMOUNT 1928000
+http://201.161.59.7/paramount.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,GOLDEN PREMIER
+http://201.161.59.7/goldenpremiere.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,GOLDEN PREMIER 128000
+http://201.161.59.7/goldenpremiere.isml/QualityLevels(128000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,GOLDEN PREMIER 1128000
+http://201.161.59.7/goldenpremiere.isml/QualityLevels(1128000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,GOLDEN PREMIER 1328000
+http://201.161.59.7/goldenpremiere.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,SONY
 http://201.161.59.6/sony.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,SONY 1128000
 http://201.161.59.6/sony.isml/QualityLevels(1128000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,SONY 1128000
-http://201.161.59.6/sony.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,SONY 1328000
+http://201.161.59.6/sony.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,SONY 1628000
-http://201.161.59.6/sony.isml/QualityLevels(2378000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,SONY 3503000
-http://201.161.59.6/sony.isml/QualityLevels(3503000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,SONY 128000
-http://201.161.59.6/sony.isml/QualityLevels(128000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,SONY 1817984
-http://201.161.59.6/sony.isml/QualityLevels(1817984)/manifest(format=m3u8-aapl).m3u8
-
+http://201.161.59.6/sony.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,SONY 1928000
+http://201.161.59.6/sony.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,A&E
 http://201.161.59.6/aye.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,A&E 128000
+http://201.161.59.6/aye.isml/QualityLevels(128000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,A&E 1128000
+http://201.161.59.6/aye.isml/QualityLevels(1128000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,A&E 1328000
+http://201.161.59.6/aye.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,A&E 1628000
+http://201.161.59.6/aye.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,A&E 1928000
+http://201.161.59.6/aye.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,FOX SPORTS
 http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,Fox Sports 2
