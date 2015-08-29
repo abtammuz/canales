@@ -71,8 +71,24 @@ http://201.161.59.6/aye.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m
 http://201.161.59.6/aye.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,FOX SPORTS
 http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,FOX SPORTS 128000
+http://201.161.59.6/foxsports.ism/lQualityLevels(128000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,FOX SPORTS 828000
+http://201.161.59.6/foxsports.ism/lQualityLevels(828000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,FOX SPORTS 1178000
+http://201.161.59.6/foxsports.ism/lQualityLevels(1178000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,FOX SPORTS 1703000
+http://201.161.59.6/foxsports.ism/lQualityLevels(1703000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,Fox Sports 2
 http://201.161.59.4/foxsportsplus.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Fox Sports2 128000
+http://201.161.59.4/foxsportsplus.isml/QualityLevels(128000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Fox Sports2 828000
+http://201.161.59.4/foxsportsplus.isml/QualityLevels(828000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Fox Sports2 1178000
+http://201.161.59.4/foxsportsplus.isml/QualityLevels(1178000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Fox Sports2 1703000
+http://201.161.59.4/foxsportsplus.isml/QualityLevels(1703000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,ESPN
 http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,ESPN2
