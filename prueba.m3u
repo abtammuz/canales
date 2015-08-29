@@ -91,16 +91,77 @@ http://201.161.59.4/foxsportsplus.isml/QualityLevels(1178000)/manifest(format=m3
 http://201.161.59.4/foxsportsplus.isml/QualityLevels(1703000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,ESPN
 http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,ESPN 128000
+http://201.161.59.3/espn.isml/QualityLevels(128000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,ESPN 1128000
+http://201.161.59.3/espn.isml/QualityLevels(1128000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,ESPN 1328000
+http://201.161.59.3/espn.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,ESPN 1628000
+http://201.161.59.3/espn.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,ESPN 1928000
+http://201.161.59.3/espn.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,ESPN2
 http://201.161.59.4/espn2.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,ESPN2 128000
+http://201.161.59.3/espn2.isml/QualityLevels(128000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,ESPN2 1128000
+http://201.161.59.3/espn2.isml/QualityLevels(1128000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,ESPN2 1328000
+http://201.161.59.3/espn2.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,ESPN2 1628000
+http://201.161.59.3/espn2.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,ESPN2 1928000
+http://201.161.59.3/esp2n.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
+
 #EXTINF:-1,ESPN3
 http://201.161.59.4/espn3.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,ESPN3 128000
+http://201.161.59.3/espn3.isml/QualityLevels(128000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,ESPN3 1128000
+http://201.161.59.3/espn3.isml/QualityLevels(1128000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,ESPN3 1328000
+http://201.161.59.3/espn3.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,ESPN3 1628000
+http://201.161.59.3/espn3.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,ESPN3 1928000
+http://201.161.59.3/espn3.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,WARNER
 http://201.161.59.6/warner.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,WARNER 128000
+http://201.161.59.3/warner.isml/QualityLevels(128000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,WARNER 1128000
+http://201.161.59.3/warner.isml/QualityLevels(1128000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,WARNER 1328000
+http://201.161.59.3/warner.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,WARNER 1628000
+http://201.161.59.3/warner.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,WARNER 1928000
+http://201.161.59.3/warner.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
+
 #EXTINF:-1,CANAL DE LAS ESTRELLAS
 http://201.161.59.3/canal2.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,CANAL DE LAS ESTRELLAS 128000 
+http://201.161.59.3/canal2.isml/QualityLevels(128000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,CANAL DE LAS ESTRELLAS 627968 
+http://201.161.59.3/canal2.isml/QualityLevels(627968)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,CANAL DE LAS ESTRELLAS 877952 
+http://201.161.59.3/canal2.isml/QualityLevels(877952)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,CANAL DE LAS ESTRELLAS 1248000 
+http://201.161.59.3/canal2.isml/QualityLevels(1248000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,CANAL DE LAS ESTRELLAS 1817984 
+http://201.161.59.3/canal2.isml/QualityLevels(1817984)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,Foro tv
 http://201.161.59.3/forotv.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Foro tv 128000
+http://201.161.59.3/forotv.isml/QualityLevels(128000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Foro tv 728000
+http://201.161.59.3/forotv.isml/QualityLevels(728000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Foro tv 1027968
+http://201.161.59.3/forotv.isml/QualityLevels(1027968)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Foro tv 1477952
+http://201.161.59.3/forotv.isml/QualityLevels(1477952)/manifest(format=m3u8-aapl).m3u8
+
 #EXTINF:-1,CANAL 5
 http://201.161.59.3/canal5.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,Azteca 7
