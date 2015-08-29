@@ -571,62 +571,52 @@ http://us.djing.com/tv/noaudiodancefloor_MX.m3u8
 http://us.djing.com/tv/noaudiounderground_MX.m3u8
 #EXTINF:-1,DJING classics
 http://us.djing.com/tv/noaudioclassics_MX.m3u8
-#EXTINF:-1,VEVO 1 360P
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/03/prog_index.m3u8
 #EXTINF:-1,VEVO 1 480P
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
 #EXTINF:-1,VEVO 1 720P
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 #EXTINF:-1,VEVO 1 1080P
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1,VEVO 2 360P
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/03/prog_index.m3u8
 #EXTINF:-1,VEVO 2 480P
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
 #EXTINF:-1,VEVO 2 720P
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 #EXTINF:-1,VEVO 2 1080P
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1,VEVO 3 360P
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/03/prog_index.m3u8
 #EXTINF:-1,VEVO 3 480P
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
 #EXTINF:-1,VEVO 3 720P
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 #EXTINF:-1,VEVO 3 1080P
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1,Eska RockTv 360P
-http://stream.smcloud.net/live2/eska_rock/eska_rock_360p/playlist.m3u8
 #EXTINF:-1,Eska RockTv 480P
 http://stream.smcloud.net/live2/eska_rock/eska_rock_480p/playlist.m3u8
 #EXTINF:-1,Eska RockTv 720P
 http://stream.smcloud.net/live2/eska_rock/eska_rock_720p/playlist.m3u8
-#EXTINF:-1,Music VOXTV 360P
-http://stream.smcloud.net:1935/live2/vox/vox_360p/playlist.m3u8
 #EXTINF:-1,Music VOXTV 480P
 http://stream.smcloud.net:1935/live2/vox/vox_480p/playlist.m3u8
 #EXTINF:-1,Music VOXTV 720P
 http://stream.smcloud.net:1935/live2/vox/vox_720p/playlist.m3u8
 #EXTINF:-1,Music VOXTV 2
 http://stream.smcloud.net/live/vox2/stream1/playlist.m3u8
-#EXTINF:-1,Polopartytv 360P
-http://stream.smcloud.net/live2/polo_party/polo_party_360p/playlist.m3u8
+#EXTINF:-1,Polopartytv 480P
+http://stream.smcloud.net/live2/polo_party/polo_party_480p/playlist.m3u8
 #EXTINF:-1,Polopartytv 720P
 http://stream.smcloud.net/live2/polo_party/polo_party_720p/playlist.m3u8
-#EXTINF:-1,ESKAParty 360P
-http://stream.smcloud.net/live2/eska_party/eska_party_360p/playlist.m3u8
+#EXTINF:-1,ESKAParty 480P
+http://stream.smcloud.net/live2/eska_party/eska_party_480p/playlist.m3u8
 #EXTINF:-1,ESKAParty 720P
 http://stream.smcloud.net/live2/eska_party/eska_party_720p/playlist.m3u8
-#EXTINF:-1,ESKAGo best 360P
-http://stream.smcloud.net/live2/best/best_360p/playlist.m3u8
+#EXTINF:-1,ESKAGo best 480P
+http://stream.smcloud.net/live2/best/best_480p/playlist.m3u8
 #EXTINF:-1,ESKAGo best 720P
 http://stream.smcloud.net/live2/best/best_720p/playlist.m3u8
 #EXTINF:-1,ESKATV
 http://stream.smcloud.net/live/eskatv/playlist.m3u8
-#EXTINF:-1,VirginRadioTV 480P  
-http://wow01.105.net/live/virgin1/.m3u8
 #EXTINF:-1,VirginRadioTV 360P
 http://fms.105.net:1935/live/virgin2/playlist.m3u8
+#EXTINF:-1,VirginRadioTV 480P  
+http://wow01.105.net/live/virgin1/.m3u8
 #EXTINF:-1,SoyFM
 http://cdn6.iviplanet.com:1935/SoyFM/myStream.sdp/playlist.m3u8
 #EXTINF:-1,VenFM
