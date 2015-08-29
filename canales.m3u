@@ -643,8 +643,6 @@ http://194.79.52.77/goldi/goldHQ2/index.m3u8
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
 #EXTINF:-1,FIRTS HD
 http://109.239.142.62:1935/live/livestream3/playlist.m3u8
-#EXTINF:-1,ULTRA FIESTA
-http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
 #EXTINF:-1,DANCING
 http://live.mvdigital.net:1935/live13/livestream1.sdp/playlist.m3u8
 #EXTINF:-1, CAPITAL TV
@@ -699,6 +697,10 @@ http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet
 
 #EXTINF:-1 group-title="ADULTOS" parent-code="1997",Miami TV
 http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w128908539.m3u8
+#EXTINF:-1,BELLA CLUB
+http://stream01.yamgo.com/iPhone/broadcast/bella_club_luz-tablet.3gp/bella_club_luz-tablet.3gp-mr647k.m3u8
+#EXTINF:-1,SEXY SAT
+http://81.89.48.215:1935/sexysat/sexysat.stream_360p/playlist.m3u8
 #EXTINF:-1,Hustler
 http://62.210.88.244:8081/hustlertv/hustlertv/live.m3u8
 #EXTINF:-1,Sexyhot
@@ -719,6 +721,18 @@ http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channe
 http://62.210.88.244:8081/pboytv/pboytv/chunklist_w2025160262.m3u8
 #EXTINF:-1,PLAYBOY TV
 http://s2.edem.tv/iptv/M3MKGZW6NMMUGQ/527/index.m3u8
+#EXTINF:-1,Adult
+http://wowza1.videos.movile.com:1935/live/adulto_1.smil/livestream.m3u8
+#EXTINF:-1,adultPremium
+http://wowza1.videos.movile.com:1935/live/adultopremium_1.smil/livestream.m3u8
+#EXTINF:-1,Jazmintv
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+#EXTINF:-1,Jazmintv opc2
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:-1,Private
+http://62.210.88.244:8081/private/private/playlist.m3u8
+#EXTINF:-1,Sex +18
+mmsh://tv.webmisto.cz:7000
 #EXTINF:-1,SATISFACTION
 http://edge2.everyon.tv:1935/etv2sb/pld499/paz.m3u8
 #EXTINF:-1,PENTHOUSE
@@ -759,18 +773,6 @@ http://edge2.everyon.tv:1935/etv2sb/pld769/paz.m3u8
 http://edge2.everyon.tv:1935/etv2sb/pld968/paz.m3u8
 #EXTINF:-1, Korea 3
 http://edge2.everyon.tv:1935/etv2sb/pld991/paz.m3u8
-#EXTINF:-1,Adult
-http://wowza1.videos.movile.com:1935/live/adulto_1.smil/livestream.m3u8
-#EXTINF:-1,adultPremium
-http://wowza1.videos.movile.com:1935/live/adultopremium_1.smil/livestream.m3u8
-#EXTINF:-1,Jazmintv
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-#EXTINF:-1,Jazmintv opc2
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1,Private
-http://62.210.88.244:8081/private/private/playlist.m3u8
-#EXTINF:-1,Sex +18
-mmsh://tv.webmisto.cz:7000
 #EXTINF:-1,Babestation
 http://46.105.116.159:1935/cellcast/encoder22/.m3u8
 #EXTINF:-1,Babestation Xtra
@@ -785,8 +787,3 @@ http://178.33.126.213:1935/cellcast/encoder32/.m3u8
 http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
 #EXTINF:-1,Babestation Unleashed2
 http://178.33.126.213:1935/iptv_cellcast_24/livestream_two2/.m3u8
-#EXTINF:-1,BELLA CLUB
-http://stream01.yamgo.com/iPhone/broadcast/bella_club_luz-tablet.3gp/bella_club_luz-tablet.3gp-mr647k.m3u8
-#EXTINF:-1,SEXY SAT
-http://81.89.48.215:1935/sexysat/sexysat.stream_360p/playlist.m3u8
-
