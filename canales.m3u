@@ -49,10 +49,6 @@ http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
 #EXTINF:0,Anime
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
-#EXTINF:-1,Ultra Cine
-http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
-#EXTINF:-1,Ultra Cine opc2
-http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
 #EXTINF:-1,Peliculas
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,TV3
