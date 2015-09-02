@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1,Roxio Channel
 http://iphone-streaming.ustream.tv/uhls/15883775/streams/live/iphone/playlist.m3u8
-#EXTINF:-1, CANAL13 NICARAGUA
+#EXTINF:-1, Viva Nicaragua
 http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,PAKA PAKA
+#EXTINF:-1,Paka Paka
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 #EXTINF:-1,Canal F1
 http://200.76.77.230/LIVE/H01/CANAL511/PROFILE03.m3u8?
