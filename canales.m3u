@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Dmc Music
+http://iphone-streaming.ustream.tv/uhls/18940457/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Roxio Channel
 http://iphone-streaming.ustream.tv/uhls/15883775/streams/live/iphone/playlist.m3u8
 #EXTINF:-1, Viva Nicaragua
