@@ -5,25 +5,25 @@ http://200.76.77.230/LIVE/H01/CANAL511/PROFILE03.m3u8?
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
 #EXTINF:-1,Eurosport ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:0,PAC-12Net.(Arizona)
+#EXTINF:0,PAC-12Net.(Arizona) HD
 http://xrxs.net/video/live-p12ariz-4728.m3u8?
-#EXTINF:0,PAC-12Net.(Bay Area)
+#EXTINF:0,PAC-12Net.(Bay Area) HD
 http://xrxs.net/video/live-p12baya-4728.m3u8?
-#EXTINF:0,PAC-12Net.(Los Angeles)
+#EXTINF:0,PAC-12Net.(Los Angeles) HD
 http://xrxs.net/video/live-p12losa-4728.m3u8?
-#EXTINF:0,PAC-12Net.(Moutain)
+#EXTINF:0,PAC-12Net.(Moutain) HD
 http://xrxs.net/video/live-p12moun-4728.m3u8?
-#EXTINF:0,PAC-12Net.(Oregon)
+#EXTINF:0,PAC-12Net.(Oregon) HD
 http://xrxs.net/video/live-p12oreg-4728.m3u8?
-#EXTINF:0,PAC-12Net.(Washington)
+#EXTINF:0,PAC-12Net.(Washington) HD
 http://xrxs.net/video/live-p12wash-4728.m3u8?
-#EXTINF:-1,USA-BASKET UNI.(Arizona)
+#EXTINF:-1,USA-BASKET UNI.(Arizona) HD
 http://xrxs.net/video/live-p12ariz-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
+#EXTINF:-1,USA-BASKET UNI.(Los Angeles) HD
 http://xrxs.net/video/live-p12losa-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Moutain)
+#EXTINF:-1,USA-BASKET UNI.(Moutain) HD
 http://xrxs.net/video/live-p12moun-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Oregon)
+#EXTINF:-1,USA-BASKET UNI.(Oregon) HD
 http://xrxs.net/video/live-p12oreg-1164.m3u8
 #EXTINF:-1,RealMadrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?
@@ -33,13 +33,19 @@ http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
 #EXTINF:-1,RT Español
 http://rt-a.akamaihd.net/ch_02@325606/480p.m3u8
-#EXTINF:-1,TELEMUNDO
+#EXTINF:-1,Telemundo
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Telemundo opc2
+http://209.133.208.202:1935/app/telemundox1chivas_69s-channel/chunklist.m3u8
 #EXTINF:-1,MEGA TV
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
+#EXTINF:-1,DEUTSCHE WELLE
+http://dwschiene3-i.akamaihd.net/hls/live/221760/dwschiene3/x6x/playlist6x.m3u8?
+#EXTINF:-1,TVN HD
+http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1,MEGA HD
 http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
-#EXTINF:-1,Peliculas
+#EXTINF:-1,Peliculas Latino
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Ultra Cine
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
@@ -47,16 +53,20 @@ http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchanne
 http://201.161.59.7/multicinema.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:4.004,La Red 
 http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u8
+#EXTINF:-1,ANTENA 3
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/index.m3u8
+#EXTINF:-1,ANTENA 3 HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,LA SEXTA HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
 #EXTINF:0,TaTeTi NIÑOS
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:-1,PAKA PAKA
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 #EXTINF:0,Anime
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:-1,South Park
 http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,TV3
-http://200.76.77.230/LIVE/H01/CANALPUE65/PROFILE03.m3u8?
-#EXTINF:-1,PueblaTv
-http://200.76.77.230/LIVE/H01/CANALPUE66/PROFILE03.m3u8?
 #EXTINF:-1,Ultra Television
 http://odna.octoshape.net/n8u4c9c7/cds/smil:ultraaguascalientes/chunklist_b1500000.m3u8
 #EXTINF:-1,CanalAntiestres
@@ -65,6 +75,8 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
 #EXTINF:-1,TeleAmiga
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
+#EXTINF:-1,TeleAntillas
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 #EXTINF:-1,Canal U
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
 #EXTINF:-1,TV Agro
@@ -77,6 +89,10 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
 #EXTINF:-1,Televida
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+#EXTINF:-1,TV3
+http://200.76.77.230/LIVE/H01/CANALPUE65/PROFILE03.m3u8?
+#EXTINF:-1,PueblaTv
+http://200.76.77.230/LIVE/H01/CANALPUE66/PROFILE03.m3u8?
 #EXTINF:-1, TotalPlay
 http://200.76.77.230/LIVE/H01/CANAL1/PROFILE03.m3u8?
 #EXTINF:-1, Az Noticias
@@ -561,6 +577,8 @@ http://200.76.77.230/LIVE/H01/CANAL728/PROFILE05.m3u8?
 http://200.76.77.230/LIVE/H01/CANAL731/PROFILE05.m3u8?
 #EXTINF:-1 tvg-name="Bandamax" , Bandamax HD
 http://200.76.77.230/LIVE/H01/CANAL732/PROFILE05.m3u8?
+#EXTINF:-1,Ultra Fiesta
+http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
 #EXTINF:-1,DJING
 http://us.djing.com/tv/noaudio_MX.m3u8
 #EXTINF:-1,DJING animation
