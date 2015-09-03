@@ -1,41 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="latinoamerica", Nicaragua 4 
-http://xtv.16mb.com/xtv/public/live_stalker/2015.m3u8?user=julio.aguilar.krisher&password=N22U
-#EXTINF:-1 group-title="latinoamerica", Mexico 2 
-http://xtv.16mb.com/xtv/public/live_stalker/4547.m3u8?user=julio.aguilar.krisher&password=N22U
-#EXTINF:-1 group-title="latinoamerica", Dominican Republic 2 
-http://xtv.16mb.com/xtv/public/live_stalker/1615.m3u8?user=julio.aguilar.krisher&password=N22U
-#EXTINF:-1 group-title="latinoamerica", Dominican Republic 
-4 http://xtv.16mb.com/xtv/public/live_stalker/2935.m3u8?user=julio.aguilar.krisher&password=N22U
-#EXTINF:-1 group-title="latinoamerica", Dominican Republic 5 
-http://xtv.16mb.com/xtv/public/live_stalker/1627.m3u8?user=julio.aguilar.krisher&password=N22U
-#EXTINF:-1 group-title="latinoamerica", Dominican Republic 6 
-http://xtv.16mb.com/xtv/public/live_stalker/1629.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1 group-title="latinoamerica", Az Mundo 
-http://xtv.16mb.com/xtv/public/live_stalker/1999.m3u8?user=julio.aguilar.krisher&password=N22U
-#EXTINF:-1 group-title="latinoamerica", Canal De Las Estrellas 
-http://xtv.16mb.com/xtv/public/live_stalker/4552.m3u8?user=julio.aguilar.krisher&password=N22U
-#EXTINF:-1 group-title="latinoamerica", Univision 
-http://xtv.16mb.com/xtv/public/live_stalker/3800.m3u8?user=julio.aguilar.krisher&password=N22U
-#EXTINF:-1 group-title="latinoamerica", UniMas 
-http://xtv.16mb.com/xtv/public/live_stalker/3602.m3u8?user=julio.aguilar.krisher&password=N22U
-#EXTINF:-1 group-title="latinoamerica", NBC Universo 
-http://xtv.16mb.com/xtv/public/live_stalker/4825.m3u8?user=julio.aguilar.krisher&password=N22U
-#EXTINF:-1 group-title="latinoamerica", Caracol Internacional 
-http://xtv.16mb.com/xtv/public/live_stalker/2051.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1 group-title="latinoamerica", Teletica 
-http://xtv.16mb.com/xtv/public/live_stalker/4817.m3u8?user=julio.aguilar.krisher&password=N22U 
-#EXTINF:-1 group-title="latinoamerica", TeleCentro 
-http://xtv.16mb.com/xtv/public/live_stalker/2017.m3u8?user=julio.aguilar.krisher&password=N22U
-#EXTINF:-1 group-title="latinoamerica", Gala TV 
-http://xtv.16mb.com/xtv/public/live_stalker/4555.m3u8?user=julio.aguilar.krisher&password=N22U
-#EXTINF:-1 group-title="latinoamerica", Pasiones 
-http://xtv.16mb.com/xtv/public/live_stalker/295.m3u8?user=julio.aguilar.krisher&password=N22U
-#EXTINF:-1 group-title="latinoamerica", Telemundo 
-http://xtv.16mb.com/xtv/public/live_stalker/4417.m3u8?user=julio.aguilar.krisher&password=N22U
-#EXTINF:-1 group-title="latinoamerica", Telemundo Internacional 
-http://xtv.16mb.com/xtv/public/live_stalker/419.m3u8?user=julio.aguilar.krisher&password=N22U 
-
 #EXTINF:-1,Ultra Cine
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
 #EXTINF:-1,Ultra Cine opc2
